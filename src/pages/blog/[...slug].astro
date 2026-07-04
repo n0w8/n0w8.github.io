@@ -1,0 +1,22 @@
+---
+import { getCollection } from 'astro:content';
+import ArticleLayout from '../../layouts/ArticleLayout.astro';
+import { stripLangFromSlug } from '../../i18n/utils';
+
+export async function getStaticPaths() {
+  const all = await getCollection('blog', ({ data }) => !data.draft);
+  const de = all.filter((e) => e.slug.startsWith('de/'));
+  const en = all.filter((e) => e.slug.startsWith('en/'));
+  return de.map((entry) => {
+    const counterpart = en.find((e) => e.data.translationKey === entry.data.translationKey);
+    const altUrl = counterpart ? `/en/blog/${stripLangFromSlug(counterpart.slug)}` : '/en/';
+    return { params: { slug: stripLangFromSlug(entry.slug) }, props: { entry, altUrl } };
+  });
+}
+
+const { entry, altUrl } = Astro.props;
+const { Content } = await entry.render();
+---
+<ArticleLayout entry={entry} lang="de" altUrl={altUrl}>
+  <Content />
+</ArticleLayout>

@@ -1,0 +1,230 @@
+---
+/*
+  Atmosphere.astro — NORDWEG
+  Selbstständige, requisitenlose Hintergrund-Ebene.
+  Rendert auf jeder Seite HINTER dem Inhalt (fixed, pointer-events:none, z-index:-1):
+    (1) 2–3 langsam driftende Nebelschichten
+    (2) ~14 zart aufsteigende Glutpartikel (Bronze / Blutrot)
+    (3) ein Aurora-Band nahe dem oberen Rand (sehr niedrige Deckkraft)
+    (4) eine Vignetten-Overlay
+  Alle Bewegung deaktiviert unter prefers-reduced-motion.
+  GPU-günstig: nur transform / opacity. Kein horizontales Scrollen auf Mobile.
+
+  Enthält zusätzlich den globalen IntersectionObserver für den .reveal-Vertrag:
+    - Elemente mit class="reveal" erhalten .is-visible beim Eintritt.
+    - Fallback: kein IntersectionObserver -> alle sofort sichtbar.
+    - Fallback: prefers-reduced-motion -> alle sofort sichtbar.
+*/
+
+// ~14 Glutpartikel mit deterministisch "zufälligen" Positionen/Zeiten.
+const embers = [
+  { left: 6,  size: 2.5, dur: 15, delay: 0,   drift: 14,  hue: 'bronze' },
+  { left: 14, size: 1.8, dur: 19, delay: 4,   drift: -10, hue: 'bronze' },
+  { left: 22, size: 3.0, dur: 13, delay: 7,   drift: 18,  hue: 'blood'  },
+  { left: 30, size: 2.0, dur: 21, delay: 2,   drift: -8,  hue: 'bronze' },
+  { left: 38, size: 2.6, dur: 17, delay: 9,   drift: 12,  hue: 'bronze' },
+  { left: 46, size: 1.6, dur: 23, delay: 5,   drift: -14, hue: 'blood'  },
+  { left: 53, size: 2.8, dur: 14, delay: 11,  drift: 9,   hue: 'bronze' },
+  { left: 61, size: 2.1, dur: 20, delay: 1,   drift: -12, hue: 'bronze' },
+  { left: 68, size: 3.2, dur: 16, delay: 8,   drift: 16,  hue: 'blood'  },
+  { left: 75, size: 1.9, dur: 22, delay: 3,   drift: -6,  hue: 'bronze' },
+  { left: 82, size: 2.4, dur: 18, delay: 10,  drift: 11,  hue: 'bronze' },
+  { left: 88, size: 1.7, dur: 24, delay: 6,   drift: -16, hue: 'bronze' },
+  { left: 93, size: 2.7, dur: 15, delay: 13,  drift: 8,   hue: 'blood'  },
+  { left: 97, size: 2.0, dur: 20, delay: 12,  drift: -9,  hue: 'bronze' },
+];
+---
+
+<div class="atmosphere" aria-hidden="true">
+  <!-- (3) Aurora-Band nahe oben -->
+  <div class="atmosphere__aurora"></div>
+
+  <!-- (1) driftende Nebelschichten -->
+  <div class="atmosphere__fog atmosphere__fog--1"></div>
+  <div class="atmosphere__fog atmosphere__fog--2"></div>
+  <div class="atmosphere__fog atmosphere__fog--3"></div>
+
+  <!-- (2) aufsteigende Glutpartikel -->
+  <div class="atmosphere__embers">
+    {embers.map((e) => (
+      <span
+        class={`ember ember--${e.hue}`}
+        style={`left:${e.left}%;width:${e.size}px;height:${e.size}px;` +
+               `--dur:${e.dur}s;--delay:${e.delay}s;--drift:${e.drift}px;`}
+      ></span>
+    ))}
+  </div>
+
+  <!-- (4) Vignetten-Overlay -->
+  <div class="atmosphere__vignette"></div>
+</div>
+
+<style>
+  .atmosphere {
+    position: fixed;
+    inset: 0;
+    z-index: -1;
+    pointer-events: none;
+    overflow: hidden;
+    /* verhindert horizontales Scrollen durch driftende Ebenen */
+    contain: strict;
+  }
+
+  /* ---- (3) Aurora-Band ---- */
+  .atmosphere__aurora {
+    position: absolute;
+    top: -12%;
+    left: -10%;
+    width: 120%;
+    height: 46%;
+    background:
+      radial-gradient(ellipse 60% 100% at 30% 0%, color-mix(in srgb, var(--color-aurora) 100%, transparent) 0%, transparent 62%),
+      radial-gradient(ellipse 55% 100% at 72% 6%, color-mix(in srgb, var(--color-aurora) 100%, transparent) 0%, transparent 60%);
+    opacity: 0.08;
+    filter: blur(26px);
+    will-change: transform, opacity;
+    animation: aurora-drift 34s ease-in-out infinite alternate;
+  }
+
+  /* ---- (1) Nebelschichten ---- */
+  .atmosphere__fog {
+    position: absolute;
+    top: -25%;
+    left: -25%;
+    width: 150%;
+    height: 150%;
+    will-change: transform, opacity;
+    background-repeat: no-repeat;
+  }
+  .atmosphere__fog--1 {
+    background:
+      radial-gradient(ellipse 45% 32% at 22% 68%, rgba(201, 162, 90, 0.05), transparent 60%),
+      radial-gradient(ellipse 50% 30% at 78% 78%, rgba(20, 17, 13, 0.55), transparent 62%);
+    opacity: 0.7;
+    animation: fog-a 52s ease-in-out infinite alternate;
+  }
+  .atmosphere__fog--2 {
+    background:
+      radial-gradient(ellipse 55% 30% at 62% 40%, rgba(58, 47, 34, 0.30), transparent 60%),
+      radial-gradient(ellipse 40% 26% at 30% 30%, rgba(10, 9, 8, 0.45), transparent 62%);
+    opacity: 0.55;
+    animation: fog-b 68s ease-in-out infinite alternate;
+  }
+  .atmosphere__fog--3 {
+    background:
+      radial-gradient(ellipse 60% 34% at 48% 88%, rgba(160, 44, 28, 0.05), transparent 58%),
+      radial-gradient(ellipse 46% 28% at 12% 52%, rgba(20, 17, 13, 0.40), transparent 60%);
+    opacity: 0.5;
+    animation: fog-c 84s ease-in-out infinite alternate;
+  }
+
+  /* ---- (2) Glutpartikel ---- */
+  .atmosphere__embers {
+    position: absolute;
+    inset: 0;
+  }
+  .ember {
+    position: absolute;
+    bottom: -3%;
+    border-radius: 50%;
+    opacity: 0;
+    will-change: transform, opacity;
+    animation: ember-rise var(--dur, 18s) linear infinite;
+    animation-delay: var(--delay, 0s);
+  }
+  .ember--bronze {
+    background: radial-gradient(circle, var(--color-bronze-bright), var(--color-bronze) 55%, transparent 72%);
+    box-shadow: var(--glow-bronze);
+  }
+  .ember--blood {
+    background: radial-gradient(circle, var(--color-blood-bright), var(--color-blood) 55%, transparent 72%);
+    box-shadow: var(--glow-blood);
+  }
+
+  /* ---- (4) Vignette ---- */
+  .atmosphere__vignette {
+    position: absolute;
+    inset: 0;
+    background:
+      radial-gradient(ellipse 118% 90% at 50% 44%, transparent 46%, rgba(10, 9, 8, 0.42) 82%, rgba(10, 9, 8, 0.72) 100%);
+  }
+
+  /* ---- Keyframes (nur transform / opacity) ---- */
+  @keyframes aurora-drift {
+    0%   { transform: translate3d(-2%, 0, 0) scale(1);    opacity: 0.06; }
+    50%  { transform: translate3d(2%, 1%, 0) scale(1.06); opacity: 0.11; }
+    100% { transform: translate3d(3%, -1%, 0) scale(1.02); opacity: 0.07; }
+  }
+  @keyframes fog-a {
+    0%   { transform: translate3d(0, 0, 0); }
+    100% { transform: translate3d(4%, -2%, 0); }
+  }
+  @keyframes fog-b {
+    0%   { transform: translate3d(0, 0, 0); }
+    100% { transform: translate3d(-5%, 2%, 0); }
+  }
+  @keyframes fog-c {
+    0%   { transform: translate3d(0, 0, 0); }
+    100% { transform: translate3d(3%, 3%, 0); }
+  }
+  @keyframes ember-rise {
+    0%   { transform: translate3d(0, 0, 0);                       opacity: 0; }
+    10%  { opacity: 0.9; }
+    50%  { transform: translate3d(calc(var(--drift) * 0.5), -52vh, 0); }
+    85%  { opacity: 0.7; }
+    100% { transform: translate3d(var(--drift), -104vh, 0);       opacity: 0; }
+  }
+
+  /* ---- Bewegungsreduktion: alles ruhig ---- */
+  @media (prefers-reduced-motion: reduce) {
+    .atmosphere__aurora,
+    .atmosphere__fog,
+    .ember {
+      animation: none !important;
+    }
+    /* Glut zeigt sich nicht statisch verstreut -> ausblenden */
+    .ember { opacity: 0; }
+  }
+</style>
+
+<script>
+  // Globaler Scroll-Reveal-Observer (.reveal -> .is-visible).
+  // Läuft auf jeder Seite, da Atmosphere überall gerendert wird.
+  (function () {
+    function revealAll() {
+      document.querySelectorAll('.reveal').forEach((el) => el.classList.add('is-visible'));
+    }
+
+    function init() {
+      const prefersReduced =
+        window.matchMedia &&
+        window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+      // Fallback: reduzierte Bewegung oder fehlender IntersectionObserver
+      if (prefersReduced || !('IntersectionObserver' in window)) {
+        revealAll();
+        return;
+      }
+
+      const observer = new IntersectionObserver(
+        (entries, obs) => {
+          entries.forEach((entry) => {
+            if (entry.isIntersecting) {
+              entry.target.classList.add('is-visible');
+              obs.unobserve(entry.target);
+            }
+          });
+        },
+        { root: null, rootMargin: '0px 0px -8% 0px', threshold: 0.08 }
+      );
+
+      document.querySelectorAll('.reveal').forEach((el) => observer.observe(el));
+    }
+
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', init, { once: true });
+    } else {
+      init();
+    }
+  })();
+</script>

@@ -1,0 +1,129 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import MusicPlayer from '../components/MusicPlayer.astro';
+import { useTranslations, localizeCategory, formatDate, localizedPath } from '../i18n/utils';
+import type { Lang } from '../i18n/ui';
+import type { CollectionEntry } from 'astro:content';
+
+interface Props {
+  entry: CollectionEntry<'blog'>;
+  lang: Lang;
+  altUrl?: string;
+}
+const { entry, lang, altUrl } = Astro.props;
+const { data } = entry;
+const t = useTranslations(lang);
+const dateStr = formatDate(data.pubDate, lang);
+const catLabel = localizeCategory(data.category, lang);
+---
+
+<BaseLayout
+  title={data.title}
+  description={data.description}
+  image={data.heroImage}
+  article={true}
+  publishedTime={data.pubDate}
+  lang={lang}
+  altUrl={altUrl}
+>
+  <article class="article">
+    <header class="article-header">
+      <div class="container container--prose">
+        <a href={localizedPath('/blog', lang)} class="back-link">{t('article.back')}</a>
+        <p class="eyebrow article-cat">{catLabel}</p>
+        <h1 class="article-title">{data.title}</h1>
+        <p class="article-lede">{data.description}</p>
+        <div class="article-byline text-dim">
+          <span>{t('article.by')} {data.author}</span>
+          <span aria-hidden="true">·</span>
+          <time datetime={data.pubDate.toISOString()}>{dateStr}</time>
+          {data.readingTime && <><span aria-hidden="true">·</span><span>{data.readingTime} {t('article.readingTime')}</span></>}
+        </div>
+      </div>
+    </header>
+
+    {data.heroImage && (
+      <figure class="article-hero">
+        <img src={data.heroImage} alt={data.heroImageAlt ?? data.title} />
+      </figure>
+    )}
+
+    <div class="container container--prose">
+      {data.artistKey && (
+        <MusicPlayer artistKey={data.artistKey} lang={lang} label={data.trackTitle} />
+      )}
+
+      <div class="prose">
+        <slot />
+      </div>
+
+      <div class="divider" aria-hidden="true">✦</div>
+
+      {data.tags.length > 0 && (
+        <div class="article-tags">
+          {data.tags.map((tag) => <span class="tag">#{tag}</span>)}
+        </div>
+      )}
+
+      <aside class="cta-music">
+        <p class="eyebrow">{t('article.cta.eyebrow')}</p>
+        <h3>{t('article.cta.title')}</h3>
+        <p class="text-dim">{t('article.cta.copy')}</p>
+        <a href={localizedPath('/artists', lang)} class="btn btn--primary">{t('article.cta.button')}</a>
+      </aside>
+    </div>
+  </article>
+</BaseLayout>
+
+<style>
+  .container--prose { max-width: var(--maxw-prose); }
+  .article-header { padding-top: 3rem; }
+  .back-link { font-family: var(--font-title); font-size: 0.9rem; color: var(--color-text-dim); }
+  .back-link:hover { color: var(--color-bronze); }
+  .article-cat { margin: 1.5rem 0 0.5rem; }
+  .article-title { font-size: clamp(2rem, 5vw, 3.1rem); margin: 0 0 1rem; line-height: 1.1; }
+  .article-lede { font-size: 1.25rem; line-height: 1.6; color: var(--color-text); font-style: italic; margin: 0 0 1.5rem; }
+  .article-byline {
+    font-family: var(--font-title);
+    font-size: 0.9rem;
+    display: flex; gap: 0.6rem; flex-wrap: wrap;
+    border-top: 1px solid var(--color-border);
+    padding-top: 1.2rem;
+  }
+  .article-hero { margin: 2.5rem auto; max-width: var(--maxw); padding-inline: 1.5rem; }
+  .article-hero img { width: 100%; border-radius: var(--radius); border: 1px solid var(--color-border); max-height: 520px; object-fit: cover; }
+
+  .prose { font-size: 1.12rem; }
+  .prose :global(p) { margin: 0 0 1.5rem; }
+  .prose :global(h2) { font-size: 1.9rem; margin: 3rem 0 1rem; padding-bottom: 0.5rem; position: relative; }
+  .prose :global(h2)::after { content: ''; position: absolute; left: 0; bottom: 0; width: 60px; height: 2px; background: var(--color-bronze); }
+  .prose :global(h3) { font-family: var(--font-title); font-size: 1.4rem; margin: 2.2rem 0 0.8rem; color: var(--color-bronze-bright); }
+  .prose :global(a) { text-decoration: underline; text-decoration-color: var(--color-bronze-dim); text-underline-offset: 3px; }
+  .prose :global(blockquote) {
+    border-left: 3px solid var(--color-blood);
+    margin: 2rem 0;
+    padding: 0.5rem 0 0.5rem 1.5rem;
+    font-style: italic;
+    font-size: 1.25rem;
+    color: var(--color-parchment);
+  }
+  .prose :global(ul), .prose :global(ol) { margin: 0 0 1.5rem; padding-left: 1.3rem; }
+  .prose :global(li) { margin-bottom: 0.5rem; }
+  .prose :global(strong) { color: var(--color-parchment); }
+  .prose :global(img) { border-radius: var(--radius); margin: 2rem 0; border: 1px solid var(--color-border); }
+  .prose :global(hr) { border: none; border-top: 1px solid var(--color-border); margin: 2.5rem 0; }
+
+  .article-tags { display: flex; flex-wrap: wrap; gap: 0.6rem; margin-bottom: 2.5rem; }
+  .tag { font-family: var(--font-title); font-size: 0.85rem; color: var(--color-text-dim); border: 1px solid var(--color-border); padding: 0.25rem 0.75rem; border-radius: 999px; }
+
+  .cta-music {
+    margin: 3rem 0;
+    padding: 2.2rem;
+    text-align: center;
+    border: 1px solid var(--color-border-strong);
+    border-radius: var(--radius);
+    background: radial-gradient(ellipse at top, rgba(160, 44, 28, 0.12), transparent 70%), var(--color-bg-raised);
+  }
+  .cta-music h3 { font-family: var(--font-display); font-size: 1.7rem; margin: 0.4rem 0 0.8rem; }
+  .cta-music p { max-width: 46ch; margin: 0 auto 1.5rem; }
+</style>

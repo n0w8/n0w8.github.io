@@ -1,0 +1,23 @@
+# Netlify-Deploy-Konfiguration für Nordweg (Astro, statisch)
+# Funktioniert 1:1 auch auf Cloudflare Pages / Vercel (gleicher Build-Befehl + Ausgabeordner).
+
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "20"
+
+# Sicherheits- & Performance-Header
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
+    X-Frame-Options = "SAMEORIGIN"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+
+# Bilder & Assets langfristig cachen
+[[headers]]
+  for = "/images/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"

@@ -1,0 +1,65 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { artists } from '../../data/artists';
+import { useTranslations, localizedPath } from '../../i18n/utils';
+import type { Lang } from '../../i18n/ui';
+
+interface Props { lang: Lang; }
+const { lang } = Astro.props;
+const t = useTranslations(lang);
+const list = [artists.domsgard, artists.eldruna];
+---
+
+<BaseLayout title={t('artists.title')} description={t('artists.lede')} lang={lang} altUrl={localizedPath('/artists', lang === 'de' ? 'en' : 'de')}>
+  <section class="container artists-hero">
+    <p class="eyebrow">{t('artists.eyebrow')}</p>
+    <h1 class="artists-title">{t('artists.title')}</h1>
+    <p class="artists-lede text-dim">{t('artists.lede')}</p>
+  </section>
+
+  <section class="container section">
+    {list.map((a, i) => (
+      <div class:list={['artist-row', { reverse: i % 2 === 1 }]}>
+        <div class="artist-text">
+          <h2>{a.name}</h2>
+          <p class="text-dim">{a.tagline[lang]}</p>
+          <div class="artist-cta">
+            <a href={a.spotifyUrl} target="_blank" rel="noopener" class="btn btn--primary">▶ {t('artists.spotify')}</a>
+            <a href={a.youtubeUrl} target="_blank" rel="noopener" class="btn">{t('artists.youtube')}</a>
+          </div>
+        </div>
+        <div class="artist-embed">
+          <iframe src={a.spotifyEmbed} title={`Spotify: ${a.name}`} loading="lazy" frameborder="0"
+            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen></iframe>
+        </div>
+      </div>
+    ))}
+  </section>
+</BaseLayout>
+
+<style>
+  .artists-hero { padding-top: 3.5rem; text-align: center; max-width: 760px; }
+  .artists-title { font-size: clamp(2.4rem, 6vw, 3.6rem); margin: 0.6rem auto 1rem; }
+  .artists-lede { max-width: 58ch; margin: 0 auto; font-size: 1.1rem; line-height: 1.7; }
+  .section { padding: 3rem 1.5rem; display: flex; flex-direction: column; gap: 2.5rem; }
+  .artist-row {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+    align-items: center;
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius);
+    padding: 2rem;
+    background: linear-gradient(135deg, rgba(201,162,90,0.05), var(--color-bg-raised));
+  }
+  .artist-row.reverse .artist-text { order: 2; }
+  .artist-text h2 { font-family: var(--font-display); font-size: 2.2rem; margin: 0 0 0.8rem; color: var(--color-bronze-bright); }
+  .artist-text p { font-size: 1.1rem; line-height: 1.7; margin: 0 0 1.5rem; }
+  .artist-cta { display: flex; gap: 0.8rem; flex-wrap: wrap; }
+  .artist-embed iframe { width: 100%; height: 352px; border-radius: var(--radius); }
+  @media (max-width: 760px) {
+    .artist-row { grid-template-columns: 1fr; }
+    .artist-row.reverse .artist-text { order: 0; }
+    .artist-embed iframe { height: 352px; }
+  }
+</style>

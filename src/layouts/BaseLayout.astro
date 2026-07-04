@@ -1,0 +1,93 @@
+---
+import '../styles/global.css';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import Atmosphere from '../components/Atmosphere.astro';
+import { getLangFromUrl } from '../i18n/utils';
+import type { Lang } from '../i18n/ui';
+
+interface Props {
+  title: string;
+  description: string;
+  image?: string;
+  article?: boolean;
+  publishedTime?: Date;
+  lang?: Lang;
+  altUrl?: string; // URL derselben Seite in der anderen Sprache
+}
+
+const {
+  title,
+  description,
+  image = '/images/hero.jpg',
+  article = false,
+  publishedTime,
+  altUrl,
+} = Astro.props;
+
+const lang: Lang = Astro.props.lang ?? getLangFromUrl(Astro.url);
+const siteName = 'Nordweg';
+const canonicalURL = new URL(Astro.url.pathname, Astro.site);
+const fullTitle = title === siteName ? title : `${title} — ${siteName}`;
+
+// hreflang-Alternativen für Google
+const deHref = new URL(lang === 'de' ? Astro.url.pathname : (altUrl ?? '/'), Astro.site);
+const enHref = new URL(lang === 'en' ? Astro.url.pathname : (altUrl ?? '/en/'), Astro.site);
+---
+
+<!doctype html>
+<html lang={lang}>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="generator" content={Astro.generator} />
+
+    <title>{fullTitle}</title>
+    <meta name="title" content={fullTitle} />
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonicalURL} />
+
+    <!-- Sprach-Alternativen (SEO) -->
+    <link rel="alternate" hreflang="de" href={deHref} />
+    <link rel="alternate" hreflang="en" href={enHref} />
+    <link rel="alternate" hreflang="x-default" href={deHref} />
+
+    <!-- Open Graph -->
+    <meta property="og:type" content={article ? 'article' : 'website'} />
+    <meta property="og:url" content={canonicalURL} />
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:image" content={new URL(image, Astro.url)} />
+    <meta property="og:site_name" content={siteName} />
+    <meta property="og:locale" content={lang === 'en' ? 'en_US' : 'de_DE'} />
+
+    <!-- Twitter/X -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={fullTitle} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={new URL(image, Astro.url)} />
+
+    <link rel="alternate" type="application/rss+xml" title={siteName} href="/rss.xml" />
+
+    <script type="application/ld+json" set:html={JSON.stringify({
+      '@context': 'https://schema.org',
+      '@type': article ? 'Article' : 'WebSite',
+      inLanguage: lang,
+      name: fullTitle,
+      headline: title,
+      description: description,
+      url: canonicalURL.toString(),
+      ...(publishedTime ? { datePublished: publishedTime.toISOString() } : {}),
+      publisher: { '@type': 'Organization', name: siteName },
+    })} />
+  </head>
+  <body>
+    <Atmosphere />
+    <Header lang={lang} altUrl={altUrl} />
+    <main>
+      <slot />
+    </main>
+    <Footer lang={lang} />
+  </body>
+</html>

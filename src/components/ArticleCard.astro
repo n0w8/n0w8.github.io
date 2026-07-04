@@ -1,0 +1,108 @@
+---
+import { localizeCategory, formatDate } from '../i18n/utils';
+import type { Lang } from '../i18n/ui';
+
+interface Props {
+  href: string;
+  title: string;
+  description: string;
+  category: string;
+  pubDate: Date;
+  lang: Lang;
+  heroImage?: string;
+  readingTime?: number;
+  featured?: boolean;
+}
+const { href, title, description, category, pubDate, lang, heroImage, readingTime, featured = false } = Astro.props;
+const dateStr = formatDate(pubDate, lang);
+const catLabel = localizeCategory(category, lang);
+const rtLabel = lang === 'en' ? 'min read' : 'Min. Lesezeit';
+---
+
+<article class:list={['card', { 'card--featured': featured }]}>
+  <a href={href} class="card-link" aria-label={title}>
+    <div class="card-media">
+      {heroImage
+        ? <img src={heroImage} alt="" loading="lazy" />
+        : <div class="card-media-fallback" aria-hidden="true">
+            <svg viewBox="0 0 60 60" width="52" height="52">
+              <path d="M30 6 L52 18 V42 L30 54 L8 42 V18 Z" fill="none" stroke="currentColor" stroke-width="1.2"/>
+              <path d="M30 16 V44 M30 16 L38 24 M30 30 L38 22 M30 30 L22 22 M30 16 L22 24" fill="none" stroke="currentColor" stroke-width="1.2" stroke-linecap="round"/>
+            </svg>
+          </div>
+      }
+      <span class="card-cat">{catLabel}</span>
+    </div>
+    <div class="card-body">
+      <h3 class="card-title">{title}</h3>
+      <p class="card-desc">{description}</p>
+      <div class="card-meta text-dim">
+        <time datetime={pubDate.toISOString()}>{dateStr}</time>
+        {readingTime && <span>· {readingTime} {rtLabel}</span>}
+      </div>
+    </div>
+  </a>
+</article>
+
+<style>
+  .card {
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius);
+    overflow: hidden;
+    background: var(--color-bg-raised);
+    transition: transform 0.25s ease, border-color 0.25s ease, box-shadow 0.25s ease;
+  }
+  .card:hover { transform: translateY(-4px); border-color: var(--color-border-strong); box-shadow: var(--shadow); }
+  .card-link { display: block; color: inherit; }
+  .card-media { position: relative; aspect-ratio: 16 / 10; background: linear-gradient(135deg, #1c1811, #100d09); overflow: hidden; }
+  .card-media img { width: 100%; height: 100%; object-fit: cover; transition: transform 0.4s ease; }
+  .card:hover .card-media img { transform: scale(1.04); }
+  .card-media-fallback { width: 100%; height: 100%; display: grid; place-items: center; color: var(--color-bronze-dim); opacity: 0.5; }
+  .card-cat {
+    position: absolute;
+    top: 0.8rem; left: 0.8rem;
+    font-family: var(--font-title);
+    font-size: 0.72rem;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--color-parchment);
+    background: rgba(12, 11, 9, 0.82);
+    border: 1px solid var(--color-border-strong);
+    padding: 0.28rem 0.7rem;
+    border-radius: 999px;
+    backdrop-filter: blur(4px);
+  }
+  .card-body { padding: 1.25rem 1.3rem 1.4rem; }
+  .card-title {
+    font-family: var(--font-title);
+    font-size: 1.3rem;
+    line-height: 1.25;
+    margin: 0 0 0.55rem;
+    color: var(--color-parchment);
+    transition: color 0.2s ease;
+  }
+  .card:hover .card-title { color: var(--color-bronze-bright); }
+  .card-desc {
+    color: var(--color-text-dim);
+    font-size: 0.98rem;
+    line-height: 1.6;
+    margin: 0 0 1rem;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .card-meta { font-family: var(--font-title); font-size: 0.82rem; letter-spacing: 0.04em; display: flex; gap: 0.4rem; }
+  .card--featured { grid-column: 1 / -1; }
+  .card--featured .card-link { display: grid; grid-template-columns: 1.3fr 1fr; }
+  .card--featured .card-media { aspect-ratio: auto; height: 100%; min-height: 340px; }
+  .card--featured .card-body { padding: 2.2rem 2.4rem; align-self: center; }
+  .card--featured .card-title { font-size: 2rem; font-family: var(--font-display); }
+  .card--featured .card-desc { font-size: 1.05rem; -webkit-line-clamp: 4; }
+  @media (max-width: 760px) {
+    .card--featured .card-link { grid-template-columns: 1fr; }
+    .card--featured .card-media { min-height: 220px; }
+    .card--featured .card-body { padding: 1.5rem 1.4rem; }
+    .card--featured .card-title { font-size: 1.5rem; }
+  }
+</style>
