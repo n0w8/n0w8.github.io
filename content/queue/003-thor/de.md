@@ -1,6 +1,6 @@
 ---
 title: "Thor: Der Donnergott und sein Hammer Mjölnir"
-description: "Thor, der Donnergott: Wie Mjölnir bei den Zwergen entstand, wie er Jörmungand angelte und sich als Braut verkleidete, um seinen Hammer zurückzuholen."
+description: "Thor, der Donnergott: Wie Mjölnir bei den Zwergen entstand, wie er Jörmungand angelte und sich als Braut verkleidete, um seinen Hammer zurückzuholen. Mythen."
 pubDate: 2099-01-01
 category: "Mythologie"
 tags: ["Thor", "Mjölnir", "Donnergott", "Jörmungand", "Þrymskviða", "Mythologie"]
