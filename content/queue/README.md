@@ -20,4 +20,4 @@ Regeln:
 - Das Hero-Bild muss beim Einreihen bereits unter `public/images/<translationKey>.jpg` liegen
   (gratis erzeugen: `node scripts/lib/set-hero-image.mjs <key> "<Kategorie>" "<keyword_en>"`).
 - Befüllt wird die Queue vom lokalen Vorrats-Agenten (geplante Aufgabe „nordweg-autopilot").
-  Ziel-Füllstand: **21 Artikel** (~3 Wochen Puffer bei PC-aus).
+  Ziel-Füllstand: **60 Artikel** (~2 Monate Puffer bei PC-aus).
