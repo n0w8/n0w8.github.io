@@ -1,7 +1,7 @@
 ---
 title: "Berserker: Die rasenden Krieger der Wikinger"
 description: "Wer waren die Berserker der Wikinger wirklich? Was Ynglinga-Saga, Haraldskvæði und Grettis-Saga über Kampfrausch, Wolfskrieger und ihr Verbot verraten."
-pubDate: 2026-07-07
+pubDate: 2026-07-05
 category: "Krieger & Schlachten"
 tags: ["Berserker", "Wikinger", "Krieger", "Úlfheðnar", "Odin", "Sagas"]
 heroImage: "/images/berserkers.jpg"

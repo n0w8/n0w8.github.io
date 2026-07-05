@@ -1,7 +1,7 @@
 ---
 title: "Berserkers: The Frenzied Warriors of the Vikings"
 description: "Who were the Viking berserkers really? What the Ynglinga saga, Haraldskvæði and Grettis saga reveal about battle fury, wolf-warriors and their outlawing."
-pubDate: 2026-07-07
+pubDate: 2026-07-05
 category: "Krieger & Schlachten"
 tags: ["Berserkers", "Vikings", "Warriors", "Úlfheðnar", "Odin", "Sagas"]
 heroImage: "/images/berserkers.jpg"
