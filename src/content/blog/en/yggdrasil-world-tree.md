@@ -1,7 +1,7 @@
 ---
 title: "Yggdrasil: The World Tree and the Nine Realms"
 description: "Yggdrasil, the world tree of Norse mythology: what Völuspá and Grímnismál really say about the nine realms, the three roots and wells, Ratatoskr and Níðhöggr."
-pubDate: 2026-07-07
+pubDate: 2026-07-05
 category: "Mythologie"
 tags: ["Yggdrasil", "World Tree", "Nine Realms", "Norns", "Odin", "Mythology"]
 heroImage: "/images/yggdrasil.jpg"

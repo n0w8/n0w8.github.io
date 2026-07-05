@@ -1,7 +1,7 @@
 ---
 title: "Yggdrasil: Der Weltenbaum und die neun Welten"
 description: "Yggdrasil, der Weltenbaum der nordischen Mythologie: Was Völuspá und Grímnismál über die neun Welten, drei Wurzeln, Ratatöskr und Níðhöggr wirklich erzählen."
-pubDate: 2026-07-07
+pubDate: 2026-07-05
 category: "Mythologie"
 tags: ["Yggdrasil", "Weltenbaum", "Neun Welten", "Nornen", "Odin", "Mythologie"]
 heroImage: "/images/yggdrasil.jpg"
