@@ -1,7 +1,7 @@
 ---
 title: "Thor: The Thunder God and His Hammer Mjölnir"
 description: "Thor, the Norse god of thunder: how dwarves forged his hammer Mjölnir, how he went fishing for the World Serpent, and why he once dressed up as a bride."
-pubDate: 2099-01-01
+pubDate: 2026-07-06
 category: "Mythologie"
 tags: ["Thor", "Mjölnir", "Thunder God", "Jörmungandr", "Þrymskviða", "Mythology"]
 heroImage: "/images/thor.jpg"
