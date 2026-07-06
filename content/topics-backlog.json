@@ -118,63 +118,81 @@
     },
     {
       "translationKey": "shield-maidens",
-      "status": "todo",
+      "status": "done",
       "category": "Krieger & Schlachten",
       "artistKey": "eldruna",
       "keyword_de": "schildmaid wikinger frauen",
       "keyword_en": "viking shield maidens",
       "title_de": "Schildmaiden: Kämpften Wikinger-Frauen wirklich?",
-      "title_en": "Shield-Maidens: Did Viking Women Really Fight?"
+      "title_en": "Shield-Maidens: Did Viking Women Really Fight?",
+      "queuedDate": "2026-07-06",
+      "slug_de": "schildmaiden-wikinger-frauen",
+      "slug_en": "viking-shield-maidens"
     },
     {
       "translationKey": "norse-gods-symbols",
-      "status": "todo",
+      "status": "done",
       "category": "Runen & Symbole",
       "artistKey": "eldruna",
       "keyword_de": "wikinger symbole bedeutung",
       "keyword_en": "viking symbols meaning",
       "title_de": "Wikinger-Symbole und ihre Bedeutung",
-      "title_en": "Viking Symbols and Their Meaning"
+      "title_en": "Viking Symbols and Their Meaning",
+      "queuedDate": "2026-07-06",
+      "slug_de": "wikinger-symbole-bedeutung",
+      "slug_en": "viking-symbols-meaning"
     },
     {
       "translationKey": "valknut",
-      "status": "todo",
+      "status": "done",
       "category": "Runen & Symbole",
       "artistKey": "domsgard",
       "keyword_de": "valknut symbol bedeutung",
       "keyword_en": "valknut symbol meaning",
       "title_de": "Der Valknut: Odins geheimnisvolles Zeichen",
-      "title_en": "The Valknut: Odin's Mysterious Symbol"
+      "title_en": "The Valknut: Odin's Mysterious Symbol",
+      "queuedDate": "2026-07-06",
+      "slug_de": "valknut-symbol-bedeutung",
+      "slug_en": "valknut-symbol-meaning"
     },
     {
       "translationKey": "vegvisir",
-      "status": "todo",
+      "status": "done",
       "category": "Runen & Symbole",
       "artistKey": "eldruna",
       "keyword_de": "vegvisir wikinger kompass",
       "keyword_en": "vegvisir viking compass",
       "title_de": "Vegvísir: Der Runen-Kompass der Wikinger",
-      "title_en": "Vegvísir: The Runic Compass of the Vikings"
+      "title_en": "Vegvísir: The Runic Compass of the Vikings",
+      "queuedDate": "2026-07-06",
+      "slug_de": "vegvisir-runen-kompass",
+      "slug_en": "vegvisir-viking-compass"
     },
     {
       "translationKey": "viking-daily-life",
-      "status": "todo",
+      "status": "done",
       "category": "Alltag & Kultur",
       "artistKey": "eldruna",
       "keyword_de": "wikinger alltag leben",
       "keyword_en": "viking daily life",
       "title_de": "Der Alltag der Wikinger: Wie sie wirklich lebten",
-      "title_en": "Daily Life of the Vikings: How They Really Lived"
+      "title_en": "Daily Life of the Vikings: How They Really Lived",
+      "queuedDate": "2026-07-06",
+      "slug_de": "wikinger-alltag-leben",
+      "slug_en": "viking-daily-life"
     },
     {
       "translationKey": "viking-food",
-      "status": "todo",
+      "status": "done",
       "category": "Alltag & Kultur",
       "artistKey": "eldruna",
       "keyword_de": "wikinger essen ernährung",
       "keyword_en": "viking food diet",
       "title_de": "Was aßen die Wikinger? Ernährung im Norden",
-      "title_en": "What Did the Vikings Eat? Food in the North"
+      "title_en": "What Did the Vikings Eat? Food in the North",
+      "queuedDate": "2026-07-06",
+      "slug_de": "wikinger-ernaehrung-essen",
+      "slug_en": "viking-food-diet"
     },
     {
       "translationKey": "viking-weapons",
