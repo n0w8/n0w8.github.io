@@ -433,6 +433,10 @@
       "keyword_en": "jormungandr midgard serpent",
       "title_de": "Jörmungandr: Die Midgardschlange und Thors Erzfeind",
       "title_en": "Jörmungandr: The Midgard Serpent and Thor's Nemesis"
-    }
+    },
+    { "translationKey": "viking-names", "status": "todo", "category": "Alltag & Kultur", "artistKey": "eldruna", "keyword_de": "wikinger namen bedeutung", "keyword_en": "viking names meanings", "title_de": "Wikinger-Namen und ihre Bedeutung: Von Björn bis Sigrid", "title_en": "Viking Names and Their Meanings: From Björn to Sigrid" },
+    { "translationKey": "norse-gods-family-tree", "status": "todo", "category": "Mythologie", "artistKey": "eldruna", "keyword_de": "nordische götter stammbaum", "keyword_en": "norse gods family tree", "title_de": "Der Stammbaum der nordischen Götter einfach erklärt", "title_en": "The Norse Gods Family Tree Explained" },
+    { "translationKey": "viking-vs-norse", "status": "todo", "category": "Geschichte", "artistKey": "domsgard", "keyword_de": "wikinger nordmänner unterschied", "keyword_en": "viking vs norse difference", "title_de": "Wikinger oder Nordmänner? Der Unterschied einfach erklärt", "title_en": "Viking vs Norse: What's the Difference?" },
+    { "translationKey": "valhalla-how-to-enter", "status": "todo", "category": "Mythologie", "artistKey": "domsgard", "keyword_de": "wie kommt man nach walhall", "keyword_en": "how to get to valhalla", "title_de": "Wie kam ein Wikinger nach Walhall? Die Regeln des Jenseits", "title_en": "How Did a Viking Get Into Valhalla? The Rules of the Afterlife" }
   ]
 }
