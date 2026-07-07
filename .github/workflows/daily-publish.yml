@@ -2,10 +2,15 @@
 # läuft GRATIS auf GitHubs Servern, auch wenn der PC aus ist. Keine KI, keine API-Kosten.
 name: Daily publish from queue
 
+# Anti-Muster-Erkennung: DREI mögliche Zeitfenster + gelegentlicher Ruhetag.
+# Ein deterministischer Tages-Hash wählt Slot bzw. Pause — kein exakt gleicher
+# Veröffentlichungs-Rhythmus, wie ihn Google bei Automatisierung erkennt.
 on:
   schedule:
-    - cron: '0 4 * * *' # ~06:00 Wien (Sommerzeit) / ~05:00 (Winterzeit)
-  workflow_dispatch: {} # manueller "Jetzt testen"-Knopf im GitHub-Actions-Tab
+    - cron: '7 4 * * *'  # Slot 0 (~06:07 Wien Sommer)
+    - cron: '23 5 * * *' # Slot 1 (~07:23)
+    - cron: '41 6 * * *' # Slot 2 (~08:41)
+  workflow_dispatch: {} # manueller "Jetzt testen"-Knopf (überspringt nie)
 
 permissions:
   contents: write
@@ -20,10 +25,32 @@ jobs:
         with:
           node-version: 20
 
+      # Nur der per Tages-Hash gewählte Slot veröffentlicht; ~1 Tag pro Woche Pause.
+      # Manuelle Starts (workflow_dispatch) laufen immer durch.
+      - name: Variance gate (slot pick + rest day)
+        if: github.event_name == 'schedule'
+        run: |
+          D=$(date -u +%Y%m%d)
+          H=$(date -u +%H)
+          if [ $((10#$D % 6)) -eq 0 ]; then
+            echo "SKIP=1" >> "$GITHUB_ENV"
+            echo "Ruhetag — heute keine Veröffentlichung."
+            exit 0
+          fi
+          case "$H" in
+            04) S=0;; 05) S=1;; 06) S=2;; *) S=9;;
+          esac
+          if [ $((10#$D % 3)) -ne "$S" ]; then
+            echo "SKIP=1" >> "$GITHUB_ENV"
+            echo "Heute ist ein anderer Zeit-Slot dran."
+          fi
+
       - name: Publish one article from queue
+        if: env.SKIP != '1'
         run: node scripts/publish-from-queue.mjs
 
       - name: Commit & push
+        if: env.SKIP != '1'
         run: |
           git config user.name "nordweg-publisher"
           git config user.email "publisher@users.noreply.github.com"
