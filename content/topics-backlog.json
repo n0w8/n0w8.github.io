@@ -196,63 +196,81 @@
     },
     {
       "translationKey": "viking-weapons",
-      "status": "todo",
+      "status": "done",
       "category": "Krieger & Schlachten",
       "artistKey": "domsgard",
       "keyword_de": "wikinger waffen axt schwert",
       "keyword_en": "viking weapons axe sword",
       "title_de": "Die Waffen der Wikinger: Axt, Schwert und Schild",
-      "title_en": "The Weapons of the Vikings: Axe, Sword and Shield"
+      "title_en": "The Weapons of the Vikings: Axe, Sword and Shield",
+      "queuedDate": "2026-07-09",
+      "slug_de": "wikinger-waffen-axt-schwert",
+      "slug_en": "viking-weapons-axe-sword"
     },
     {
       "translationKey": "danegeld",
-      "status": "todo",
+      "status": "done",
       "category": "Geschichte",
       "artistKey": "domsgard",
       "keyword_de": "danegeld wikinger tribut",
       "keyword_en": "danegeld vikings",
       "title_de": "Danegeld: Wie England die Wikinger auszahlte",
-      "title_en": "Danegeld: How England Paid Off the Vikings"
+      "title_en": "Danegeld: How England Paid Off the Vikings",
+      "queuedDate": "2026-07-09",
+      "slug_de": "danegeld-wikinger-tribut",
+      "slug_en": "danegeld-vikings-tribute"
     },
     {
       "translationKey": "jomsvikings",
-      "status": "todo",
+      "status": "done",
       "category": "Krieger & Schlachten",
       "artistKey": "domsgard",
       "keyword_de": "jomswikinger bruderschaft",
       "keyword_en": "jomsvikings brotherhood",
       "title_de": "Die Jomswikinger: Die legendäre Kriegerbruderschaft",
-      "title_en": "The Jomsvikings: The Legendary Warrior Brotherhood"
+      "title_en": "The Jomsvikings: The Legendary Warrior Brotherhood",
+      "queuedDate": "2026-07-09",
+      "slug_de": "jomswikinger-bruderschaft",
+      "slug_en": "jomsvikings-brotherhood"
     },
     {
       "translationKey": "freyja",
-      "status": "todo",
+      "status": "done",
       "category": "Mythologie",
       "artistKey": "eldruna",
       "keyword_de": "freyja göttin",
       "keyword_en": "freyja goddess",
       "title_de": "Freyja: Göttin der Liebe, des Krieges und der Magie",
-      "title_en": "Freyja: Goddess of Love, War and Magic"
+      "title_en": "Freyja: Goddess of Love, War and Magic",
+      "queuedDate": "2026-07-09",
+      "slug_de": "freyja-goettin",
+      "slug_en": "freyja-goddess"
     },
     {
       "translationKey": "fenrir",
-      "status": "todo",
+      "status": "done",
       "category": "Mythologie",
       "artistKey": "domsgard",
       "keyword_de": "fenrir wolf mythologie",
       "keyword_en": "fenrir wolf mythology",
       "title_de": "Fenrir: Der Wolf, der die Götter verschlingt",
-      "title_en": "Fenrir: The Wolf That Devours the Gods"
+      "title_en": "Fenrir: The Wolf That Devours the Gods",
+      "queuedDate": "2026-07-09",
+      "slug_de": "fenrir-wolf-mythologie",
+      "slug_en": "fenrir-wolf-mythology"
     },
     {
       "translationKey": "viking-burial",
-      "status": "todo",
+      "status": "done",
       "category": "Alltag & Kultur",
       "artistKey": "eldruna",
       "keyword_de": "wikinger bestattung schiffsgrab",
       "keyword_en": "viking burial ship",
       "title_de": "Wikinger-Bestattungen: Schiffsgräber und der Weg ins Jenseits",
-      "title_en": "Viking Burials: Ship Graves and the Road to the Afterlife"
+      "title_en": "Viking Burials: Ship Graves and the Road to the Afterlife",
+      "queuedDate": "2026-07-09",
+      "slug_de": "wikinger-bestattung-schiffsgrab",
+      "slug_en": "viking-burial-ship"
     },
     {
       "translationKey": "harald-hardrada",
@@ -434,9 +452,45 @@
       "title_de": "Jörmungandr: Die Midgardschlange und Thors Erzfeind",
       "title_en": "Jörmungandr: The Midgard Serpent and Thor's Nemesis"
     },
-    { "translationKey": "viking-names", "status": "todo", "category": "Alltag & Kultur", "artistKey": "eldruna", "keyword_de": "wikinger namen bedeutung", "keyword_en": "viking names meanings", "title_de": "Wikinger-Namen und ihre Bedeutung: Von Björn bis Sigrid", "title_en": "Viking Names and Their Meanings: From Björn to Sigrid" },
-    { "translationKey": "norse-gods-family-tree", "status": "todo", "category": "Mythologie", "artistKey": "eldruna", "keyword_de": "nordische götter stammbaum", "keyword_en": "norse gods family tree", "title_de": "Der Stammbaum der nordischen Götter einfach erklärt", "title_en": "The Norse Gods Family Tree Explained" },
-    { "translationKey": "viking-vs-norse", "status": "todo", "category": "Geschichte", "artistKey": "domsgard", "keyword_de": "wikinger nordmänner unterschied", "keyword_en": "viking vs norse difference", "title_de": "Wikinger oder Nordmänner? Der Unterschied einfach erklärt", "title_en": "Viking vs Norse: What's the Difference?" },
-    { "translationKey": "valhalla-how-to-enter", "status": "todo", "category": "Mythologie", "artistKey": "domsgard", "keyword_de": "wie kommt man nach walhall", "keyword_en": "how to get to valhalla", "title_de": "Wie kam ein Wikinger nach Walhall? Die Regeln des Jenseits", "title_en": "How Did a Viking Get Into Valhalla? The Rules of the Afterlife" }
+    {
+      "translationKey": "viking-names",
+      "status": "todo",
+      "category": "Alltag & Kultur",
+      "artistKey": "eldruna",
+      "keyword_de": "wikinger namen bedeutung",
+      "keyword_en": "viking names meanings",
+      "title_de": "Wikinger-Namen und ihre Bedeutung: Von Björn bis Sigrid",
+      "title_en": "Viking Names and Their Meanings: From Björn to Sigrid"
+    },
+    {
+      "translationKey": "norse-gods-family-tree",
+      "status": "todo",
+      "category": "Mythologie",
+      "artistKey": "eldruna",
+      "keyword_de": "nordische götter stammbaum",
+      "keyword_en": "norse gods family tree",
+      "title_de": "Der Stammbaum der nordischen Götter einfach erklärt",
+      "title_en": "The Norse Gods Family Tree Explained"
+    },
+    {
+      "translationKey": "viking-vs-norse",
+      "status": "todo",
+      "category": "Geschichte",
+      "artistKey": "domsgard",
+      "keyword_de": "wikinger nordmänner unterschied",
+      "keyword_en": "viking vs norse difference",
+      "title_de": "Wikinger oder Nordmänner? Der Unterschied einfach erklärt",
+      "title_en": "Viking vs Norse: What's the Difference?"
+    },
+    {
+      "translationKey": "valhalla-how-to-enter",
+      "status": "todo",
+      "category": "Mythologie",
+      "artistKey": "domsgard",
+      "keyword_de": "wie kommt man nach walhall",
+      "keyword_en": "how to get to valhalla",
+      "title_de": "Wie kam ein Wikinger nach Walhall? Die Regeln des Jenseits",
+      "title_en": "How Did a Viking Get Into Valhalla? The Rules of the Afterlife"
+    }
   ]
 }
