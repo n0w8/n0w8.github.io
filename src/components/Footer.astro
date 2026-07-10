@@ -31,7 +31,9 @@ const year = new Date().getFullYear();
           <li><a href={localizedPath('/blog', lang)}>{t('footer.allArticles')}</a></li>
           <li><a href={localizedPath('/blog', lang) + '?cat=Mythologie'}>{t('nav.mythology')}</a></li>
           <li><a href={localizedPath('/blog', lang) + '?cat=Runen'}>{t('nav.runes')}</a></li>
+          <li><a href={lang === 'de' ? '/kochbuch' : '/en/cookbook'}>{lang === 'de' ? 'Das Kochbuch' : 'The Cookbook'}</a></li>
           <li><a href={localizedPath('/artists', lang)}>{t('nav.artists')}</a></li>
+          <li><a href={lang === 'de' ? '/ueber-uns' : '/en/about'}>{lang === 'de' ? 'Über uns' : 'About us'}</a></li>
         </ul>
       </div>
       <div>
@@ -41,6 +43,7 @@ const year = new Date().getFullYear();
           <li><a href={artists.eldruna.spotifyUrl} target="_blank" rel="noopener">Eldruna · Spotify</a></li>
           <li><a href={artists.domsgard.youtubeUrl} target="_blank" rel="noopener">Domsgard · YouTube</a></li>
           <li><a href={artists.eldruna.youtubeUrl} target="_blank" rel="noopener">Eldruna · YouTube</a></li>
+          <li><a href="https://nordwaldrecords.com" target="_blank" rel="noopener">Nordwald Records</a></li>
         </ul>
       </div>
     </div>

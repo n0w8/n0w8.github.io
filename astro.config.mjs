@@ -3,10 +3,10 @@ import { defineConfig } from 'astro/config';
 import mdx from '@astrojs/mdx';
 import sitemap from '@astrojs/sitemap';
 
-// Aktuell GitHub Pages (Root-Domain n0w8.github.io). Sobald deine eigene Domain
-// da ist: hier auf 'https://deine-domain.com' ändern (wichtig für Sitemap/SEO).
+// Live-Adresse: blog.nordwaldrecords.com (easyname-Webspace, Deploy via FTP-Action).
+// Steuert Sitemap, Canonical-URLs und hreflang — bei Domain-Wechsel hier ändern.
 export default defineConfig({
-  site: 'https://n0w8.github.io',
+  site: 'https://blog.nordwaldrecords.com',
   server: { port: Number(process.env.PORT) || 4321, host: true },
   integrations: [mdx(), sitemap()],
   markdown: {

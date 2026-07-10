@@ -41,6 +41,6 @@ Wenn in den Sagas ein Festmahl beschrieben wird, dann dampft in der Mitte der Ta
 
 ## Der Tipp vom Skalden
 
-Wer es ganz stilecht mag, löscht mit [selbstgemachtem Met](/blog/met-selber-machen) ab statt mit Rotwein - die Soße bekommt dadurch eine feine honigsüße Tiefe. Dazu passt frisches [Fladenbrot aus Gerste](/blog/fladenbrot-aus-gerste), um keinen Tropfen zu verschwenden.
+Wer es ganz stilecht mag, löscht mit [selbstgemachtem Met](/blog/met-selber-machen) ab statt mit Rotwein - die Soße bekommt dadurch eine feine honigsüße Tiefe. Dazu passt frisches [Fladenbrot aus Gerste](/blog/wikinger-fladenbrot-rezept), um keinen Tropfen zu verschwenden.
 
 Warum das Wildschwein im Norden heilig war? Der Eber Sæhrímnir wurde in Walhalla jeden Abend aufs Neue verspeist - mehr dazu in unserem Artikel über die [nordischen Götter](/blog/nordische-goetter).

@@ -40,4 +40,4 @@ One pot, one fire, and time - the kitchen of the North needed nothing more. This
 
 ## The Skald's Tip
 
-This stew tastes even better on day two - Viking cauldrons rarely went fully empty anyway. Serve with [barley flatbread](/en/blog/viking-barley-flatbread) for dipping. And if you want the full feast-in-one-pot experience, try our big [Viking cauldron stew](/en/blog/viking-cauldron-stew).
+This stew tastes even better on day two - Viking cauldrons rarely went fully empty anyway. Serve with [barley flatbread](/en/blog/viking-flatbread-recipe) for dipping. And if you want the full feast-in-one-pot experience, try our big [Viking cauldron stew](/en/blog/viking-stew-skause).

@@ -509,6 +509,138 @@
       "keyword_en": "how to get to valhalla",
       "title_de": "Wie kam ein Wikinger nach Walhall? Die Regeln des Jenseits",
       "title_en": "How Did a Viking Get Into Valhalla? The Rules of the Afterlife"
+    },
+    {
+      "translationKey": "oseberg-ship",
+      "status": "todo",
+      "category": "Geschichte",
+      "artistKey": "eldruna",
+      "keyword_de": "oseberg schiff",
+      "keyword_en": "oseberg ship",
+      "title_de": "Das Oseberg-Schiff: Der praechtigste Wikinger-Fund der Welt",
+      "title_en": "The Oseberg Ship: The Most Magnificent Viking Find Ever Made",
+      "imagePolicy": "real-photo"
+    },
+    {
+      "translationKey": "gokstad-ship",
+      "status": "todo",
+      "category": "Geschichte",
+      "artistKey": "domsgard",
+      "keyword_de": "gokstad schiff",
+      "keyword_en": "gokstad ship",
+      "title_de": "Das Gokstad-Schiff: Ein Wikingerschiff, das den Atlantik bezwang",
+      "title_en": "The Gokstad Ship: The Viking Ship That Conquered the Atlantic",
+      "imagePolicy": "real-photo"
+    },
+    {
+      "translationKey": "skuldelev-ships",
+      "status": "todo",
+      "category": "Geschichte",
+      "artistKey": "eldruna",
+      "keyword_de": "skuldelev schiffe roskilde",
+      "keyword_en": "skuldelev ships roskilde",
+      "title_de": "Die Skuldelev-Schiffe: Fuenf Wracks erzaehlen die Wahrheit",
+      "title_en": "The Skuldelev Ships: Five Wrecks That Tell the Truth",
+      "imagePolicy": "real-photo"
+    },
+    {
+      "translationKey": "haithabu",
+      "status": "todo",
+      "category": "Alltag & Kultur",
+      "artistKey": "eldruna",
+      "keyword_de": "haithabu wikingerstadt",
+      "keyword_en": "hedeby viking city",
+      "title_de": "Haithabu: Die verlorene Handelsstadt der Wikinger",
+      "title_en": "Hedeby: The Lost Trading City of the Vikings",
+      "imagePolicy": "real-photo"
+    },
+    {
+      "translationKey": "birka",
+      "status": "todo",
+      "category": "Geschichte",
+      "artistKey": "domsgard",
+      "keyword_de": "birka schweden wikinger",
+      "keyword_en": "birka sweden vikings",
+      "title_de": "Birka: Schwedens erste Stadt und ihre Kriegerin",
+      "title_en": "Birka: Sweden First Town and Its Warrior Woman",
+      "imagePolicy": "real-photo"
+    },
+    {
+      "translationKey": "trelleborg-fortresses",
+      "status": "todo",
+      "category": "Krieger & Schlachten",
+      "artistKey": "domsgard",
+      "keyword_de": "trelleborg ringburg wikinger",
+      "keyword_en": "viking ring fortress trelleborg",
+      "title_de": "Die Ringburgen der Wikinger: Praezision aus dem Norden",
+      "title_en": "The Viking Ring Fortresses: Precision From the North",
+      "imagePolicy": "real-photo"
+    },
+    {
+      "translationKey": "lanse-aux-meadows",
+      "status": "todo",
+      "category": "Geschichte",
+      "artistKey": "eldruna",
+      "keyword_de": "lanse aux meadows wikinger amerika",
+      "keyword_en": "lanse aux meadows vikings america",
+      "title_de": "L Anse aux Meadows: Der Beweis, dass Wikinger Amerika erreichten",
+      "title_en": "L Anse aux Meadows: Proof the Vikings Reached America",
+      "imagePolicy": "real-photo"
+    },
+    {
+      "translationKey": "viking-porridge",
+      "status": "todo",
+      "category": "Rezepte",
+      "artistKey": "eldruna",
+      "keyword_de": "wikinger gruetze porridge rezept",
+      "keyword_en": "viking porridge recipe",
+      "title_de": "Gerstengruetze wie vor 1000 Jahren: Das Wikinger-Fruehstueck",
+      "title_en": "Barley Porridge Like 1000 Years Ago: The Viking Breakfast",
+      "imagePolicy": "real-photo"
+    },
+    {
+      "translationKey": "viking-fish-recipe",
+      "status": "todo",
+      "category": "Rezepte",
+      "artistKey": "eldruna",
+      "keyword_de": "fisch raeuchern wikinger rezept",
+      "keyword_en": "viking smoked fish recipe",
+      "title_de": "Fisch wie die Wikinger: Raeuchern, Salzen, Fermentieren",
+      "title_en": "Fish the Viking Way: Smoking, Salting, Fermenting",
+      "imagePolicy": "real-photo"
+    },
+    {
+      "translationKey": "jul-feast-recipes",
+      "status": "todo",
+      "category": "Rezepte",
+      "artistKey": "domsgard",
+      "keyword_de": "julfest rezepte wikinger weihnachten",
+      "keyword_en": "yule feast recipes viking",
+      "title_de": "Das Julfest: Festessen der Wikinger zur Wintersonnenwende",
+      "title_en": "The Yule Feast: How Vikings Celebrated Midwinter",
+      "imagePolicy": "real-photo"
+    },
+    {
+      "translationKey": "viking-honey-cakes",
+      "status": "todo",
+      "category": "Rezepte",
+      "artistKey": "eldruna",
+      "keyword_de": "honigkuchen rezept wikinger",
+      "keyword_en": "viking honey cakes recipe",
+      "title_de": "Honigkuchen der Wikinger: Suesses aus dem Norden",
+      "title_en": "Viking Honey Cakes: Sweet Treats From the North",
+      "imagePolicy": "real-photo"
+    },
+    {
+      "translationKey": "viking-herbs",
+      "status": "todo",
+      "category": "Rezepte",
+      "artistKey": "eldruna",
+      "keyword_de": "wikinger kraeuter gewuerze kueche",
+      "keyword_en": "viking herbs spices cooking",
+      "title_de": "Womit wuerzten die Wikinger? Kraeuter und Gewuerze des Nordens",
+      "title_en": "How Did Vikings Season Their Food? Herbs and Spices of the North",
+      "imagePolicy": "real-photo"
     }
   ]
 }

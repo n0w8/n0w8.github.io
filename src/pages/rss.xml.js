@@ -6,7 +6,7 @@ export async function GET(context) {
     .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
   return rss({
-    title: 'Nordweg — Die Chronik der Wikinger',
+    title: 'Nordweg | Die Chronik der Wikinger',
     description: 'Geschichte, Mythologie und die Klänge des hohen Nordens.',
     site: context.site,
     items: posts.map((post) => ({

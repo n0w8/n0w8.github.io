@@ -36,4 +36,4 @@ Nicht jeder Tag war ein Festtag. An gewöhnlichen Abenden kam im Norden auf den 
 
 ## Der Tipp vom Skalden
 
-Je dunkler das Bier, desto tiefer die Soße - ein malziges Dunkel oder ein rauchiges Kellerbier bringt die beste Farbe. Die Gerste im Bier war übrigens dasselbe Korn wie im Brot: unser [Fladenbrot aus Gerste](/blog/fladenbrot-aus-gerste) ist die perfekte Beilage zum Tunken.
+Je dunkler das Bier, desto tiefer die Soße - ein malziges Dunkel oder ein rauchiges Kellerbier bringt die beste Farbe. Die Gerste im Bier war übrigens dasselbe Korn wie im Brot: unser [Fladenbrot aus Gerste](/blog/wikinger-fladenbrot-rezept) ist die perfekte Beilage zum Tunken.

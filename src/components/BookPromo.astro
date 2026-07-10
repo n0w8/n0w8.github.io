@@ -1,83 +1,203 @@
 ---
-// Kaufbox fuer das Kochbuch "Viking Feast" - erscheint automatisch unter
-// jedem Artikel der Kategorie "Rezepte" (siehe ArticleLayout.astro).
-// Amazon-Link kommt aus src/data/book.ts; solange er leer ist, zeigt die
-// Box einen "Erscheint in Kuerze"-Hinweis statt des Kauf-Buttons.
-import { book } from '../data/book';
-import { useTranslations, localizedPath } from '../i18n/utils';
+// Kochbuch-Promo. Erscheint in Rezept-Artikeln an der Stelle des MusicPlayers
+// und verlinkt auf Amazon (sobald live) bzw. auf die Kochbuch-Landingpage.
+// Alle Buch-Daten kommen zentral aus content/book.json.
+import book from '../../content/book.json';
+import { useTranslations } from '../i18n/utils';
 import type { Lang } from '../i18n/ui';
 
-interface Props { lang: Lang; }
+interface Props {
+  lang: Lang;
+}
 const { lang } = Astro.props;
 const t = useTranslations(lang);
-const b = book[lang];
+
+const title = lang === 'de' ? book.title_de : book.title_en;
+const tagline = lang === 'de' ? book.tagline_de : book.tagline_en;
+const cover = lang === 'de' ? book.cover_de : book.cover_en;
+const amazonUrl = lang === 'de' ? book.amazonUrlDe : book.amazonUrlEn;
+const landingUrl = lang === 'de' ? '/kochbuch' : '/en/cookbook';
+const badgeLabel = lang === 'de' ? `${book.recipeCount} Rezepte` : `${book.recipeCount} recipes`;
 ---
 
-<aside class="book-promo">
-  <div class="book-cover">
-    <img src={b.cover} alt={`${b.title} - ${b.subtitle}`} loading="lazy" width="220" />
-  </div>
-  <div class="book-body">
-    <p class="eyebrow">{t('book.eyebrow')}</p>
-    <h3>{t('book.title')}</h3>
-    <p class="text-dim book-copy">{t('book.copy')}</p>
-    <ul class="book-bullets">
-      <li>{t('book.bullet1')}</li>
-      <li>{t('book.bullet2')}</li>
-      <li>{t('book.bullet3')}</li>
-    </ul>
-    {b.amazonUrl ? (
-      <a href={b.amazonUrl} class="btn btn--primary" rel="sponsored noopener" target="_blank">{t('book.button')}</a>
-    ) : (
-      <p class="book-soon">{t('book.soon')}</p>
-    )}
-    <a href={localizedPath('/blog', lang) + '?cat=Rezepte'} class="book-more">{t('book.moreRecipes')}</a>
+<aside class="book-promo" aria-label={t('book.eyebrow')}>
+  <span class="bp-hairline" aria-hidden="true"></span>
+  <a href={landingUrl} class="bp-cover" tabindex="-1" aria-hidden="true">
+    <img src={cover} alt={title} width="800" height="1200" loading="lazy" />
+  </a>
+  <div class="bp-body">
+    <p class="bp-eyebrow">{t('book.eyebrow')}</p>
+    <p class="bp-title">{title}</p>
+    <p class="bp-tagline">{tagline}</p>
+    <span class="bp-badge">
+      <svg viewBox="0 0 24 24" width="14" height="14" aria-hidden="true">
+        <path d="M4 9 H20 M6 9 V15 A4 4 0 0 0 10 19 H14 A4 4 0 0 0 18 15 V9 M4 9 L2.6 7.2 M20 9 L21.4 7.2 M9.5 6 C9.5 4.7 10.6 4.5 10.6 3.2 M13.5 6 C13.5 4.7 14.6 4.5 14.6 3.2"
+          fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+      {badgeLabel}
+    </span>
+    <div class="bp-actions">
+      {amazonUrl ? (
+        <a href={amazonUrl} target="_blank" rel="noopener sponsored" class="bp-buy">{t('book.buy')}</a>
+      ) : (
+        <span class="bp-soon">{t('book.soon')}</span>
+      )}
+      <a href={landingUrl} class="bp-more">{t('book.cta')} →</a>
+    </div>
   </div>
 </aside>
 
 <style>
   .book-promo {
+    position: relative;
     display: flex;
-    gap: 2rem;
     align-items: center;
-    margin: 3rem 0;
-    padding: 2.2rem;
+    gap: 1.5rem;
+    margin: 2.5rem 0;
+    padding: 1.5rem 1.6rem;
     border: 1px solid var(--color-border-strong);
     border-radius: var(--radius);
-    background: radial-gradient(ellipse at top left, rgba(201, 162, 90, 0.10), transparent 65%), var(--color-bg-raised);
+    background:
+      radial-gradient(ellipse 110% 90% at 0% 0%, rgba(201, 162, 90, 0.07), transparent 55%),
+      linear-gradient(180deg, rgba(160, 44, 28, 0.05), transparent),
+      var(--color-bg-raised);
+    box-shadow: var(--shadow);
+    transition: border-color 0.28s ease, box-shadow 0.28s ease;
   }
-  .book-cover { flex-shrink: 0; }
-  .book-cover img {
-    width: 190px;
-    border-radius: 6px;
-    border: 1px solid var(--color-border-strong);
-    box-shadow: 0 14px 34px -14px rgba(0, 0, 0, 0.85);
+  .book-promo:hover {
+    border-color: var(--color-bronze-dim);
+    box-shadow: var(--shadow), 0 0 26px rgba(201, 162, 90, 0.16);
+  }
+  /* Bronze-Haarlinie oben - gleiche Handschrift wie TOC & Autorenbox */
+  .bp-hairline {
+    position: absolute;
+    top: 0; left: 1.2rem; right: 1.2rem;
+    height: 1px;
+    background: linear-gradient(90deg, transparent, var(--color-bronze-dim), transparent);
+    pointer-events: none;
+  }
+
+  /* ---------- Cover ---------- */
+  .bp-cover {
+    flex-shrink: 0;
+    max-width: 150px;
+    display: block;
+    line-height: 0;
     transform: rotate(-2deg);
-    transition: transform 0.3s ease;
+    transition: transform 0.3s ease, filter 0.3s ease;
   }
-  .book-promo:hover .book-cover img { transform: rotate(0deg) scale(1.02); }
-  .book-body h3 { font-family: var(--font-display); font-size: 1.6rem; margin: 0.4rem 0 0.8rem; }
-  .book-copy { margin: 0 0 1rem; }
-  .book-bullets { margin: 0 0 1.4rem; padding-left: 1.2rem; }
-  .book-bullets li { margin-bottom: 0.35rem; }
-  .book-soon {
-    font-family: var(--font-title);
-    color: var(--color-bronze-bright);
-    border: 1px dashed var(--color-border-strong);
-    border-radius: var(--radius);
-    padding: 0.8rem 1.1rem;
-    margin: 0 0 1rem;
+  .bp-cover img {
+    width: 100%;
+    height: auto;
+    border-radius: 3px;
+    border: 1px solid var(--color-border-strong);
+    box-shadow: 0 14px 30px -12px rgba(0, 0, 0, 0.85), 0 0 0 1px rgba(201, 162, 90, 0.08);
   }
-  .book-more {
-    display: inline-block;
-    margin-top: 0.9rem;
+  .book-promo:hover .bp-cover {
+    transform: rotate(0deg) translateY(-3px);
+    filter: drop-shadow(0 0 18px rgba(201, 162, 90, 0.22));
+  }
+
+  /* ---------- Text ---------- */
+  .bp-body { min-width: 0; }
+  .bp-eyebrow {
     font-family: var(--font-title);
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    font-size: 0.7rem;
+    color: var(--color-bronze);
+    margin: 0 0 0.4rem;
+  }
+  .bp-title {
+    font-family: var(--font-display);
+    font-size: 1.25rem;
+    line-height: 1.25;
+    color: var(--color-parchment);
+    margin: 0 0 0.5rem;
+  }
+  .bp-tagline {
     font-size: 0.95rem;
+    line-height: 1.6;
     color: var(--color-text-dim);
+    margin: 0 0 0.9rem;
   }
-  .book-more:hover { color: var(--color-bronze-bright); }
-  @media (max-width: 640px) {
-    .book-promo { flex-direction: column; text-align: center; }
-    .book-bullets { text-align: left; }
+  .bp-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.45rem;
+    font-family: var(--font-title);
+    font-size: 0.8rem;
+    letter-spacing: 0.08em;
+    color: var(--color-bronze-bright);
+    border: 1px solid var(--color-border-strong);
+    border-radius: 999px;
+    padding: 0.3rem 0.85rem;
+    background: rgba(10, 9, 8, 0.5);
+    margin-bottom: 1.1rem;
+  }
+
+  /* ---------- Aktionen ---------- */
+  .bp-actions { display: flex; align-items: center; flex-wrap: wrap; gap: 0.9rem; }
+  .bp-buy {
+    display: inline-flex;
+    align-items: center;
+    font-family: var(--font-title);
+    letter-spacing: 0.06em;
+    font-size: 0.92rem;
+    padding: 0.65rem 1.4rem;
+    border-radius: var(--radius);
+    border: 1px solid var(--color-bronze-bright);
+    background: linear-gradient(180deg, var(--color-bronze-bright), var(--color-bronze));
+    color: var(--color-ink);
+    font-weight: 600;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.4), var(--glow-bronze);
+    transition: filter 0.2s ease, transform 0.2s ease, box-shadow 0.2s ease;
+  }
+  .bp-buy:hover {
+    filter: brightness(1.08);
+    transform: translateY(-1px);
+    color: var(--color-ink);
+    text-shadow: none;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.45), 0 0 30px rgba(201, 162, 90, 0.4);
+  }
+  .bp-soon {
+    display: inline-flex;
+    align-items: center;
+    font-family: var(--font-title);
+    letter-spacing: 0.06em;
+    font-size: 0.92rem;
+    padding: 0.65rem 1.4rem;
+    border-radius: var(--radius);
+    border: 1px dashed var(--color-border-strong);
+    color: var(--color-text-dim);
+    background: rgba(10, 9, 8, 0.4);
+    cursor: default;
+  }
+  .bp-more {
+    font-family: var(--font-title);
+    font-size: 0.88rem;
+    letter-spacing: 0.05em;
+    color: var(--color-bronze);
+  }
+  .bp-more:hover { color: var(--color-bronze-bright); }
+
+  /* ---------- Responsive ---------- */
+  @media (max-width: 560px) {
+    .book-promo {
+      flex-direction: column;
+      align-items: flex-start;
+      text-align: left;
+      padding: 1.4rem 1.3rem;
+    }
+    .bp-cover { max-width: 120px; }
+    .bp-actions { width: 100%; }
+    .bp-buy, .bp-soon { justify-content: center; flex: 1 1 auto; text-align: center; }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .book-promo, .bp-cover, .bp-buy { transition: none; }
+    .bp-cover { transform: none; }
+    .book-promo:hover .bp-cover { transform: none; }
+    .bp-buy:hover { transform: none; }
   }
 </style>

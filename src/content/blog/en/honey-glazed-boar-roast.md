@@ -41,6 +41,6 @@ Whenever the sagas describe a feast, a roast steams at the centre of the table. 
 
 ## The Skald's Tip
 
-For the full longhouse experience, deglaze with [homemade mead](/en/blog/how-to-make-mead) instead of red wine - the sauce gains a subtle honeyed depth. Serve with fresh [barley flatbread](/en/blog/viking-barley-flatbread) so not a drop goes to waste.
+For the full longhouse experience, deglaze with [homemade mead](/en/blog/how-to-make-mead) instead of red wine - the sauce gains a subtle honeyed depth. Serve with fresh [barley flatbread](/en/blog/viking-flatbread-recipe) so not a drop goes to waste.
 
 Why was the boar sacred in the North? The boar Sæhrímnir was eaten in Valhalla every single night, only to return whole the next day - read more in our article on the [Norse gods](/en/blog/norse-gods).

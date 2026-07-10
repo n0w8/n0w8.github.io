@@ -40,4 +40,4 @@ Ein Topf, ein Feuer, Zeit - mehr brauchte die Küche des Nordens nicht. Dieser L
 
 ## Der Tipp vom Skalden
 
-Der Eintopf schmeckt am zweiten Tag noch besser - die Wikinger ließen den Kessel ohnehin selten ganz leer werden. Dazu passt [Fladenbrot aus Gerste](/blog/fladenbrot-aus-gerste) zum Tunken. Und wer wissen will, wie ein ganzes Festmahl im Kessel entsteht, findet hier unseren großen [Wikinger-Eintopf](/blog/wikinger-eintopf).
+Der Eintopf schmeckt am zweiten Tag noch besser - die Wikinger ließen den Kessel ohnehin selten ganz leer werden. Dazu passt [Fladenbrot aus Gerste](/blog/wikinger-fladenbrot-rezept) zum Tunken. Und wer wissen will, wie ein ganzes Festmahl im Kessel entsteht, findet hier unseren großen [Wikinger-Eintopf](/blog/wikinger-eintopf-skause).

@@ -36,4 +36,4 @@ Not every day was a feast day. On ordinary evenings, Northern tables held whatev
 
 ## The Skald's Tip
 
-The darker the beer, the deeper the sauce - a malty dark lager or a smoky cellar beer gives the best colour. The barley in that beer was the same grain used for bread: our [barley flatbread](/en/blog/viking-barley-flatbread) is the perfect side for dipping.
+The darker the beer, the deeper the sauce - a malty dark lager or a smoky cellar beer gives the best colour. The barley in that beer was the same grain used for bread: our [barley flatbread](/en/blog/viking-flatbread-recipe) is the perfect side for dipping.

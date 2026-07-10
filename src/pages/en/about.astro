@@ -1,0 +1,170 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { artists } from '../../data/artists';
+---
+
+<BaseLayout
+  title="About Nordweg"
+  description="Who is behind Nordweg: musicians from Nordwald Records (Domsgard, Eldruna) who set Norse history to music and tell it here, grounded in the original sources."
+  lang="en"
+  altUrl="/ueber-uns"
+>
+  <section class="container about">
+    <header class="about-hero reveal">
+      <p class="eyebrow">Who keeps this chronicle</p>
+      <h1>About Nordweg</h1>
+      <p class="about-lede text-dim">
+        Nordweg is a chronicle of the Viking world: gods and sagas, runes and ships, daily life
+        and doom. Written by people who do not just study that world - they give it music.
+      </p>
+    </header>
+
+    <hr class="rule" />
+
+    <div class="about-body reveal">
+      <h2>Why Nordweg exists</h2>
+      <p>
+        Nordweg is a project by musicians. Behind this blog stands the independent label
+        <a href="https://nordwaldrecords.com" target="_blank" rel="noopener">Nordwald Records</a>
+        with its two artists, Domsgard and Eldruna. If you write songs about Odin, Ragnarok or
+        the voyages of the longships, you inevitably spend long nights among Eddas, sagas and
+        excavation reports. Out of that research grew more than lyrics: the wish to tell the
+        stories behind the music properly, with care and depth.
+      </p>
+      <p>
+        To us, history and music belong together. The old sources give our songs their depth,
+        and the music gives the old stories a voice people want to hear again today. Nordweg is
+        where the two meet.
+      </p>
+
+      <h2>How we work</h2>
+      <p>
+        Every article on Nordweg is written along the original sources: the Poetic Edda, the
+        Prose Edda of Snorri Sturluson, the Icelandic sagas, and the archaeological finds from
+        Scandinavia and the old trade routes of the North. Where scholars disagree or the
+        evidence runs thin, we say so openly instead of filling the gaps with fantasy.
+      </p>
+      <p>
+        Every article lists its sources at the end - so you can read on and check for yourself.
+        Photos of historical finds come from free archives such as Wikimedia Commons and are
+        always shown with credit.
+      </p>
+    </div>
+
+    <hr class="rule" />
+
+    <div class="about-music reveal">
+      <h2>The music behind it</h2>
+      <p>
+        If reading these pages leaves you longing for the North: there is a soundtrack for
+        that.
+      </p>
+
+      <div class="artist-cards">
+        <article class="artist-card">
+          <p class="eyebrow">Epic. Battle.</p>
+          <h3>Domsgard</h3>
+          <p class="text-dim">
+            Drums, choirs and the thunder of battle. Music for shield walls, kings' sagas and
+            the long march north.
+          </p>
+          <div class="card-links">
+            <a class="btn" href={artists.domsgard.spotifyUrl} target="_blank" rel="noopener">Spotify</a>
+            <a class="btn" href={artists.domsgard.youtubeUrl} target="_blank" rel="noopener">YouTube</a>
+          </div>
+        </article>
+
+        <article class="artist-card">
+          <p class="eyebrow">Atmospheric. Folk.</p>
+          <h3>Eldruna</h3>
+          <p class="text-dim">
+            Mist over the fjord, runes by the fire, quiet voices from an older age. Atmospheric
+            Viking music to sink into.
+          </p>
+          <div class="card-links">
+            <a class="btn" href={artists.eldruna.spotifyUrl} target="_blank" rel="noopener">Spotify</a>
+            <a class="btn" href={artists.eldruna.youtubeUrl} target="_blank" rel="noopener">YouTube</a>
+          </div>
+        </article>
+      </div>
+
+      <p>
+        Both projects are released through
+        <a href="https://nordwaldrecords.com" target="_blank" rel="noopener">Nordwald Records</a>,
+        our small label for Nordic music.
+      </p>
+    </div>
+
+    <hr class="rule" />
+
+    <div class="about-contact reveal">
+      <h2>Contact</h2>
+      <p>
+        Questions, suggestions or a correction to an article? You can reach us through the
+        channels of our label,
+        <a href="https://nordwaldrecords.com" target="_blank" rel="noopener">Nordwald Records</a>.
+      </p>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .about {
+    max-width: var(--maxw-prose);
+    padding-top: 3.5rem;
+    padding-bottom: 2rem;
+  }
+  .about-hero { text-align: center; }
+  .about-hero h1 {
+    font-size: clamp(2.2rem, 6vw, 3.2rem);
+    margin: 0.7rem 0 1rem;
+  }
+  .about-lede {
+    max-width: 56ch;
+    margin: 0 auto;
+    font-size: 1.1rem;
+    line-height: 1.75;
+  }
+  .about h2 {
+    font-family: var(--font-title);
+    font-size: 1.45rem;
+    margin: 2.4rem 0 0.7rem;
+    color: var(--color-bronze-bright);
+  }
+  .about h2:first-child { margin-top: 0; }
+  .about p { line-height: 1.8; }
+
+  /* ---------- Artist mini cards ---------- */
+  .artist-cards {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1.25rem;
+    margin: 1.75rem 0;
+  }
+  .artist-card {
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius);
+    padding: 1.5rem 1.4rem;
+    background: linear-gradient(150deg, rgba(201, 162, 90, 0.06), var(--color-bg-raised));
+    transition: border-color 0.25s ease, transform 0.25s ease;
+  }
+  .artist-card:hover {
+    border-color: var(--color-bronze-dim);
+    transform: translateY(-2px);
+  }
+  .artist-card h3 {
+    font-family: var(--font-display);
+    font-size: 1.5rem;
+    margin: 0.4rem 0 0.5rem;
+    color: var(--color-parchment);
+  }
+  .artist-card p { margin: 0 0 1.1rem; font-size: 0.98rem; line-height: 1.65; }
+  .artist-card .eyebrow { margin: 0; font-size: 0.68rem; }
+  .card-links { display: flex; gap: 0.6rem; flex-wrap: wrap; }
+  .card-links .btn { padding: 0.5rem 1.1rem; font-size: 0.9rem; }
+
+  @media (max-width: 640px) {
+    .artist-cards { grid-template-columns: 1fr; }
+    .artist-card { padding: 1.3rem 1.15rem; }
+  }
+</style>

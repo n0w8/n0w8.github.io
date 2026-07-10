@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://nordweg.example.com/sitemap-index.xml
+Sitemap: https://blog.nordwaldrecords.com/sitemap-index.xml

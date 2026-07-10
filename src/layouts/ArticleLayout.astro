@@ -2,20 +2,57 @@
 import BaseLayout from './BaseLayout.astro';
 import MusicPlayer from '../components/MusicPlayer.astro';
 import BookPromo from '../components/BookPromo.astro';
-import { useTranslations, localizeCategory, formatDate, localizedPath } from '../i18n/utils';
+import ArticleCard from '../components/ArticleCard.astro';
+import { useTranslations, localizeCategory, formatDate, localizedPath, getPostsByLang, postUrl } from '../i18n/utils';
 import type { Lang } from '../i18n/ui';
 import type { CollectionEntry } from 'astro:content';
+import type { MarkdownHeading } from 'astro';
 
 interface Props {
   entry: CollectionEntry<'blog'>;
   lang: Lang;
   altUrl?: string;
+  headings?: MarkdownHeading[];
 }
-const { entry, lang, altUrl } = Astro.props;
+const { entry, lang, altUrl, headings = [] } = Astro.props;
 const { data } = entry;
 const t = useTranslations(lang);
 const dateStr = formatDate(data.pubDate, lang);
 const catLabel = localizeCategory(data.category, lang);
+
+// Inhaltsverzeichnis: nur Hauptkapitel (h2). Ab zwei Einträgen sinnvoll.
+const tocHeadings = headings.filter((h) => h.depth === 2);
+const showToc = tocHeadings.length >= 2;
+
+// Breadcrumbs: Start › Chronik › Kategorie (Kategorie verlinkt auf den Filter).
+const blogPath = localizedPath('/blog', lang);
+const crumbs = [
+  { name: t('nav.home'), url: localizedPath('/', lang) },
+  { name: t('nav.blog'), url: blogPath },
+  { name: catLabel, url: `${blogPath}?cat=${encodeURIComponent(data.category)}` },
+];
+const breadcrumbLd = JSON.stringify({
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: crumbs.map((c, i) => ({
+    '@type': 'ListItem',
+    position: i + 1,
+    name: c.name,
+    item: new URL(c.url, Astro.site).toString(),
+  })),
+});
+
+// Weiterlesen: 3 Artikel derselben Kategorie und Sprache (neueste zuerst),
+// aufgefüllt mit den neuesten übrigen, ohne den aktuellen Artikel.
+const allPosts = await getPostsByLang(lang);
+const others = allPosts.filter((p) => p.slug !== entry.slug);
+const related = [
+  ...others.filter((p) => p.data.category === data.category),
+  ...others.filter((p) => p.data.category !== data.category),
+].slice(0, 3);
+
+// Über-uns-Seite (wird separat gepflegt).
+const aboutUrl = lang === 'de' ? '/ueber-uns' : '/en/about';
 ---
 
 <BaseLayout
@@ -27,10 +64,21 @@ const catLabel = localizeCategory(data.category, lang);
   lang={lang}
   altUrl={altUrl}
 >
+  <script type="application/ld+json" set:html={breadcrumbLd} />
+
   <article class="article">
     <header class="article-header">
       <div class="container container--prose">
-        <a href={localizedPath('/blog', lang)} class="back-link">{t('article.back')}</a>
+        <nav class="breadcrumbs" aria-label={t('article.breadcrumb.aria')}>
+          <ol>
+            {crumbs.map((c, i) => (
+              <li>
+                <a href={c.url}>{c.name}</a>
+                {i < crumbs.length - 1 && <span class="crumb-sep" aria-hidden="true">›</span>}
+              </li>
+            ))}
+          </ol>
+        </nav>
         <p class="eyebrow article-cat">{catLabel}</p>
         <h1 class="article-title">{data.title}</h1>
         <p class="article-lede">{data.description}</p>
@@ -50,8 +98,24 @@ const catLabel = localizeCategory(data.category, lang);
     )}
 
     <div class="container container--prose">
-      {data.artistKey && (
-        <MusicPlayer artistKey={data.artistKey} lang={lang} label={data.trackTitle} />
+      {showToc && (
+        <details class="toc" open>
+          <summary class="toc-summary">
+            <span class="toc-title">{t('article.toc.title')}</span>
+            <span class="toc-marker" aria-hidden="true">▾</span>
+          </summary>
+          <ol class="toc-list">
+            {tocHeadings.map((h) => (
+              <li><a href={`#${h.slug}`}>{h.text}</a></li>
+            ))}
+          </ol>
+        </details>
+      )}
+
+      {data.category === 'Rezepte' ? (
+        <BookPromo lang={lang} />
+      ) : (
+        data.artistKey && <MusicPlayer artistKey={data.artistKey} lang={lang} label={data.trackTitle} />
       )}
 
       <div class="prose">
@@ -66,25 +130,70 @@ const catLabel = localizeCategory(data.category, lang);
         </div>
       )}
 
-      {data.category === 'Rezepte' ? (
-        <BookPromo lang={lang} />
-      ) : (
-        <aside class="cta-music">
-          <p class="eyebrow">{t('article.cta.eyebrow')}</p>
-          <h3>{t('article.cta.title')}</h3>
-          <p class="text-dim">{t('article.cta.copy')}</p>
-          <a href={localizedPath('/artists', lang)} class="btn btn--primary">{t('article.cta.button')}</a>
-        </aside>
-      )}
+      <aside class="author-box">
+        <span class="author-avatar" aria-hidden="true">
+          <svg viewBox="0 0 64 64" width="56" height="56">
+            <circle cx="32" cy="32" r="30" fill="none" stroke="currentColor" stroke-width="1.4" opacity="0.75"/>
+            <circle cx="32" cy="32" r="25.5" fill="none" stroke="currentColor" stroke-width="0.6" opacity="0.35"/>
+            <path d="M32 15 V49 M23 25 L41 39" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/>
+          </svg>
+        </span>
+        <div class="author-text">
+          <p class="author-name">{t('article.author.name')}</p>
+          <p class="author-bio">{t('article.author.bio')}</p>
+          <a href={aboutUrl} class="author-link">{t('article.author.link')} →</a>
+        </div>
+      </aside>
     </div>
   </article>
+
+  {related.length > 0 && (
+    <section class="related container reveal" aria-labelledby="related-title">
+      <div class="related-head">
+        <p class="eyebrow related-eyebrow">{t('article.related.eyebrow')}</p>
+        <h2 class="related-title" id="related-title">{t('article.related.title')}</h2>
+      </div>
+      <div class="related-grid">
+        {related.map((post) => (
+          <ArticleCard
+            href={postUrl(post, lang)}
+            title={post.data.title}
+            description={post.data.description}
+            category={post.data.category}
+            pubDate={post.data.pubDate}
+            lang={lang}
+            heroImage={post.data.heroImage}
+            readingTime={post.data.readingTime}
+          />
+        ))}
+      </div>
+    </section>
+  )}
+
+  <div class="container container--prose">
+    <aside class="cta-music">
+      <p class="eyebrow">{t('article.cta.eyebrow')}</p>
+      <h3>{t('article.cta.title')}</h3>
+      <p class="text-dim">{t('article.cta.copy')}</p>
+      <a href={localizedPath('/artists', lang)} class="btn btn--primary">{t('article.cta.button')}</a>
+    </aside>
+  </div>
 </BaseLayout>
 
 <style>
   .container--prose { max-width: var(--maxw-prose); }
   .article-header { padding-top: 3rem; }
-  .back-link { font-family: var(--font-title); font-size: 0.9rem; color: var(--color-text-dim); }
-  .back-link:hover { color: var(--color-bronze); }
+
+  /* --- Breadcrumbs --- */
+  .breadcrumbs { font-family: var(--font-title); font-size: 0.82rem; letter-spacing: 0.05em; }
+  .breadcrumbs ol { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; align-items: center; row-gap: 0.25rem; }
+  .breadcrumbs li { display: flex; align-items: center; }
+  .breadcrumbs a { color: var(--color-text-dim); }
+  .breadcrumbs a:hover { color: var(--color-bronze-bright); }
+  .breadcrumbs li:last-child a { color: var(--color-bronze-dim); }
+  .breadcrumbs li:last-child a:hover { color: var(--color-bronze-bright); }
+  .crumb-sep { color: var(--color-text-faint); margin: 0 0.55rem; }
+
   .article-cat { margin: 1.5rem 0 0.5rem; }
   .article-title { font-size: clamp(2rem, 5vw, 3.1rem); margin: 0 0 1rem; line-height: 1.1; }
   .article-lede { font-size: 1.25rem; line-height: 1.6; color: var(--color-text); font-style: italic; margin: 0 0 1.5rem; }
@@ -98,11 +207,80 @@ const catLabel = localizeCategory(data.category, lang);
   .article-hero { margin: 2.5rem auto; max-width: var(--maxw); padding-inline: 1.5rem; }
   .article-hero img { width: 100%; border-radius: var(--radius); border: 1px solid var(--color-border); max-height: 520px; object-fit: cover; }
 
+  /* --- Inhaltsverzeichnis --- */
+  .toc {
+    position: relative;
+    margin: 2.5rem 0;
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius);
+    background: var(--color-bg-raised);
+  }
+  .toc::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 1.2rem; right: 1.2rem;
+    height: 1px;
+    background: linear-gradient(90deg, transparent, var(--color-bronze-dim), transparent);
+  }
+  .toc-summary {
+    cursor: pointer;
+    list-style: none;
+    display: flex; align-items: center; justify-content: space-between; gap: 1rem;
+    padding: 1rem 1.4rem;
+    user-select: none;
+  }
+  .toc-summary::-webkit-details-marker { display: none; }
+  .toc-title {
+    font-family: var(--font-title);
+    text-transform: uppercase;
+    letter-spacing: 0.24em;
+    font-size: 0.8rem;
+    color: var(--color-bronze);
+  }
+  .toc-marker {
+    color: var(--color-bronze-dim);
+    font-size: 0.75rem;
+    transition: transform 0.25s ease;
+  }
+  .toc:not([open]) .toc-marker { transform: rotate(-90deg); }
+  .toc-summary:hover .toc-title { color: var(--color-bronze-bright); text-shadow: var(--glow-bronze); }
+  .toc-list {
+    margin: 0;
+    padding: 0.1rem 1.4rem 1.15rem;
+    list-style: none;
+    counter-reset: toc;
+  }
+  .toc-list li {
+    counter-increment: toc;
+    display: flex;
+    align-items: baseline;
+    gap: 0.9rem;
+    padding: 0.45rem 0;
+    border-top: 1px solid var(--color-border);
+  }
+  .toc-list li:first-child { border-top: none; }
+  .toc-list li::before {
+    content: counter(toc, upper-roman);
+    font-family: var(--font-display);
+    font-size: 0.72rem;
+    color: var(--color-bronze-dim);
+    min-width: 1.7rem;
+    text-align: right;
+    flex-shrink: 0;
+  }
+  .toc-list a {
+    font-family: var(--font-title);
+    font-size: 0.98rem;
+    line-height: 1.45;
+    color: var(--color-text);
+  }
+  .toc-list a:hover { color: var(--color-bronze-bright); text-shadow: var(--glow-bronze); }
+
   .prose { font-size: 1.12rem; }
   .prose :global(p) { margin: 0 0 1.5rem; }
-  .prose :global(h2) { font-size: 1.9rem; margin: 3rem 0 1rem; padding-bottom: 0.5rem; position: relative; }
+  .prose :global(h2) { font-size: 1.9rem; margin: 3rem 0 1rem; padding-bottom: 0.5rem; position: relative; scroll-margin-top: 96px; }
   .prose :global(h2)::after { content: ''; position: absolute; left: 0; bottom: 0; width: 60px; height: 2px; background: var(--color-bronze); }
-  .prose :global(h3) { font-family: var(--font-title); font-size: 1.4rem; margin: 2.2rem 0 0.8rem; color: var(--color-bronze-bright); }
+  .prose :global(h3) { font-family: var(--font-title); font-size: 1.4rem; margin: 2.2rem 0 0.8rem; color: var(--color-bronze-bright); scroll-margin-top: 96px; }
   .prose :global(a) { text-decoration: underline; text-decoration-color: var(--color-bronze-dim); text-underline-offset: 3px; }
   .prose :global(blockquote) {
     border-left: 3px solid var(--color-blood);
@@ -121,6 +299,59 @@ const catLabel = localizeCategory(data.category, lang);
   .article-tags { display: flex; flex-wrap: wrap; gap: 0.6rem; margin-bottom: 2.5rem; }
   .tag { font-family: var(--font-title); font-size: 0.85rem; color: var(--color-text-dim); border: 1px solid var(--color-border); padding: 0.25rem 0.75rem; border-radius: 999px; }
 
+  /* --- Autorenbox (E-E-A-T) --- */
+  .author-box {
+    position: relative;
+    display: flex;
+    align-items: center;
+    gap: 1.3rem;
+    padding: 1.4rem 1.5rem;
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius);
+    background: var(--color-bg-raised);
+  }
+  .author-box::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 1.2rem; right: 1.2rem;
+    height: 1px;
+    background: linear-gradient(90deg, transparent, var(--color-bronze-dim), transparent);
+  }
+  .author-avatar { color: var(--color-bronze); flex-shrink: 0; display: block; line-height: 0; }
+  .author-name {
+    font-family: var(--font-title);
+    font-size: 1.05rem;
+    letter-spacing: 0.04em;
+    color: var(--color-parchment);
+    margin: 0 0 0.3rem;
+  }
+  .author-bio { color: var(--color-text-dim); font-size: 0.95rem; line-height: 1.6; margin: 0 0 0.5rem; }
+  .author-link { font-family: var(--font-title); font-size: 0.88rem; letter-spacing: 0.05em; color: var(--color-bronze); }
+  .author-link:hover { color: var(--color-bronze-bright); }
+
+  /* --- Weiterlesen --- */
+  .related { margin-top: 2rem; }
+  .related-head { text-align: center; margin-bottom: 2.4rem; }
+  .related-eyebrow { position: relative; display: inline-block; margin: 0; }
+  .related-eyebrow::before,
+  .related-eyebrow::after {
+    content: 'ᛝ';
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 0.7em;
+    color: var(--color-bronze);
+    opacity: 0.55;
+  }
+  .related-eyebrow::before { right: calc(100% + 0.9rem); }
+  .related-eyebrow::after { left: calc(100% + 0.9rem); }
+  .related-title { font-size: clamp(1.8rem, 4vw, 2.6rem); margin: 0.4rem 0 0; }
+  .related-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1.5rem;
+  }
+
   .cta-music {
     margin: 3rem 0;
     padding: 2.2rem;
@@ -131,4 +362,16 @@ const catLabel = localizeCategory(data.category, lang);
   }
   .cta-music h3 { font-family: var(--font-display); font-size: 1.7rem; margin: 0.4rem 0 0.8rem; }
   .cta-music p { max-width: 46ch; margin: 0 auto 1.5rem; }
+
+  @media (max-width: 640px) {
+    .related-eyebrow::before,
+    .related-eyebrow::after { display: none; }
+  }
+  @media (max-width: 440px) {
+    .author-box { flex-direction: column; align-items: flex-start; gap: 1rem; padding: 1.25rem 1.2rem; }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .toc-marker { transition: none; }
+  }
 </style>

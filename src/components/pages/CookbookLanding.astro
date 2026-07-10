@@ -1,0 +1,314 @@
+---
+// Landingpage fürs Wikinger-Kochbuch (DE: /kochbuch, EN: /en/cookbook).
+// Buch-Daten zentral aus content/book.json - Amazon-URL dort eintragen, sobald live.
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import book from '../../../content/book.json';
+import { useTranslations, localizedPath } from '../../i18n/utils';
+import type { Lang } from '../../i18n/ui';
+
+interface Props { lang: Lang; }
+const { lang } = Astro.props;
+const t = useTranslations(lang);
+
+const title = lang === 'de' ? book.title_de : book.title_en;
+const tagline = lang === 'de' ? book.tagline_de : book.tagline_en;
+const cover = lang === 'de' ? book.cover_de : book.cover_en;
+const amazonUrl = lang === 'de' ? book.amazonUrlDe : book.amazonUrlEn;
+const altUrl = lang === 'de' ? '/en/cookbook' : '/kochbuch';
+const recipesUrl = localizedPath('/blog', lang) + '?cat=Rezepte';
+
+const copy = {
+  de: {
+    heroFormats: book.formats_de,
+    expectEyebrow: 'Ein Blick hinein',
+    expectTitle: 'Was dich erwartet',
+    features: [
+      { title: '141 Rezepte', text: '100 Hauptrezepte und 41 Bonus-Rezepte: von Met und Fladenbrot bis zum großen Festmahl wie in Walhall.' },
+      { title: 'Historisch inspiriert', text: 'Entwickelt entlang archäologischer Funde, der Sagas und der Zutaten des Nordens: so hat die Wikingerzeit wirklich gekocht.' },
+      { title: 'E-Book und Farbdruck', text: 'Erhältlich als E-Book und als Taschenbuch im Farbdruck: für Küche, Lagerfeuer und Bücherregal.' },
+    ],
+    tasteEyebrow: 'Kostprobe gefällig?',
+    tasteTitle: 'Rezepte aus dem Buch',
+    tasteCopy: 'In der Chronik veröffentlichen wir ausgewählte Rezepte aus dem Buch in voller Länge: zum Nachkochen, Probieren und Vorfreuen.',
+    tasteButton: 'Kostproben aus dem Buch lesen',
+  },
+  en: {
+    heroFormats: book.formats_en,
+    expectEyebrow: 'A Look Inside',
+    expectTitle: 'What Awaits You',
+    features: [
+      { title: '141 Recipes', text: '100 main recipes and 41 bonus recipes: from mead and flatbread to a great feast worthy of Valhalla.' },
+      { title: 'Historically Inspired', text: 'Developed along archaeological finds, the sagas and the ingredients of the North: this is how the Viking Age really cooked.' },
+      { title: 'Ebook and Full Color Print', text: 'Available as an ebook and as a full color paperback: for the kitchen, the campfire and the bookshelf.' },
+    ],
+    tasteEyebrow: 'Fancy a Taste?',
+    tasteTitle: 'Recipes From the Book',
+    tasteCopy: 'In the Chronicle we publish selected recipes from the book in full length: to cook, to taste and to look forward to.',
+    tasteButton: 'Read samples from the book',
+  },
+}[lang];
+
+// Book-Schema für Google (Rich Results)
+const bookLd = JSON.stringify({
+  '@context': 'https://schema.org',
+  '@type': 'Book',
+  name: title,
+  description: tagline,
+  image: new URL(cover, Astro.site).toString(),
+  inLanguage: lang,
+  author: { '@type': 'Organization', name: 'Nordweg' },
+  publisher: { '@type': 'Organization', name: 'Nordwald Records' },
+  ...(amazonUrl
+    ? {
+        offers: {
+          '@type': 'Offer',
+          url: amazonUrl,
+          availability: 'https://schema.org/InStock',
+        },
+      }
+    : {}),
+});
+---
+
+<BaseLayout title={title} description={tagline} image={cover} lang={lang} altUrl={altUrl}>
+  <script type="application/ld+json" set:html={bookLd} />
+
+  <section class="book-hero">
+    <div class="book-hero-glow" aria-hidden="true"></div>
+    <div class="container book-hero-inner">
+      <div class="book-hero-cover">
+        <img src={cover} alt={title} width="800" height="1200" fetchpriority="high" />
+      </div>
+      <div class="book-hero-text">
+        <p class="eyebrow">{t('book.eyebrow')}</p>
+        <h1 class="book-hero-title">{title}</h1>
+        <p class="book-hero-tagline">{tagline}</p>
+        <p class="book-hero-formats text-dim">{copy.heroFormats}</p>
+        <div class="book-hero-actions">
+          {amazonUrl ? (
+            <a href={amazonUrl} target="_blank" rel="noopener sponsored" class="book-buy">{t('book.buy')}</a>
+          ) : (
+            <span class="book-soon">{t('book.soon')}</span>
+          )}
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="container section reveal">
+    <div class="section-head center">
+      <p class="eyebrow">{copy.expectEyebrow}</p>
+      <h2 class="section-title">{copy.expectTitle}</h2>
+    </div>
+    <div class="feature-grid">
+      {copy.features.map((f) => (
+        <div class="feature-card">
+          <span class="feature-rune" aria-hidden="true">ᛃ</span>
+          <h3>{f.title}</h3>
+          <p class="text-dim">{f.text}</p>
+        </div>
+      ))}
+    </div>
+  </section>
+
+  <section class="container section reveal">
+    <div class="taste-box">
+      <span class="taste-hairline" aria-hidden="true"></span>
+      <p class="eyebrow">{copy.tasteEyebrow}</p>
+      <h2>{copy.tasteTitle}</h2>
+      <p class="text-dim taste-copy">{copy.tasteCopy}</p>
+      <a href={recipesUrl} class="btn btn--primary">{copy.tasteButton}</a>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  /* ===== HERO ===== */
+  .book-hero {
+    position: relative;
+    overflow: hidden;
+    padding: clamp(3.5rem, 9vh, 6.5rem) 0 clamp(3rem, 8vh, 5.5rem);
+    border-bottom: 1px solid var(--color-border);
+  }
+  .book-hero-glow {
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    background:
+      radial-gradient(ellipse 60% 55% at 30% 40%, rgba(201, 162, 90, 0.10), transparent 60%),
+      radial-gradient(ellipse 70% 60% at 80% 100%, rgba(160, 44, 28, 0.10), transparent 65%);
+  }
+  .book-hero-inner {
+    position: relative;
+    z-index: 1;
+    display: grid;
+    grid-template-columns: minmax(220px, 340px) 1fr;
+    gap: clamp(2rem, 5vw, 4rem);
+    align-items: center;
+  }
+  .book-hero-cover {
+    justify-self: center;
+    width: 100%;
+    max-width: 340px;
+    transform: rotate(-2.5deg);
+    transition: transform 0.35s ease;
+  }
+  .book-hero-cover:hover { transform: rotate(0deg); }
+  .book-hero-cover img {
+    width: 100%;
+    height: auto;
+    border-radius: 4px;
+    border: 1px solid var(--color-border-strong);
+    box-shadow:
+      0 30px 60px -20px rgba(0, 0, 0, 0.9),
+      0 0 0 1px rgba(201, 162, 90, 0.1),
+      0 0 44px rgba(201, 162, 90, 0.14);
+  }
+  .book-hero-title {
+    font-size: clamp(2rem, 5vw, 3.2rem);
+    line-height: 1.12;
+    margin: 0.7rem 0 1.1rem;
+  }
+  .book-hero-tagline {
+    font-size: 1.18rem;
+    line-height: 1.7;
+    color: var(--color-text);
+    max-width: 54ch;
+    margin: 0 0 0.8rem;
+  }
+  .book-hero-formats {
+    font-family: var(--font-title);
+    font-size: 0.9rem;
+    letter-spacing: 0.06em;
+    margin: 0 0 1.8rem;
+  }
+  .book-hero-actions { display: flex; flex-wrap: wrap; gap: 0.9rem; }
+
+  /* Goldener Kauf-Button / Bald-Badge */
+  .book-buy {
+    display: inline-flex;
+    align-items: center;
+    font-family: var(--font-title);
+    letter-spacing: 0.06em;
+    font-size: 1rem;
+    padding: 0.85rem 1.9rem;
+    border-radius: var(--radius);
+    border: 1px solid var(--color-bronze-bright);
+    background: linear-gradient(180deg, var(--color-bronze-bright), var(--color-bronze));
+    color: var(--color-ink);
+    font-weight: 600;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.4), var(--glow-bronze);
+    transition: filter 0.2s ease, transform 0.2s ease, box-shadow 0.2s ease;
+  }
+  .book-buy:hover {
+    filter: brightness(1.08);
+    transform: translateY(-1px);
+    color: var(--color-ink);
+    text-shadow: none;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.45), 0 0 34px rgba(201, 162, 90, 0.42);
+  }
+  .book-soon {
+    display: inline-flex;
+    align-items: center;
+    font-family: var(--font-title);
+    letter-spacing: 0.06em;
+    font-size: 1rem;
+    padding: 0.85rem 1.9rem;
+    border-radius: var(--radius);
+    border: 1px dashed var(--color-border-strong);
+    color: var(--color-text-dim);
+    background: rgba(10, 9, 8, 0.4);
+    cursor: default;
+  }
+
+  /* ===== SECTIONS ===== */
+  .section { padding: clamp(3rem, 8vh, 5.5rem) 1.5rem; }
+  .section-head { margin-bottom: 2.4rem; }
+  .section-head.center { text-align: center; }
+  .section-title { font-size: clamp(1.8rem, 4vw, 2.6rem); margin: 0.4rem 0 0; }
+
+  /* ===== FEATURES ===== */
+  .feature-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 1.2rem;
+  }
+  .feature-card {
+    position: relative;
+    overflow: hidden;
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius);
+    padding: 1.8rem 1.5rem;
+    background:
+      radial-gradient(ellipse 120% 90% at 50% -10%, rgba(201, 162, 90, 0.05), transparent 60%),
+      linear-gradient(180deg, var(--color-bg-raised), var(--color-ink));
+    transition: transform 0.28s ease, border-color 0.28s ease, box-shadow 0.28s ease;
+  }
+  .feature-card:hover {
+    transform: translateY(-4px);
+    border-color: var(--color-bronze-dim);
+    box-shadow: 0 14px 34px rgba(0, 0, 0, 0.5), 0 0 24px rgba(201, 162, 90, 0.18);
+  }
+  .feature-rune {
+    position: absolute;
+    right: -0.3rem;
+    bottom: -1.1rem;
+    font-family: var(--font-display);
+    font-size: 5.5rem;
+    line-height: 1;
+    color: var(--color-bronze);
+    opacity: 0.05;
+    pointer-events: none;
+    user-select: none;
+  }
+  .feature-card h3 {
+    font-family: var(--font-title);
+    font-size: 1.2rem;
+    margin: 0 0 0.5rem;
+    color: var(--color-bronze-bright);
+  }
+  .feature-card p { font-size: 0.95rem; line-height: 1.65; margin: 0; }
+
+  /* ===== KOSTPROBEN ===== */
+  .taste-box {
+    position: relative;
+    text-align: center;
+    padding: clamp(2.5rem, 6vw, 4rem) 2rem;
+    border: 1px solid var(--color-border-strong);
+    border-radius: var(--radius);
+    background:
+      radial-gradient(ellipse 80% 70% at 50% 0%, rgba(160, 44, 28, 0.14), transparent 68%),
+      linear-gradient(180deg, var(--color-bg-raised), var(--color-ink));
+    box-shadow: 0 20px 50px rgba(0, 0, 0, 0.4);
+  }
+  .taste-hairline {
+    position: absolute;
+    top: 0; left: 1.5rem; right: 1.5rem;
+    height: 1px;
+    background: linear-gradient(90deg, transparent, var(--color-bronze-dim), transparent);
+    pointer-events: none;
+  }
+  .taste-box h2 { font-size: clamp(1.7rem, 4vw, 2.4rem); margin: 0.4rem 0 1rem; }
+  .taste-copy { max-width: 52ch; margin: 0 auto 1.8rem; }
+
+  /* ===== RESPONSIVE ===== */
+  @media (max-width: 820px) {
+    .book-hero-inner {
+      grid-template-columns: 1fr;
+      text-align: center;
+    }
+    .book-hero-cover { max-width: 260px; }
+    .book-hero-tagline { margin-inline: auto; }
+    .book-hero-actions { justify-content: center; }
+  }
+  @media (max-width: 400px) {
+    .book-hero-cover { max-width: 210px; }
+    .book-buy, .book-soon { width: 100%; justify-content: center; }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .book-hero-cover, .feature-card, .book-buy { transition: none; }
+    .book-hero-cover, .book-hero-cover:hover { transform: none; }
+    .feature-card:hover, .book-buy:hover { transform: none; }
+  }
+</style>
