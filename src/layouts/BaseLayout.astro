@@ -28,7 +28,7 @@ const {
 const lang: Lang = Astro.props.lang ?? getLangFromUrl(Astro.url);
 const siteName = 'Nordweg';
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
-const fullTitle = title === siteName ? title : `${title} — ${siteName}`;
+const fullTitle = title === siteName ? title : `${title} | ${siteName}`;
 
 // hreflang-Alternativen für Google
 const deHref = new URL(lang === 'de' ? Astro.url.pathname : (altUrl ?? '/'), Astro.site);
