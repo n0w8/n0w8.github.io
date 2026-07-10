@@ -1,7 +1,7 @@
 ---
 title: "Odin: Der Allvater und Gott der Weisheit"
 description: "Odin, der Allvater: Warum er ein Auge für Weisheit opferte, neun Nächte am Weltenbaum hing, und was seine Raben Hugin und Munin wirklich bedeuten sollen."
-pubDate: 2099-01-01
+pubDate: 2026-07-10
 category: "Mythologie"
 tags: ["Odin", "Allvater", "Hávamál", "Walhall", "Runen", "Mythologie"]
 heroImage: "/images/odin.jpg"

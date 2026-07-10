@@ -1,7 +1,7 @@
 ---
 title: "Odin: The Allfather and God of Wisdom"
 description: "Odin, the Norse Allfather: why he gave up an eye for wisdom, hung nine nights on the world tree, and what his ravens Huginn and Muninn truly represent."
-pubDate: 2099-01-01
+pubDate: 2026-07-10
 category: "Mythologie"
 tags: ["Odin", "Allfather", "Hávamál", "Valhalla", "Runes", "Mythology"]
 heroImage: "/images/odin.jpg"
