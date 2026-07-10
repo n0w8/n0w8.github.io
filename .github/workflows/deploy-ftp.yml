@@ -1,0 +1,50 @@
+# Baut die Astro-Seite und lädt sie per FTP auf Mikes easyname-Webspace hoch
+# (Ordner /nordweg-blog/ -> blog.nordwaldrecords.com). Läuft automatisch nach jedem
+# veröffentlichten Artikel — auch bei ausgeschaltetem PC. Zugangsdaten liegen als
+# GitHub-Secrets im Tresor (FTP_USERNAME / FTP_PASSWORD), nie im Code.
+# Inkrementeller Sync: nur geänderte Dateien werden übertragen.
+name: Deploy via FTP (easyname)
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'src/**'
+      - 'public/**'
+      - 'astro.config.mjs'
+      - 'package.json'
+      - 'package-lock.json'
+      - '.github/workflows/deploy-ftp.yml'
+  workflow_dispatch: {}
+
+concurrency:
+  group: ftp-deploy
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install
+        run: npm ci
+
+      - name: Ensure native deps built
+        run: npm rebuild sharp esbuild
+
+      - name: Build
+        run: npm run build
+
+      - name: FTP sync to easyname
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: e111595-ftp.services.easyname.eu
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          local-dir: ./dist/
+          server-dir: nordweg-blog/
