@@ -1,0 +1,171 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { artists } from '../data/artists';
+---
+
+<BaseLayout
+  title="Über Nordweg"
+  description="Wer hinter Nordweg steht: Musiker von Nordwald Records (Domsgard, Eldruna), die nordische Geschichte vertonen und hier fundiert entlang der Originalquellen erzählen."
+  lang="de"
+  altUrl="/en/about"
+>
+  <section class="container about">
+    <header class="about-hero reveal">
+      <p class="eyebrow">Wer hinter dieser Chronik steht</p>
+      <h1>Über Nordweg</h1>
+      <p class="about-lede text-dim">
+        Nordweg ist eine Chronik über die Welt der Wikinger: Götter und Sagas, Runen und
+        Schiffe, Alltag und Untergang. Geschrieben von Leuten, die diese Welt nicht nur
+        erforschen, sondern ihr auch Musik geben.
+      </p>
+    </header>
+
+    <hr class="rule" />
+
+    <div class="about-body reveal">
+      <h2>Warum es Nordweg gibt</h2>
+      <p>
+        Nordweg ist ein Projekt von Musikern. Hinter diesem Blog steht das unabhängige Label
+        <a href="https://nordwaldrecords.com" target="_blank" rel="noopener">Nordwald Records</a>
+        mit seinen beiden Artists Domsgard und Eldruna. Wer Songs über Odin, Ragnarök oder die
+        Fahrt der Langschiffe schreibt, verbringt zwangsläufig viele Nächte in Eddas, Sagas und
+        Ausgrabungsberichten. Aus dieser Recherche ist mehr geworden als Songtexte: der Wunsch,
+        die Geschichten hinter der Musik fundiert und in Ruhe zu erzählen.
+      </p>
+      <p>
+        Für uns gehören Geschichte und Musik zusammen. Die alten Quellen geben unseren Songs
+        ihre Tiefe, und die Musik gibt den alten Geschichten eine Stimme, die man heute wieder
+        hören will. Nordweg ist der Ort, an dem beides zusammenläuft.
+      </p>
+
+      <h2>Wie wir arbeiten</h2>
+      <p>
+        Jeder Artikel auf Nordweg entsteht entlang der Originalquellen: der Poetischen Edda,
+        der Prosa-Edda des Snorri Sturluson, den isländischen Sagas sowie den archäologischen
+        Funden aus Skandinavien und den alten Handelswegen des Nordens. Wo die Forschung uneins
+        ist oder die Quellenlage dünn wird, sagen wir das offen, statt Lücken mit Fantasie zu
+        füllen.
+      </p>
+      <p>
+        Jeder Artikel nennt am Ende die Quellen, auf denen er beruht - damit du selbst
+        weiterlesen und nachprüfen kannst. Fotos historischer Funde stammen aus freien Archiven
+        wie Wikimedia Commons und werden stets mit Quellenangabe gezeigt.
+      </p>
+    </div>
+
+    <hr class="rule" />
+
+    <div class="about-music reveal">
+      <h2>Die Musik dazu</h2>
+      <p>
+        Wenn dich beim Lesen das Fernweh nach dem Norden packt: Es gibt den passenden Klang
+        dazu.
+      </p>
+
+      <div class="artist-cards">
+        <article class="artist-card">
+          <p class="eyebrow">Episch. Schlacht.</p>
+          <h3>Domsgard</h3>
+          <p class="text-dim">
+            Trommeln, Chöre und die Wucht der Schlacht. Musik für Schildwälle, Königssagas und
+            den langen Marsch nach Norden.
+          </p>
+          <div class="card-links">
+            <a class="btn" href={artists.domsgard.spotifyUrl} target="_blank" rel="noopener">Spotify</a>
+            <a class="btn" href={artists.domsgard.youtubeUrl} target="_blank" rel="noopener">YouTube</a>
+          </div>
+        </article>
+
+        <article class="artist-card">
+          <p class="eyebrow">Atmosphärisch. Folk.</p>
+          <h3>Eldruna</h3>
+          <p class="text-dim">
+            Nebel über dem Fjord, Runen am Feuer, leise Stimmen aus alter Zeit. Atmosphärische
+            Viking-Musik zum Versinken.
+          </p>
+          <div class="card-links">
+            <a class="btn" href={artists.eldruna.spotifyUrl} target="_blank" rel="noopener">Spotify</a>
+            <a class="btn" href={artists.eldruna.youtubeUrl} target="_blank" rel="noopener">YouTube</a>
+          </div>
+        </article>
+      </div>
+
+      <p>
+        Beide Projekte erscheinen bei
+        <a href="https://nordwaldrecords.com" target="_blank" rel="noopener">Nordwald Records</a>,
+        unserem kleinen Label für nordische Musik.
+      </p>
+    </div>
+
+    <hr class="rule" />
+
+    <div class="about-contact reveal">
+      <h2>Kontakt</h2>
+      <p>
+        Fragen, Hinweise oder eine Korrektur zu einem Artikel? Du erreichst uns über die Kanäle
+        unseres Labels <a href="https://nordwaldrecords.com" target="_blank" rel="noopener">Nordwald Records</a>.
+      </p>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .about {
+    max-width: var(--maxw-prose);
+    padding-top: 3.5rem;
+    padding-bottom: 2rem;
+  }
+  .about-hero { text-align: center; }
+  .about-hero h1 {
+    font-size: clamp(2.2rem, 6vw, 3.2rem);
+    margin: 0.7rem 0 1rem;
+  }
+  .about-lede {
+    max-width: 56ch;
+    margin: 0 auto;
+    font-size: 1.1rem;
+    line-height: 1.75;
+  }
+  .about h2 {
+    font-family: var(--font-title);
+    font-size: 1.45rem;
+    margin: 2.4rem 0 0.7rem;
+    color: var(--color-bronze-bright);
+  }
+  .about h2:first-child { margin-top: 0; }
+  .about p { line-height: 1.8; }
+
+  /* ---------- Artist-Mini-Karten ---------- */
+  .artist-cards {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1.25rem;
+    margin: 1.75rem 0;
+  }
+  .artist-card {
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius);
+    padding: 1.5rem 1.4rem;
+    background: linear-gradient(150deg, rgba(201, 162, 90, 0.06), var(--color-bg-raised));
+    transition: border-color 0.25s ease, transform 0.25s ease;
+  }
+  .artist-card:hover {
+    border-color: var(--color-bronze-dim);
+    transform: translateY(-2px);
+  }
+  .artist-card h3 {
+    font-family: var(--font-display);
+    font-size: 1.5rem;
+    margin: 0.4rem 0 0.5rem;
+    color: var(--color-parchment);
+  }
+  .artist-card p { margin: 0 0 1.1rem; font-size: 0.98rem; line-height: 1.65; }
+  .artist-card .eyebrow { margin: 0; font-size: 0.68rem; }
+  .card-links { display: flex; gap: 0.6rem; flex-wrap: wrap; }
+  .card-links .btn { padding: 0.5rem 1.1rem; font-size: 0.9rem; }
+
+  @media (max-width: 640px) {
+    .artist-cards { grid-template-columns: 1fr; }
+    .artist-card { padding: 1.3rem 1.15rem; }
+  }
+</style>
