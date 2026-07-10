@@ -1,6 +1,7 @@
 ---
 import BaseLayout from './BaseLayout.astro';
 import MusicPlayer from '../components/MusicPlayer.astro';
+import BookPromo from '../components/BookPromo.astro';
 import { useTranslations, localizeCategory, formatDate, localizedPath } from '../i18n/utils';
 import type { Lang } from '../i18n/ui';
 import type { CollectionEntry } from 'astro:content';
@@ -65,12 +66,16 @@ const catLabel = localizeCategory(data.category, lang);
         </div>
       )}
 
-      <aside class="cta-music">
-        <p class="eyebrow">{t('article.cta.eyebrow')}</p>
-        <h3>{t('article.cta.title')}</h3>
-        <p class="text-dim">{t('article.cta.copy')}</p>
-        <a href={localizedPath('/artists', lang)} class="btn btn--primary">{t('article.cta.button')}</a>
-      </aside>
+      {data.category === 'Rezepte' ? (
+        <BookPromo lang={lang} />
+      ) : (
+        <aside class="cta-music">
+          <p class="eyebrow">{t('article.cta.eyebrow')}</p>
+          <h3>{t('article.cta.title')}</h3>
+          <p class="text-dim">{t('article.cta.copy')}</p>
+          <a href={localizedPath('/artists', lang)} class="btn btn--primary">{t('article.cta.button')}</a>
+        </aside>
+      )}
     </div>
   </article>
 </BaseLayout>

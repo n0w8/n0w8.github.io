@@ -12,7 +12,7 @@ const blog = defineCollection({
     updatedDate: z.coerce.date().optional(),
     heroImage: z.string().optional(),
     heroImageAlt: z.string().optional(),
-    category: z.enum(['Geschichte', 'Mythologie', 'Runen & Symbole', 'Alltag & Kultur', 'Krieger & Schlachten']),
+    category: z.enum(['Geschichte', 'Mythologie', 'Runen & Symbole', 'Alltag & Kultur', 'Krieger & Schlachten', 'Rezepte']),
     tags: z.array(z.string()).default([]),
     author: z.string().default('Die Nordweg-Redaktion'),
     // Verbindet DE- und EN-Version desselben Artikels

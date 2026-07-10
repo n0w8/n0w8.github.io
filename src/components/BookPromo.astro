@@ -1,0 +1,83 @@
+---
+// Kaufbox fuer das Kochbuch "Viking Feast" - erscheint automatisch unter
+// jedem Artikel der Kategorie "Rezepte" (siehe ArticleLayout.astro).
+// Amazon-Link kommt aus src/data/book.ts; solange er leer ist, zeigt die
+// Box einen "Erscheint in Kuerze"-Hinweis statt des Kauf-Buttons.
+import { book } from '../data/book';
+import { useTranslations, localizedPath } from '../i18n/utils';
+import type { Lang } from '../i18n/ui';
+
+interface Props { lang: Lang; }
+const { lang } = Astro.props;
+const t = useTranslations(lang);
+const b = book[lang];
+---
+
+<aside class="book-promo">
+  <div class="book-cover">
+    <img src={b.cover} alt={`${b.title} - ${b.subtitle}`} loading="lazy" width="220" />
+  </div>
+  <div class="book-body">
+    <p class="eyebrow">{t('book.eyebrow')}</p>
+    <h3>{t('book.title')}</h3>
+    <p class="text-dim book-copy">{t('book.copy')}</p>
+    <ul class="book-bullets">
+      <li>{t('book.bullet1')}</li>
+      <li>{t('book.bullet2')}</li>
+      <li>{t('book.bullet3')}</li>
+    </ul>
+    {b.amazonUrl ? (
+      <a href={b.amazonUrl} class="btn btn--primary" rel="sponsored noopener" target="_blank">{t('book.button')}</a>
+    ) : (
+      <p class="book-soon">{t('book.soon')}</p>
+    )}
+    <a href={localizedPath('/blog', lang) + '?cat=Rezepte'} class="book-more">{t('book.moreRecipes')}</a>
+  </div>
+</aside>
+
+<style>
+  .book-promo {
+    display: flex;
+    gap: 2rem;
+    align-items: center;
+    margin: 3rem 0;
+    padding: 2.2rem;
+    border: 1px solid var(--color-border-strong);
+    border-radius: var(--radius);
+    background: radial-gradient(ellipse at top left, rgba(201, 162, 90, 0.10), transparent 65%), var(--color-bg-raised);
+  }
+  .book-cover { flex-shrink: 0; }
+  .book-cover img {
+    width: 190px;
+    border-radius: 6px;
+    border: 1px solid var(--color-border-strong);
+    box-shadow: 0 14px 34px -14px rgba(0, 0, 0, 0.85);
+    transform: rotate(-2deg);
+    transition: transform 0.3s ease;
+  }
+  .book-promo:hover .book-cover img { transform: rotate(0deg) scale(1.02); }
+  .book-body h3 { font-family: var(--font-display); font-size: 1.6rem; margin: 0.4rem 0 0.8rem; }
+  .book-copy { margin: 0 0 1rem; }
+  .book-bullets { margin: 0 0 1.4rem; padding-left: 1.2rem; }
+  .book-bullets li { margin-bottom: 0.35rem; }
+  .book-soon {
+    font-family: var(--font-title);
+    color: var(--color-bronze-bright);
+    border: 1px dashed var(--color-border-strong);
+    border-radius: var(--radius);
+    padding: 0.8rem 1.1rem;
+    margin: 0 0 1rem;
+  }
+  .book-more {
+    display: inline-block;
+    margin-top: 0.9rem;
+    font-family: var(--font-title);
+    font-size: 0.95rem;
+    color: var(--color-text-dim);
+  }
+  .book-more:hover { color: var(--color-bronze-bright); }
+  @media (max-width: 640px) {
+    .book-promo { flex-direction: column; text-align: center; }
+    .book-bullets { text-align: left; }
+  }
+</style>
