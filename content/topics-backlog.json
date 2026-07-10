@@ -274,63 +274,81 @@
     },
     {
       "translationKey": "harald-hardrada",
-      "status": "todo",
+      "status": "done",
       "category": "Geschichte",
       "artistKey": "domsgard",
       "keyword_de": "harald hardrada",
       "keyword_en": "harald hardrada",
       "title_de": "Harald Hardrada: Der letzte große Wikingerkönig",
-      "title_en": "Harald Hardrada: The Last Great Viking King"
+      "title_en": "Harald Hardrada: The Last Great Viking King",
+      "queuedDate": "2026-07-10",
+      "slug_de": "harald-hardrada-letzter-wikingerkoenig",
+      "slug_en": "harald-hardrada-last-viking-king"
     },
     {
       "translationKey": "stamford-bridge",
-      "status": "todo",
+      "status": "done",
       "category": "Krieger & Schlachten",
       "artistKey": "domsgard",
       "keyword_de": "schlacht stamford bridge 1066",
       "keyword_en": "battle of stamford bridge",
       "title_de": "Die Schlacht von Stamford Bridge: Das Ende der Wikingerzeit",
-      "title_en": "The Battle of Stamford Bridge: The End of the Viking Age"
+      "title_en": "The Battle of Stamford Bridge: The End of the Viking Age",
+      "queuedDate": "2026-07-10",
+      "slug_de": "schlacht-stamford-bridge-1066",
+      "slug_en": "battle-of-stamford-bridge"
     },
     {
       "translationKey": "jelling-stones",
-      "status": "todo",
+      "status": "done",
       "category": "Runen & Symbole",
       "artistKey": "eldruna",
       "keyword_de": "jelling steine dänemark",
       "keyword_en": "jelling stones",
       "title_de": "Die Jelling-Steine: Dänemarks Taufurkunde in Stein",
-      "title_en": "The Jelling Stones: Denmark's Birth Certificate in Stone"
+      "title_en": "The Jelling Stones: Denmark's Birth Certificate in Stone",
+      "queuedDate": "2026-07-10",
+      "slug_de": "jelling-steine-daenemark",
+      "slug_en": "jelling-stones-denmark"
     },
     {
       "translationKey": "the-thing",
-      "status": "todo",
+      "status": "done",
       "category": "Alltag & Kultur",
       "artistKey": "eldruna",
       "keyword_de": "thing versammlung wikinger",
       "keyword_en": "viking thing assembly",
       "title_de": "Das Thing: Die Volksversammlung der Wikinger",
-      "title_en": "The Thing: The People's Assembly of the Vikings"
+      "title_en": "The Thing: The People's Assembly of the Vikings",
+      "queuedDate": "2026-07-10",
+      "slug_de": "thing-volksversammlung-wikinger",
+      "slug_en": "viking-thing-assembly"
     },
     {
       "translationKey": "mjolnir",
-      "status": "todo",
+      "status": "done",
       "category": "Runen & Symbole",
       "artistKey": "domsgard",
       "keyword_de": "mjölnir thors hammer bedeutung",
       "keyword_en": "mjolnir thor hammer meaning",
       "title_de": "Mjölnir: Thors Hammer als Schutzsymbol",
-      "title_en": "Mjölnir: Thor's Hammer as a Protective Symbol"
+      "title_en": "Mjölnir: Thor's Hammer as a Protective Symbol",
+      "queuedDate": "2026-07-10",
+      "slug_de": "mjoelnir-thors-hammer-schutzsymbol",
+      "slug_en": "mjolnir-thor-hammer-protective-symbol"
     },
     {
       "translationKey": "norns",
-      "status": "todo",
+      "status": "done",
       "category": "Mythologie",
       "artistKey": "eldruna",
       "keyword_de": "nornen schicksal mythologie",
       "keyword_en": "norns fate mythology",
       "title_de": "Die Nornen: Die Schicksalsweberinnen des Nordens",
-      "title_en": "The Norns: The Weavers of Fate of the North"
+      "title_en": "The Norns: The Weavers of Fate of the North",
+      "queuedDate": "2026-07-10",
+      "slug_de": "nornen-schicksalsweberinnen",
+      "slug_en": "norns-weavers-of-fate"
     },
     {
       "translationKey": "sleipnir",
