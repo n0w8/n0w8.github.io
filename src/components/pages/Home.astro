@@ -22,12 +22,15 @@ const paths = [
     desc: { de: 'Das Futhark und die verborgene Sprache des Nordens', en: 'The Futhark and the hidden language of the North' } },
   { name: 'Krieger', key: 'Krieger', icon: 'M12 2 L14 9 L21 9 L15 13 L17 21 L12 16 L7 21 L9 13 L3 9 L10 9 Z',
     desc: { de: 'Berserker, Waffen und die Kunst des Kampfes', en: 'Berserkers, weapons and the art of war' } },
+  { name: 'Rezepte', key: 'Rezepte', icon: 'M4 9 H20 M6 9 V15 A4 4 0 0 0 10 19 H14 A4 4 0 0 0 18 15 V9 M4 9 L2.6 7.2 M20 9 L21.4 7.2 M9.5 6 C9.5 4.7 10.6 4.5 10.6 3.2 M13.5 6 C13.5 4.7 14.6 4.5 14.6 3.2',
+    desc: { de: 'Met, Fladenbrot und Festmähler wie in Walhall', en: 'Mead, flatbread and feasts worthy of Valhalla' } },
 ];
 const pathTitle: Record<string, { de: string; en: string }> = {
   Geschichte: { de: 'Geschichte', en: 'History' },
   Mythologie: { de: 'Mythologie', en: 'Mythology' },
   Runen: { de: 'Runen & Symbole', en: 'Runes & Symbols' },
   Krieger: { de: 'Krieger & Schlachten', en: 'Warriors & Battles' },
+  Rezepte: { de: 'Rezepte', en: 'Recipes' },
 };
 const artistList = [artists.domsgard, artists.eldruna];
 ---
@@ -191,8 +194,8 @@ const artistList = [artists.domsgard, artists.eldruna];
   .section-head:not(.center) .eyebrow.flourish { padding-left: 1.9rem; }
   .section-head:not(.center) .eyebrow.flourish::before { content: ""; position: absolute; left: 0; top: 50%; width: 1.3rem; height: 1px; background: linear-gradient(90deg, transparent, var(--color-bronze)); }
 
-  /* ===== CATEGORY CARDS — mysterious portals ===== */
-  .cat-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 1.2rem; }
+  /* ===== CATEGORY CARDS — mysterious portals (5 Pfade, auto-fit) ===== */
+  .cat-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1.2rem; }
   .cat-card { position: relative; overflow: hidden; isolation: isolate; border: 1px solid var(--color-border); border-radius: var(--radius); padding: 1.8rem 1.4rem; background:
       radial-gradient(ellipse 120% 90% at 50% -10%, rgba(201,162,90,0.05), transparent 60%),
       linear-gradient(180deg, var(--color-bg-raised), var(--color-ink, #0c0a08)); color: inherit; transition: transform 0.28s ease, border-color 0.28s ease, box-shadow 0.28s ease; }

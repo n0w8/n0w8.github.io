@@ -1,0 +1,14 @@
+{
+  "_comment": "Zentrale Buch-Daten. Sobald das Buch auf Amazon live ist: amazonUrlDe/amazonUrlEn eintragen (eine Stelle, wirkt überall: BookPromo-Box, /kochbuch-Landingpage). Leerer String = Buttons zeigen 'Bald erhältlich'.",
+  "title_de": "Viking Feast - Das große Wikinger-Kochbuch",
+  "title_en": "Viking Feast - The Great Viking Cookbook",
+  "tagline_de": "141 Rezepte aus der Welt der Nordmänner - von Fladenbrot über Met bis zum Festmahl wie in Walhall.",
+  "tagline_en": "141 recipes from the world of the Norsemen - from flatbread and mead to a feast worthy of Valhalla.",
+  "recipeCount": 141,
+  "formats_de": "E-Book und Taschenbuch (Farbdruck)",
+  "formats_en": "Ebook and paperback (full color)",
+  "cover_de": "/images/book-cover-de.jpg",
+  "cover_en": "/images/book-cover-en.jpg",
+  "amazonUrlDe": "",
+  "amazonUrlEn": ""
+}

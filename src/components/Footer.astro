@@ -31,6 +31,7 @@ const year = new Date().getFullYear();
           <li><a href={localizedPath('/blog', lang)}>{t('footer.allArticles')}</a></li>
           <li><a href={localizedPath('/blog', lang) + '?cat=Mythologie'}>{t('nav.mythology')}</a></li>
           <li><a href={localizedPath('/blog', lang) + '?cat=Runen'}>{t('nav.runes')}</a></li>
+          <li><a href={lang === 'de' ? '/kochbuch' : '/en/cookbook'}>{lang === 'de' ? 'Das Kochbuch' : 'The Cookbook'}</a></li>
           <li><a href={localizedPath('/artists', lang)}>{t('nav.artists')}</a></li>
           <li><a href={lang === 'de' ? '/ueber-uns' : '/en/about'}>{lang === 'de' ? 'Über uns' : 'About us'}</a></li>
         </ul>

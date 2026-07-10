@@ -16,6 +16,17 @@ immer auf den passenden **Blog-Artikel** (dort Player + Spotify/YouTube + späte
 - „Wikinger Krieger & Schlachten" → "Krieger & Schlachten"
 - „Leben der Wikinger" → "Alltag & Kultur"
 
+## Rezepte + Kochbuch (NEU, 10. Juli - Zielgruppen-Erweiterung Richtung Koch-Publikum/Frauen)
+- Neues Board: "Wikinger Rezepte" (+ engl. Variante "Viking Recipes") -> Artikel category "Rezepte".
+- Rezept-Pins sind auf Pinterest GOLD (Food = groesste Nische!): Foto vom Gericht + Titel-Overlay
+  ("Met selber machen - das Original-Rezept der Wikinger"), Link auf den Rezept-Artikel.
+- In jedem Rezept-Artikel steckt die Kochbuch-Box ("Viking Feast - Das grosse Wikinger-Kochbuch",
+  141 Rezepte, Amazon-Link aus content/book.json) -> Pin -> Rezept -> Buchkauf.
+- Buch-Pins direkt (Cover + "141 Wikinger-Rezepte") auf /kochbuch verlinken: zaehlt zu den
+  max ~10% Produkt-Pins.
+- Rezept-Pins duerfen ab Start ~20-30% des Content-Mixes ausmachen (weibliche Zielgruppe,
+  hohe Save-Raten bei Food-Pins).
+
 ## Hochfahren (Ramp — Konto war 6 Monate inaktiv, kein Spam-Muster erzeugen!)
 - Woche 1–2: **7 Pins/Tag** · Woche 3–4: **10/Tag** · ab Monat 2: **15/Tag**, WENN die
   Verteilung gesund bleibt (Impressions je Pin nicht einbrechen). Nie schlagartig hochziehen.

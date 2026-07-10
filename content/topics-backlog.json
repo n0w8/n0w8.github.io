@@ -586,6 +586,61 @@
       "title_de": "L Anse aux Meadows: Der Beweis, dass Wikinger Amerika erreichten",
       "title_en": "L Anse aux Meadows: Proof the Vikings Reached America",
       "imagePolicy": "real-photo"
+    },
+    {
+      "translationKey": "viking-porridge",
+      "status": "todo",
+      "category": "Rezepte",
+      "artistKey": "eldruna",
+      "keyword_de": "wikinger gruetze porridge rezept",
+      "keyword_en": "viking porridge recipe",
+      "title_de": "Gerstengruetze wie vor 1000 Jahren: Das Wikinger-Fruehstueck",
+      "title_en": "Barley Porridge Like 1000 Years Ago: The Viking Breakfast",
+      "imagePolicy": "real-photo"
+    },
+    {
+      "translationKey": "viking-fish-recipe",
+      "status": "todo",
+      "category": "Rezepte",
+      "artistKey": "eldruna",
+      "keyword_de": "fisch raeuchern wikinger rezept",
+      "keyword_en": "viking smoked fish recipe",
+      "title_de": "Fisch wie die Wikinger: Raeuchern, Salzen, Fermentieren",
+      "title_en": "Fish the Viking Way: Smoking, Salting, Fermenting",
+      "imagePolicy": "real-photo"
+    },
+    {
+      "translationKey": "jul-feast-recipes",
+      "status": "todo",
+      "category": "Rezepte",
+      "artistKey": "domsgard",
+      "keyword_de": "julfest rezepte wikinger weihnachten",
+      "keyword_en": "yule feast recipes viking",
+      "title_de": "Das Julfest: Festessen der Wikinger zur Wintersonnenwende",
+      "title_en": "The Yule Feast: How Vikings Celebrated Midwinter",
+      "imagePolicy": "real-photo"
+    },
+    {
+      "translationKey": "viking-honey-cakes",
+      "status": "todo",
+      "category": "Rezepte",
+      "artistKey": "eldruna",
+      "keyword_de": "honigkuchen rezept wikinger",
+      "keyword_en": "viking honey cakes recipe",
+      "title_de": "Honigkuchen der Wikinger: Suesses aus dem Norden",
+      "title_en": "Viking Honey Cakes: Sweet Treats From the North",
+      "imagePolicy": "real-photo"
+    },
+    {
+      "translationKey": "viking-herbs",
+      "status": "todo",
+      "category": "Rezepte",
+      "artistKey": "eldruna",
+      "keyword_de": "wikinger kraeuter gewuerze kueche",
+      "keyword_en": "viking herbs spices cooking",
+      "title_de": "Womit wuerzten die Wikinger? Kraeuter und Gewuerze des Nordens",
+      "title_en": "How Did Vikings Season Their Food? Herbs and Spices of the North",
+      "imagePolicy": "real-photo"
     }
   ]
 }
