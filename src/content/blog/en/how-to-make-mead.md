@@ -4,7 +4,7 @@ description: "Learn how to make mead like the Vikings: a simple honey wine recip
 pubDate: 2026-07-10
 category: "Rezepte"
 tags: ["Mead", "Honey Wine", "Recipes", "Viking Kitchen", "Drinks", "Homebrewing"]
-heroImage: "/images/met-honigwein.jpg"
+heroImage: "/images/met-honigwein-v2.jpg"
 heroImageAlt: "Golden mead in a drinking horn, styled with honey and herbs"
 readingTime: 7
 translationKey: "met-honigwein"
@@ -88,7 +88,7 @@ When your first homemade mead sparkles in the glass a few months from now, you a
   "@type": "Recipe",
   "name": "How to Make Mead - Simple Viking Honey Wine Recipe",
   "description": "A simple base recipe for homemade mead (honey wine) the Viking way: just honey, water and yeast. Perfect for beginners with no brewing experience.",
-  "image": "https://blog.nordwaldrecords.com/images/met-honigwein.jpg",
+  "image": "https://blog.nordwaldrecords.com/images/met-honigwein-v2.jpg",
   "author": { "@type": "Organization", "name": "Nordweg" },
   "datePublished": "2026-07-10",
   "prepTime": "PT45M",

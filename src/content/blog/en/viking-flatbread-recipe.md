@@ -4,7 +4,7 @@ description: "An easy Viking flatbread recipe: barley flatbread baked in a cast 
 pubDate: 2026-07-10
 category: "Rezepte"
 tags: ["Flatbread", "Barley", "Bread Baking", "Viking Kitchen", "Recipes"]
-heroImage: "/images/wikinger-fladenbrot.jpg"
+heroImage: "/images/wikinger-fladenbrot-v2.jpg"
 heroImageAlt: "Freshly baked Viking barley flatbread, rustically served"
 readingTime: 7
 translationKey: "wikinger-fladenbrot"
@@ -90,7 +90,7 @@ A flatbread from the hot pan, some butter, honey, or a piece of cheese - culinar
   "@type": "Recipe",
   "name": "Viking Flatbread (Barley Flatbread from the Pan)",
   "description": "Easy Viking-style flatbread recipe: barley flatbread without yeast, baked in a cast iron pan. Ready in 30 minutes, perfect with stew, cheese and honey.",
-  "image": "https://blog.nordwaldrecords.com/images/wikinger-fladenbrot.jpg",
+  "image": "https://blog.nordwaldrecords.com/images/wikinger-fladenbrot-v2.jpg",
   "author": { "@type": "Organization", "name": "Nordweg" },
   "datePublished": "2026-07-10",
   "prepTime": "PT40M",

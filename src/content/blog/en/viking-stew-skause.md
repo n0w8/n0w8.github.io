@@ -4,7 +4,7 @@ description: "A hearty Viking stew recipe: cauldron stew (skause) with root vege
 pubDate: 2026-07-10
 category: "Rezepte"
 tags: ["Stew", "Skause", "Viking Kitchen", "Recipes", "Slow Cooking", "Barley"]
-heroImage: "/images/wikinger-eintopf.jpg"
+heroImage: "/images/wikinger-eintopf-v2.jpg"
 heroImageAlt: "Hearty Viking lamb stew with herbs in a rustic bowl"
 readingTime: 8
 translationKey: "wikinger-eintopf"
@@ -93,7 +93,7 @@ From the farms of Iceland to the trading towns of the Baltic: the cauldron stew 
   "@type": "Recipe",
   "name": "Viking Stew (Skause) - Cauldron Stew with Barley and Root Vegetables",
   "description": "Hearty Viking-style cauldron stew (skause): lamb or pork slowly braised with root vegetables, cabbage and pearl barley. Includes a slow cooker option.",
-  "image": "https://blog.nordwaldrecords.com/images/wikinger-eintopf.jpg",
+  "image": "https://blog.nordwaldrecords.com/images/wikinger-eintopf-v2.jpg",
   "author": { "@type": "Organization", "name": "Nordweg" },
   "datePublished": "2026-07-10",
   "prepTime": "PT25M",

@@ -4,7 +4,7 @@ description: "Wikinger-Eintopf Rezept: deftiger Kesseleintopf (Skause) mit Wurze
 pubDate: 2026-07-10
 category: "Rezepte"
 tags: ["Eintopf", "Skause", "Wikinger-Küche", "Rezepte", "Slow Cooking", "Gerste"]
-heroImage: "/images/wikinger-eintopf.jpg"
+heroImage: "/images/wikinger-eintopf-v2.jpg"
 heroImageAlt: "Deftiger Wikinger-Lammeintopf mit Kräutern in rustikaler Schale"
 readingTime: 8
 translationKey: "wikinger-eintopf"
@@ -94,7 +94,7 @@ Von den Höfen Islands bis zu den Handelsplätzen der Ostsee: Der Kesseleintopf 
   "@type": "Recipe",
   "name": "Wikinger-Eintopf (Skause) - Kesseleintopf mit Gerste und Wurzelgemüse",
   "description": "Deftiger Wikinger-Eintopf nach Art des Kesseleintopfs (Skause): Lamm oder Schwein mit Wurzelgemüse, Kohl und Gerstengraupen, langsam geschmort. Mit Slow-Cooker-Variante.",
-  "image": "https://blog.nordwaldrecords.com/images/wikinger-eintopf.jpg",
+  "image": "https://blog.nordwaldrecords.com/images/wikinger-eintopf-v2.jpg",
   "author": { "@type": "Organization", "name": "Nordweg" },
   "datePublished": "2026-07-10",
   "prepTime": "PT25M",

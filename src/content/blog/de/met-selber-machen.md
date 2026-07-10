@@ -4,7 +4,7 @@ description: "Met selber machen wie die Wikinger: einfaches Grundrezept für Hon
 pubDate: 2026-07-10
 category: "Rezepte"
 tags: ["Met", "Honigwein", "Rezepte", "Wikinger-Küche", "Getränke", "Selber machen"]
-heroImage: "/images/met-honigwein.jpg"
+heroImage: "/images/met-honigwein-v2.jpg"
 heroImageAlt: "Goldener Met im Trinkhorn, mit Honig und Kräutern angerichtet"
 readingTime: 7
 translationKey: "met-honigwein"
@@ -94,7 +94,7 @@ Wenn dein erster eigener Met nach ein paar Monaten im Glas funkelt, trinkst du e
   "@type": "Recipe",
   "name": "Met selber machen - Wikinger-Honigwein Grundrezept",
   "description": "Einfaches Grundrezept für selbstgemachten Met (Honigwein) wie zur Wikingerzeit: nur Honig, Wasser und Hefe. Ideal für Einsteiger ohne Brau-Erfahrung.",
-  "image": "https://blog.nordwaldrecords.com/images/met-honigwein.jpg",
+  "image": "https://blog.nordwaldrecords.com/images/met-honigwein-v2.jpg",
   "author": { "@type": "Organization", "name": "Nordweg" },
   "datePublished": "2026-07-10",
   "prepTime": "PT45M",

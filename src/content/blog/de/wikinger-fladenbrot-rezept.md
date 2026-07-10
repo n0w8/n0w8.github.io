@@ -4,7 +4,7 @@ description: "Fladenbrot aus der Pfanne wie zur Wikingerzeit: einfaches Gerstenf
 pubDate: 2026-07-10
 category: "Rezepte"
 tags: ["Fladenbrot", "Gerste", "Brot backen", "Wikinger-Küche", "Rezepte"]
-heroImage: "/images/wikinger-fladenbrot.jpg"
+heroImage: "/images/wikinger-fladenbrot-v2.jpg"
 heroImageAlt: "Frisch gebackenes Wikinger-Fladenbrot aus Gerste, rustikal angerichtet"
 readingTime: 7
 translationKey: "wikinger-fladenbrot"
@@ -92,7 +92,7 @@ Ein Fladen aus der heißen Pfanne, etwas Butter, dazu Honig oder ein Stück Käs
   "@type": "Recipe",
   "name": "Wikinger-Fladenbrot aus der Pfanne (Gerstenfladen)",
   "description": "Einfaches Fladenbrot-Rezept nach Wikinger-Art: Gerstenfladen ohne Hefe, in der Pfanne gebacken. In 30 Minuten fertig, perfekt zu Eintopf, Käse und Honig.",
-  "image": "https://blog.nordwaldrecords.com/images/wikinger-fladenbrot.jpg",
+  "image": "https://blog.nordwaldrecords.com/images/wikinger-fladenbrot-v2.jpg",
   "author": { "@type": "Organization", "name": "Nordweg" },
   "datePublished": "2026-07-10",
   "prepTime": "PT40M",
