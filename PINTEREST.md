@@ -16,6 +16,26 @@ immer auf den passenden **Blog-Artikel** (dort Player + Spotify/YouTube + späte
 - „Wikinger Krieger & Schlachten" → "Krieger & Schlachten"
 - „Leben der Wikinger" → "Alltag & Kultur"
 
+## Hochfahren (Ramp — Konto war 6 Monate inaktiv, kein Spam-Muster erzeugen!)
+- Woche 1–2: **7 Pins/Tag** · Woche 3–4: **10/Tag** · ab Monat 2: **15/Tag**, WENN die
+  Verteilung gesund bleibt (Impressions je Pin nicht einbrechen). Nie schlagartig hochziehen.
+- Mix pro Tag: ~70 % Content-Pins (Klick-Versprechen → Artikel), ~20 % Video-Pins mit Sound
+  (Shorts-Zweitverwertung → Musik direkt im Feed, 0 Klick-Hürden), ~10 % Produkt-/Merch-Pins.
+
+## Content-Pins: das Klick-Rezept (statt reiner Ästhetik-Pins)
+Alte Pins = schöne Bilder ohne Klickgrund (3,9k Saves, aber nur 181 Klicks/Monat!). Neue Regel:
+Jeder Pin verspricht eine ANTWORT, die es nur hinter dem Klick gibt:
+- Titel-Overlays wie "10 Viking Symbols and Their Real Meanings", "Norse Gods Family Tree
+  Explained", "Viking Names and Their Meanings", "How Did a Viking Get Into Valhalla?"
+- Auf dem Bild: Zahl/Frage/Versprechen + dezenter CTA ("Read the full chronicle →").
+- Beschreibung: 2–4 Sätze mit Keywords + Handlungsaufforderung + Artikel-Link.
+- Zu jedem Pin-Winkel existiert (oder entsteht) der passende Artikel im Backlog.
+
+## Merch-Pins (Spreadshirt, später eigener Shop)
+- KI-Shirt-Designs (kräftige, einfache Motive: Runen, Valknut, Raben, "Skål", Mjölnir) →
+  Spreadshirt-Upload (macht der User) → Pin zeigt Wikinger-Charakter, der das Shirt TRÄGT
+  (KI-Mockup) + CTA + Shop-Link. Max ~10 % des Pin-Mixes, sonst wirkt das Konto werblich.
+
 ## Pro Pin
 - Bild: `node scripts/lib/make-pin.mjs <hero.jpg> "<Titel>" <out.jpg>` (1000x1500, gebrandet).
   Gleicher Hero + anderer Titel = frischer Pin → ein Hero reicht für mehrere Pins.

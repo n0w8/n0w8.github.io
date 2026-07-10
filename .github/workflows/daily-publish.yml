@@ -2,14 +2,15 @@
 # läuft GRATIS auf GitHubs Servern, auch wenn der PC aus ist. Keine KI, keine API-Kosten.
 name: Daily publish from queue
 
-# Anti-Muster-Erkennung: DREI mögliche Zeitfenster + gelegentlicher Ruhetag.
-# Ein deterministischer Tages-Hash wählt Slot bzw. Pause — kein exakt gleicher
-# Veröffentlichungs-Rhythmus, wie ihn Google bei Automatisierung erkennt.
+# Anti-Muster: drei mögliche Startzeiten (natürliche Zeit-Streuung) + ~1 Ruhetag/Woche.
+# WICHTIG: Es wird HÖCHSTENS 1x pro Tag veröffentlicht — egal welcher Slot (auch verspätet)
+# feuert. Der erste Lauf des Tages postet, spätere Läufe erkennen "heute schon erledigt"
+# und überspringen. Robust gegen GitHubs Cron-Verspätungen (der frühere Bug).
 on:
   schedule:
-    - cron: '7 4 * * *'  # Slot 0 (~06:07 Wien Sommer)
-    - cron: '23 5 * * *' # Slot 1 (~07:23)
-    - cron: '41 6 * * *' # Slot 2 (~08:41)
+    - cron: '7 4 * * *'  # früher Slot (~06:07 Wien Sommer)
+    - cron: '23 8 * * *' # mittlerer Slot (~10:23)
+    - cron: '41 12 * * *' # später Slot (~14:41) — fängt verspätete/übersprungene Tage ab
   workflow_dispatch: {} # manueller "Jetzt testen"-Knopf (überspringt nie)
 
 permissions:
@@ -25,24 +26,22 @@ jobs:
         with:
           node-version: 20
 
-      # Nur der per Tages-Hash gewählte Slot veröffentlicht; ~1 Tag pro Woche Pause.
+      # Ruhetag (~1x/Woche) ODER heute schon veröffentlicht -> überspringen.
+      # KEINE Uhrzeit-Abhängigkeit mehr -> unempfindlich gegen Cron-Verspätung.
       # Manuelle Starts (workflow_dispatch) laufen immer durch.
-      - name: Variance gate (slot pick + rest day)
+      - name: Variance gate (rest day + already-published guard)
         if: github.event_name == 'schedule'
         run: |
           D=$(date -u +%Y%m%d)
-          H=$(date -u +%H)
+          TODAY=$(date -u +%Y-%m-%d)
           if [ $((10#$D % 6)) -eq 0 ]; then
             echo "SKIP=1" >> "$GITHUB_ENV"
             echo "Ruhetag — heute keine Veröffentlichung."
             exit 0
           fi
-          case "$H" in
-            04) S=0;; 05) S=1;; 06) S=2;; *) S=9;;
-          esac
-          if [ $((10#$D % 3)) -ne "$S" ]; then
+          if grep -rlq "pubDate: $TODAY" src/content/blog 2>/dev/null; then
             echo "SKIP=1" >> "$GITHUB_ENV"
-            echo "Heute ist ein anderer Zeit-Slot dran."
+            echo "Heute wurde bereits veröffentlicht — überspringe."
           fi
 
       - name: Publish one article from queue

@@ -1,0 +1,43 @@
+{
+  "_comment": "Song-zu-Artikel-Matching. Der Autoren-Agent bettet das EXAKT passende YouTube-Video (youtube-nocookie embed) im Artikel ein — Thor-Artikel bekommt den Thor-Song, nicht nur den generischen Artist-Player. youtubeId = Video-ID des offiziellen Kanals (@Domsgard / @Eldruna1337).",
+  "matches": {
+    "thor": { "artist": "domsgard", "track": "Þórr (Thor) – Wrath of the Thunder God", "youtubeId": "OordZg0Qqvg" },
+    "ragnarok": { "artist": "domsgard", "track": "Ragnarök – Epic Viking Apocalypse", "youtubeId": "CcPgk32usgo" },
+    "berserkers": { "artist": "domsgard", "track": "Berserkir Bróðir (Berserker Brother)", "youtubeId": "_gXq_6XAOvI" },
+    "valkyries": { "artist": "domsgard", "track": "Dans Valkyrjanna – The Valkyries' Ritual", "youtubeId": "oVokwoP5F_s" },
+    "yggdrasil": { "artist": "domsgard", "track": "Rætur Yggdrasils – Roots of Yggdrasil", "youtubeId": "Q5_6cAatlVQ" },
+    "valhalla": { "artist": "domsgard", "track": "Valhalla – Journey to the Golden Hall", "youtubeId": "M_A5BdYrMBg" },
+    "loki": { "artist": "domsgard", "track": "Loki – The Mischief God Awakens", "youtubeId": "olEzdA7jpxs" },
+    "odin": { "artist": "eldruna", "track": "Voor Odin (ft. Domsgard)", "youtubeId": "kx7nQNH7K6o" },
+    "freyja": { "artist": "domsgard", "track": "Freya – Epic Norse Goddess Song", "youtubeId": "KR5vpEgsD5c" },
+    "fenrir": { "artist": "domsgard", "track": "Fenrir – When Ragnarök Comes", "youtubeId": "DdfxZ9POFvY" },
+    "jotnar": { "artist": "domsgard", "track": "Jǫtunn Vaknar – The Giant Awakens", "youtubeId": "sBoUPoExEWE" },
+    "draugr": { "artist": "domsgard", "track": "Draugr – When the Viking Dead Rise", "youtubeId": "vYYCf_xdCMA" },
+    "shield-maidens": { "artist": "domsgard", "track": "Skjaldmær – Shieldmaiden Song", "youtubeId": "BMNsjEpvF2k" },
+    "leif-erikson": { "artist": "domsgard", "track": "Leifr Eiríksson", "youtubeId": "guH5sFgTSYs" },
+    "ragnar-lodbrok": { "artist": "domsgard", "track": "Ívarr hinn Beinlausi (Ivar the Boneless)", "youtubeId": "zkNzKsIwAuc" },
+    "runes": { "artist": "domsgard", "track": "Ættblóð – The Meaning of Viking Runes", "youtubeId": "PrSYAvXMrgg" },
+    "norse-gods": { "artist": "domsgard", "track": "SPØKELSE ÆSÌR – The Æsir Return", "youtubeId": "2Aqu531NXTI" },
+    "norse-gods-symbols": { "artist": "domsgard", "track": "Ættblóð – The Meaning of Viking Runes", "youtubeId": "PrSYAvXMrgg" },
+    "valknut": { "artist": "domsgard", "track": "Ættblóð – The Meaning of Viking Runes", "youtubeId": "PrSYAvXMrgg" },
+    "vegvisir": { "artist": "domsgard", "track": "Ættblóð – The Meaning of Viking Runes", "youtubeId": "PrSYAvXMrgg" },
+    "longship": { "artist": "eldruna", "track": "Wellerman – Brutal Sea Shanty", "youtubeId": "GHEUw9YnVP0" },
+    "viking-navigation": { "artist": "eldruna", "track": "Wellerman – Brutal Sea Shanty", "youtubeId": "GHEUw9YnVP0" },
+    "lindisfarne": { "artist": "domsgard", "track": "Koma Jarlsins – The Jarl's Return", "youtubeId": "PlflQ3rIjn8" },
+    "viking-weapons": { "artist": "domsgard", "track": "Járn ok þrumr (Iron and Thunder)", "youtubeId": "kQVtuTftB4s" },
+    "viking-burial": { "artist": "domsgard", "track": "Daudi – Viking Ritual Drums & Chants", "youtubeId": "CD3HtoHbLkI" },
+    "viking-food": { "artist": "eldruna", "track": "Drunken Viking", "youtubeId": "lzWErEVlxk4" },
+    "viking-daily-life": { "artist": "eldruna", "track": "Grim – Epic Viking Folk Song", "youtubeId": "3XA6Lyp8dag" },
+    "viking-women": { "artist": "domsgard", "track": "Skjaldmær – Shieldmaiden Song", "youtubeId": "BMNsjEpvF2k" },
+    "stamford-bridge": { "artist": "domsgard", "track": "Blodmark – Viking Combat Music", "youtubeId": "zzJ8R09jWjM" },
+    "great-heathen-army": { "artist": "domsgard", "track": "Svartr (Dark) – Nordic Battle Music", "youtubeId": "xYawpnjUM7M" },
+    "midgard-serpent": { "artist": "domsgard", "track": "Midgard – Epic Viking Spirit Rises", "youtubeId": "J7DvkZyhQz8" }
+  },
+  "fallback": {
+    "domsgard": { "track": "Víkingr (Full Album)", "youtubeId": "vDr3M4UDeE4" },
+    "eldruna": { "track": "Scar – Viking Battle Hymn", "youtubeId": "44mwMKOsN9I" }
+  },
+  "topicIdeasFromCatalog": [
+    "Es existieren Songs OHNE passenden Artikel — perfekte künftige Themen (Musik-First-Content): bjorn-ironside (zVM2d32DJ1U), ivar-the-boneless (zkNzKsIwAuc), floki (C0SHnQWC_Mw), helheim (5EAVh6Yckz4), niflheim (ZAtfOa94VxU), tyr (UWLBL1tTQJ4), heimdall (w6X1Z95jSg4), njord (A6DOCQIav3U), sif (RC7Gi_ls5mA), huldra (otKSHnJFsNg), garmr (dGWZ5Eu0cno), harald-fairhair (PSCwC1YcoB0), vinland (iqxfusa9KlE)"
+  ]
+}
