@@ -5,7 +5,7 @@ pubDate: 2026-07-10
 category: "Rezepte"
 tags: ["Stew", "Skause", "Viking Kitchen", "Recipes", "Slow Cooking", "Barley"]
 heroImage: "/images/wikinger-eintopf.jpg"
-heroImageAlt: "Two cast iron pots of vegetable stew over an open fire in a Viking village"
+heroImageAlt: "Hearty Viking lamb stew with herbs in a rustic bowl"
 readingTime: 8
 translationKey: "wikinger-eintopf"
 artistKey: "eldruna"
@@ -82,6 +82,8 @@ By the way, this recipe is just a taste: our cookbook **"Viking Feast"** holds 1
 ## The Dish That Carried the North
 
 From the farms of Iceland to the trading towns of the Baltic: the cauldron stew was the quiet fuel of the Viking Age. It warmed farmers after a day in the fields just as it warmed the men returning from long voyages on the [longship](/en/blog/the-longship), and at feasts in honor of the [Norse gods](/en/blog/norse-gods), the sacrificial cauldron hung over that same fire. When the scent of onions, caraway, and braised meat drifts through your kitchen, you are closer to that everyday world than any museum can take you.
+
+![Stew in cast-iron pots over an open fire at a Viking reenactment village](/images/wikinger-eintopf-wm.jpg)
 
 *Image: Monica Ferreira Ask (CC BY-SA 4.0), via Wikimedia Commons*
 

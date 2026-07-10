@@ -5,7 +5,7 @@ pubDate: 2026-07-10
 category: "Rezepte"
 tags: ["Met", "Honigwein", "Rezepte", "Wikinger-Küche", "Getränke", "Selber machen"]
 heroImage: "/images/met-honigwein.jpg"
-heroImageAlt: "Verkostungsbrett mit fünf Gläsern Met in verschiedenen Farbtönen von hellem Gold bis dunklem Rot"
+heroImageAlt: "Goldener Met im Trinkhorn, mit Honig und Kräutern angerichtet"
 readingTime: 7
 translationKey: "met-honigwein"
 artistKey: "eldruna"
@@ -83,6 +83,8 @@ Das berühmte Methorn hat übrigens einen unterschätzten Vorteil: Man kann es n
 ## Ein Trank, der Geschichten macht
 
 Wenn dein erster eigener Met nach ein paar Monaten im Glas funkelt, trinkst du ein Stück Kulturgeschichte: denselben Trank, der in Walhall aus Hörnern floss, den Odin für die Dichtkunst stahl und der in den Hallen der Jarle zu Ehren der [nordischen Götter](/blog/nordische-goetter) erhoben wurde. Skål - und denk daran: Die besten Geschichten schreibt man nach dem ersten Horn, nicht nach dem fünften.
+
+![Verkostung verschiedener Met-Sorten auf einem Holzbrett](/images/met-honigwein-wm.jpg)
 
 *Bildquelle: Ser Amantio di Nicolao (CC BY-SA 4.0), via Wikimedia Commons*
 

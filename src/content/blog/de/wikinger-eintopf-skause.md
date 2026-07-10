@@ -5,7 +5,7 @@ pubDate: 2026-07-10
 category: "Rezepte"
 tags: ["Eintopf", "Skause", "Wikinger-Küche", "Rezepte", "Slow Cooking", "Gerste"]
 heroImage: "/images/wikinger-eintopf.jpg"
-heroImageAlt: "Zwei gusseiserne Töpfe mit Gemüseeintopf über offenem Feuer in einem Wikingerdorf"
+heroImageAlt: "Deftiger Wikinger-Lammeintopf mit Kräutern in rustikaler Schale"
 readingTime: 8
 translationKey: "wikinger-eintopf"
 artistKey: "eldruna"
@@ -83,6 +83,8 @@ Dieses Rezept ist übrigens nur eine Kostprobe: In unserem Kochbuch **"Viking Fe
 ## Das Gericht, das den Norden trug
 
 Von den Höfen Islands bis zu den Handelsplätzen der Ostsee: Der Kesseleintopf war der stille Treibstoff der Wikingerzeit. Er wärmte die Bauern nach der Feldarbeit ebenso wie die Männer, die von langen Fahrten mit dem [Langschiff](/blog/das-langschiff) heimkehrten, und bei Festen zu Ehren der [nordischen Götter](/blog/nordische-goetter) hing über demselben Feuer der Opferkessel. Wenn bei dir zuhause der Duft von Zwiebeln, Kümmel und geschmortem Fleisch durch die Küche zieht, bist du diesem Alltag näher, als es jedes Museum vermitteln kann.
+
+![Eintopf in Gusseisentöpfen über offenem Feuer in einem Wikinger-Nachbaudorf](/images/wikinger-eintopf-wm.jpg)
 
 *Bildquelle: Monica Ferreira Ask (CC BY-SA 4.0), via Wikimedia Commons*
 

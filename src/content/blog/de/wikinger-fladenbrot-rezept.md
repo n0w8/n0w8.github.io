@@ -5,7 +5,7 @@ pubDate: 2026-07-10
 category: "Rezepte"
 tags: ["Fladenbrot", "Gerste", "Brot backen", "Wikinger-Küche", "Rezepte"]
 heroImage: "/images/wikinger-fladenbrot.jpg"
-heroImageAlt: "Zwei dünne nordische Fladenbrote nebeneinander auf einem Holztisch"
+heroImageAlt: "Frisch gebackenes Wikinger-Fladenbrot aus Gerste, rustikal angerichtet"
 readingTime: 7
 translationKey: "wikinger-fladenbrot"
 artistKey: "eldruna"
@@ -81,6 +81,8 @@ Wenn dir dieses Rezept Lust auf mehr gemacht hat: Es ist eine Kostprobe aus unse
 ## Brot, das verbindet
 
 Ein Fladen aus der heißen Pfanne, etwas Butter, dazu Honig oder ein Stück Käse - viel näher kannst du dem Alltag eines nordischen Hofes vor tausend Jahren kulinarisch kaum kommen. Während in den Sagas Könige und [Krieger](/blog/berserker-wikinger) die großen Auftritte haben, war es dieses unscheinbare Brot, das den Norden tatsächlich am Leben hielt. Backe es einmal selbst, und du verstehst, warum man es den Toten mit auf die letzte Reise gab.
+
+![Dünne nordische Fladenbrote auf Holz](/images/wikinger-fladenbrot-wm.jpg)
 
 *Bildquelle: Mikael Lindmark (CC BY-SA 2.5), via Wikimedia Commons*
 

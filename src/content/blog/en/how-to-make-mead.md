@@ -5,7 +5,7 @@ pubDate: 2026-07-10
 category: "Rezepte"
 tags: ["Mead", "Honey Wine", "Recipes", "Viking Kitchen", "Drinks", "Homebrewing"]
 heroImage: "/images/met-honigwein.jpg"
-heroImageAlt: "Tasting flight of five glasses of mead in shades from pale gold to deep red"
+heroImageAlt: "Golden mead in a drinking horn, styled with honey and herbs"
 readingTime: 7
 translationKey: "met-honigwein"
 artistKey: "eldruna"
@@ -77,6 +77,8 @@ By the way: this base recipe is just a taste. Our cookbook **"Viking Feast"** ho
 ## A Drink That Makes Stories
 
 When your first homemade mead sparkles in the glass a few months from now, you are drinking a piece of cultural history: the same drink that flowed from horns in Valhalla, that Odin stole for the sake of poetry, and that was raised in the halls of the jarls in honor of the [Norse gods](/en/blog/norse-gods). Skal - and remember: the best stories are written after the first horn, not after the fifth.
+
+![A tasting flight of different meads on a wooden board](/images/met-honigwein-wm.jpg)
 
 *Image: Ser Amantio di Nicolao (CC BY-SA 4.0), via Wikimedia Commons*
 

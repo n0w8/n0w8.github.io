@@ -5,7 +5,7 @@ pubDate: 2026-07-10
 category: "Rezepte"
 tags: ["Flatbread", "Barley", "Bread Baking", "Viking Kitchen", "Recipes"]
 heroImage: "/images/wikinger-fladenbrot.jpg"
-heroImageAlt: "Two thin Nordic flatbreads side by side on a wooden table"
+heroImageAlt: "Freshly baked Viking barley flatbread, rustically served"
 readingTime: 7
 translationKey: "wikinger-fladenbrot"
 artistKey: "eldruna"
@@ -79,6 +79,8 @@ If this recipe has whet your appetite: it is a small taste of our collection. Th
 ## Bread That Connects
 
 A flatbread from the hot pan, some butter, honey, or a piece of cheese - culinarily, you can hardly get closer to daily life on a Norse farm a thousand years ago. While kings and [warriors](/en/blog/viking-berserkers) get the grand scenes in the sagas, it was this humble bread that actually kept the North alive. Bake it once yourself, and you will understand why it was given to the dead for their final journey.
+
+![Thin Nordic flatbreads on wood](/images/wikinger-fladenbrot-wm.jpg)
 
 *Image: Mikael Lindmark (CC BY-SA 2.5), via Wikimedia Commons*
 
