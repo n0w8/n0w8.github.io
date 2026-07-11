@@ -352,13 +352,16 @@
     },
     {
       "translationKey": "sleipnir",
-      "status": "todo",
+      "status": "done",
       "category": "Mythologie",
       "artistKey": "eldruna",
       "keyword_de": "sleipnir odins pferd",
       "keyword_en": "sleipnir odin horse",
       "title_de": "Sleipnir: Odins achtbeiniges Ross",
-      "title_en": "Sleipnir: Odin's Eight-Legged Steed"
+      "title_en": "Sleipnir: Odin's Eight-Legged Steed",
+      "queuedDate": "2026-07-11",
+      "slug_de": "sleipnir-odins-pferd",
+      "slug_en": "sleipnir-odin-horse"
     },
     {
       "translationKey": "viking-navigation",
@@ -372,13 +375,16 @@
     },
     {
       "translationKey": "varangian-guard",
-      "status": "todo",
+      "status": "done",
       "category": "Krieger & Schlachten",
       "artistKey": "domsgard",
       "keyword_de": "warägergarde byzanz",
       "keyword_en": "varangian guard byzantium",
       "title_de": "Die Warägergarde: Wikinger im Dienst von Byzanz",
-      "title_en": "The Varangian Guard: Vikings in the Service of Byzantium"
+      "title_en": "The Varangian Guard: Vikings in the Service of Byzantium",
+      "queuedDate": "2026-07-11",
+      "slug_de": "waraegergarde-byzanz",
+      "slug_en": "varangian-guard-byzantium"
     },
     {
       "translationKey": "great-heathen-army",
@@ -512,14 +518,17 @@
     },
     {
       "translationKey": "oseberg-ship",
-      "status": "todo",
+      "status": "done",
       "category": "Geschichte",
       "artistKey": "eldruna",
       "keyword_de": "oseberg schiff",
       "keyword_en": "oseberg ship",
       "title_de": "Das Oseberg-Schiff: Der praechtigste Wikinger-Fund der Welt",
       "title_en": "The Oseberg Ship: The Most Magnificent Viking Find Ever Made",
-      "imagePolicy": "real-photo"
+      "imagePolicy": "real-photo",
+      "queuedDate": "2026-07-11",
+      "slug_de": "oseberg-schiff",
+      "slug_en": "oseberg-ship"
     },
     {
       "translationKey": "gokstad-ship",
@@ -556,14 +565,17 @@
     },
     {
       "translationKey": "birka",
-      "status": "todo",
+      "status": "done",
       "category": "Geschichte",
       "artistKey": "domsgard",
       "keyword_de": "birka schweden wikinger",
       "keyword_en": "birka sweden vikings",
       "title_de": "Birka: Schwedens erste Stadt und ihre Kriegerin",
       "title_en": "Birka: Sweden First Town and Its Warrior Woman",
-      "imagePolicy": "real-photo"
+      "imagePolicy": "real-photo",
+      "queuedDate": "2026-07-11",
+      "slug_de": "birka-schwedens-erste-stadt",
+      "slug_en": "birka-swedens-first-town"
     },
     {
       "translationKey": "trelleborg-fortresses",
@@ -589,25 +601,31 @@
     },
     {
       "translationKey": "viking-porridge",
-      "status": "todo",
+      "status": "done",
       "category": "Rezepte",
       "artistKey": "eldruna",
       "keyword_de": "wikinger gruetze porridge rezept",
       "keyword_en": "viking porridge recipe",
       "title_de": "Gerstengruetze wie vor 1000 Jahren: Das Wikinger-Fruehstueck",
       "title_en": "Barley Porridge Like 1000 Years Ago: The Viking Breakfast",
-      "imagePolicy": "real-photo"
+      "imagePolicy": "real-photo",
+      "queuedDate": "2026-07-11",
+      "slug_de": "wikinger-gerstengruetze-mit-honig",
+      "slug_en": "viking-barley-porridge"
     },
     {
       "translationKey": "viking-fish-recipe",
-      "status": "todo",
+      "status": "done",
       "category": "Rezepte",
       "artistKey": "eldruna",
       "keyword_de": "fisch raeuchern wikinger rezept",
       "keyword_en": "viking smoked fish recipe",
       "title_de": "Fisch wie die Wikinger: Raeuchern, Salzen, Fermentieren",
       "title_en": "Fish the Viking Way: Smoking, Salting, Fermenting",
-      "imagePolicy": "real-photo"
+      "imagePolicy": "real-photo",
+      "queuedDate": "2026-07-11",
+      "slug_de": "fisch-raeuchern-wikinger-rezept",
+      "slug_en": "viking-smoked-fish-recipe"
     },
     {
       "translationKey": "jul-feast-recipes",
