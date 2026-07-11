@@ -13,6 +13,10 @@ on:
     - cron: '41 12 * * *' # später Slot (~14:41) — fängt verspätete/übersprungene Tage ab
   workflow_dispatch: {} # manueller "Jetzt testen"-Knopf (überspringt nie)
 
+concurrency:
+  group: ftp-deploy
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
@@ -56,7 +60,33 @@ jobs:
           git add -A
           if git diff --cached --quiet; then
             echo "Queue leer — nichts zu veröffentlichen."
+            echo "SKIP=1" >> "$GITHUB_ENV"
           else
             git commit -m "Auto-publish: daily article from queue"
             git push
           fi
+
+      # WICHTIG: Ein Push mit dem Standard-GITHUB_TOKEN löst KEINE anderen Workflows aus
+      # (GitHub-Schutz gegen Endlosschleifen). Deshalb deployt dieser Workflow selbst
+      # per FTP, statt sich auf deploy-ftp.yml zu verlassen.
+      - name: Install
+        if: env.SKIP != '1'
+        run: npm ci
+
+      - name: Ensure native deps built
+        if: env.SKIP != '1'
+        run: npm rebuild sharp esbuild
+
+      - name: Build
+        if: env.SKIP != '1'
+        run: npm run build
+
+      - name: FTP sync to easyname
+        if: env.SKIP != '1'
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: e111595-ftp.services.easyname.eu
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          local-dir: ./dist/
+          server-dir: nordweg-blog/
