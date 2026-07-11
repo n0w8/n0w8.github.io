@@ -1,7 +1,7 @@
 ---
 title: "Loki: Der Trickster unter den nordischen Göttern"
 description: "Loki Gott der nordischen Mythologie: Riesenblut, Sleipnirs wahre Geburt, Baldrs Tod und die Fesselung mit der Giftschlange – die Wahrheit hinter dem Trickster."
-pubDate: 2099-01-01
+pubDate: 2026-07-11
 category: "Mythologie"
 tags: ["Loki", "Trickster", "Sleipnir", "Fenrir", "Mythologie", "Nordische Götter"]
 heroImage: "/images/loki.jpg"

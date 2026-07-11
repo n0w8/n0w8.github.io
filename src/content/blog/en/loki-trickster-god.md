@@ -1,7 +1,7 @@
 ---
 title: "Loki: The Trickster Among the Norse Gods"
 description: "Loki trickster god of Norse myth: his giant blood, the true story of Sleipnir's birth, his role in Baldr's death, and his punishment under a venomous serpent."
-pubDate: 2099-01-01
+pubDate: 2026-07-11
 category: "Mythologie"
 tags: ["Loki", "Trickster", "Sleipnir", "Fenrir", "Norse Mythology", "Norse Gods"]
 heroImage: "/images/loki.jpg"
