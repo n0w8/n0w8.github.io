@@ -1,7 +1,7 @@
 ---
 title: "Valhalla: The Hall of the Fallen Warriors"
 description: "Valhalla norse mythology explained: what Grímnismál and the Prose Edda really say about the 540 doors, the einherjar, and why Valhalla was only one afterlife."
-pubDate: 2099-01-01
+pubDate: 2026-07-12
 category: "Mythologie"
 tags: ["Valhalla", "Odin", "Einherjar", "Norse Mythology", "Norse Gods", "Ragnarok"]
 heroImage: "/images/valhalla.jpg"

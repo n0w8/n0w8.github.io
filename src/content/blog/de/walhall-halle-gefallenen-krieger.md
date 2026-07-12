@@ -1,7 +1,7 @@
 ---
 title: "Walhall: Die Halle der gefallenen Krieger"
 description: "Walhalla Walhall: Was Grímnismál und die Prosa-Edda über 540 Tore, die Einherjer und Odins Halle erzählen – und warum sie nur eines von drei Totenreichen war."
-pubDate: 2099-01-01
+pubDate: 2026-07-12
 category: "Mythologie"
 tags: ["Walhall", "Walhalla", "Odin", "Einherjer", "Mythologie", "Nordische Götter"]
 heroImage: "/images/valhalla.jpg"
