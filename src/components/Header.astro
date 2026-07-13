@@ -15,6 +15,7 @@ const nav = [
   { href: localizedPath('/blog', lang) + '?cat=Mythologie', label: t('nav.mythology') },
   { href: localizedPath('/blog', lang) + '?cat=Runen', label: t('nav.runes') },
   { href: localizedPath('/blog', lang) + '?cat=Rezepte', label: t('nav.recipes') },
+  { href: lang === 'de' ? '/kochbuch' : '/en/cookbook', label: t('nav.cookbook') },
   { href: localizedPath('/artists', lang), label: t('nav.artists') },
 ];
 const path = Astro.url.pathname;
@@ -235,7 +236,7 @@ const switchHref = altUrl ?? localizedPath(currentClean, otherLang);
     .header-right { gap: 0.7rem; }
     .nav { gap: 0.95rem; }
     /* tightest screens: drop Artists (6) too - Chronik + Rezepte bleiben */
-    .nav-link:nth-child(6) { display: none; }
+    .nav-link:nth-child(7) { display: none; }
     /* hide the globe on the tightest screens so the pill keeps its breathing room */
     .lang-globe { display: none; }
   }
