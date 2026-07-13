@@ -1,7 +1,7 @@
 ---
 title: "Leif Erikson: The Viking Who Found America"
 description: "Leif Erikson reached America around 1000 CE, roughly 500 years before Columbus. What the Vinland sagas claim, and what L'Anse aux Meadows actually proves."
-pubDate: 2099-01-01
+pubDate: 2026-07-13
 category: "Geschichte"
 tags: ["Leif Erikson", "Vinland", "Greenland", "L'Anse aux Meadows", "Discovery of America", "Sagas"]
 heroImage: "/images/leif-erikson.jpg"

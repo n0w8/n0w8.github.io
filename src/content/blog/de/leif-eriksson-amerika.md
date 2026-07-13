@@ -1,7 +1,7 @@
 ---
 title: "Leif Eriksson: Der Wikinger, der Amerika entdeckte"
 description: "Leif Eriksson erreichte um das Jahr 1000 Amerika – rund 500 Jahre vor Kolumbus. Was die Vinland-Sagas erzählen und was L'Anse aux Meadows archäologisch belegt."
-pubDate: 2099-01-01
+pubDate: 2026-07-13
 category: "Geschichte"
 tags: ["Leif Eriksson", "Vinland", "Grönland", "L'Anse aux Meadows", "Entdeckung Amerikas", "Sagas"]
 heroImage: "/images/leif-erikson.jpg"
