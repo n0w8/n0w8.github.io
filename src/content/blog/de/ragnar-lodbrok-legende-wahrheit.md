@@ -1,7 +1,7 @@
 ---
 title: "Ragnar Lodbrok: Legende und Wahrheit"
 description: "Ragnar Lodbrok gilt als legendärer Wikingerkönig. Was Sagas erzählen, was Chroniken über seine Söhne belegen und wo Legende und Wahrheit auseinandergehen."
-pubDate: 2099-01-01
+pubDate: 2026-07-14
 category: "Geschichte"
 tags: ["Ragnar Lodbrok", "Wikingerkönige", "Great Heathen Army", "Ivar der Knochenlose", "Sagas", "Angelsächsische Chronik"]
 heroImage: "/images/ragnar-lodbrok.jpg"

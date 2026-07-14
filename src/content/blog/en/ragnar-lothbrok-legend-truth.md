@@ -1,7 +1,7 @@
 ---
 title: "Ragnar Lothbrok: Legend and Truth"
 description: "Ragnar Lothbrok is Viking legend's most famous king. What sagas claim about him, what chronicles confirm about his sons, and where legend and truth diverge."
-pubDate: 2099-01-01
+pubDate: 2026-07-14
 category: "Geschichte"
 tags: ["Ragnar Lothbrok", "Viking Kings", "Great Heathen Army", "Ivar the Boneless", "Sagas", "Anglo-Saxon Chronicle"]
 heroImage: "/images/ragnar-lodbrok.jpg"
