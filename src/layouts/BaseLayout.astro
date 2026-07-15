@@ -81,6 +81,8 @@ const enHref = new URL(lang === 'en' ? Astro.url.pathname : (altUrl ?? '/en/'), 
       ...(publishedTime ? { datePublished: publishedTime.toISOString() } : {}),
       publisher: { '@type': 'Organization', name: siteName },
     })} />
+    <!-- Vercel Web Analytics (zaehlt erst, wenn die Domain ueber Vercel laeuft) -->
+    <script defer src="/_vercel/insights/script.js"></script>
   </head>
   <body>
     <Atmosphere />
