@@ -1,7 +1,7 @@
 ---
 title: "Shield-Maidens: Did Viking Women Really Fight?"
 description: "Did Viking shield-maidens actually exist? What Saxo Grammaticus, the Hervarar saga, and the famous Birka Bj 581 grave really tell us about women in battle."
-pubDate: 2099-01-01
+pubDate: 2026-07-15
 category: "Krieger & Schlachten"
 tags: ["Shield-Maidens", "Viking Women", "Birka", "Hervarar Saga", "Saxo Grammaticus", "Warriors"]
 heroImage: "/images/shield-maidens.jpg"

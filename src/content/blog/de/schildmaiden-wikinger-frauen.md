@@ -1,7 +1,7 @@
 ---
 title: "Schildmaiden: Kämpften Wikinger-Frauen wirklich?"
 description: "Kämpften Schildmaiden wirklich? Was Saxo Grammaticus, die Hervarar-Saga und das Birka-Grab Bj 581 über Wikinger-Frauen im Kampf tatsächlich belegen können."
-pubDate: 2099-01-01
+pubDate: 2026-07-15
 category: "Krieger & Schlachten"
 tags: ["Schildmaiden", "Wikinger Frauen", "Birka", "Hervarar-Saga", "Saxo Grammaticus", "Krieger"]
 heroImage: "/images/shield-maidens.jpg"
