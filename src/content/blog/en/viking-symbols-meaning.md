@@ -1,7 +1,7 @@
 ---
 title: "Viking Symbols and Their Meaning"
 description: "Viking symbols and their meaning explained: Mjölnir, Valknut, Vegvísir and more — what's actually confirmed by archaeology and what came centuries later."
-pubDate: 2099-01-01
+pubDate: 2026-07-17
 category: "Runen & Symbole"
 tags: ["Viking Symbols", "Mjolnir", "Valknut", "Vegvisir", "Norse Mythology", "Runes"]
 heroImage: "/images/norse-gods-symbols.jpg"

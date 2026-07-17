@@ -1,7 +1,7 @@
 ---
 title: "Wikinger-Symbole und ihre Bedeutung"
 description: "Wikinger-Symbole und ihre Bedeutung: Mjölnir, Valknut, Vegvísir und mehr – was archäologisch aus der Wikingerzeit belegt ist und was erst später entstand."
-pubDate: 2099-01-01
+pubDate: 2026-07-17
 category: "Runen & Symbole"
 tags: ["Wikinger Symbole", "Mjölnir", "Valknut", "Vegvísir", "Nordische Mythologie", "Runen"]
 heroImage: "/images/norse-gods-symbols.jpg"
