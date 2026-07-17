@@ -14,7 +14,7 @@ author: "Die Nordweg-Redaktion"
 draft: false
 ---
 
-Kein Tier hat den Speiseplan des Nordens so geprägt wie der Lachs. Er wurde geräuchert, getrocknet, gesalzen - und frisch aus dem Fjord einfach über dem Feuer gegart. Unsere Version aus **Viking Feast** kombiniert ihn mit den zwei großen Aromen der Wikingerküche: Honig und Senf. In 30 Minuten steht er auf dem Tisch.
+Kein Tier hat den Speiseplan des Nordens so geprägt wie der Lachs. Er wurde geräuchert, getrocknet, gesalzen - und frisch aus dem Fjord einfach über dem Feuer gegart. Unsere Version aus **Wikinger Festmahl** kombiniert ihn mit den zwei großen Aromen der Wikingerküche: Honig und Senf. In 30 Minuten steht er auf dem Tisch.
 
 ![Lachs mit Honig-Senf-Kruste, frisch aus dem Ofen](/images/rezepte/recipe-honey-salmon-2.webp)
 

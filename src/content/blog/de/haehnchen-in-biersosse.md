@@ -14,7 +14,7 @@ author: "Die Nordweg-Redaktion"
 draft: false
 ---
 
-Nicht jeder Tag war ein Festtag. An gewöhnlichen Abenden kam im Norden auf den Tisch, was Hof und Vorratskammer hergaben - und Bier gehörte immer dazu. In diesem Rezept aus **Viking Feast** wird daraus eine dunkle, malzige Schmorsoße, die das Hähnchen butterzart macht. Ehrliche Küche mit vier Zutaten, die fast von selbst kocht.
+Nicht jeder Tag war ein Festtag. An gewöhnlichen Abenden kam im Norden auf den Tisch, was Hof und Vorratskammer hergaben - und Bier gehörte immer dazu. In diesem Rezept aus **Wikinger Festmahl** wird daraus eine dunkle, malzige Schmorsoße, die das Hähnchen butterzart macht. Ehrliche Küche mit vier Zutaten, die fast von selbst kocht.
 
 ![Hähnchen in Biersoße, serviert mit Soße](/images/rezepte/recipe-beer-chicken-2.webp)
 

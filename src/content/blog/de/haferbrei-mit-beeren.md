@@ -14,7 +14,7 @@ author: "Die Nordweg-Redaktion"
 draft: false
 ---
 
-Bevor ein Tag auf dem Feld, an Bord oder im Schildwall begann, stand im Norden ein Brei auf dem Feuer. Hafer machte satt und stark, wilde Beeren brachten Süße und Farbe - Porridge ist keine moderne Erfindung, sondern ein Erbe des Nordens. Das Rezept aus **Viking Feast** braucht zehn Minuten und macht jedes Frühstück ein bisschen epischer.
+Bevor ein Tag auf dem Feld, an Bord oder im Schildwall begann, stand im Norden ein Brei auf dem Feuer. Hafer machte satt und stark, wilde Beeren brachten Süße und Farbe - Porridge ist keine moderne Erfindung, sondern ein Erbe des Nordens. Das Rezept aus **Wikinger Festmahl** braucht zehn Minuten und macht jedes Frühstück ein bisschen epischer.
 
 ![Haferbrei mit Beeren und Honig, von oben](/images/rezepte/recipe-porridge-2.webp)
 

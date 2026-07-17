@@ -14,7 +14,7 @@ author: "Die Nordweg-Redaktion"
 draft: false
 ---
 
-Zucker kannte der Norden nicht - wer süß backen wollte, brauchte Honig. Und genau deshalb schmeckt dieser Kuchen so, wie Süßes vor tausend Jahren geschmeckt hat: warm, blumig, ehrlich. Fünf Zutaten, eine Kastenform, keine Schnörkel. Direkt aus unserem Kochbuch **Viking Feast**.
+Zucker kannte der Norden nicht - wer süß backen wollte, brauchte Honig. Und genau deshalb schmeckt dieser Kuchen so, wie Süßes vor tausend Jahren geschmeckt hat: warm, blumig, ehrlich. Fünf Zutaten, eine Kastenform, keine Schnörkel. Direkt aus unserem Kochbuch **Wikinger Festmahl**.
 
 ![Honigkuchen, angeschnitten](/images/rezepte/recipe-honey-cake-2.webp)
 

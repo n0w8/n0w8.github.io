@@ -69,7 +69,7 @@ Für 4 bis 6 Portionen:
 - **Vorkochen lohnt sich:** Wie jeder gute Eintopf schmeckt Skause aufgewärmt am nächsten Tag noch runder.
 - **Auf Vorrat:** Der Eintopf lässt sich problemlos portionsweise einfrieren und hält sich so mehrere Monate. Beim Aufwärmen einen Schluck Wasser zugeben, weil die Graupen nachquellen - dann steht das Langhaus-Essen auch an stressigen Tagen in 10 Minuten auf dem Tisch.
 
-Dieses Rezept ist übrigens nur eine Kostprobe: In unserem Kochbuch **"Viking Feast - Das große Wikinger-Kochbuch"** warten 141 Rezepte aus der nordischen Küche auf dich - von weiteren Kesselgerichten über Festtagsbraten bis zu Brot und Met. [Zum Kochbuch](/kochbuch)
+Dieses Rezept ist übrigens nur eine Kostprobe: In unserem Kochbuch **"Wikinger Festmahl - Das große Wikinger-Kochbuch"** warten 141 Rezepte aus der nordischen Küche auf dich - von weiteren Kesselgerichten über Festtagsbraten bis zu Brot und Met. [Zum Kochbuch](/kochbuch)
 
 | In den Wikinger-Kessel | Erst nach 1500 nach Europa |
 |---|---|

@@ -14,7 +14,7 @@ author: "Die Nordweg-Redaktion"
 draft: false
 ---
 
-Wenn in den Sagas ein Festmahl beschrieben wird, dann dampft in der Mitte der Tafel ein Braten. Wildschwein war für die Nordmänner Jagdbeute und Festessen zugleich - und mit einer Glasur aus Honig, ihrem "flüssigen Gold", wird daraus ein Gericht, das auch heute jede Tafel in eine Methalle verwandelt. Dieses Rezept stammt aus unserem Kochbuch **Viking Feast** und ist bewusst so gehalten, dass es in jeder modernen Küche gelingt.
+Wenn in den Sagas ein Festmahl beschrieben wird, dann dampft in der Mitte der Tafel ein Braten. Wildschwein war für die Nordmänner Jagdbeute und Festessen zugleich - und mit einer Glasur aus Honig, ihrem "flüssigen Gold", wird daraus ein Gericht, das auch heute jede Tafel in eine Methalle verwandelt. Dieses Rezept stammt aus unserem Kochbuch **Wikinger Festmahl** und ist bewusst so gehalten, dass es in jeder modernen Küche gelingt.
 
 ![Wildschweinbraten mit Honigglasur, angeschnitten serviert](/images/rezepte/recipe-boar-roast-2.webp)
 

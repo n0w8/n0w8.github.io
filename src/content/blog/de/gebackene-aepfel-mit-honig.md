@@ -14,7 +14,7 @@ author: "Die Nordweg-Redaktion"
 draft: false
 ---
 
-In der nordischen Mythologie hütet die Göttin Idun die Äpfel der Jugend - wer von ihnen isst, altert nicht. Unsere Version kann das leider nicht versprechen, aber sie füllt das Haus mit einem Duft nach Honig, Zimt und gerösteten Nüssen, für den es sich zu leben lohnt. Ein Dessert aus **Viking Feast**, das in 25 Minuten fertig ist.
+In der nordischen Mythologie hütet die Göttin Idun die Äpfel der Jugend - wer von ihnen isst, altert nicht. Unsere Version kann das leider nicht versprechen, aber sie füllt das Haus mit einem Duft nach Honig, Zimt und gerösteten Nüssen, für den es sich zu leben lohnt. Ein Dessert aus **Wikinger Festmahl**, das in 25 Minuten fertig ist.
 
 ![Gebackene Äpfel mit geschmolzenem Honig](/images/rezepte/recipe-baked-apples-2.webp)
 

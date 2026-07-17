@@ -14,7 +14,7 @@ author: "Die Nordweg-Redaktion"
 draft: false
 ---
 
-Ein Topf, ein Feuer, Zeit - mehr brauchte die Küche des Nordens nicht. Dieser Lamm-Eintopf ist das vielleicht ehrlichste Gericht der Wikingerzeit: Fleisch vom eigenen Hof, Wurzelgemüse aus dem Garten und ein Strauß frischer Kräuter, der kurz vor dem Servieren alles zum Leben erweckt. Aus unserem Kochbuch **Viking Feast**, für die moderne Küche übersetzt.
+Ein Topf, ein Feuer, Zeit - mehr brauchte die Küche des Nordens nicht. Dieser Lamm-Eintopf ist das vielleicht ehrlichste Gericht der Wikingerzeit: Fleisch vom eigenen Hof, Wurzelgemüse aus dem Garten und ein Strauß frischer Kräuter, der kurz vor dem Servieren alles zum Leben erweckt. Aus unserem Kochbuch **Wikinger Festmahl**, für die moderne Küche übersetzt.
 
 ![Lamm-Eintopf im Topf, von oben fotografiert](/images/rezepte/recipe-lamb-stew-2.webp)
 

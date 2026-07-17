@@ -67,7 +67,7 @@ Noch ein Wort zum Gerstenmehl, falls du es zum ersten Mal verwendest: Es schmeck
 - **Aufbewahren:** Luftdicht verpackt halten die Fladen 2 bis 3 Tage. Kurz in der Pfanne aufgefrischt schmecken sie wie neu.
 - **Fladen zu trocken oder brüchig?** Dann war entweder zu wenig Wasser im Teig oder die Pfanne zu lange im Einsatz. Gerstenteig verzeiht ein bisschen mehr Feuchtigkeit - lieber einen Hauch klebriger starten und beim Ausrollen nachmehlen.
 
-Wenn dir dieses Rezept Lust auf mehr gemacht hat: Es ist eine Kostprobe aus unserer Sammlung. Im Kochbuch **"Viking Feast - Das große Wikinger-Kochbuch"** findest du 141 Rezepte der nordischen Küche - vom Honigbrot über Festtagsgerichte bis zum passenden Met. [Zum Kochbuch](/kochbuch)
+Wenn dir dieses Rezept Lust auf mehr gemacht hat: Es ist eine Kostprobe aus unserer Sammlung. Im Kochbuch **"Wikinger Festmahl - Das große Wikinger-Kochbuch"** findest du 141 Rezepte der nordischen Küche - vom Honigbrot über Festtagsgerichte bis zum passenden Met. [Zum Kochbuch](/kochbuch)
 
 | Getreide | Anbau im Norden | Typische Verwendung zur Wikingerzeit |
 |---|---|---|

@@ -69,7 +69,7 @@ Dazu an Ausrüstung: ein Gärbehälter mit mindestens 6 Litern Volumen (Glasball
 
 Das berühmte Methorn hat übrigens einen unterschätzten Vorteil: Man kann es nicht abstellen. Wer ein gefülltes Horn bekam, musste trinken oder weiterreichen - und genau darum ging es. Beim feierlichen Umtrunk, den die Sagas beschreiben, wanderte das Horn durch die ganze Halle, und mit jedem Umlauf wurde ein Trinkspruch ausgebracht: auf die Götter, auf gefallene Freunde, auf gegebene Schwüre. Wenn du deinen ersten selbstgemachten Met im Freundeskreis öffnest, probiere es einmal genauso. Ein Trinkspruch pro Runde, jeder kommt dran - du wirst überrascht sein, wie schnell aus einem Getränk ein Abend voller Geschichten wird.
 
-Übrigens: Dieses Grundrezept ist nur eine Kostprobe. In unserem Kochbuch **"Viking Feast - Das große Wikinger-Kochbuch"** warten 141 Rezepte aus der Welt der Nordmänner auf dich - von Festtagsbraten über Eintöpfe bis zu weiteren Met-Varianten mit Beeren und Kräutern. [Zum Kochbuch](/kochbuch)
+Übrigens: Dieses Grundrezept ist nur eine Kostprobe. In unserem Kochbuch **"Wikinger Festmahl - Das große Wikinger-Kochbuch"** warten 141 Rezepte aus der Welt der Nordmänner auf dich - von Festtagsbraten über Eintöpfe bis zu weiteren Met-Varianten mit Beeren und Kräutern. [Zum Kochbuch](/kochbuch)
 
 | | Met | Bier | Wein |
 |---|---|---|---|
