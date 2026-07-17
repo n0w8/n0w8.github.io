@@ -30,19 +30,15 @@ jobs:
         with:
           node-version: 20
 
-      # Ruhetag (~1x/Woche) ODER heute schon veröffentlicht -> überspringen.
-      # KEINE Uhrzeit-Abhängigkeit mehr -> unempfindlich gegen Cron-Verspätung.
+      # Genau 1 Veröffentlichung pro Tag: der erste Lauf des Tages postet, spätere
+      # Slots erkennen "heute schon erledigt" und überspringen. KEINE Uhrzeit-Abhängigkeit
+      # -> unempfindlich gegen Cron-Verspätung. KEIN Ruhetag mehr — der alte Ruhetag
+      # (YYYYMMDD % 6 == 0) hat Tage wie den 16.7.2026 fälschlich ausfallen lassen.
       # Manuelle Starts (workflow_dispatch) laufen immer durch.
-      - name: Variance gate (rest day + already-published guard)
+      - name: Already-published guard
         if: github.event_name == 'schedule'
         run: |
-          D=$(date -u +%Y%m%d)
           TODAY=$(date -u +%Y-%m-%d)
-          if [ $((10#$D % 6)) -eq 0 ]; then
-            echo "SKIP=1" >> "$GITHUB_ENV"
-            echo "Ruhetag — heute keine Veröffentlichung."
-            exit 0
-          fi
           if grep -rlq "pubDate: $TODAY" src/content/blog 2>/dev/null; then
             echo "SKIP=1" >> "$GITHUB_ENV"
             echo "Heute wurde bereits veröffentlicht — überspringe."
