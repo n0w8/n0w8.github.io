@@ -1,0 +1,5 @@
+{
+  "_hinweis": "Steuert den Veroeffentlichungs-Rhythmus des Nordweg-Blogs. Wird von .github/workflows/daily-publish.yml gelesen und im Agentic OS angezeigt. restDayWeekday: 0=Sonntag, 1=Montag, ... 6=Samstag (nach UTC-Tag). restDayEnabled:false => an JEDEM Tag posten (kein Ruhetag).",
+  "restDayEnabled": true,
+  "restDayWeekday": 0
+}

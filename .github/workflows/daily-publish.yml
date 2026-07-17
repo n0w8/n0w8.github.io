@@ -30,15 +30,22 @@ jobs:
         with:
           node-version: 20
 
-      # Genau 1 Veröffentlichung pro Tag: der erste Lauf des Tages postet, spätere
-      # Slots erkennen "heute schon erledigt" und überspringen. KEINE Uhrzeit-Abhängigkeit
-      # -> unempfindlich gegen Cron-Verspätung. KEIN Ruhetag mehr — der alte Ruhetag
-      # (YYYYMMDD % 6 == 0) hat Tage wie den 16.7.2026 fälschlich ausfallen lassen.
+      # Ruhetag + "heute schon gepostet" — beide aus content/publish-config.json gesteuert
+      # (im Agentic OS sichtbar/änderbar). restDayWeekday: 0=So..6=Sa (UTC-Tag);
+      # restDayEnabled:false => jeden Tag posten. KEINE Uhrzeit-Abhängigkeit (Cron-Delay-fest).
       # Manuelle Starts (workflow_dispatch) laufen immer durch.
-      - name: Already-published guard
+      - name: Publish gate (Ruhetag + schon-gepostet)
         if: github.event_name == 'schedule'
         run: |
           TODAY=$(date -u +%Y-%m-%d)
+          DOW=$(date -u +%w)
+          ENABLED=$(node -p "require('./content/publish-config.json').restDayEnabled" 2>/dev/null || echo false)
+          RESTDOW=$(node -p "require('./content/publish-config.json').restDayWeekday" 2>/dev/null || echo -1)
+          if [ "$ENABLED" = "true" ] && [ "$DOW" = "$RESTDOW" ]; then
+            echo "SKIP=1" >> "$GITHUB_ENV"
+            echo "Geplanter Ruhetag (Wochentag $DOW laut publish-config.json) — heute keine Veröffentlichung."
+            exit 0
+          fi
           if grep -rlq "pubDate: $TODAY" src/content/blog 2>/dev/null; then
             echo "SKIP=1" >> "$GITHUB_ENV"
             echo "Heute wurde bereits veröffentlicht — überspringe."
