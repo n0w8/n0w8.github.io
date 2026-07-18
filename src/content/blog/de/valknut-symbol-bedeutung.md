@@ -1,7 +1,7 @@
 ---
 title: "Der Valknut: Odins geheimnisvolles Zeichen"
 description: "Der Valknut: Was das rätselhafte Symbol aus drei Dreiecken wirklich bedeutet – zwischen Odin, Walküren und den Steinen von Gotland. Kein Mythos gibt Antwort."
-pubDate: 2099-01-01
+pubDate: 2026-07-18
 category: "Runen & Symbole"
 tags: ["Valknut", "Odin", "Symbole", "Gotland", "Bildsteine", "Wikingerzeit"]
 heroImage: "/images/valknut.jpg"

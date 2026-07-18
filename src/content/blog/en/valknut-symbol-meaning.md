@@ -1,7 +1,7 @@
 ---
 title: "The Valknut: Odin's Mysterious Symbol"
 description: "The Valknut symbol meaning, explained: three locked triangles tied to Odin and the valkyries, carved on Gotland's stones, unnamed in any surviving saga."
-pubDate: 2099-01-01
+pubDate: 2026-07-18
 category: "Runen & Symbole"
 tags: ["Valknut", "Odin", "Symbols", "Gotland", "Picture Stones", "Viking Age"]
 heroImage: "/images/valknut.jpg"
