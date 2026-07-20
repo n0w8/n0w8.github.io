@@ -1,5 +1,6 @@
 {
-  "_hinweis": "Steuert den Veroeffentlichungs-Rhythmus des Nordweg-Blogs. Wird von .github/workflows/daily-publish.yml gelesen und im Agentic OS angezeigt. restDayWeekday: 0=Sonntag, 1=Montag, ... 6=Samstag (nach UTC-Tag). restDayEnabled:false => an JEDEM Tag posten (kein Ruhetag).",
+  "_hinweis": "Steuert den Veroeffentlichungs-Rhythmus des Nordweg-Blogs. Wird von .github/workflows/daily-publish.yml gelesen und im Agentic OS angezeigt. postsPerDay: wie viele Artikel pro Tag live gehen (verteilt auf die Cron-Slots ~06:07 / ~10:23 / ~14:41 Wien). restDayWeekday: 0=Sonntag, 1=Montag, ... 6=Samstag (nach UTC-Tag). restDayEnabled:false => an JEDEM Tag posten (kein Ruhetag).",
+  "postsPerDay": 2,
   "restDayEnabled": true,
   "restDayWeekday": 0
 }

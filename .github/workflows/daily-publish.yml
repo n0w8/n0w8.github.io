@@ -1,11 +1,12 @@
-# Der "Roboter im Quellcode": veröffentlicht täglich 1 Artikel aus content/queue/ —
+# Der "Roboter im Quellcode": veröffentlicht täglich Artikel aus content/queue/ —
 # läuft GRATIS auf GitHubs Servern, auch wenn der PC aus ist. Keine KI, keine API-Kosten.
 name: Daily publish from queue
 
-# Anti-Muster: drei mögliche Startzeiten (natürliche Zeit-Streuung) + ~1 Ruhetag/Woche.
-# WICHTIG: Es wird HÖCHSTENS 1x pro Tag veröffentlicht — egal welcher Slot (auch verspätet)
-# feuert. Der erste Lauf des Tages postet, spätere Läufe erkennen "heute schon erledigt"
-# und überspringen. Robust gegen GitHubs Cron-Verspätungen (der frühere Bug).
+# Drei Startzeiten (natürliche Zeit-Streuung). Wie viele Artikel pro Tag live gehen,
+# steuert postsPerDay in content/publish-config.json: jeder Slot veröffentlicht
+# HÖCHSTENS 1 Artikel und überspringt, sobald das Tagesziel erreicht ist. Bei
+# postsPerDay=2 postet Slot 1 (~06:07 Wien) und Slot 2 (~10:23); Slot 3 (~14:41)
+# fängt verpasste Slots ab. Robust gegen GitHubs Cron-Verspätungen (der frühere Bug).
 on:
   schedule:
     - cron: '7 4 * * *'  # früher Slot (~06:07 Wien Sommer)
@@ -30,25 +31,30 @@ jobs:
         with:
           node-version: 20
 
-      # Ruhetag + "heute schon gepostet" — beide aus content/publish-config.json gesteuert
+      # Ruhetag + Tagesziel — beides aus content/publish-config.json gesteuert
       # (im Agentic OS sichtbar/änderbar). restDayWeekday: 0=So..6=Sa (UTC-Tag);
-      # restDayEnabled:false => jeden Tag posten. KEINE Uhrzeit-Abhängigkeit (Cron-Delay-fest).
+      # restDayEnabled:false => jeden Tag posten. Gezählt werden die heute
+      # veröffentlichten DE-Artikel (1 pro Paar). KEINE Uhrzeit-Abhängigkeit.
       # Manuelle Starts (workflow_dispatch) laufen immer durch.
-      - name: Publish gate (Ruhetag + schon-gepostet)
+      - name: Publish gate (Ruhetag + Tagesziel)
         if: github.event_name == 'schedule'
         run: |
           TODAY=$(date -u +%Y-%m-%d)
           DOW=$(date -u +%w)
           ENABLED=$(node -p "require('./content/publish-config.json').restDayEnabled" 2>/dev/null || echo false)
           RESTDOW=$(node -p "require('./content/publish-config.json').restDayWeekday" 2>/dev/null || echo -1)
+          PERDAY=$(node -p "require('./content/publish-config.json').postsPerDay ?? 1" 2>/dev/null || echo 1)
           if [ "$ENABLED" = "true" ] && [ "$DOW" = "$RESTDOW" ]; then
             echo "SKIP=1" >> "$GITHUB_ENV"
             echo "Geplanter Ruhetag (Wochentag $DOW laut publish-config.json) — heute keine Veröffentlichung."
             exit 0
           fi
-          if grep -rlq "pubDate: $TODAY" src/content/blog 2>/dev/null; then
+          COUNT=$(grep -rl "pubDate: $TODAY" src/content/blog/de 2>/dev/null | wc -l)
+          if [ "$COUNT" -ge "$PERDAY" ]; then
             echo "SKIP=1" >> "$GITHUB_ENV"
-            echo "Heute wurde bereits veröffentlicht — überspringe."
+            echo "Tagesziel erreicht ($COUNT von $PERDAY heute veröffentlicht) — überspringe."
+          else
+            echo "Heute $COUNT von $PERDAY veröffentlicht — dieser Slot postet Artikel $((COUNT + 1))."
           fi
 
       - name: Publish one article from queue
