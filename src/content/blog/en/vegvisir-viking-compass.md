@@ -1,7 +1,7 @@
 ---
 title: "Vegvísir: The Runic Compass of the Vikings"
 description: "The Vegvísir is marketed as a Viking compass, but the symbol first appears in 19th-century Iceland. Here is the real story behind this famous rune-like sign."
-pubDate: 2099-01-01
+pubDate: 2026-07-20
 category: "Runen & Symbole"
 tags: ["Vegvísir", "Galdrastafir", "Runes", "Iceland", "Viking Myths", "Symbols"]
 heroImage: "/images/vegvisir.jpg"

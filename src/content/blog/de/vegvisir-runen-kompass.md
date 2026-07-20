@@ -1,7 +1,7 @@
 ---
 title: "Vegvísir: Der Runen-Kompass der Wikinger"
 description: "Der Vegvísir gilt als Wikinger-Kompass – doch das Symbol stammt aus dem Island des 19. Jahrhunderts. Die wahre Geschichte des berühmten Runenzeichens."
-pubDate: 2099-01-01
+pubDate: 2026-07-20
 category: "Runen & Symbole"
 tags: ["Vegvísir", "Galdrastafir", "Runen", "Island", "Wikinger-Mythos", "Symbole"]
 heroImage: "/images/vegvisir.jpg"
