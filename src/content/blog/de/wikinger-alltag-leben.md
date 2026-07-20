@@ -1,7 +1,7 @@
 ---
 title: "Der Alltag der Wikinger: Wie sie wirklich lebten"
 description: "Der Alltag der Wikinger drehte sich um Ackerbau, Handwerk und Familie, nicht um Raubzüge. Was Ausgrabungen in Birka, Haithabu und Jorvik wirklich zeigen."
-pubDate: 2099-01-01
+pubDate: 2026-07-20
 category: "Alltag & Kultur"
 tags: ["Wikinger Alltag", "Langhaus", "Birka", "Haithabu", "Handwerk", "Nordische Gesellschaft"]
 heroImage: "/images/viking-daily-life.jpg"

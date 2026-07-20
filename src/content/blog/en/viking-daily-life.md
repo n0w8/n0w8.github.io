@@ -1,7 +1,7 @@
 ---
 title: "Daily Life of the Vikings: How They Really Lived"
 description: "Viking daily life centered on farming, craft, and family, not raiding. What excavations at Birka, Hedeby, and Jorvik reveal about the era's true rhythm."
-pubDate: 2099-01-01
+pubDate: 2026-07-20
 category: "Alltag & Kultur"
 tags: ["Viking Daily Life", "Longhouse", "Birka", "Hedeby", "Craftsmanship", "Norse Society"]
 heroImage: "/images/viking-daily-life.jpg"
