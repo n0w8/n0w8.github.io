@@ -1,7 +1,7 @@
 ---
 title: "Was aßen die Wikinger? Ernährung im Norden"
 description: "Wikinger Essen und Ernährung im Norden: Was Ausgrabungen in Jorvik, Birka und Hedeby über Gerste, Fisch, Skyr und Met verraten – und was nur Legende ist."
-pubDate: 2099-01-01
+pubDate: 2026-07-21
 category: "Alltag & Kultur"
 tags: ["Wikinger Essen", "Ernährung", "Skyr", "Met", "Archäologie", "Jorvik"]
 heroImage: "/images/viking-food.jpg"

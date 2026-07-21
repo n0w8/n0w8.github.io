@@ -1,7 +1,7 @@
 ---
 title: "What Did the Vikings Eat? Food in the North"
 description: "Viking food and diet in the North: what excavations at Jorvik, Birka, and Hedeby actually reveal about barley, fish, skyr, and mead — and what's just legend."
-pubDate: 2099-01-01
+pubDate: 2026-07-21
 category: "Alltag & Kultur"
 tags: ["Viking Food", "Diet", "Skyr", "Mead", "Archaeology", "Jorvik"]
 heroImage: "/images/viking-food.jpg"
