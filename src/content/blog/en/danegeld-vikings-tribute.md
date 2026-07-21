@@ -1,7 +1,7 @@
 ---
 title: "Danegeld: How England Paid Off the Vikings"
 description: "Danegeld vikings tribute explained: the key payments from Æthelred to Cnut, real sums from the Anglo-Saxon Chronicle, and why the strategy ultimately backfired."
-pubDate: 2099-01-01
+pubDate: 2026-07-21
 category: "Geschichte"
 tags: ["Danegeld", "Vikings Tribute", "Aethelred the Unready", "Anglo-Saxon Chronicle", "Cnut the Great", "Viking Age"]
 heroImage: "/images/danegeld.jpg"

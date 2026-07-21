@@ -1,7 +1,7 @@
 ---
 title: "Danegeld: Wie England die Wikinger auszahlte"
 description: "Danegeld Wikinger Tribut: die wichtigsten Zahlungen von Æthelred bis Knut, echte Summen aus der Angelsächsischen Chronik – und warum die Strategie scheiterte."
-pubDate: 2099-01-01
+pubDate: 2026-07-21
 category: "Geschichte"
 tags: ["Danegeld", "Wikinger Tribut", "Æthelred der Unfertige", "Angelsächsische Chronik", "Knut der Große", "Wikingerzeit"]
 heroImage: "/images/danegeld.jpg"
