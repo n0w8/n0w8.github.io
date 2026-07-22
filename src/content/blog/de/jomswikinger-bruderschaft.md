@@ -1,7 +1,7 @@
 ---
 title: "Die Jomswikinger: Die legendäre Kriegerbruderschaft"
 description: "Jomswikinger Bruderschaft im Faktencheck: Was die Jómsvíkinga-Saga über Jomsborg und die Schlacht bei Hjörungavágr wirklich belegt – und was Legende ist."
-pubDate: 2099-01-01
+pubDate: 2026-07-22
 category: "Krieger & Schlachten"
 tags: ["Jomswikinger", "Jomsborg", "Jómsvíkinga-Saga", "Wikingerkrieger", "Hjörungavágr", "Sagaforschung"]
 heroImage: "/images/jomsvikings.jpg"

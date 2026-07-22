@@ -1,7 +1,7 @@
 ---
 title: "The Jomsvikings: The Legendary Warrior Brotherhood"
 description: "The Jomsvikings brotherhood, fact-checked: what the Jómsvíkinga saga and the Battle of Hjörungavágr actually support — and where Jomsborg legend takes over."
-pubDate: 2099-01-01
+pubDate: 2026-07-22
 category: "Krieger & Schlachten"
 tags: ["Jomsvikings", "Jomsborg", "Jomsvikinga Saga", "Viking Warriors", "Hjörungavágr", "Saga Studies"]
 heroImage: "/images/jomsvikings.jpg"
