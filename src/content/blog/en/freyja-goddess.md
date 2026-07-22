@@ -1,7 +1,7 @@
 ---
 title: "Freyja: Goddess of Love, War and Magic"
 description: "Freyja goddess of the North: love, war, seiðr magic and the necklace Brísingamen. What the Poetic and Prose Eddas reveal — and how she differs from Frigg."
-pubDate: 2099-01-01
+pubDate: 2026-07-22
 category: "Mythologie"
 tags: ["Freyja", "Norse Mythology", "Viking Gods", "Vanir", "Seidr", "Folkvangr"]
 heroImage: "/images/freyja.jpg"

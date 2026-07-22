@@ -1,7 +1,7 @@
 ---
 title: "Freyja: Göttin der Liebe, des Krieges und der Magie"
 description: "Freyja Göttin des Nordens: Liebe, Krieg, Seiðr-Magie und Brísingamen. Was Poetische und Prosaische Edda erzählen – und was sie von Frigg unterscheidet."
-pubDate: 2099-01-01
+pubDate: 2026-07-22
 category: "Mythologie"
 tags: ["Freyja", "Nordische Mythologie", "Wikinger Götter", "Vanir", "Seiðr", "Fólkvangr"]
 heroImage: "/images/freyja.jpg"
