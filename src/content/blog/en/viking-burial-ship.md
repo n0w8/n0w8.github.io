@@ -1,7 +1,7 @@
 ---
 title: "Viking Burials: Ship Graves and the Road to the Afterlife"
 description: "Viking burial ship traditions explained: Oseberg, Gokstad, Ibn Fadlan's eyewitness account, and grave goods — what archaeology proves about Norse death."
-pubDate: 2099-01-01
+pubDate: 2026-07-23
 category: "Alltag & Kultur"
 tags: ["Viking Burial", "Ship Grave", "Oseberg", "Gokstad", "Archaeology", "Afterlife"]
 heroImage: "/images/viking-burial.jpg"

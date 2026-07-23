@@ -1,7 +1,7 @@
 ---
 title: "Wikinger-Bestattungen: Schiffsgräber und der Weg ins Jenseits"
 description: "Wikinger Bestattung Schiffsgrab im Überblick: Oseberg, Gokstad, Ibn Fadlans Augenzeugenbericht und Grabbeigaben – was Archäologie über den Tod im Norden weiß."
-pubDate: 2099-01-01
+pubDate: 2026-07-23
 category: "Alltag & Kultur"
 tags: ["Wikinger Bestattung", "Schiffsgrab", "Oseberg", "Gokstad", "Archäologie", "Jenseits"]
 heroImage: "/images/viking-burial.jpg"
