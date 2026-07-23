@@ -1,7 +1,7 @@
 ---
 title: "Fenrir: The Wolf That Devours the Gods"
 description: "Fenrir wolf mythology explained: how Loki's son was bound with the dwarven ribbon Gleipnir, why Týr lost his hand, and how Fenrir kills Odin at Ragnarök."
-pubDate: 2099-01-01
+pubDate: 2026-07-23
 category: "Mythologie"
 tags: ["Fenrir", "Loki", "Ragnarok", "Tyr", "Norse Mythology", "Asgard"]
 heroImage: "/images/fenrir.jpg"

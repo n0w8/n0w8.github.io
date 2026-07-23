@@ -1,7 +1,7 @@
 ---
 title: "Fenrir: Der Wolf, der die Götter verschlingt"
 description: "Fenrir Wolf Mythologie: Wie der Sohn Lokis mit dem Zwergenband Gleipnir gefesselt wurde, Týr dabei seine Hand verlor und der Wolf am Ende Odin verschlingt."
-pubDate: 2099-01-01
+pubDate: 2026-07-23
 category: "Mythologie"
 tags: ["Fenrir", "Loki", "Ragnarök", "Týr", "Nordische Mythologie", "Asgard"]
 heroImage: "/images/fenrir.jpg"
