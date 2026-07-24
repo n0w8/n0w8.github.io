@@ -1,7 +1,7 @@
 ---
 title: "Harald Hardrada: The Last Great Viking King"
 description: "Harald Hardrada's life from teenage survivor at Stiklestad to Varangian commander in Constantinople and Norwegian king who died at Stamford Bridge in 1066."
-pubDate: 2099-01-01
+pubDate: 2026-07-24
 category: "Geschichte"
 tags: ["Harald Hardrada", "Stamford Bridge", "Viking Kings", "Byzantium", "Norway", "Viking Age"]
 heroImage: "/images/harald-hardrada.jpg"

@@ -1,7 +1,7 @@
 ---
 title: "Harald Hardrada: Der letzte große Wikingerkönig"
 description: "Harald Hardrada: Vom Knaben bei Stiklestad über den Warägerfürst von Konstantinopel bis zum König, der 1066 bei Stamford Bridge die Wikingerzeit beendete."
-pubDate: 2099-01-01
+pubDate: 2026-07-24
 category: "Geschichte"
 tags: ["Harald Hardrada", "Stamford Bridge", "Wikingerkönige", "Byzanz", "Norwegen", "Wikingerzeit"]
 heroImage: "/images/harald-hardrada.jpg"
