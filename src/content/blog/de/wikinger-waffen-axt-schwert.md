@@ -1,7 +1,7 @@
 ---
 title: "Die Waffen der Wikinger: Axt, Schwert und Schild"
 description: "Wikinger Waffen: Axt, Schwert und Schild im Faktencheck. Was Ausgrabungen wie der Mammen-Axt und die Ulfberht-Schwerter wirklich über den Kampf zeigen."
-pubDate: 2099-01-01
+pubDate: 2026-07-24
 category: "Krieger & Schlachten"
 tags: ["Wikinger Waffen", "Ulfberht", "Wikingerschwert", "Axt", "Rundschild", "Waffenschmiede"]
 heroImage: "/images/viking-weapons.jpg"

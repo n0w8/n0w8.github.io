@@ -1,7 +1,7 @@
 ---
 title: "The Weapons of the Vikings: Axe, Sword and Shield"
 description: "Viking weapons fact-checked: axe, sword and shield. What finds like the Mammen axe and the Ulfberht swords really reveal about combat in the Viking Age."
-pubDate: 2099-01-01
+pubDate: 2026-07-24
 category: "Krieger & Schlachten"
 tags: ["Viking Weapons", "Ulfberht", "Viking Sword", "Battle Axe", "Round Shield", "Viking Smithing"]
 heroImage: "/images/viking-weapons.jpg"
