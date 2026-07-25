@@ -1,7 +1,7 @@
 ---
 title: "The Battle of Stamford Bridge: The End of the Viking Age"
 description: "The Battle of Stamford Bridge 1066: how Harold Godwinson's forced march caught the Norwegians off guard, one axeman held a bridge, and Harald Hardrada fell."
-pubDate: 2099-01-01
+pubDate: 2026-07-25
 category: "Krieger & Schlachten"
 tags: ["Stamford Bridge", "Harald Hardrada", "1066", "Anglo-Saxon Chronicle", "Viking Age", "England"]
 heroImage: "/images/stamford-bridge.jpg"

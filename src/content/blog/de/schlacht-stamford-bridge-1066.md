@@ -1,7 +1,7 @@
 ---
 title: "Die Schlacht von Stamford Bridge: Das Ende der Wikingerzeit"
 description: "Die Schlacht von Stamford Bridge 1066: Wie Harold Godwinsons Gewaltmarsch die Norweger überraschte, ein Axtkämpfer eine Brücke hielt und Harald Hardrada fiel."
-pubDate: 2099-01-01
+pubDate: 2026-07-25
 category: "Krieger & Schlachten"
 tags: ["Stamford Bridge", "Harald Hardrada", "1066", "Angelsächsische Chronik", "Wikingerzeit", "England"]
 heroImage: "/images/stamford-bridge.jpg"
