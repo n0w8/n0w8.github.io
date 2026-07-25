@@ -1,7 +1,7 @@
 ---
 title: "Die Jelling-Steine: Dänemarks Taufurkunde in Stein"
 description: "Die Jelling-Steine: Wie Gorm der Alte und Harald Blauzahn in Runen Liebe, Macht und Dänemarks Bekehrung verewigten – und was Bluetooth damit zu tun hat."
-pubDate: 2099-01-01
+pubDate: 2026-07-25
 category: "Runen & Symbole"
 tags: ["Jelling-Steine", "Harald Blauzahn", "Runen", "Dänemark", "UNESCO", "Wikingerzeit"]
 heroImage: "/images/jelling-stones.jpg"

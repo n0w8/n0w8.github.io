@@ -1,7 +1,7 @@
 ---
 title: "The Jelling Stones: Denmark's Birth Certificate in Stone"
 description: "The Jelling Stones: how Gorm the Old and Harald Bluetooth carved love, power, and Denmark's conversion to Christianity in runes — and how Bluetooth got its name."
-pubDate: 2099-01-01
+pubDate: 2026-07-25
 category: "Runen & Symbole"
 tags: ["Jelling Stones", "Harald Bluetooth", "Runes", "Denmark", "UNESCO", "Viking Age"]
 heroImage: "/images/jelling-stones.jpg"
