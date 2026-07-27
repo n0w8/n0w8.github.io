@@ -1,7 +1,7 @@
 ---
 title: "Mjölnir: Thors Hammer als Schutzsymbol"
 description: "Mjölnir als Schutzsymbol: Was der Hammer von Skåne, Gussformen aus der Bekehrungszeit und Amulettfunde über Thors Zeichen und sein modernes Comeback verraten."
-pubDate: 2099-01-01
+pubDate: 2026-07-27
 category: "Runen & Symbole"
 tags: ["Mjölnir", "Thor", "Amulette", "Wikinger Symbole", "Archäologie", "Bekehrung"]
 heroImage: "/images/mjolnir.jpg"

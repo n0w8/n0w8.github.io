@@ -1,7 +1,7 @@
 ---
 title: "Mjölnir: Thor's Hammer as a Protective Symbol"
 description: "Mjölnir as a protective symbol: what finds like the Skåne hammer reveal about amulets, dual pagan-Christian casting molds, and the symbol's modern comeback."
-pubDate: 2099-01-01
+pubDate: 2026-07-27
 category: "Runen & Symbole"
 tags: ["Mjolnir", "Thor", "Amulets", "Viking Symbols", "Archaeology", "Conversion"]
 heroImage: "/images/mjolnir.jpg"
