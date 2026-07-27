@@ -1,7 +1,7 @@
 ---
 title: "Das Thing: Die Volksversammlung der Wikinger"
 description: "Das Thing im Faktencheck: War die Wikinger-Volksversammlung wirklich eine frühe Demokratie, durften Frauen mitreden, und ist das Althing das älteste Parlament?"
-pubDate: 2099-01-01
+pubDate: 2026-07-27
 category: "Alltag & Kultur"
 tags: ["Thing", "Althing", "Wikinger Gesellschaft", "Recht", "Island", "Gesetzessprecher"]
 heroImage: "/images/the-thing.jpg"

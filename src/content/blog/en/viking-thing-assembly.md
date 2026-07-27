@@ -1,7 +1,7 @@
 ---
 title: "The Thing: The People's Assembly of the Vikings"
 description: "Fact-checking the Viking Thing: was the assembly really an early democracy, could women speak, and is Iceland's Althing truly the world's oldest parliament?"
-pubDate: 2099-01-01
+pubDate: 2026-07-27
 category: "Alltag & Kultur"
 tags: ["Thing Assembly", "Althing", "Viking Society", "Law", "Iceland", "Lawspeaker"]
 heroImage: "/images/the-thing.jpg"
