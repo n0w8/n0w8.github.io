@@ -1,7 +1,7 @@
 ---
 title: "The Norns: The Weavers of Fate of the North"
 description: "The Norns Urd, Verdandi and Skuld: how the weavers of fate at the well beneath Yggdrasil ruled over gods and men, and what fate really meant in the Norse world."
-pubDate: 2099-01-01
+pubDate: 2026-07-28
 category: "Mythologie"
 tags: ["Norns", "Yggdrasil", "Fate", "Norse Mythology", "Urd", "Voluspa"]
 heroImage: "/images/norns.jpg"

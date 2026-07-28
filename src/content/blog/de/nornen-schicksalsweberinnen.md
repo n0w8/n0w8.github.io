@@ -1,7 +1,7 @@
 ---
 title: "Die Nornen: Die Schicksalsweberinnen des Nordens"
 description: "Die Nornen Urd, Verdandi und Skuld: Wie die Schicksalsweberinnen am Brunnen unter Yggdrasil über Götter und Menschen bestimmten und was Schicksal bedeutete."
-pubDate: 2099-01-01
+pubDate: 2026-07-28
 category: "Mythologie"
 tags: ["Nornen", "Yggdrasil", "Schicksal", "Nordische Mythologie", "Urd", "Voluspa"]
 heroImage: "/images/norns.jpg"
