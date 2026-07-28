@@ -1,7 +1,7 @@
 ---
 title: "Sleipnir: Odins achtbeiniges Pferd zwischen Mythos und Runenstein"
 description: "Sleipnir, Odins achtbeiniges Pferd: Was die Prosa-Edda über seine Geburt erzählt, und was der Tjängvide-Bildstein von Gotland archäologisch wirklich belegt."
-pubDate: 2099-01-01
+pubDate: 2026-07-28
 category: "Mythologie"
 tags: ["Sleipnir", "Odin", "Nordische Mythologie", "Gotland", "Bildsteine", "Prosa-Edda"]
 heroImage: "/images/sleipnir.jpg"

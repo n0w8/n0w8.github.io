@@ -1,7 +1,7 @@
 ---
 title: "Sleipnir: Odin's Eight-Legged Horse Between Myth and Rune Stone"
 description: "Sleipnir, Odin's eight-legged horse: what the Prose Edda says about his strange birth, and what the Tjängvide picture stone from Gotland can actually prove."
-pubDate: 2099-01-01
+pubDate: 2026-07-28
 category: "Mythologie"
 tags: ["Sleipnir", "Odin", "Norse Mythology", "Gotland", "Picture Stones", "Prose Edda"]
 heroImage: "/images/sleipnir.jpg"
