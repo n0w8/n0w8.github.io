@@ -1,7 +1,7 @@
 ---
 title: "The Oseberg Ship: The Most Lavish Viking Burial Ever Found"
 description: "The Oseberg ship is the richest Viking ship burial ever found: excavated in 1904/05, two buried women, carved animal head posts, and a mystery that endures."
-pubDate: 2099-01-01
+pubDate: 2026-07-29
 category: "Geschichte"
 tags: ["Oseberg", "Viking Ship", "Ship Burial", "Archaeology", "Viking Age", "Viking Ship Museum"]
 heroImage: "/images/oseberg-ship.jpg"

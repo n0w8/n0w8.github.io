@@ -1,7 +1,7 @@
 ---
 title: "Das Oseberg-Schiff: Das prunkvollste Wikinger-Grab der Geschichte"
 description: "Das Oseberg-Schiff ist der reichste Wikinger-Schiffsfund: Ausgrabung 1904/05, zwei bestattete Frauen, Tierkopfpfosten und ein bis heute ungelöstes Rätsel."
-pubDate: 2099-01-01
+pubDate: 2026-07-29
 category: "Geschichte"
 tags: ["Oseberg", "Wikingerschiff", "Schiffsgrab", "Archäologie", "Wikingerzeit", "Vikingskipshuset"]
 heroImage: "/images/oseberg-ship.jpg"
