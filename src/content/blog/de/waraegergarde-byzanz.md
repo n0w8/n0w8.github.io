@@ -1,7 +1,7 @@
 ---
 title: "Warägergarde: Nordische Krieger im Dienst der byzantinischen Kaiser"
 description: "Wie skandinavische Krieger zur Elitegarde der byzantinischen Kaiser wurden: von der Rus-Allianz 988 über Harald Hardrada bis zu Runen im Marmor von Piräus."
-pubDate: 2099-01-01
+pubDate: 2026-07-29
 category: "Krieger & Schlachten"
 tags: ["Warägergarde", "Byzanz", "Söldner", "Konstantinopel", "Harald Hardrada", "Wikinger"]
 heroImage: "/images/varangian-guard.jpg"

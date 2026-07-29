@@ -1,7 +1,7 @@
 ---
 title: "Varangian Guard: Norse Warriors in Byzantine Service"
 description: "How Scandinavian warriors became the Byzantine emperors' elite guard: from the 988 Rus alliance to Harald Hardrada and runes carved into Piraeus marble."
-pubDate: 2099-01-01
+pubDate: 2026-07-29
 category: "Krieger & Schlachten"
 tags: ["Varangian Guard", "Byzantium", "Mercenaries", "Constantinople", "Harald Hardrada", "Vikings"]
 heroImage: "/images/varangian-guard.jpg"
