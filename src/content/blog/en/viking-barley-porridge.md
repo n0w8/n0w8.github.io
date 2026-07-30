@@ -1,7 +1,7 @@
 ---
 title: "Viking Barley Porridge with Honey: The Norsemen's Everyday Bowl"
 description: "Barley porridge with honey, Viking style: a simple 4-ingredient recipe, plus the archaeology of quern stones, worn teeth, and barley farming in the North."
-pubDate: 2099-01-01
+pubDate: 2026-07-30
 category: "Rezepte"
 tags: ["Viking Recipe", "Barley", "Porridge", "Breakfast", "Viking Kitchen"]
 heroImage: "/images/viking-porridge.jpg"

@@ -1,7 +1,7 @@
 ---
 title: "Wikinger-Gerstengrütze mit Honig: Der Brei der Nordmänner"
 description: "Gerstengrütze mit Honig wie zur Wikingerzeit: ein einfaches Gerstenbrei-Rezept mit vier Zutaten, dazu die Geschichte von Mahlsteinen und Gerste im Norden."
-pubDate: 2099-01-01
+pubDate: 2026-07-30
 category: "Rezepte"
 tags: ["Wikinger Rezept", "Gerste", "Grütze", "Frühstück", "Wikinger-Küche"]
 heroImage: "/images/viking-porridge.jpg"
