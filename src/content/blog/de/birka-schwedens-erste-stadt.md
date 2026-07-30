@@ -1,7 +1,7 @@
 ---
 title: "Birka: Schwedens erste Stadt und das Rätsel der Kriegerin von Björkö"
 description: "Birka war Skandinaviens erste echte Handelsstadt und Knotenpunkt bis nach Bagdad. Warum ein Kriegergrab dort seit 2017 die Forschung spaltet."
-pubDate: 2099-01-01
+pubDate: 2026-07-30
 category: "Geschichte"
 tags: ["Birka", "Björkö", "Handelsstadt", "Bj 581", "Archäologie", "Wikingerzeit"]
 heroImage: "/images/birka.jpg"

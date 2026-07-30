@@ -1,7 +1,7 @@
 ---
 title: "Birka: Sweden's First Town and the Riddle of the Björkö Warrior"
 description: "Birka was Scandinavia's first real trading town, linked all the way to Baghdad. Why one warrior grave there has divided researchers since 2017."
-pubDate: 2099-01-01
+pubDate: 2026-07-30
 category: "Geschichte"
 tags: ["Birka", "Björkö", "Trading Town", "Bj 581", "Archaeology", "Viking Age"]
 heroImage: "/images/birka.jpg"
