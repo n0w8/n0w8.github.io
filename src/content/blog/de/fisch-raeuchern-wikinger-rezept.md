@@ -1,7 +1,7 @@
 ---
 title: "Fisch wie die Wikinger: Räuchern, Salzen, Fermentieren"
 description: "Wie Wikinger Fisch räuchern, salzen und fermentierten: Funde aus Hedeby und Birka, die isländische Sur-Methode - Rezept für Räucherlachs auf Fladenbrot."
-pubDate: 2099-01-01
+pubDate: 2026-07-31
 category: "Rezepte"
 tags: ["Wikinger Rezept", "Fisch", "Räuchern", "Konservierung", "Fladenbrot", "Wikinger-Küche"]
 heroImage: "/images/viking-fish-recipe.jpg"

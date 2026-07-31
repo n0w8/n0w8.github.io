@@ -1,7 +1,7 @@
 ---
 title: "Fish the Viking Way: Smoking, Salting, Fermenting"
 description: "How Vikings preserved fish by smoking, salting and fermenting: real finds from Hedeby and Birka, Iceland's sur method, and a recipe for smoked salmon flatbread."
-pubDate: 2099-01-01
+pubDate: 2026-07-31
 category: "Rezepte"
 tags: ["Viking Recipe", "Fish", "Smoking", "Food Preservation", "Flatbread", "Viking Kitchen"]
 heroImage: "/images/viking-fish-recipe.jpg"
