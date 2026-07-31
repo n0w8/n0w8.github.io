@@ -1,7 +1,7 @@
 ---
 title: "Wie navigierten die Wikinger? Sonnenstein und Sterne"
 description: "Ohne Kompass über den offenen Atlantik: Wie Wikinger mit Sonnenstand, Sonnenstein, Sternen und Wellenmustern navigierten - Sagas, Funde und Physik im Check."
-pubDate: 2099-01-01
+pubDate: 2026-07-31
 category: "Alltag & Kultur"
 tags: ["Wikinger Navigation", "Sonnenstein", "Sólarsteinn", "Seefahrt", "Wikingerzeit", "Uunartoq"]
 heroImage: "/images/viking-navigation.jpg"

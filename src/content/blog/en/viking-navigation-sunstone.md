@@ -1,7 +1,7 @@
 ---
 title: "How Did the Vikings Navigate? Sunstone and Stars"
 description: "No compass, no map, thousands of miles of open Atlantic: how Vikings navigated by sun, sunstone, stars, and wave patterns - sagas, finds, and physics."
-pubDate: 2099-01-01
+pubDate: 2026-07-31
 category: "Alltag & Kultur"
 tags: ["Viking Navigation", "Sunstone", "Sólarsteinn", "Seafaring", "Viking Age", "Uunartoq"]
 heroImage: "/images/viking-navigation.jpg"
