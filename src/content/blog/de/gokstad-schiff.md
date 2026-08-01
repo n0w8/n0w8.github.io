@@ -1,7 +1,7 @@
 ---
 title: "Das Gokstad-Schiff: Ein Wikingerschiff, das den Atlantik bezwang"
 description: "Das Gokstad-Schiff: 1880 in Norwegen entdeckt, Grab eines mysteriösen Häuptlings mit Gewaltspuren, und 1893 als Nachbau über den Atlantik gesegelt."
-pubDate: 2099-01-01
+pubDate: 2026-08-01
 category: "Geschichte"
 tags: ["Gokstad-Schiff", "Wikingerschiff", "Schiffsgrab", "Sandefjord", "Vikingskipshuset", "Archäologie"]
 heroImage: "/images/gokstad-ship.jpg"

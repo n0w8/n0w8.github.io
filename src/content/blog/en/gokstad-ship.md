@@ -1,7 +1,7 @@
 ---
 title: "The Gokstad Ship: The Viking Ship That Conquered the Atlantic"
 description: "The Gokstad ship: unearthed in Norway in 1880, the grave of a mysterious chieftain with wounds from violence, and a 1893 replica that crossed the Atlantic."
-pubDate: 2099-01-01
+pubDate: 2026-08-01
 category: "Geschichte"
 tags: ["Gokstad Ship", "Viking Ship", "Ship Burial", "Sandefjord", "Viking Ship Museum", "Archaeology"]
 heroImage: "/images/gokstad-ship.jpg"
