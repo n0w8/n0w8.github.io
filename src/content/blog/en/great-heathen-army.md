@@ -1,7 +1,7 @@
 ---
 title: "The Great Heathen Army: The Invasion of England"
 description: "In 865 the Great Heathen Army landed in East Anglia - the conquest of Northumbria, the killing of King Edmund, and the birth of the Danelaw."
-pubDate: 2099-01-01
+pubDate: 2026-08-01
 category: "Geschichte"
 tags: ["Great Heathen Army", "Danelaw", "Northumbria", "Anglo-Saxon Chronicle", "Viking Invasion", "Alfred the Great"]
 heroImage: "/images/great-heathen-army.jpg"

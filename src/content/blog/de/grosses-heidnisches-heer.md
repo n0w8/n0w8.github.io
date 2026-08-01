@@ -1,7 +1,7 @@
 ---
 title: "Das Große Heidnische Heer: Die Invasion Englands"
 description: "865 landete das Große Heidnische Heer in East Anglia - eine Chronik der Eroberung Northumbrias, des Königsmords an Edmund und der Entstehung des Danelaw."
-pubDate: 2099-01-01
+pubDate: 2026-08-01
 category: "Geschichte"
 tags: ["Großes Heidnisches Heer", "Danelaw", "Northumbria", "Angelsächsische Chronik", "Wikingerinvasion", "Alfred der Große"]
 heroImage: "/images/great-heathen-army.jpg"
