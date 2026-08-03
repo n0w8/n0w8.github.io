@@ -1,7 +1,7 @@
 ---
 title: "Draugr: Die Untoten der nordischen Sagen"
 description: "Draugr galten als denkende, kämpfende Untote mit übermenschlicher Kraft - was die isländischen Sagas wirklich über sie berichten, Mythos gegen Fakt."
-pubDate: 2099-01-01
+pubDate: 2026-08-03
 category: "Mythologie"
 tags: ["Draugr", "Untote", "Isländische Sagas", "Grettis Saga", "Nordische Mythologie", "Grabhügel"]
 heroImage: "/images/draugr.jpg"

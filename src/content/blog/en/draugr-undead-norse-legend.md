@@ -1,7 +1,7 @@
 ---
 title: "Draugr: The Undead of Norse Legend"
 description: "Draugr were intelligent, fighting undead with superhuman strength - what Icelandic sagas actually say about them, myth versus what the sources really tell us."
-pubDate: 2099-01-01
+pubDate: 2026-08-03
 category: "Mythologie"
 tags: ["Draugr", "Undead", "Icelandic Sagas", "Grettis Saga", "Norse Mythology", "Burial Mounds"]
 heroImage: "/images/draugr.jpg"
