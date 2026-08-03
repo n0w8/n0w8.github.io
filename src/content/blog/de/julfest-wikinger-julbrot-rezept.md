@@ -1,7 +1,7 @@
 ---
 title: "Das Julfest: Festessen der Wikinger zur Wintersonnenwende"
 description: "Jól, das Julfest der Wikinger: Opferschwein, Trinksprüche und ein Nuss-Früchte-Brot zur Wintersonnenwende - Geschichte und Rezept zum Nachbacken."
-pubDate: 2099-01-01
+pubDate: 2026-08-03
 category: "Rezepte"
 tags: ["Wikinger Rezept", "Julfest", "Jól", "Wintersonnenwende", "Festtagsbrot", "Wikinger-Küche"]
 heroImage: "/images/jul-feast-recipes.jpg"

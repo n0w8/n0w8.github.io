@@ -1,7 +1,7 @@
 ---
 title: "The Yule Feast: How Vikings Celebrated Midwinter"
 description: "Jól, the Viking Yule feast: the sacrificial boar, oath-taking toasts, and a nut-and-fruit bread for the winter solstice - history plus a recipe to bake at home."
-pubDate: 2099-01-01
+pubDate: 2026-08-03
 category: "Rezepte"
 tags: ["Viking Recipe", "Yule Feast", "Jól", "Winter Solstice", "Festive Bread", "Viking Cuisine"]
 heroImage: "/images/jul-feast-recipes.jpg"
