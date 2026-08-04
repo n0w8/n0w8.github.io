@@ -1,7 +1,7 @@
 ---
 title: "Hedeby: The Lost Trading City of the Vikings"
 description: "Hedeby near Schleswig was Northern Europe's largest Viking Age trading city - a semicircular rampart, Arabic coins, a ship find, and its violent end."
-pubDate: 2099-01-01
+pubDate: 2026-08-04
 category: "Alltag & Kultur"
 tags: ["Hedeby", "Haithabu", "Viking Age", "Trading City", "Schleswig", "UNESCO World Heritage"]
 heroImage: "/images/haithabu.jpg"

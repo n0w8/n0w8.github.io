@@ -1,7 +1,7 @@
 ---
 title: "Haithabu: Die verlorene Handelsstadt der Wikinger"
 description: "Haithabu bei Schleswig war die größte Handelsstadt Nordeuropas zur Wikingerzeit - Halbkreiswall, arabische Münzen, ein Schiffsfund und ihr gewaltsames Ende."
-pubDate: 2099-01-01
+pubDate: 2026-08-04
 category: "Alltag & Kultur"
 tags: ["Haithabu", "Hedeby", "Wikingerzeit", "Handelsstadt", "Schleswig", "UNESCO-Welterbe"]
 heroImage: "/images/haithabu.jpg"
