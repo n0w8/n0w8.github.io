@@ -5,7 +5,8 @@
     "Mythologie",
     "Runen & Symbole",
     "Alltag & Kultur",
-    "Krieger & Schlachten"
+    "Krieger & Schlachten",
+    "Rezepte"
   ],
   "artists": [
     "domsgard",
@@ -404,13 +405,16 @@
     },
     {
       "translationKey": "viking-women",
-      "status": "todo",
+      "status": "done",
       "category": "Alltag & Kultur",
       "artistKey": "eldruna",
       "keyword_de": "wikinger frauen rolle alltag",
       "keyword_en": "viking women role",
       "title_de": "Die Rolle der Frauen in der Wikingergesellschaft",
-      "title_en": "The Role of Women in Viking Society"
+      "title_en": "The Role of Women in Viking Society",
+      "queuedDate": "2026-08-30",
+      "slug_de": "wikinger-frauen-rolle-alltag",
+      "slug_en": "viking-women-role-society"
     },
     {
       "translationKey": "baldr",
@@ -424,23 +428,29 @@
     },
     {
       "translationKey": "jotnar",
-      "status": "todo",
+      "status": "done",
       "category": "Mythologie",
       "artistKey": "domsgard",
       "keyword_de": "jötunn riesen nordische mythologie",
       "keyword_en": "jotnar giants norse",
       "title_de": "Die Jötnar: Die Riesen der nordischen Mythologie",
-      "title_en": "The Jotnar: The Giants of Norse Mythology"
+      "title_en": "The Jotnar: The Giants of Norse Mythology",
+      "queuedDate": "2026-08-30",
+      "slug_de": "joetnar-riesen-nordische-mythologie",
+      "slug_en": "jotnar-giants-norse-mythology"
     },
     {
       "translationKey": "seidr-magic",
-      "status": "todo",
+      "status": "done",
       "category": "Mythologie",
       "artistKey": "eldruna",
       "keyword_de": "seidr magie wikinger",
       "keyword_en": "seidr norse magic",
       "title_de": "Seiðr: Die geheimnisvolle Magie der Nordmänner",
-      "title_en": "Seiðr: The Mysterious Magic of the Norsemen"
+      "title_en": "Seiðr: The Mysterious Magic of the Norsemen",
+      "queuedDate": "2026-08-30",
+      "slug_de": "seidr-magie-wikinger",
+      "slug_en": "seidr-norse-magic"
     },
     {
       "translationKey": "viking-trade-routes",
@@ -555,14 +565,17 @@
     },
     {
       "translationKey": "skuldelev-ships",
-      "status": "todo",
+      "status": "done",
       "category": "Geschichte",
       "artistKey": "eldruna",
       "keyword_de": "skuldelev schiffe roskilde",
       "keyword_en": "skuldelev ships roskilde",
       "title_de": "Die Skuldelev-Schiffe: Fuenf Wracks erzaehlen die Wahrheit",
       "title_en": "The Skuldelev Ships: Five Wrecks That Tell the Truth",
-      "imagePolicy": "real-photo"
+      "imagePolicy": "real-photo",
+      "queuedDate": "2026-08-30",
+      "slug_de": "skuldelev-schiffe-roskilde",
+      "slug_en": "skuldelev-ships-roskilde"
     },
     {
       "translationKey": "haithabu",
@@ -594,14 +607,17 @@
     },
     {
       "translationKey": "trelleborg-fortresses",
-      "status": "todo",
+      "status": "done",
       "category": "Krieger & Schlachten",
       "artistKey": "domsgard",
       "keyword_de": "trelleborg ringburg wikinger",
       "keyword_en": "viking ring fortress trelleborg",
       "title_de": "Die Ringburgen der Wikinger: Praezision aus dem Norden",
       "title_en": "The Viking Ring Fortresses: Precision From the North",
-      "imagePolicy": "real-photo"
+      "imagePolicy": "real-photo",
+      "queuedDate": "2026-08-30",
+      "slug_de": "trelleborg-ringburgen-wikinger",
+      "slug_en": "viking-ring-fortresses-trelleborg"
     },
     {
       "translationKey": "lanse-aux-meadows",
@@ -658,25 +674,236 @@
     },
     {
       "translationKey": "viking-honey-cakes",
-      "status": "todo",
+      "status": "skipped",
       "category": "Rezepte",
       "artistKey": "eldruna",
       "keyword_de": "honigkuchen rezept wikinger",
       "keyword_en": "viking honey cakes recipe",
       "title_de": "Honigkuchen der Wikinger: Suesses aus dem Norden",
       "title_en": "Viking Honey Cakes: Sweet Treats From the North",
-      "imagePolicy": "real-photo"
+      "imagePolicy": "real-photo",
+      "skippedDate": "2026-08-30",
+      "skipReason": "Duplicate Content: bereits veroeffentlicht als recipe-honey-cake (wikinger-honigkuchen / viking-honey-cake)."
     },
     {
       "translationKey": "viking-herbs",
-      "status": "todo",
+      "status": "done",
       "category": "Rezepte",
       "artistKey": "eldruna",
       "keyword_de": "wikinger kraeuter gewuerze kueche",
       "keyword_en": "viking herbs spices cooking",
       "title_de": "Womit wuerzten die Wikinger? Kraeuter und Gewuerze des Nordens",
       "title_en": "How Did Vikings Season Their Food? Herbs and Spices of the North",
+      "imagePolicy": "real-photo",
+      "queuedDate": "2026-08-30",
+      "slug_de": "wikinger-kraeuter-gewuerze-kueche",
+      "slug_en": "viking-herbs-spices-cooking"
+    },
+    {
+      "translationKey": "viking-rye-bread",
+      "status": "todo",
+      "category": "Rezepte",
+      "artistKey": "eldruna",
+      "keyword_de": "roggenbrot rezept wikinger",
+      "keyword_en": "viking rye bread recipe",
+      "title_de": "Dunkles Roggenbrot nach Wikinger-Art: Das Rezept",
+      "title_en": "Dark Viking Rye Bread: The Recipe"
+    },
+    {
+      "translationKey": "viking-skyr",
+      "status": "todo",
+      "category": "Rezepte",
+      "artistKey": "eldruna",
+      "keyword_de": "skyr selber machen rezept",
+      "keyword_en": "how to make skyr recipe",
+      "title_de": "Skyr selber machen: Das Milchprodukt der Wikinger",
+      "title_en": "How to Make Skyr: The Dairy of the Vikings"
+    },
+    {
+      "translationKey": "viking-pea-soup",
+      "status": "todo",
+      "category": "Rezepte",
+      "artistKey": "domsgard",
+      "keyword_de": "erbsensuppe wikinger rezept",
+      "keyword_en": "viking pea soup recipe",
+      "title_de": "Erbsensuppe der Wikinger: Der Eintopf, der den Norden satt machte",
+      "title_en": "Viking Pea Soup: The Stew That Fed the North"
+    },
+    {
+      "translationKey": "viking-nettle-soup",
+      "status": "todo",
+      "category": "Rezepte",
+      "artistKey": "eldruna",
+      "keyword_de": "brennnesselsuppe rezept wikinger",
+      "keyword_en": "viking nettle soup recipe",
+      "title_de": "Brennnesselsuppe: Das Fruehlingsgericht der Nordmaenner",
+      "title_en": "Nettle Soup: The Spring Dish of the Norsemen"
+    },
+    {
+      "translationKey": "viking-ale-brewing",
+      "status": "todo",
+      "category": "Rezepte",
+      "artistKey": "domsgard",
+      "keyword_de": "wikinger bier brauen rezept",
+      "keyword_en": "viking ale brewing recipe",
+      "title_de": "Wikinger-Bier selber brauen: Gerstenbier wie im Norden",
+      "title_en": "Brew Your Own Viking Ale: Barley Beer of the North"
+    },
+    {
+      "translationKey": "viking-berry-dessert",
+      "status": "todo",
+      "category": "Rezepte",
+      "artistKey": "eldruna",
+      "keyword_de": "beeren dessert wikinger rezept",
+      "keyword_en": "viking berry dessert recipe",
+      "title_de": "Waldbeeren mit Honig und Skyr: Das Dessert des Nordens",
+      "title_en": "Forest Berries With Honey and Skyr: The Dessert of the North"
+    },
+    {
+      "translationKey": "viking-root-vegetables",
+      "status": "todo",
+      "category": "Rezepte",
+      "artistKey": "domsgard",
+      "keyword_de": "wurzelgemuese wikinger rezept",
+      "keyword_en": "viking root vegetable recipe",
+      "title_de": "Wurzelgemuese aus der Glut: Ruebe, Pastinake und Zwiebel",
+      "title_en": "Root Vegetables From the Embers: Turnip, Parsnip and Onion"
+    },
+    {
+      "translationKey": "gjermundbu-helmet",
+      "status": "todo",
+      "category": "Geschichte",
+      "artistKey": "domsgard",
+      "keyword_de": "gjermundbu helm wikinger",
+      "keyword_en": "gjermundbu viking helmet",
+      "title_de": "Der Helm von Gjermundbu: Der einzige seiner Art",
+      "title_en": "The Gjermundbu Helmet: The Only One of Its Kind",
       "imagePolicy": "real-photo"
+    },
+    {
+      "translationKey": "urnes-stave-church",
+      "status": "todo",
+      "category": "Geschichte",
+      "artistKey": "eldruna",
+      "keyword_de": "urnes stabkirche norwegen",
+      "keyword_en": "urnes stave church norway",
+      "title_de": "Die Stabkirche von Urnes: Wo Heidentum auf Christentum trifft",
+      "title_en": "Urnes Stave Church: Where Paganism Meets Christianity",
+      "imagePolicy": "real-photo"
+    },
+    {
+      "translationKey": "gotland-picture-stones",
+      "status": "todo",
+      "category": "Runen & Symbole",
+      "artistKey": "domsgard",
+      "keyword_de": "gotland bildsteine wikinger",
+      "keyword_en": "gotland picture stones vikings",
+      "title_de": "Die Bildsteine von Gotland: Comics aus der Wikingerzeit",
+      "title_en": "The Gotland Picture Stones: Comics From the Viking Age",
+      "imagePolicy": "real-photo"
+    },
+    {
+      "translationKey": "danevirke",
+      "status": "todo",
+      "category": "Krieger & Schlachten",
+      "artistKey": "domsgard",
+      "keyword_de": "danewerk wall daenemark",
+      "keyword_en": "danevirke wall denmark",
+      "title_de": "Das Danewerk: Der Wall, der Daenemark schuetzte",
+      "title_en": "The Danevirke: The Wall That Guarded Denmark",
+      "imagePolicy": "real-photo"
+    },
+    {
+      "translationKey": "lewis-chessmen",
+      "status": "todo",
+      "category": "Alltag & Kultur",
+      "artistKey": "eldruna",
+      "keyword_de": "lewis schachfiguren wikinger",
+      "keyword_en": "lewis chessmen vikings",
+      "title_de": "Die Lewis-Schachfiguren: Elfenbein aus der Nordsee",
+      "title_en": "The Lewis Chessmen: Ivory From the North Sea",
+      "imagePolicy": "real-photo"
+    },
+    {
+      "translationKey": "viking-silver-hoards",
+      "status": "todo",
+      "category": "Geschichte",
+      "artistKey": "domsgard",
+      "keyword_de": "wikinger silberschatz hort",
+      "keyword_en": "viking silver hoard",
+      "title_de": "Wikinger-Silberschaetze: Warum sie das Silber vergruben",
+      "title_en": "Viking Silver Hoards: Why They Buried Their Silver",
+      "imagePolicy": "real-photo"
+    },
+    {
+      "translationKey": "viking-horned-helmet-myth",
+      "status": "todo",
+      "category": "Alltag & Kultur",
+      "artistKey": "domsgard",
+      "keyword_de": "hoernerhelm wikinger mythos",
+      "keyword_en": "viking horned helmet myth",
+      "title_de": "Der Hoernerhelm-Mythos: Woher er wirklich kommt",
+      "title_en": "The Horned Helmet Myth: Where It Really Comes From"
+    },
+    {
+      "translationKey": "viking-tattoos",
+      "status": "todo",
+      "category": "Alltag & Kultur",
+      "artistKey": "eldruna",
+      "keyword_de": "wikinger tattoos bedeutung",
+      "keyword_en": "viking tattoos meaning",
+      "title_de": "Wikinger-Tattoos: Was die Quellen wirklich hergeben",
+      "title_en": "Viking Tattoos: What the Sources Actually Say"
+    },
+    {
+      "translationKey": "viking-hygiene",
+      "status": "todo",
+      "category": "Alltag & Kultur",
+      "artistKey": "eldruna",
+      "keyword_de": "wikinger hygiene koerperpflege",
+      "keyword_en": "viking hygiene grooming",
+      "title_de": "Wikinger-Hygiene: Kaemme, Ohrloeffel und der Samstag",
+      "title_en": "Viking Hygiene: Combs, Ear Spoons and Saturday"
+    },
+    {
+      "translationKey": "hnefatafl",
+      "status": "todo",
+      "category": "Alltag & Kultur",
+      "artistKey": "domsgard",
+      "keyword_de": "hnefatafl wikinger brettspiel",
+      "keyword_en": "hnefatafl viking board game",
+      "title_de": "Hnefatafl: Das Brettspiel der Wikinger und seine Regeln",
+      "title_en": "Hnefatafl: The Viking Board Game and Its Rules"
+    },
+    {
+      "translationKey": "viking-shield-construction",
+      "status": "todo",
+      "category": "Krieger & Schlachten",
+      "artistKey": "domsgard",
+      "keyword_de": "wikinger schild aufbau",
+      "keyword_en": "viking shield construction",
+      "title_de": "Der Wikingerschild: Aufbau, Material und Schildwall",
+      "title_en": "The Viking Shield: Construction, Material and Shield Wall"
+    },
+    {
+      "translationKey": "viking-thralls",
+      "status": "todo",
+      "category": "Alltag & Kultur",
+      "artistKey": "domsgard",
+      "keyword_de": "wikinger sklaven thralls",
+      "keyword_en": "viking slaves thralls",
+      "title_de": "Thralls: Die Sklaven der Wikinger und der Handel mit Menschen",
+      "title_en": "Thralls: Viking Slaves and the Trade in People"
+    },
+    {
+      "translationKey": "viking-children",
+      "status": "todo",
+      "category": "Alltag & Kultur",
+      "artistKey": "eldruna",
+      "keyword_de": "wikinger kinder kindheit",
+      "keyword_en": "viking children childhood",
+      "title_de": "Kindheit bei den Wikingern: Spielzeug, Arbeit und Erwachsenwerden",
+      "title_en": "Childhood Among the Vikings: Toys, Work and Growing Up"
     }
   ]
 }
