@@ -477,13 +477,16 @@
     },
     {
       "translationKey": "viking-clothing",
-      "status": "todo",
+      "status": "done",
       "category": "Alltag & Kultur",
       "artistKey": "eldruna",
       "keyword_de": "wikinger kleidung schmuck",
       "keyword_en": "viking clothing jewelry",
       "title_de": "Was trugen die Wikinger? Kleidung und Schmuck",
-      "title_en": "What Did the Vikings Wear? Clothing and Jewelry"
+      "title_en": "What Did the Vikings Wear? Clothing and Jewelry",
+      "queuedDate": "2026-08-31",
+      "slug_de": "wikinger-kleidung-schmuck",
+      "slug_en": "viking-clothing-jewelry"
     },
     {
       "translationKey": "midgard-serpent",
@@ -497,13 +500,16 @@
     },
     {
       "translationKey": "viking-names",
-      "status": "todo",
+      "status": "done",
       "category": "Alltag & Kultur",
       "artistKey": "eldruna",
       "keyword_de": "wikinger namen bedeutung",
       "keyword_en": "viking names meanings",
       "title_de": "Wikinger-Namen und ihre Bedeutung: Von Björn bis Sigrid",
-      "title_en": "Viking Names and Their Meanings: From Björn to Sigrid"
+      "title_en": "Viking Names and Their Meanings: From Björn to Sigrid",
+      "queuedDate": "2026-08-31",
+      "slug_de": "wikinger-namen-bedeutung",
+      "slug_en": "viking-names-meanings"
     },
     {
       "translationKey": "norse-gods-family-tree",
@@ -701,33 +707,42 @@
     },
     {
       "translationKey": "viking-rye-bread",
-      "status": "todo",
+      "status": "done",
       "category": "Rezepte",
       "artistKey": "eldruna",
       "keyword_de": "roggenbrot rezept wikinger",
       "keyword_en": "viking rye bread recipe",
       "title_de": "Dunkles Roggenbrot nach Wikinger-Art: Das Rezept",
-      "title_en": "Dark Viking Rye Bread: The Recipe"
+      "title_en": "Dark Viking Rye Bread: The Recipe",
+      "queuedDate": "2026-08-31",
+      "slug_de": "roggenbrot-rezept-wikinger",
+      "slug_en": "viking-rye-bread-recipe"
     },
     {
       "translationKey": "viking-skyr",
-      "status": "todo",
+      "status": "done",
       "category": "Rezepte",
       "artistKey": "eldruna",
       "keyword_de": "skyr selber machen rezept",
       "keyword_en": "how to make skyr recipe",
       "title_de": "Skyr selber machen: Das Milchprodukt der Wikinger",
-      "title_en": "How to Make Skyr: The Dairy of the Vikings"
+      "title_en": "How to Make Skyr: The Dairy of the Vikings",
+      "queuedDate": "2026-08-31",
+      "slug_de": "skyr-selber-machen-wikinger-rezept",
+      "slug_en": "how-to-make-skyr-viking-recipe"
     },
     {
       "translationKey": "viking-pea-soup",
-      "status": "todo",
+      "status": "done",
       "category": "Rezepte",
       "artistKey": "domsgard",
       "keyword_de": "erbsensuppe wikinger rezept",
       "keyword_en": "viking pea soup recipe",
       "title_de": "Erbsensuppe der Wikinger: Der Eintopf, der den Norden satt machte",
-      "title_en": "Viking Pea Soup: The Stew That Fed the North"
+      "title_en": "Viking Pea Soup: The Stew That Fed the North",
+      "queuedDate": "2026-08-31",
+      "slug_de": "erbsensuppe-wikinger-rezept",
+      "slug_en": "viking-pea-soup-recipe"
     },
     {
       "translationKey": "viking-nettle-soup",
@@ -751,56 +766,71 @@
     },
     {
       "translationKey": "viking-berry-dessert",
-      "status": "todo",
+      "status": "done",
       "category": "Rezepte",
       "artistKey": "eldruna",
       "keyword_de": "beeren dessert wikinger rezept",
       "keyword_en": "viking berry dessert recipe",
       "title_de": "Waldbeeren mit Honig und Skyr: Das Dessert des Nordens",
-      "title_en": "Forest Berries With Honey and Skyr: The Dessert of the North"
+      "title_en": "Forest Berries With Honey and Skyr: The Dessert of the North",
+      "queuedDate": "2026-08-31",
+      "slug_de": "waldbeeren-honig-skyr-wikinger-dessert",
+      "slug_en": "viking-berry-dessert-recipe"
     },
     {
       "translationKey": "viking-root-vegetables",
-      "status": "todo",
+      "status": "done",
       "category": "Rezepte",
       "artistKey": "domsgard",
       "keyword_de": "wurzelgemuese wikinger rezept",
       "keyword_en": "viking root vegetable recipe",
       "title_de": "Wurzelgemuese aus der Glut: Ruebe, Pastinake und Zwiebel",
-      "title_en": "Root Vegetables From the Embers: Turnip, Parsnip and Onion"
+      "title_en": "Root Vegetables From the Embers: Turnip, Parsnip and Onion",
+      "queuedDate": "2026-08-31",
+      "slug_de": "wurzelgemuese-wikinger-rezept",
+      "slug_en": "viking-root-vegetable-recipe"
     },
     {
       "translationKey": "gjermundbu-helmet",
-      "status": "todo",
+      "status": "done",
       "category": "Geschichte",
       "artistKey": "domsgard",
       "keyword_de": "gjermundbu helm wikinger",
       "keyword_en": "gjermundbu viking helmet",
       "title_de": "Der Helm von Gjermundbu: Der einzige seiner Art",
       "title_en": "The Gjermundbu Helmet: The Only One of Its Kind",
-      "imagePolicy": "real-photo"
+      "imagePolicy": "real-photo",
+      "queuedDate": "2026-08-31",
+      "slug_de": "gjermundbu-helm-wikinger",
+      "slug_en": "gjermundbu-viking-helmet"
     },
     {
       "translationKey": "urnes-stave-church",
-      "status": "todo",
+      "status": "done",
       "category": "Geschichte",
       "artistKey": "eldruna",
       "keyword_de": "urnes stabkirche norwegen",
       "keyword_en": "urnes stave church norway",
       "title_de": "Die Stabkirche von Urnes: Wo Heidentum auf Christentum trifft",
       "title_en": "Urnes Stave Church: Where Paganism Meets Christianity",
-      "imagePolicy": "real-photo"
+      "imagePolicy": "real-photo",
+      "queuedDate": "2026-08-31",
+      "slug_de": "stabkirche-urnes-norwegen",
+      "slug_en": "urnes-stave-church-norway"
     },
     {
       "translationKey": "gotland-picture-stones",
-      "status": "todo",
+      "status": "done",
       "category": "Runen & Symbole",
       "artistKey": "domsgard",
       "keyword_de": "gotland bildsteine wikinger",
       "keyword_en": "gotland picture stones vikings",
       "title_de": "Die Bildsteine von Gotland: Comics aus der Wikingerzeit",
       "title_en": "The Gotland Picture Stones: Comics From the Viking Age",
-      "imagePolicy": "real-photo"
+      "imagePolicy": "real-photo",
+      "queuedDate": "2026-08-31",
+      "slug_de": "gotland-bildsteine-wikinger",
+      "slug_en": "gotland-picture-stones-vikings"
     },
     {
       "translationKey": "danevirke",
@@ -815,14 +845,17 @@
     },
     {
       "translationKey": "lewis-chessmen",
-      "status": "todo",
+      "status": "done",
       "category": "Alltag & Kultur",
       "artistKey": "eldruna",
       "keyword_de": "lewis schachfiguren wikinger",
       "keyword_en": "lewis chessmen vikings",
       "title_de": "Die Lewis-Schachfiguren: Elfenbein aus der Nordsee",
       "title_en": "The Lewis Chessmen: Ivory From the North Sea",
-      "imagePolicy": "real-photo"
+      "imagePolicy": "real-photo",
+      "queuedDate": "2026-08-31",
+      "slug_de": "lewis-schachfiguren-wikinger",
+      "slug_en": "lewis-chessmen-vikings"
     },
     {
       "translationKey": "viking-silver-hoards",
@@ -837,13 +870,16 @@
     },
     {
       "translationKey": "viking-horned-helmet-myth",
-      "status": "todo",
+      "status": "done",
       "category": "Alltag & Kultur",
       "artistKey": "domsgard",
       "keyword_de": "hoernerhelm wikinger mythos",
       "keyword_en": "viking horned helmet myth",
       "title_de": "Der Hoernerhelm-Mythos: Woher er wirklich kommt",
-      "title_en": "The Horned Helmet Myth: Where It Really Comes From"
+      "title_en": "The Horned Helmet Myth: Where It Really Comes From",
+      "queuedDate": "2026-08-31",
+      "slug_de": "hoernerhelm-wikinger-mythos",
+      "slug_en": "viking-horned-helmet-myth"
     },
     {
       "translationKey": "viking-tattoos",
