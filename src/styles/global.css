@@ -239,3 +239,160 @@ img {
     transition: none;
   }
 }
+
+/* ===========================================================
+   MOTION v2 - dynamische Schicht (Lenis-Klasse)
+   Alle Effekte nur transform/opacity; reduced-motion-sicher.
+   =========================================================== */
+
+html.has-lenis { scroll-behavior: auto; } /* Lenis uebernimmt */
+html.lenis, html.lenis body { height: auto; }
+.lenis.lenis-smooth { scroll-behavior: auto !important; }
+
+/* Duenner Bronze-Fortschrittsbalken ganz oben */
+.scroll-progress {
+  position: fixed;
+  top: 0; left: 0; right: 0;
+  height: 2px;
+  background: linear-gradient(90deg, var(--color-bronze), var(--color-bronze-bright));
+  transform: scaleX(0);
+  transform-origin: 0 50%;
+  z-index: 200;
+  pointer-events: none;
+}
+
+/* Header-Dynamik: kompakt + Glas beim Scrollen, taucht beim Hochscrollen auf */
+header {
+  transition: transform 0.45s cubic-bezier(0.22, 1, 0.36, 1), background 0.3s ease,
+    box-shadow 0.3s ease, backdrop-filter 0.3s ease;
+}
+header.is-scrolled {
+  background: rgba(12, 11, 9, 0.72);
+  backdrop-filter: blur(14px) saturate(1.2);
+  -webkit-backdrop-filter: blur(14px) saturate(1.2);
+  box-shadow: 0 10px 30px -18px rgba(0, 0, 0, 0.9);
+}
+header.is-hidden { transform: translateY(-100%); }
+
+/* Reveal-Upgrade: weicher, mit leichtem Blur */
+.reveal {
+  opacity: 0;
+  transform: translateY(28px);
+  filter: blur(6px);
+  transition: opacity 0.9s cubic-bezier(0.22, 1, 0.36, 1),
+    transform 0.9s cubic-bezier(0.22, 1, 0.36, 1),
+    filter 0.9s cubic-bezier(0.22, 1, 0.36, 1);
+}
+.reveal.is-visible { opacity: 1; transform: none; filter: none; }
+
+/* Stagger: Kinder laufen nacheinander ein */
+.stagger > * {
+  opacity: 0;
+  transform: translateY(26px);
+  transition: opacity 0.8s cubic-bezier(0.22, 1, 0.36, 1),
+    transform 0.8s cubic-bezier(0.22, 1, 0.36, 1);
+}
+.stagger.is-visible > * { opacity: 1; transform: none; }
+.stagger.is-visible > *:nth-child(1) { transition-delay: 0.05s; }
+.stagger.is-visible > *:nth-child(2) { transition-delay: 0.13s; }
+.stagger.is-visible > *:nth-child(3) { transition-delay: 0.21s; }
+.stagger.is-visible > *:nth-child(4) { transition-delay: 0.29s; }
+.stagger.is-visible > *:nth-child(5) { transition-delay: 0.37s; }
+.stagger.is-visible > *:nth-child(6) { transition-delay: 0.45s; }
+.stagger.is-visible > *:nth-child(n+7) { transition-delay: 0.53s; }
+
+/* Zeilen-Reveal: Textzeilen schieben sich aus einer Maske */
+.line-mask { display: block; overflow: hidden; }
+.line-inner {
+  display: block;
+  transform: translateY(110%) rotate(1.2deg);
+  transition: transform 1.05s cubic-bezier(0.22, 1, 0.36, 1);
+}
+.is-visible .line-inner, [data-lines].is-visible .line-inner { transform: none; }
+
+/* Marquee-Laufband */
+.marquee {
+  overflow: hidden;
+  white-space: nowrap;
+  border-top: 1px solid var(--color-border);
+  border-bottom: 1px solid var(--color-border);
+  padding: 0.85rem 0;
+  position: relative;
+  mask-image: linear-gradient(90deg, transparent, #000 8%, #000 92%, transparent);
+  -webkit-mask-image: linear-gradient(90deg, transparent, #000 8%, #000 92%, transparent);
+}
+.marquee-track {
+  display: inline-flex;
+  gap: 3.2rem;
+  padding-right: 3.2rem;
+  animation: marquee 34s linear infinite;
+  will-change: transform;
+}
+.marquee span {
+  font-family: var(--font-title);
+  font-size: 0.85rem;
+  letter-spacing: 0.34em;
+  text-transform: uppercase;
+  color: var(--color-text-dim);
+}
+.marquee span b { color: var(--color-bronze); font-weight: 500; }
+@keyframes marquee { to { transform: translateX(-50%); } }
+.marquee:hover .marquee-track { animation-play-state: paused; }
+
+/* Bild-Zoom in beschnittenem Rahmen (Karten, Heroes) */
+.img-zoom { overflow: hidden; }
+.img-zoom img {
+  transition: transform 0.9s cubic-bezier(0.22, 1, 0.36, 1), filter 0.9s ease;
+  will-change: transform;
+}
+.img-zoom:hover img { transform: scale(1.06); filter: saturate(1.12) contrast(1.04); }
+
+/* Magnetic-Buttons: sanfte Rueckstellung */
+[data-magnetic] { transition: transform 0.35s cubic-bezier(0.22, 1, 0.36, 1); will-change: transform; }
+
+/* Grosse Display-Typo (Hero-Klasse) */
+.display-xl {
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: clamp(2.6rem, 9vw, 7rem);
+  line-height: 0.98;
+  letter-spacing: 0.01em;
+  text-transform: uppercase;
+  color: var(--color-parchment);
+  text-wrap: balance;
+}
+.display-xl .akzent { color: var(--color-bronze); }
+
+/* Parallax-Bilder brauchen Ueberhang, damit keine Raender aufreissen */
+[data-parallax] { will-change: transform; }
+.parallax-frame { overflow: hidden; position: relative; }
+.parallax-frame > img, .parallax-frame > [data-parallax] { width: 100%; height: 108%; object-fit: cover; }
+
+@media (prefers-reduced-motion: reduce) {
+  .reveal, .stagger > *, .line-inner, .marquee-track, [data-magnetic], .img-zoom img {
+    transition: none !important;
+    animation: none !important;
+    transform: none !important;
+    opacity: 1 !important;
+    filter: none !important;
+  }
+  .scroll-progress { display: none; }
+}
+
+/* Intro-Sequenz: spielt beim Seitenladen (Hero), unabhaengig vom Scroll-Observer */
+.intro-fade {
+  opacity: 0;
+  transform: translateY(24px);
+  animation: introFade 0.95s cubic-bezier(0.22, 1, 0.36, 1) forwards;
+}
+@keyframes introFade { to { opacity: 1; transform: none; } }
+.intro-line {
+  display: block;
+  transform: translateY(112%) rotate(1.4deg);
+  animation: introUp 1.15s cubic-bezier(0.22, 1, 0.36, 1) forwards;
+}
+@keyframes introUp { to { transform: none; } }
+
+@media (prefers-reduced-motion: reduce) {
+  .intro-fade, .intro-line { animation: none !important; opacity: 1 !important; transform: none !important; }
+}

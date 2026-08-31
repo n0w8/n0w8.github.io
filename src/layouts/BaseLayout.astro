@@ -97,11 +97,16 @@ const enHref = new URL(lang === 'en' ? Astro.url.pathname : (altUrl ?? '/en/'), 
     </script>
   </head>
   <body>
+    <div class="scroll-progress" aria-hidden="true"></div>
     <Atmosphere />
     <Header lang={lang} altUrl={altUrl} />
     <main>
       <slot />
     </main>
     <Footer lang={lang} />
+    <script>
+      // Motion v2: Lenis-Smooth-Scroll, Parallax, Reveals, Magnetic (gebuendelt)
+      import "../scripts/motion.js";
+    </script>
   </body>
 </html>

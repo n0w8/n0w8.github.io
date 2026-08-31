@@ -92,8 +92,8 @@ const aboutUrl = lang === 'de' ? '/ueber-uns' : '/en/about';
     </header>
 
     {data.heroImage && (
-      <figure class="article-hero">
-        <img src={data.heroImage} alt={data.heroImageAlt ?? data.title} />
+      <figure class="article-hero parallax-frame reveal">
+        <img src={data.heroImage} alt={data.heroImageAlt ?? data.title} data-parallax="0.1" data-parallax-scale="1.1" />
       </figure>
     )}
 
@@ -205,7 +205,8 @@ const aboutUrl = lang === 'de' ? '/ueber-uns' : '/en/about';
     padding-top: 1.2rem;
   }
   .article-hero { margin: 2.5rem auto; max-width: var(--maxw); padding-inline: 1.5rem; }
-  .article-hero img { width: 100%; border-radius: var(--radius); border: 1px solid var(--color-border); max-height: 520px; object-fit: cover; }
+  .article-hero { border-radius: var(--radius); }
+  .article-hero img { width: 100%; border-radius: var(--radius); border: 1px solid var(--color-border); max-height: 520px; object-fit: cover; will-change: transform; }
 
   /* --- Inhaltsverzeichnis --- */
   .toc {
