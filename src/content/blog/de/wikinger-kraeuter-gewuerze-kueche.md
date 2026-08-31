@@ -1,7 +1,7 @@
 ---
 title: "Womit würzten die Wikinger? Kräuter und Gewürze des Nordens"
 description: "Wikinger Kräuter und Gewürze: was die Küche des Nordens wirklich hergab, von Salz über Dill bis Wacholder, plus ein Rezept für nordisches Kräutersalz."
-pubDate: 2026-01-01
+pubDate: 2026-08-31
 category: "Rezepte"
 tags: ["Kräuter", "Gewürze", "Wikinger-Küche", "Kräutersalz", "Rezepte"]
 heroImage: "/images/viking-herbs.jpg"

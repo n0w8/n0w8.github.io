@@ -1,7 +1,7 @@
 ---
 title: "How Did Vikings Season Their Food? Herbs and Spices of the North"
 description: "Viking herbs and spices in real Norse cooking: salt, dill, juniper and mustard, what the finds really show, plus a recipe for Nordic herb salt with juniper."
-pubDate: 2026-01-01
+pubDate: 2026-08-31
 category: "Rezepte"
 tags: ["Herbs", "Spices", "Viking Kitchen", "Herb Salt", "Recipes"]
 heroImage: "/images/viking-herbs.jpg"
