@@ -1,7 +1,7 @@
 ---
 title: "Die Rolle der Frauen in der Wikingergesellschaft"
 description: "Wikinger, Frauen, Rolle und Alltag: Hausmacht und Schlüsselbund, Textilarbeit, Scheidungsrecht und was die Gräber wirklich belegen. Ein nüchterner Faktencheck."
-pubDate: 2026-01-01
+pubDate: 2026-08-31
 category: "Alltag & Kultur"
 tags: ["Wikingerfrauen", "Alltag", "Wikingerzeit", "Archäologie", "Schalenfibeln", "Oseberg"]
 heroImage: "/images/viking-women.jpg"

@@ -1,7 +1,7 @@
 ---
 title: "The Role of Women in Viking Society"
 description: "The viking women role in daily life: household power and keys, textile work, divorce rights, and what the graves can and cannot prove. A clear-eyed look."
-pubDate: 2026-01-01
+pubDate: 2026-08-31
 category: "Alltag & Kultur"
 tags: ["Viking Women", "Daily Life", "Viking Age", "Archaeology", "Oval Brooches", "Oseberg"]
 heroImage: "/images/viking-women.jpg"
