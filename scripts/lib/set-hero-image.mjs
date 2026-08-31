@@ -33,7 +33,12 @@ const stripHtml = (s) => (s || '').replace(/<[^>]*>/g, '').replace(/\s+/g, ' ').
 
 async function optimizeTo(buf, out) {
   await mkdir(path.dirname(out), { recursive: true });
-  await sharp(buf).resize({ width: 1600, withoutEnlargement: true }).jpeg({ quality: 82, mozjpeg: true }).toFile(out);
+  // 1920px + sanfte Nachschaerfung: Retina-tauglich, sichtbar knackiger im neuen Design
+  await sharp(buf)
+    .resize({ width: 1920, withoutEnlargement: true, kernel: 'lanczos3' })
+    .sharpen({ sigma: 0.8, m1: 0.6, m2: 0.4 })
+    .jpeg({ quality: 85, mozjpeg: true })
+    .toFile(out);
 }
 
 async function tryWikimedia(kw) {
@@ -41,7 +46,7 @@ async function tryWikimedia(kw) {
   const api = 'https://commons.wikimedia.org/w/api.php?' + new URLSearchParams({
     action: 'query', format: 'json', generator: 'search', gsrsearch: kw,
     gsrnamespace: '6', gsrlimit: '12', prop: 'imageinfo',
-    iiprop: 'url|size|mime|extmetadata', iiurlwidth: '1600',
+    iiprop: 'url|size|mime|extmetadata', iiurlwidth: '1920',
   });
   const res = await fetch(api, { headers: { 'User-Agent': 'NordwegBlog/1.0 (viking blog autopilot)' } });
   if (!res.ok) return null;
@@ -50,7 +55,7 @@ async function tryWikimedia(kw) {
   // bevorzugt Querformat-JPEG/PNG mit ausreichender Breite
   const cands = pages
     .map((p) => p.imageinfo?.[0])
-    .filter((i) => i && /image\/(jpeg|png)/.test(i.mime || '') && (i.thumbwidth || i.width) >= 1000
+    .filter((i) => i && /image\/(jpeg|png)/.test(i.mime || '') && (i.thumbwidth || i.width) >= 1280
                  && (i.thumbheight ? i.thumbwidth >= i.thumbheight : true));
   for (const info of cands) {
     try {
