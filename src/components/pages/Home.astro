@@ -35,6 +35,7 @@ const pathTitle: Record<string, { de: string; en: string }> = {
 const artistList = [artists.domsgard, artists.eldruna];
 // Hero-Titel in maskierte Zeilen zerlegen (Zeilen-Reveal beim Laden)
 const titleLines = t('hero.title').split(/<br[^>]*>/i).map((z) => z.trim());
+const giant = lang === 'de' ? { pfade: 'Saga', neu: 'Chronik', musik: 'Klang' } : { pfade: 'Saga', neu: 'Chronicle', musik: 'Sound' };
 const marqueeItems = lang === 'de'
   ? ['Geschichte', 'Mythologie', 'Runen', 'Krieger', 'Rezepte', 'Fundstücke', 'Sagas']
   : ['History', 'Mythology', 'Runes', 'Warriors', 'Recipes', 'Artefacts', 'Sagas'];
@@ -73,6 +74,7 @@ const marqueeItems = lang === 'de'
   </div>
 
   <section id="discover" class="container section reveal">
+    <span class="giant-word" aria-hidden="true">{giant.pfade}</span>
     <div class="section-head center">
       <p class="eyebrow flourish">{t('home.paths.eyebrow')}</p>
       <h2 class="section-title">{t('home.paths.title')}</h2>
@@ -95,6 +97,7 @@ const marqueeItems = lang === 'de'
   </section>
 
   <section class="container section reveal">
+    <span class="giant-word" aria-hidden="true">{giant.neu}</span>
     <div class="section-head">
       <div>
         <p class="eyebrow flourish">{t('home.latest.eyebrow')}</p>
@@ -117,6 +120,7 @@ const marqueeItems = lang === 'de'
   </section>
 
   <section class="container section reveal">
+    <span class="giant-word" aria-hidden="true">{giant.musik}</span>
     <div class="section-head center">
       <p class="eyebrow flourish">{t('home.artists.eyebrow')}</p>
       <h2 class="section-title">{t('home.artists.title')}</h2>
