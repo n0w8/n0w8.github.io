@@ -90,8 +90,13 @@ jobs:
         if: env.SKIP != '1'
         run: npm run build
 
-      - name: FTP sync to easyname
+      # FTP mit 3 Versuchen: easyname timeoutet gelegentlich (ETIMEDOUT auf Port 21,
+      # real passiert am 31.8.2026 - Artikel war committet, ging aber nie live).
+      # Ohne Wiederholung schluckt ein einzelner Aussetzer stillschweigend einen Post.
+      - name: FTP sync to easyname (Versuch 1)
+        id: ftp1
         if: env.SKIP != '1'
+        continue-on-error: true
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
           server: e111595-ftp.services.easyname.eu
@@ -99,3 +104,51 @@ jobs:
           password: ${{ secrets.FTP_PASSWORD }}
           local-dir: ./dist/
           server-dir: nordweg-blog/
+
+      - name: Pause vor Versuch 2
+        if: env.SKIP != '1' && steps.ftp1.outcome == 'failure'
+        run: sleep 90
+
+      - name: FTP sync to easyname (Versuch 2)
+        id: ftp2
+        if: env.SKIP != '1' && steps.ftp1.outcome == 'failure'
+        continue-on-error: true
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: e111595-ftp.services.easyname.eu
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          local-dir: ./dist/
+          server-dir: nordweg-blog/
+
+      - name: Pause vor Versuch 3
+        if: env.SKIP != '1' && steps.ftp1.outcome == 'failure' && steps.ftp2.outcome == 'failure'
+        run: sleep 240
+
+      # Letzter Versuch OHNE continue-on-error: schlaegt auch der fehl, faellt der
+      # Lauf sichtbar rot aus (statt still zu scheitern).
+      - name: FTP sync to easyname (Versuch 3)
+        if: env.SKIP != '1' && steps.ftp1.outcome == 'failure' && steps.ftp2.outcome == 'failure'
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: e111595-ftp.services.easyname.eu
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          local-dir: ./dist/
+          server-dir: nordweg-blog/
+
+      # Endkontrolle: liegt der heute veroeffentlichte Artikel wirklich live?
+      # Schlaegt hier etwas fehl, ist der Lauf rot und der Fehler sichtbar.
+      - name: Live-Kontrolle
+        if: env.SKIP != '1'
+        run: |
+          SLUG=$(grep -rl "pubDate: $(date -u +%Y-%m-%d)" src/content/blog/de | head -1 | xargs -r basename | sed 's/\.md$//')
+          if [ -z "$SLUG" ]; then echo "Kein heutiger Artikel gefunden - nichts zu pruefen."; exit 0; fi
+          for i in 1 2 3; do
+            CODE=$(curl -sL -o /dev/null -w "%{http_code}" "https://blog.nordwaldrecords.com/blog/$SLUG/?cb=$(date +%s)")
+            echo "Versuch $i: /blog/$SLUG/ -> HTTP $CODE"
+            if [ "$CODE" = "200" ]; then echo "Artikel ist live."; exit 0; fi
+            sleep 30
+          done
+          echo "FEHLER: Artikel /blog/$SLUG/ ist nach dem Deploy nicht erreichbar."
+          exit 1

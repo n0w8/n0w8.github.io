@@ -40,7 +40,41 @@ jobs:
       - name: Build
         run: npm run build
 
-      - name: FTP sync to easyname
+      # 3 Versuche - easyname timeoutet gelegentlich auf Port 21 (ETIMEDOUT).
+      # Ohne Wiederholung bleibt eine Aenderung stillschweigend offline.
+      - name: FTP sync to easyname (Versuch 1)
+        id: ftp1
+        continue-on-error: true
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: e111595-ftp.services.easyname.eu
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          local-dir: ./dist/
+          server-dir: nordweg-blog/
+
+      - name: Pause vor Versuch 2
+        if: steps.ftp1.outcome == 'failure'
+        run: sleep 90
+
+      - name: FTP sync to easyname (Versuch 2)
+        id: ftp2
+        if: steps.ftp1.outcome == 'failure'
+        continue-on-error: true
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: e111595-ftp.services.easyname.eu
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          local-dir: ./dist/
+          server-dir: nordweg-blog/
+
+      - name: Pause vor Versuch 3
+        if: steps.ftp1.outcome == 'failure' && steps.ftp2.outcome == 'failure'
+        run: sleep 240
+
+      - name: FTP sync to easyname (Versuch 3)
+        if: steps.ftp1.outcome == 'failure' && steps.ftp2.outcome == 'failure'
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
           server: e111595-ftp.services.easyname.eu
