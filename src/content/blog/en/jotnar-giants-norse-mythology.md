@@ -1,7 +1,7 @@
 ---
 title: "The Jotnar: The Giants of Norse Mythology"
 description: "Jotnar giants in Norse mythology: why they are older than the Aesir, far sharper than their reputation, and related by blood to the gods of Asgard themselves."
-pubDate: 2026-01-01
+pubDate: 2026-09-01
 category: "Mythologie"
 tags: ["Jotnar", "Ymir", "Norse Mythology", "Jotunheim", "Utgard", "Prose Edda"]
 heroImage: "/images/jotnar.jpg"

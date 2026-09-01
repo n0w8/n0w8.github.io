@@ -1,7 +1,7 @@
 ---
 title: "Die Jötnar: Die Riesen der nordischen Mythologie"
 description: "Jötunn und Riesen in der nordischen Mythologie: Warum die Jötnar älter sind als die Asen, klüger als ihr Ruf und mit den Göttern selbst eng verwandt sind."
-pubDate: 2026-01-01
+pubDate: 2026-09-01
 category: "Mythologie"
 tags: ["Jötnar", "Ymir", "Nordische Mythologie", "Jötunheim", "Utgard", "Prosa-Edda"]
 heroImage: "/images/jotnar.jpg"
