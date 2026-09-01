@@ -1,7 +1,7 @@
 ---
 title: "The Skuldelev Ships of Roskilde: Five Wrecks That Tell the Truth"
 description: "Five wrecks pulled from Roskilde Fjord: what the Skuldelev ships reveal about specialised Viking vessels, and why a ship called Skuldelev 4 never existed."
-pubDate: 2026-01-01
+pubDate: 2026-09-01
 category: "Geschichte"
 tags: ["Skuldelev", "Roskilde", "Viking Ship", "Viking Ship Museum", "Dendrochronology", "Archaeology"]
 heroImage: "/images/skuldelev-ships.jpg"

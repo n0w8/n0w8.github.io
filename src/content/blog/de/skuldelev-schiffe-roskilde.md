@@ -1,7 +1,7 @@
 ---
 title: "Die Skuldelev-Schiffe von Roskilde: Fünf Wracks erzählen die Wahrheit"
 description: "Fünf Wracks aus dem Roskilde Fjord: Was die Skuldelev-Schiffe über spezialisierte Wikingerschiffe verraten und warum es nie ein Skuldelev 4 gegeben hat."
-pubDate: 2026-01-01
+pubDate: 2026-09-01
 category: "Geschichte"
 tags: ["Skuldelev", "Roskilde", "Wikingerschiff", "Wikingerschiffsmuseum", "Dendrochronologie", "Archäologie"]
 heroImage: "/images/skuldelev-ships.jpg"
