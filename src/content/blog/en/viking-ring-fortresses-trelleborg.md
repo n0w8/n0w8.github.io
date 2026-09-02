@@ -1,7 +1,7 @@
 ---
 title: "The Viking Ring Fortresses: Precision From the North"
 description: "Trelleborg and the Viking ring fortresses: exact circles, four gates, Harald Bluetooth, and the still unsettled argument about what these sites were really for."
-pubDate: 2026-01-01
+pubDate: 2026-09-02
 category: "Krieger & Schlachten"
 tags: ["Trelleborg", "Ring Fortresses", "Harald Bluetooth", "Denmark", "Archaeology", "Viking Age"]
 heroImage: "/images/trelleborg-fortresses.jpg"

@@ -1,7 +1,7 @@
 ---
 title: "Die Ringburgen der Wikinger: Präzision aus dem Norden"
 description: "Trelleborg und die Ringburgen der Wikinger: exakte Kreise, vier Tore, Harald Blauzahn - und der bis heute offene Streit, wozu die Anlagen wirklich dienten."
-pubDate: 2026-01-01
+pubDate: 2026-09-02
 category: "Krieger & Schlachten"
 tags: ["Trelleborg", "Ringburgen", "Harald Blauzahn", "Dänemark", "Archäologie", "Wikingerzeit"]
 heroImage: "/images/trelleborg-fortresses.jpg"
