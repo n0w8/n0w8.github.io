@@ -1,7 +1,7 @@
 ---
 title: "Seidr: The Mysterious Magic of the Norsemen"
 description: "Seidr, the strangest craft in Norse magic: prophecy, fate-working and a taboo so sharp that Loki wielded it to shame Odin in front of the assembled gods."
-pubDate: 2026-01-01
+pubDate: 2026-09-02
 category: "Mythologie"
 tags: ["Seidr", "Volva", "Magic", "Freyja", "Odin", "Norse Mythology"]
 heroImage: "/images/seidr-magic.jpg"

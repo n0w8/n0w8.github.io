@@ -1,7 +1,7 @@
 ---
 title: "Seidr: Die geheimnisvolle Magie der Nordmänner"
 description: "Seidr, die Magie der Wikinger: Weissagung, Schicksalszauber und ein hartes Tabu. Warum Freyja die Kunst zu den Asen brachte und Odin dafür verspottet wurde."
-pubDate: 2026-01-01
+pubDate: 2026-09-02
 category: "Mythologie"
 tags: ["Seidr", "Völva", "Magie", "Freyja", "Odin", "Nordische Mythologie"]
 heroImage: "/images/seidr-magic.jpg"
