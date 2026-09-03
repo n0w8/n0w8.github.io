@@ -418,13 +418,16 @@
     },
     {
       "translationKey": "baldr",
-      "status": "todo",
+      "status": "done",
       "category": "Mythologie",
       "artistKey": "eldruna",
       "keyword_de": "balder gott tod mythologie",
       "keyword_en": "baldr god death",
       "title_de": "Balder: Der Tod des strahlenden Gottes",
-      "title_en": "Baldr: The Death of the Shining God"
+      "title_en": "Baldr: The Death of the Shining God",
+      "queuedDate": "2026-09-03",
+      "slug_de": "balder-gott-tod-mythologie",
+      "slug_en": "baldr-god-death-mythology"
     },
     {
       "translationKey": "jotnar",
@@ -454,13 +457,16 @@
     },
     {
       "translationKey": "viking-trade-routes",
-      "status": "todo",
+      "status": "done",
       "category": "Geschichte",
       "artistKey": "domsgard",
       "keyword_de": "wikinger handelswege",
       "keyword_en": "viking trade routes",
       "title_de": "Die Handelswege der Wikinger: Von Bagdad bis Neufundland",
-      "title_en": "The Trade Routes of the Vikings: From Baghdad to Newfoundland"
+      "title_en": "The Trade Routes of the Vikings: From Baghdad to Newfoundland",
+      "queuedDate": "2026-09-03",
+      "slug_de": "wikinger-handelswege",
+      "slug_en": "viking-trade-routes"
     },
     {
       "translationKey": "draugr",
@@ -627,14 +633,17 @@
     },
     {
       "translationKey": "lanse-aux-meadows",
-      "status": "todo",
+      "status": "done",
       "category": "Geschichte",
       "artistKey": "eldruna",
       "keyword_de": "lanse aux meadows wikinger amerika",
       "keyword_en": "lanse aux meadows vikings america",
       "title_de": "L Anse aux Meadows: Der Beweis, dass Wikinger Amerika erreichten",
       "title_en": "L Anse aux Meadows: Proof the Vikings Reached America",
-      "imagePolicy": "real-photo"
+      "imagePolicy": "real-photo",
+      "queuedDate": "2026-09-03",
+      "slug_de": "lanse-aux-meadows-wikinger-amerika",
+      "slug_en": "lanse-aux-meadows-vikings-america"
     },
     {
       "translationKey": "viking-porridge",
@@ -746,23 +755,29 @@
     },
     {
       "translationKey": "viking-nettle-soup",
-      "status": "todo",
+      "status": "done",
       "category": "Rezepte",
       "artistKey": "eldruna",
       "keyword_de": "brennnesselsuppe rezept wikinger",
       "keyword_en": "viking nettle soup recipe",
       "title_de": "Brennnesselsuppe: Das Fruehlingsgericht der Nordmaenner",
-      "title_en": "Nettle Soup: The Spring Dish of the Norsemen"
+      "title_en": "Nettle Soup: The Spring Dish of the Norsemen",
+      "queuedDate": "2026-09-03",
+      "slug_de": "brennnesselsuppe-rezept-wikinger",
+      "slug_en": "viking-nettle-soup-recipe"
     },
     {
       "translationKey": "viking-ale-brewing",
-      "status": "todo",
+      "status": "done",
       "category": "Rezepte",
       "artistKey": "domsgard",
       "keyword_de": "wikinger bier brauen rezept",
       "keyword_en": "viking ale brewing recipe",
       "title_de": "Wikinger-Bier selber brauen: Gerstenbier wie im Norden",
-      "title_en": "Brew Your Own Viking Ale: Barley Beer of the North"
+      "title_en": "Brew Your Own Viking Ale: Barley Beer of the North",
+      "queuedDate": "2026-09-03",
+      "slug_de": "wikinger-bier-brauen-rezept",
+      "slug_en": "viking-ale-brewing-recipe"
     },
     {
       "translationKey": "viking-berry-dessert",
@@ -834,14 +849,17 @@
     },
     {
       "translationKey": "danevirke",
-      "status": "todo",
+      "status": "done",
       "category": "Krieger & Schlachten",
       "artistKey": "domsgard",
       "keyword_de": "danewerk wall daenemark",
       "keyword_en": "danevirke wall denmark",
       "title_de": "Das Danewerk: Der Wall, der Daenemark schuetzte",
       "title_en": "The Danevirke: The Wall That Guarded Denmark",
-      "imagePolicy": "real-photo"
+      "imagePolicy": "real-photo",
+      "queuedDate": "2026-09-03",
+      "slug_de": "danewerk-wall-daenemark",
+      "slug_en": "danevirke-wall-denmark"
     },
     {
       "translationKey": "lewis-chessmen",
@@ -859,14 +877,17 @@
     },
     {
       "translationKey": "viking-silver-hoards",
-      "status": "todo",
+      "status": "done",
       "category": "Geschichte",
       "artistKey": "domsgard",
       "keyword_de": "wikinger silberschatz hort",
       "keyword_en": "viking silver hoard",
       "title_de": "Wikinger-Silberschaetze: Warum sie das Silber vergruben",
       "title_en": "Viking Silver Hoards: Why They Buried Their Silver",
-      "imagePolicy": "real-photo"
+      "imagePolicy": "real-photo",
+      "queuedDate": "2026-09-03",
+      "slug_de": "wikinger-silberschatz-horte",
+      "slug_en": "viking-silver-hoards"
     },
     {
       "translationKey": "viking-horned-helmet-myth",
@@ -883,13 +904,16 @@
     },
     {
       "translationKey": "viking-tattoos",
-      "status": "todo",
+      "status": "done",
       "category": "Alltag & Kultur",
       "artistKey": "eldruna",
       "keyword_de": "wikinger tattoos bedeutung",
       "keyword_en": "viking tattoos meaning",
       "title_de": "Wikinger-Tattoos: Was die Quellen wirklich hergeben",
-      "title_en": "Viking Tattoos: What the Sources Actually Say"
+      "title_en": "Viking Tattoos: What the Sources Actually Say",
+      "queuedDate": "2026-09-03",
+      "slug_de": "wikinger-tattoos-bedeutung",
+      "slug_en": "viking-tattoos-meaning"
     },
     {
       "translationKey": "viking-hygiene",
@@ -940,6 +964,193 @@
       "keyword_en": "viking children childhood",
       "title_de": "Kindheit bei den Wikingern: Spielzeug, Arbeit und Erwachsenwerden",
       "title_en": "Childhood Among the Vikings: Toys, Work and Growing Up"
+    },
+    {
+      "translationKey": "viking-smoked-fish",
+      "category": "Rezepte",
+      "artistKey": "eldruna",
+      "keyword_de": "forelle heiß räuchern",
+      "keyword_en": "hot smoked trout viking",
+      "title_de": "Forelle heiß räuchern: Grundrezept aus der Wikingerküche",
+      "title_en": "Hot-Smoked Trout: The Viking Method",
+      "status": "done",
+      "queuedDate": "2026-09-03",
+      "slug_de": "forelle-heiss-raeuchern-rezept",
+      "slug_en": "hot-smoked-trout-viking-method"
+    },
+    {
+      "translationKey": "viking-spiced-mead",
+      "category": "Rezepte",
+      "artistKey": "domsgard",
+      "keyword_de": "gewürzter met rezept",
+      "keyword_en": "spiced mead recipe viking",
+      "title_de": "Gewürzter Met: Honigwein mit Beeren und Kräutern",
+      "title_en": "Spiced Mead: Honey Wine with Berries and Herbs",
+      "status": "done",
+      "queuedDate": "2026-09-03",
+      "slug_de": "gewuerzter-met-rezept-beeren-kraeuter",
+      "slug_en": "spiced-mead-recipe-viking-honey-wine"
+    },
+    {
+      "translationKey": "viking-lamb-skewers",
+      "category": "Rezepte",
+      "artistKey": "domsgard",
+      "keyword_de": "lammspieße über feuer",
+      "keyword_en": "viking lamb skewers recipe",
+      "title_de": "Lammspieße über dem Feuer: Das Wikinger-Grillrezept",
+      "title_en": "Lamb Skewers Over Fire: The Viking Grill Recipe",
+      "status": "done",
+      "queuedDate": "2026-09-03",
+      "slug_de": "lammspiesse-ueber-dem-feuer",
+      "slug_en": "viking-lamb-skewers-recipe"
+    },
+    {
+      "translationKey": "viking-cabbage-stew",
+      "category": "Rezepte",
+      "artistKey": "eldruna",
+      "keyword_de": "kohleintopf wikinger rezept",
+      "keyword_en": "viking cabbage stew recipe",
+      "title_de": "Kohleintopf mit Speck: Der Winterschmaus des Nordens",
+      "title_en": "Cabbage Stew with Bacon: The Winter Feast of the North",
+      "status": "done",
+      "queuedDate": "2026-09-03",
+      "slug_de": "kohleintopf-wikinger-rezept",
+      "slug_en": "viking-cabbage-stew-recipe"
+    },
+    {
+      "translationKey": "viking-herb-butter",
+      "category": "Rezepte",
+      "artistKey": "eldruna",
+      "keyword_de": "kräuterbutter selber machen wikinger",
+      "keyword_en": "viking herb butter recipe",
+      "title_de": "Kräuterbutter nach Wikinger-Art: Butter selber machen",
+      "title_en": "Viking Herb Butter: Making Butter from Scratch",
+      "status": "done",
+      "queuedDate": "2026-09-03",
+      "slug_de": "kraeuterbutter-selber-machen-wikinger",
+      "slug_en": "viking-herb-butter-recipe"
+    },
+    {
+      "translationKey": "viking-hazelnut-cake",
+      "category": "Rezepte",
+      "artistKey": "eldruna",
+      "keyword_de": "haselnusskuchen honig rezept",
+      "keyword_en": "viking hazelnut honey cake",
+      "title_de": "Haselnusskuchen mit Honig: Süßes ohne Zucker",
+      "title_en": "Hazelnut Honey Cake: Sweetness Without Sugar",
+      "status": "done",
+      "queuedDate": "2026-09-03",
+      "slug_de": "haselnusskuchen-mit-honig-rezept",
+      "slug_en": "viking-hazelnut-honey-cake"
+    },
+    {
+      "translationKey": "viking-apple-drink",
+      "category": "Rezepte",
+      "artistKey": "domsgard",
+      "keyword_de": "apfelmost selber machen",
+      "keyword_en": "viking apple cider recipe",
+      "title_de": "Apfelmost wie im Norden: Der Trank nach der Ernte",
+      "title_en": "Northern Apple Cider: The Drink After Harvest",
+      "status": "done",
+      "queuedDate": "2026-09-03",
+      "slug_de": "apfelmost-selber-machen",
+      "slug_en": "viking-apple-cider-recipe"
+    },
+    {
+      "translationKey": "viking-flatbread-seeds",
+      "category": "Rezepte",
+      "artistKey": "eldruna",
+      "keyword_de": "körnerfladen wikinger backen",
+      "keyword_en": "viking seeded flatbread recipe",
+      "title_de": "Körnerfladen vom Stein: Brot ohne Ofen backen",
+      "title_en": "Seeded Flatbread on Stone: Baking Bread Without an Oven",
+      "status": "done",
+      "queuedDate": "2026-09-03",
+      "slug_de": "koernerfladen-wikinger-backen",
+      "slug_en": "viking-seeded-flatbread-recipe"
+    },
+    {
+      "translationKey": "mammen-axe",
+      "category": "Krieger & Schlachten",
+      "artistKey": "domsgard",
+      "imagePolicy": "real-photo",
+      "keyword_de": "mammen axt fund",
+      "keyword_en": "mammen axe viking",
+      "title_de": "Die Axt von Mammen: Silberkunst einer Kriegerelite",
+      "title_en": "The Mammen Axe: Silver Art of a Warrior Elite",
+      "status": "done",
+      "queuedDate": "2026-09-03",
+      "slug_de": "mammen-axt-fund-wikinger",
+      "slug_en": "mammen-axe-viking-find"
+    },
+    {
+      "translationKey": "oseberg-cart",
+      "category": "Alltag & Kultur",
+      "artistKey": "eldruna",
+      "imagePolicy": "real-photo",
+      "keyword_de": "oseberg wagen fund",
+      "keyword_en": "oseberg cart viking",
+      "title_de": "Der Wagen von Oseberg: Geschnitzt für die letzte Fahrt",
+      "title_en": "The Oseberg Cart: Carved for the Final Journey",
+      "status": "done",
+      "queuedDate": "2026-09-03",
+      "slug_de": "oseberg-wagen-fund",
+      "slug_en": "oseberg-cart-viking-wagon"
+    },
+    {
+      "translationKey": "thor-hammer-amulets",
+      "category": "Runen & Symbole",
+      "artistKey": "domsgard",
+      "imagePolicy": "real-photo",
+      "keyword_de": "thorshammer amulett fund",
+      "keyword_en": "thor hammer amulet viking",
+      "title_de": "Thorshammer-Amulette: Was die Funde wirklich zeigen",
+      "title_en": "Thor Hammer Amulets: What the Finds Really Show",
+      "status": "done",
+      "queuedDate": "2026-09-03",
+      "slug_de": "thorshammer-amulett-funde",
+      "slug_en": "thor-hammer-amulet-viking-finds"
+    },
+    {
+      "translationKey": "tune-ship",
+      "category": "Geschichte",
+      "artistKey": "eldruna",
+      "imagePolicy": "real-photo",
+      "keyword_de": "tune schiff wikinger",
+      "keyword_en": "tune ship viking",
+      "title_de": "Das Tune-Schiff: Der vergessene Bruder der Osebergfähre",
+      "title_en": "The Tune Ship: The Forgotten Brother of the Oseberg Find",
+      "status": "done",
+      "queuedDate": "2026-09-03",
+      "slug_de": "tune-schiff-wikinger",
+      "slug_en": "tune-ship-viking-burial"
+    },
+    {
+      "translationKey": "the-norns",
+      "category": "Mythologie",
+      "artistKey": "eldruna",
+      "keyword_de": "nornen spinnrad",
+      "keyword_en": "norns spinning wheel",
+      "title_de": "Das Spinnrad der Nornen: Eine Erfindung des 19. Jahrhunderts",
+      "title_en": "The Norns' Spinning Wheel: A Nineteenth-Century Invention",
+      "status": "done",
+      "note": "KORREKTUR 2026-09-03: Der Planer hatte den bereits veroeffentlichten Artikel translationKey 'norns' (nornen-schicksalsweberinnen / norns-weavers-of-fate, live seit 2026-07-28) uebersehen und hier ein zweites Mal dasselbe Head-Keyword 'Nornen / Norns' mit derselben Kategorie, demselben artistKey und demselben Musik-Embed angesetzt. Thema wurde deshalb auf einen rein rezeptionsgeschichtlichen Winkel umgestellt (Spinnrad-Anachronismus, griechische Schere, Walkueren-Verwechslung, Wagner 1876, Jugendstil), Titel und Keyword-Set neu, Tags ohne Ueberschneidung. Die Kern-Nornen-Erklaerung (Urdarbrunnr, Voluspa 20, oerloeg, Fafnismal, Nornagest) bleibt allein bei 'norns'. Der neue Artikel verlinkt 'norns' in beiden Sprachen; der Ruecklink von 'norns' auf diesen Artikel ist beim Publish nachzutragen. Kuenftige Nornen-Ideen bitte gegen 'norns' UND 'the-norns' pruefen.",
+      "queuedDate": "2026-09-03",
+      "slug_de": "nornen-spinnrad-mythos",
+      "slug_en": "norns-spinning-wheel-myth"
+    },
+    {
+      "translationKey": "viking-thing-assembly",
+      "category": "Alltag & Kultur",
+      "artistKey": "domsgard",
+      "keyword_de": "thing versammlung wikinger recht",
+      "keyword_en": "viking thing assembly law",
+      "title_de": "Das Thing: Wie die Wikinger Recht sprachen",
+      "title_en": "The Thing: How the Vikings Held Court",
+      "status": "done",
+      "queuedDate": "2026-09-03",
+      "slug_de": "thing-versammlung-wikinger-recht",
+      "slug_en": "viking-thing-assembly-law"
     }
   ]
 }

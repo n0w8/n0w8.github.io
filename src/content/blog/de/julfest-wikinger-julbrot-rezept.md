@@ -89,7 +89,7 @@ Dass ausgerechnet die dunkelste, kälteste Jahreszeit zum größten Fest des Jah
 
 Vieles von dem, was wir heute als "typisch weihnachtlich" empfinden, das Licht in der Dunkelheit, das gemeinsame Festmahl, die feierlichen Trinksprüche auf das neue Jahr, hat tiefe Wurzeln im nordischen Jólfest. Der sonargöltr-Eid mag längst Geschichte sein, aber ein frisch gebackenes, mit Honig und Nüssen verfeinertes Festtagsbrot lässt sich auch heute noch mit ganz ähnlicher Freude teilen wie vor über tausend Jahren in einer nordischen Langhaus-Halle.
 
-Wenn du noch tiefer in die nordische Küche eintauchen willst: Dieses Rezept ist eine Kostprobe aus unserer Sammlung. Im Kochbuch **"Viking Feast - Das große Wikinger-Kochbuch"** findest du 141 Rezepte der nordischen Küche - vom Festtagsbrot über deftige Eintöpfe bis zum passenden Met. [Zum Kochbuch](/kochbuch)
+Wenn du noch tiefer in die nordische Küche eintauchen willst: Dieses Rezept ist eine Kostprobe aus unserer Sammlung. Im Kochbuch **"Wikinger Festmahl - Das große Wikinger-Kochbuch"** findest du 141 Rezepte der nordischen Küche - vom Festtagsbrot über deftige Eintöpfe bis zum passenden Met. [Zum Kochbuch](/kochbuch)
 
 <script type="application/ld+json">
 {

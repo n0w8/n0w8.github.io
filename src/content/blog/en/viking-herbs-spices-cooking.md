@@ -110,7 +110,7 @@ That is why this herb salt works. It does not pretend to be a thousand years old
   "description": "Nordic herb salt with juniper, dill, caraway and mustard: a modern kitchen version built from ingredients attested in the Viking Age North. Ready in 20 minutes.",
   "image": "https://blog.nordwaldrecords.com/images/viking-herbs.jpg",
   "author": { "@type": "Organization", "name": "Nordweg" },
-  "datePublished": "2026-01-01",
+  "datePublished": "2026-08-31",
   "prepTime": "PT20M",
   "cookTime": "PT10M",
   "totalTime": "PT30M",

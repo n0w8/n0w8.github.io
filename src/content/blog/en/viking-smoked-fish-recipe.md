@@ -84,7 +84,7 @@ Smoking, salting, fermenting: three simple principles that kept the North alive 
   "description": "Simple Viking-style recipe with smoked salmon, flatbread, onion, and dill. Ready in 15 minutes, inspired by the centuries-old preservation craft of the North.",
   "image": "https://blog.nordwaldrecords.com/images/viking-fish-recipe.jpg",
   "author": { "@type": "Organization", "name": "Nordweg" },
-  "datePublished": "2099-01-01",
+  "datePublished": "2026-07-31",
   "prepTime": "PT10M",
   "cookTime": "PT5M",
   "totalTime": "PT15M",

@@ -115,7 +115,7 @@ Genau deshalb funktioniert dieses Kräutersalz. Es tut nicht so, als wäre es ta
   "description": "Nordisches Kräutersalz mit Wacholder, Dill, Kümmel und Senf: eine moderne Küchenumsetzung mit Zutaten, die im Norden der Wikingerzeit belegt sind. In 20 Minuten fertig.",
   "image": "https://blog.nordwaldrecords.com/images/viking-herbs.jpg",
   "author": { "@type": "Organization", "name": "Nordweg" },
-  "datePublished": "2026-01-01",
+  "datePublished": "2026-08-31",
   "prepTime": "PT20M",
   "cookTime": "PT10M",
   "totalTime": "PT30M",

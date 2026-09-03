@@ -72,7 +72,7 @@ Für 2 Fladenbrote:
 - **Selbst räuchern:** Wer Zeit und einen Räucherofen hat, kann Lachs auch selbst kalt räuchern, dann schmeckt das Rezept noch authentischer.
 - **Im Vergleich:** Während dieses Rezept auf die rohe, geräucherte Textur setzt, zeigt unser [Lachs mit Honig-Senf-Kruste](/blog/lachs-mit-honig-senf-kruste) die andere Seite der Wikinger-Fischküche: warm aus dem Ofen, mit einer knusprigen, süßlich-scharfen Kruste. Beide Rezepte stammen aus derselben Zutat, aber aus völlig unterschiedlichen Konservierungs- und Zubereitungstraditionen.
 
-Wenn dich diese Konservierungskunst der Wikinger neugierig gemacht hat: Dieses Rezept ist nur eine Kostprobe aus unserer Sammlung. Im Kochbuch **"Viking Feast - Das große Wikinger-Kochbuch"** findest du 141 Rezepte der nordischen Küche, von Fladenbrot über Festtagsgerichte bis zu Fisch in allen Variationen. [Zum Kochbuch](/kochbuch)
+Wenn dich diese Konservierungskunst der Wikinger neugierig gemacht hat: Dieses Rezept ist nur eine Kostprobe aus unserer Sammlung. Im Kochbuch **"Wikinger Festmahl - Das große Wikinger-Kochbuch"** findest du 141 Rezepte der nordischen Küche, von Fladenbrot über Festtagsgerichte bis zu Fisch in allen Variationen. [Zum Kochbuch](/kochbuch)
 
 Räuchern, Salzen, Fermentieren: Drei einfache Prinzipien, die den Norden über Jahrhunderte am Leben hielten, lange bevor es Kühlschränke gab. Wer heute ein Stück Räucherlachs auf frisch gebackenem Fladenbrot genießt, hält im Grunde das Ergebnis einer der wichtigsten Überlebenstechniken der Wikingerzeit in der Hand.
 
@@ -84,7 +84,7 @@ Räuchern, Salzen, Fermentieren: Drei einfache Prinzipien, die den Norden über 
   "description": "Einfaches Wikinger-Rezept mit Räucherlachs, Fladenbrot, Zwiebeln und Dill. In 15 Minuten fertig, inspiriert von der jahrhundertealten Konservierungskunst des Nordens.",
   "image": "https://blog.nordwaldrecords.com/images/viking-fish-recipe.jpg",
   "author": { "@type": "Organization", "name": "Nordweg" },
-  "datePublished": "2099-01-01",
+  "datePublished": "2026-07-31",
   "prepTime": "PT10M",
   "cookTime": "PT5M",
   "totalTime": "PT15M",

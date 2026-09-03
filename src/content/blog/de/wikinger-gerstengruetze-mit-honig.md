@@ -80,7 +80,7 @@ Mehr braucht dieses Rezept nicht - und genau das macht es zu einem so ehrlichen 
 
 Kaum ein Gericht zeigt so klar, wie wenig es für ein sättigendes Essen brauchte: ein Topf, Wasser oder Milch, Gerste und ein wenig Honig. Genau diese Schlichtheit macht Gerstengrütze bis heute zu einem der ehrlichsten Rezepte der nordischen Küche - schnell gemacht, nahrhaft und mit einer Geschichte, die bis in die Handquernen der Wikingerhöfe zurückreicht. Wenn dir dieses Rezept gefallen hat, lohnt sich auch ein Blick auf unser [Fladenbrot aus der Pfanne](/blog/wikinger-fladenbrot-rezept), das aus demselben Getreide entsteht, nur auf ganz andere Weise zubereitet.
 
-Wenn du noch tiefer in die nordische Küche eintauchen willst: Dieses Rezept ist eine Kostprobe aus unserer Sammlung. Im Kochbuch **"Viking Feast - Das große Wikinger-Kochbuch"** findest du 141 Rezepte der nordischen Küche - vom Honigbrot über Festtagsgerichte bis zum passenden Met. [Zum Kochbuch](/kochbuch)
+Wenn du noch tiefer in die nordische Küche eintauchen willst: Dieses Rezept ist eine Kostprobe aus unserer Sammlung. Im Kochbuch **"Wikinger Festmahl - Das große Wikinger-Kochbuch"** findest du 141 Rezepte der nordischen Küche - vom Honigbrot über Festtagsgerichte bis zum passenden Met. [Zum Kochbuch](/kochbuch)
 
 <script type="application/ld+json">
 {

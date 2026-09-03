@@ -106,7 +106,7 @@ A dark loaf on a board, a knife, butter, and honey within reach: in a modern kit
   "description": "Dark Viking-style rye bread: a moist, hearty loaf with rye flour, honey and buttermilk, baked in a loaf pan. No sourdough starter required.",
   "image": "https://blog.nordwaldrecords.com/images/viking-rye-bread.jpg",
   "author": { "@type": "Organization", "name": "Nordweg" },
-  "datePublished": "2026-01-01",
+  "datePublished": "2026-09-03",
   "prepTime": "PT30M",
   "cookTime": "PT60M",
   "totalTime": "PT3H30M",
