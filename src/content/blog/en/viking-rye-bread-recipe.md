@@ -1,7 +1,7 @@
 ---
 title: "Dark Viking Rye Bread: The Recipe"
 description: "Dark viking rye bread recipe: a moist, hearty loaf with honey and buttermilk, plus the true story of rye in the North. Baked step by step, Viking style."
-pubDate: 2026-01-01
+pubDate: 2026-09-03
 category: "Rezepte"
 tags: ["Rye Bread", "Bread Baking", "Viking Kitchen", "Rye", "Recipes"]
 heroImage: "/images/viking-rye-bread.jpg"

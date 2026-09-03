@@ -1,7 +1,7 @@
 ---
 title: "Dunkles Roggenbrot nach Wikinger-Art: Das Rezept"
 description: "Roggenbrot Rezept nach Wikinger-Art: dunkler, saftiger Laib mit Honig und Buttermilch, dazu die echte Geschichte des Roggens im Norden. Schritt für Schritt."
-pubDate: 2026-01-01
+pubDate: 2026-09-03
 category: "Rezepte"
 tags: ["Roggenbrot", "Brot backen", "Wikinger-Küche", "Roggen", "Rezepte"]
 heroImage: "/images/viking-rye-bread.jpg"
