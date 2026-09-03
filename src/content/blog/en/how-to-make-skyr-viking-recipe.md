@@ -1,7 +1,7 @@
 ---
 title: "How to Make Skyr: A Recipe from the Viking Age"
 description: "How to make skyr at home: an easy recipe with just 3 ingredients, plus the real story of the Viking dairy that sailed to Iceland and survived 1,000 years."
-pubDate: 2026-01-01
+pubDate: 2026-09-03
 category: "Rezepte"
 tags: ["Skyr", "Viking Kitchen", "Iceland", "Dairy", "Recipes"]
 heroImage: "/images/viking-skyr.jpg"

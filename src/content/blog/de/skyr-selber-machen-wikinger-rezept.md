@@ -1,7 +1,7 @@
 ---
 title: "Skyr selber machen: Rezept für das Milchprodukt der Wikinger"
 description: "Skyr selber machen: Das Rezept mit nur 3 Zutaten, Schritt für Schritt erklärt - und die Geschichte des Milchprodukts, das die Wikinger nach Island brachten."
-pubDate: 2026-01-01
+pubDate: 2026-09-03
 category: "Rezepte"
 tags: ["Skyr", "Wikinger-Küche", "Island", "Milchprodukte", "Rezepte"]
 heroImage: "/images/viking-skyr.jpg"
