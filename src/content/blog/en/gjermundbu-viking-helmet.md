@@ -1,7 +1,7 @@
 ---
 title: "The Gjermundbu Helmet: The Only True Viking Helmet Ever Found"
 description: "The Gjermundbu helmet is the only near-complete Viking helmet ever found: unearthed in Norway in 1943, with spectacle guard, mail shirt and open riddles."
-pubDate: 2026-01-01
+pubDate: 2026-09-04
 category: "Geschichte"
 tags: ["Gjermundbu", "Viking Helmet", "Ringerike", "Archaeology", "Viking Age", "Kulturhistorisk Museum"]
 heroImage: "/images/gjermundbu-helmet.jpg"

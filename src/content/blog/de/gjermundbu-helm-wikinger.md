@@ -1,7 +1,7 @@
 ---
 title: "Der Helm von Gjermundbu: Der einzige echte Wikinger-Helm seiner Art"
 description: "Der Gjermundbu-Helm ist der einzige fast vollständige Wikinger-Helm der Welt: 1943 in Norwegen entdeckt, mit Brillenvisier, Kettenhemd und vielen Rätseln."
-pubDate: 2026-01-01
+pubDate: 2026-09-04
 category: "Geschichte"
 tags: ["Gjermundbu", "Wikingerhelm", "Ringerike", "Archäologie", "Wikingerzeit", "Kulturhistorisk Museum"]
 heroImage: "/images/gjermundbu-helmet.jpg"
