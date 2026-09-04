@@ -1,7 +1,7 @@
 ---
 title: "Erbsensuppe der Wikinger: Rezept für den Eintopf, der den Norden satt machte"
 description: "Erbsensuppe Wikinger Rezept: gelbe Erbsen mit Rauchfleisch und Kräutern wie aus dem Langhaus-Kessel - historisch belegt, deftig, günstig und gelingsicher."
-pubDate: 2026-01-01
+pubDate: 2026-09-04
 category: "Rezepte"
 tags: ["Erbsensuppe", "Wikinger Rezept", "Eintopf", "Hülsenfrüchte", "Wikinger-Küche"]
 heroImage: "/images/viking-pea-soup.jpg"

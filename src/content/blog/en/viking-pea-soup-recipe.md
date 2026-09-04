@@ -1,7 +1,7 @@
 ---
 title: "Viking Pea Soup Recipe: The Stew That Fed the North"
 description: "Viking pea soup recipe: yellow peas simmered with smoked pork and herbs like in the longhouse cauldron - rooted in archaeology, hearty, cheap and foolproof."
-pubDate: 2026-01-01
+pubDate: 2026-09-04
 category: "Rezepte"
 tags: ["Pea Soup", "Viking Recipe", "Stew", "Legumes", "Viking Kitchen"]
 heroImage: "/images/viking-pea-soup.jpg"
