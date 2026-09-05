@@ -1,7 +1,7 @@
 ---
 title: "What Did the Vikings Wear? Clothing and Jewelry"
 description: "Viking clothing and jewelry explained: what finds from Birka, Hedeby, Oseberg and Mammen reveal about tunics, brooches, beads and Thor's hammer amulets."
-pubDate: 2026-01-01
+pubDate: 2026-09-05
 category: "Alltag & Kultur"
 tags: ["Viking Clothing", "Viking Jewelry", "Brooches", "Birka", "Oseberg", "Thor's Hammer"]
 heroImage: "/images/viking-clothing.jpg"

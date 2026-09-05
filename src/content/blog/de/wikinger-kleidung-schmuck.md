@@ -1,7 +1,7 @@
 ---
 title: "Was trugen die Wikinger? Kleidung und Schmuck"
 description: "Wikinger Kleidung und Schmuck: Was Funde aus Birka, Haithabu, Oseberg und Mammen über Tuniken, Fibeln, Glasperlen und silberne Thorshammer-Anhänger verraten."
-pubDate: 2026-01-01
+pubDate: 2026-09-05
 category: "Alltag & Kultur"
 tags: ["Wikinger Kleidung", "Wikinger Schmuck", "Fibeln", "Birka", "Oseberg", "Thorshammer"]
 heroImage: "/images/viking-clothing.jpg"
