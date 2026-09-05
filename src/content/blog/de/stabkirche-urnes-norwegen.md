@@ -1,7 +1,7 @@
 ---
 title: "Die Stabkirche von Urnes in Norwegen: Wo Heidentum auf Christentum trifft"
 description: "Die Stabkirche von Urnes in Norwegen ist die älteste Stabkirche des Landes. Ihre Wikinger-Schnitzereien erzählen vom Übergang vom Heidentum zum Christentum."
-pubDate: 2026-01-01
+pubDate: 2026-09-05
 category: "Geschichte"
 tags: ["Stabkirche Urnes", "Norwegen", "Urnes-Stil", "UNESCO", "Christianisierung", "Wikingerzeit"]
 heroImage: "/images/urnes-stave-church.jpg"

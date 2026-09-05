@@ -1,7 +1,7 @@
 ---
 title: "Urnes Stave Church in Norway: Where Paganism Meets Christianity"
 description: "Urnes Stave Church in Norway is the country's oldest stave church. Its famous Viking Age carvings capture the moment paganism gave way to Christianity."
-pubDate: 2026-01-01
+pubDate: 2026-09-05
 category: "Geschichte"
 tags: ["Urnes Stave Church", "Norway", "Urnes style", "UNESCO", "Christianization", "Viking Age"]
 heroImage: "/images/urnes-stave-church.jpg"
