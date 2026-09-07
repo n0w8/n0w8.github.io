@@ -1,7 +1,7 @@
 ---
 title: "Wurzelgemüse aus der Glut: Rübe, Pastinake und Zwiebel nach Wikinger-Rezept"
 description: "Wurzelgemüse wie bei den Wikingern: Rezept für Rübe, Pastinake und Zwiebel aus der Glut - mit Honig und Kümmel karamellisiert, fertig in nur 50 Minuten."
-pubDate: 2026-01-01
+pubDate: 2026-09-07
 category: "Rezepte"
 tags: ["Wikinger Rezept", "Wurzelgemüse", "Rübe", "Pastinake", "Ofengemüse"]
 heroImage: "/images/viking-root-vegetables.jpg"

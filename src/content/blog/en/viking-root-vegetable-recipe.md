@@ -1,7 +1,7 @@
 ---
 title: "Viking Root Vegetable Recipe: Turnip, Parsnip and Onion From the Embers"
 description: "Viking root vegetable recipe: turnip, parsnip and onion roasted ember-style until dark and caramelized, with honey, butter and caraway - done in 50 minutes."
-pubDate: 2026-01-01
+pubDate: 2026-09-07
 category: "Rezepte"
 tags: ["Viking Recipe", "Root Vegetables", "Turnip", "Parsnip", "Roasted Vegetables"]
 heroImage: "/images/viking-root-vegetables.jpg"
