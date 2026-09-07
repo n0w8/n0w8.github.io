@@ -1,7 +1,7 @@
 ---
 title: "Forest Berries With Honey and Skyr: A Viking Berry Dessert Recipe"
 description: "This Viking berry dessert recipe pairs warm honey berries with cold skyr in 20 minutes - plus the real berry finds from Hedeby, York and the Oseberg ship."
-pubDate: 2026-01-01
+pubDate: 2026-09-07
 category: "Rezepte"
 tags: ["Viking Recipe", "Berries", "Skyr", "Dessert", "Honey"]
 heroImage: "/images/viking-berry-dessert.jpg"

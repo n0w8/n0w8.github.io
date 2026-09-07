@@ -1,7 +1,7 @@
 ---
 title: "Waldbeeren mit Honig und Skyr: Beeren-Dessert nach Wikinger-Rezept"
 description: "Waldbeeren mit Honig und Skyr: Beeren-Dessert nach Wikinger-Rezept mit 5 Zutaten in 20 Minuten - plus echte Beeren-Funde aus Haithabu, York und Oseberg."
-pubDate: 2026-01-01
+pubDate: 2026-09-07
 category: "Rezepte"
 tags: ["Wikinger Rezept", "Beeren", "Skyr", "Dessert", "Honig"]
 heroImage: "/images/viking-berry-dessert.jpg"
