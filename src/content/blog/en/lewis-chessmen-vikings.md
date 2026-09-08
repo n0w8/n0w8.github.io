@@ -1,7 +1,7 @@
 ---
 title: "The Lewis Chessmen: Ivory From the World of the Vikings"
 description: "The Lewis chessmen tie the Vikings' world to a Scottish dune: 93 walrus ivory carvings, shield-biting berserker rooks and a riddle no one has fully solved."
-pubDate: 2026-01-01
+pubDate: 2026-09-08
 category: "Alltag & Kultur"
 tags: ["Lewis Chessmen", "Isle of Lewis", "Walrus Ivory", "Chess", "Trondheim", "British Museum"]
 heroImage: "/images/lewis-chessmen.jpg"

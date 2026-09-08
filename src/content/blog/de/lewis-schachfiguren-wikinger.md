@@ -1,7 +1,7 @@
 ---
 title: "Die Lewis-Schachfiguren: Elfenbein aus der Welt der Wikinger"
 description: "Die Lewis-Schachfiguren verbinden die Welt der Wikinger mit einer schottischen Düne: 93 Funde aus Walross-Elfenbein, Berserker-Türme und ein altes Rätsel."
-pubDate: 2026-01-01
+pubDate: 2026-09-08
 category: "Alltag & Kultur"
 tags: ["Lewis-Schachfiguren", "Isle of Lewis", "Walross-Elfenbein", "Schach", "Trondheim", "British Museum"]
 heroImage: "/images/lewis-chessmen.jpg"
