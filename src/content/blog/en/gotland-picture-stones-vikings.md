@@ -1,7 +1,7 @@
 ---
 title: "The Gotland Picture Stones: Comics From the Viking Age"
 description: "The Gotland picture stones show how Vikings imagined Odin, Sleipnir and Valhalla. Explore the famous stones, their history and how to read them today."
-pubDate: 2026-01-01
+pubDate: 2026-09-08
 category: "Runen & Symbole"
 tags: ["Picture Stones", "Gotland", "Valhalla", "Sleipnir", "Symbols", "Viking Age"]
 heroImage: "/images/gotland-picture-stones.jpg"

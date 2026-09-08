@@ -1,7 +1,7 @@
 ---
 title: "Die Bildsteine von Gotland: Comics aus der Wikingerzeit"
 description: "Die Bildsteine von Gotland erzählen von Odin, Sleipnir und Walhall wie Comics der Wikinger. Geschichte, berühmte Steine und ihre Deutung im Überblick."
-pubDate: 2026-01-01
+pubDate: 2026-09-08
 category: "Runen & Symbole"
 tags: ["Bildsteine", "Gotland", "Walhall", "Sleipnir", "Symbole", "Wikingerzeit"]
 heroImage: "/images/gotland-picture-stones.jpg"
