@@ -1,7 +1,7 @@
 ---
 title: "The Viking Horned Helmet Myth: Where It Really Comes From"
 description: "The Viking horned helmet myth debunked: not one real helmet find has horns, the true horned helmets are Bronze Age, and an 1876 opera invented the look."
-pubDate: 2026-01-01
+pubDate: 2026-09-09
 category: "Alltag & Kultur"
 tags: ["Horned Helmet", "Viking Myths", "Gjermundbu Helmet", "Veksø Helmets", "Wagner", "Pop Culture"]
 heroImage: "/images/viking-horned-helmet-myth.jpg"

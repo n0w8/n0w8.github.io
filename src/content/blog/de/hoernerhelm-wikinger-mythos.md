@@ -1,7 +1,7 @@
 ---
 title: "Der Hörnerhelm der Wikinger: Woher der Mythos wirklich kommt"
 description: "Der Hörnerhelm der Wikinger ist ein Mythos: Kein Fund trägt Hörner. Was Gjermundbu und Veksø wirklich zeigen und wie Wagners Oper 1876 das Klischee schuf."
-pubDate: 2026-01-01
+pubDate: 2026-09-09
 category: "Alltag & Kultur"
 tags: ["Hörnerhelm", "Wikinger Mythos", "Gjermundbu-Helm", "Veksø-Helme", "Wagner", "Popkultur"]
 heroImage: "/images/viking-horned-helmet-myth.jpg"
