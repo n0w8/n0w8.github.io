@@ -1,7 +1,7 @@
 ---
 title: "Wikinger-Namen und ihre Bedeutung: Von Björn bis Sigrid"
 description: "Wikinger-Namen und ihre Bedeutung: Was Björn, Sigrid und Thorstein wirklich heißen, wie Beinamen entstanden und was Runensteine über Namen im Norden verraten."
-pubDate: 2026-01-01
+pubDate: 2026-09-09
 category: "Alltag & Kultur"
 tags: ["Wikinger Namen", "Nordische Namen", "Runensteine", "Altnordisch", "Beinamen", "Namensbedeutung"]
 heroImage: "/images/viking-names.jpg"

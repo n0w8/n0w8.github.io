@@ -1,7 +1,7 @@
 ---
 title: "Viking Names and Their Meanings: From Björn to Sigrid"
 description: "Viking names and their meanings explained: what Björn, Sigrid and Thorstein really mean, how bynames like Bluetooth arose, and what runestones tell us today."
-pubDate: 2026-01-01
+pubDate: 2026-09-09
 category: "Alltag & Kultur"
 tags: ["Viking Names", "Norse Names", "Runestones", "Old Norse", "Bynames", "Name Meanings"]
 heroImage: "/images/viking-names.jpg"
