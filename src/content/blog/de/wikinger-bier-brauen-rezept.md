@@ -1,7 +1,7 @@
 ---
 title: "Wikinger-Bier selber brauen: Rezept für Gerstenbier wie im Norden"
 description: "Wikinger-Bier brauen: Rezept für nordisches Gerstenbier mit Wacholder und Honig, plus die echten Belege aus Grabfunden, Sagas und dem Gulathing-Gesetz."
-pubDate: 2026-01-01
+pubDate: 2026-09-10
 category: "Rezepte"
 tags: ["Wikinger Rezept", "Bier", "Brauen", "Gerste", "Honig", "Wacholder"]
 heroImage: "/images/viking-ale-brewing.jpg"

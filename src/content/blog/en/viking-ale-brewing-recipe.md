@@ -1,7 +1,7 @@
 ---
 title: "Viking Ale Brewing: A Barley Beer Recipe From the North"
 description: "A Viking ale brewing recipe for Nordic barley beer with juniper and honey, plus the real evidence from grave finds, sagas and medieval Norwegian ale law."
-pubDate: 2026-01-01
+pubDate: 2026-09-10
 category: "Rezepte"
 tags: ["Viking Recipe", "Ale", "Homebrewing", "Barley", "Honey", "Juniper"]
 heroImage: "/images/viking-ale-brewing.jpg"
