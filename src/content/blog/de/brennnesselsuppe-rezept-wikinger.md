@@ -1,7 +1,7 @@
 ---
 title: "Brennnesselsuppe nach Wikinger-Rezept: Das Frühlingsgericht der Nordmänner"
 description: "Brennnesselsuppe Rezept nach Wikinger-Art: nordisches Frühlingsgericht mit Gerste, Butter und wilden Nesseln. Was belegt ist und wie die Suppe heute gelingt."
-pubDate: 2026-01-01
+pubDate: 2026-09-10
 category: "Rezepte"
 tags: ["Wikinger Rezept", "Brennnessel", "Suppe", "Wildkräuter", "Frühling"]
 heroImage: "/images/viking-nettle-soup.jpg"

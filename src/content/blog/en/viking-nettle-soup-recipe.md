@@ -1,7 +1,7 @@
 ---
 title: "Viking Nettle Soup Recipe: The Spring Dish of the Norsemen"
 description: "Viking nettle soup recipe: the Norse spring dish of wild nettles, barley and butter. What the archaeology really proves, and how to cook it in under an hour."
-pubDate: 2026-01-01
+pubDate: 2026-09-10
 category: "Rezepte"
 tags: ["Viking Recipe", "Nettle", "Soup", "Foraging", "Spring"]
 heroImage: "/images/viking-nettle-soup.jpg"
