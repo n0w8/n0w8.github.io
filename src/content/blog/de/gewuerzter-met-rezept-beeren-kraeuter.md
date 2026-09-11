@@ -1,7 +1,7 @@
 ---
 title: "Gewürzter Met: Rezept für Honigwein mit Beeren und Kräutern"
 description: "Gewürzter Met: das Rezept für Honigwein mit dunklen Beeren, Wacholder und Gagel - dazu die echten Fundbelege für gewürzte Honigtränke aus Skandinavien."
-pubDate: 2026-01-01
+pubDate: 2026-09-11
 category: "Rezepte"
 tags: ["Met", "Honigwein", "Wikinger Rezept", "Getränke", "Kräuter", "Beeren"]
 heroImage: "/images/viking-spiced-mead.jpg"

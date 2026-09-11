@@ -1,7 +1,7 @@
 ---
 title: "Spiced Mead Recipe: Viking Honey Wine with Berries and Herbs"
 description: "A spiced mead recipe from the Viking north: honey wine with berries, juniper and bog myrtle, plus the real archaeology behind Nordic spiced honey drinks."
-pubDate: 2026-01-01
+pubDate: 2026-09-11
 category: "Rezepte"
 tags: ["Mead", "Honey Wine", "Viking Recipe", "Drinks", "Herbs", "Berries"]
 heroImage: "/images/viking-spiced-mead.jpg"
