@@ -1,7 +1,7 @@
 ---
 title: "Forelle heiß räuchern: Grundrezept aus der Wikingerküche"
 description: "Forelle heiß räuchern Schritt für Schritt: Salzlake mit Wacholder, trockenes Erlenholz, Temperaturen und Zeiten - plus das Handwerk hinter dem Rezept."
-pubDate: 2026-01-01
+pubDate: 2026-09-11
 category: "Rezepte"
 tags: ["Wikinger Rezept", "Forelle räuchern", "Heißräuchern", "Konservierung", "Wikinger-Küche", "Grillen"]
 heroImage: "/images/viking-smoked-fish.jpg"

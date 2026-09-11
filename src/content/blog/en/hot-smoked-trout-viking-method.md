@@ -1,7 +1,7 @@
 ---
 title: "Hot-Smoked Trout: The Basic Viking Method"
 description: "How to hot-smoke trout step by step: a juniper brine, dry alder chips, exact temperatures and times, plus the Norse craft that stands behind the method."
-pubDate: 2026-01-01
+pubDate: 2026-09-11
 category: "Rezepte"
 tags: ["Viking Recipe", "Hot Smoking", "Trout", "Food Preservation", "Viking Kitchen", "Grilling"]
 heroImage: "/images/viking-smoked-fish.jpg"
