@@ -1,7 +1,7 @@
 ---
 title: "Haselnusskuchen mit Honig: das Wikinger-Rezept für Süßes ohne Zucker"
 description: "Haselnusskuchen mit Honig: unser Wikinger-Rezept ganz ohne Zucker, fertig in gut einer Stunde - plus die echten Haselnuss-Funde aus Haithabu, York und Dublin."
-pubDate: 2026-01-01
+pubDate: 2026-09-12
 category: "Rezepte"
 tags: ["Wikinger Rezept", "Haselnuss", "Honig", "Backen", "Kuchen"]
 heroImage: "/images/viking-hazelnut-cake.jpg"

@@ -1,7 +1,7 @@
 ---
 title: "Viking Hazelnut Honey Cake: Sweetness Without Sugar"
 description: "A Viking hazelnut honey cake made without a single grain of sugar, baked in roughly an hour, plus the real hazelnut finds from Hedeby, York and Dublin."
-pubDate: 2026-01-01
+pubDate: 2026-09-12
 category: "Rezepte"
 tags: ["Viking Recipe", "Hazelnut", "Honey", "Baking", "Cake"]
 heroImage: "/images/viking-hazelnut-cake.jpg"
