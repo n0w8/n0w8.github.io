@@ -1,7 +1,7 @@
 ---
 title: "Kohleintopf mit Speck: das Wikinger-Rezept für den Winterschmaus des Nordens"
 description: "Kohleintopf nach Wikinger-Rezept: Weißkohl, Speck und Gerste im Kessel, gewürzt mit Kümmel und Wacholder. Deftiger Winterschmaus des Nordens in 90 Minuten."
-pubDate: 2026-01-01
+pubDate: 2026-09-12
 category: "Rezepte"
 tags: ["Wikinger Rezept", "Kohl", "Eintopf", "Speck", "Winterküche"]
 heroImage: "/images/viking-cabbage-stew.jpg"

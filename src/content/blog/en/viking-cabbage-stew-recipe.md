@@ -1,7 +1,7 @@
 ---
 title: "Viking Cabbage Stew Recipe: Bacon, Barley and the Winter Feast of the North"
 description: "A Viking cabbage stew recipe built on smoked bacon, barley and juniper: one slow pot, deep winter flavour and honest Norse food history, ready in 90 minutes."
-pubDate: 2026-01-01
+pubDate: 2026-09-12
 category: "Rezepte"
 tags: ["Viking Recipe", "Cabbage", "Stew", "Bacon", "Winter Food"]
 heroImage: "/images/viking-cabbage-stew.jpg"
