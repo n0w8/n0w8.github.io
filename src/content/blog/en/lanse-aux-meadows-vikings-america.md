@@ -1,7 +1,7 @@
 ---
 title: "L'Anse aux Meadows: Proof the Vikings Reached America"
 description: "L'Anse aux Meadows proves the Vikings reached America by 1021, five centuries before Columbus. The finds, the exact date and what still remains open today."
-pubDate: 2026-01-01
+pubDate: 2026-09-14
 category: "Geschichte"
 tags: ["L'Anse aux Meadows", "Vinland", "Newfoundland", "Archaeology", "Leif Erikson", "Viking Age"]
 heroImage: "/images/lanse-aux-meadows.jpg"

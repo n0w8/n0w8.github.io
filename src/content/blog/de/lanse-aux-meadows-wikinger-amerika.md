@@ -1,7 +1,7 @@
 ---
 title: "L'Anse aux Meadows: Der Beweis, dass die Wikinger Amerika erreichten"
 description: "L'Anse aux Meadows in Neufundland belegt: Wikinger erreichten Amerika um 1021, fast 500 Jahre vor Kolumbus. Die Funde, die Datierung, die offenen Fragen."
-pubDate: 2026-01-01
+pubDate: 2026-09-14
 category: "Geschichte"
 tags: ["L'Anse aux Meadows", "Vinland", "Neufundland", "Archäologie", "Leif Eriksson", "Wikingerzeit"]
 heroImage: "/images/lanse-aux-meadows.jpg"
