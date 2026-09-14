@@ -1,7 +1,7 @@
 ---
 title: "Das Danewerk: Der Wall, der Dänemark schützte"
 description: "Das Danewerk in Schleswig: Wie der Wall Dänemark nach Süden abriegelte, was Ausgrabungen über seine Bauphasen verraten und warum er 1864 kampflos fiel."
-pubDate: 2026-01-01
+pubDate: 2026-09-14
 category: "Krieger & Schlachten"
 tags: ["Danewerk", "Haithabu", "Schleswig", "Dänemark", "Grenzwall", "Wikingerzeit"]
 heroImage: "/images/danevirke.jpg"

@@ -1,7 +1,7 @@
 ---
 title: "The Danevirke: The Wall That Guarded Denmark"
 description: "The Danevirke wall in Schleswig: how it sealed Denmark's southern approach, what excavation reveals about its building phases, and why it fell in 1864."
-pubDate: 2026-01-01
+pubDate: 2026-09-14
 category: "Krieger & Schlachten"
 tags: ["Danevirke", "Hedeby", "Schleswig", "Denmark", "Frontier", "Viking Age"]
 heroImage: "/images/danevirke.jpg"
