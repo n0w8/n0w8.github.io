@@ -1,7 +1,7 @@
 ---
 title: "Wikinger-Silberschatz: Warum sie ihre Horte im Boden vergruben"
 description: "Wikinger-Silberschatz und Hort erklärt: Cuerdale, Spillings, Galloway. Was in den Funden lag, warum die Nordmänner ihr Silber vergruben und es nie zurückholten."
-pubDate: 2026-01-01
+pubDate: 2026-09-15
 category: "Geschichte"
 tags: ["Wikinger-Silberschatz", "Hacksilber", "Cuerdale-Hort", "Spillings-Hort", "Dirham", "Wikingerzeit"]
 heroImage: "/images/viking-silver-hoards.jpg"

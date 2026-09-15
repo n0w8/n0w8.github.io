@@ -1,7 +1,7 @@
 ---
 title: "Viking Silver Hoards: Why They Buried Their Silver"
 description: "Viking silver hoard finds explained: Cuerdale, Spillings and Galloway, what was actually buried, why the Norse hid silver, and why so much was never reclaimed."
-pubDate: 2026-01-01
+pubDate: 2026-09-15
 category: "Geschichte"
 tags: ["Viking Silver Hoard", "Hacksilver", "Cuerdale Hoard", "Spillings Hoard", "Dirham", "Viking Age"]
 heroImage: "/images/viking-silver-hoards.jpg"
