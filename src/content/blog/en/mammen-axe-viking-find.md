@@ -1,7 +1,7 @@
 ---
 title: "The Mammen Axe: Viking Silver Art of a Warrior Elite"
 description: "The Mammen axe Viking find of 1868: how a silver-inlaid axe head from a Danish chamber grave dated to the winter of 970/971 named an entire art style."
-pubDate: 2026-01-01
+pubDate: 2026-09-15
 category: "Krieger & Schlachten"
 tags: ["Mammen Axe", "Mammen Style", "Bjerringhøj", "National Museum of Denmark", "Viking Age", "Archaeology"]
 heroImage: "/images/mammen-axe.jpg"

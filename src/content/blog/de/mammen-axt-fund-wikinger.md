@@ -1,7 +1,7 @@
 ---
 title: "Mammen Axt Fund: Silberkunst einer dänischen Kriegerelite"
 description: "Mammen Axt Fund: Wie eine silbertauschierte Prunkaxt aus einem dänischen Kammergrab des Winters 970/971 einem ganzen Kunststil der Wikingerzeit den Namen gab."
-pubDate: 2026-01-01
+pubDate: 2026-09-15
 category: "Krieger & Schlachten"
 tags: ["Mammen-Axt", "Mammen-Stil", "Bjerringhøj", "Nationalmuseet", "Wikingerzeit", "Archäologie"]
 heroImage: "/images/mammen-axe.jpg"
