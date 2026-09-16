@@ -1,7 +1,7 @@
 ---
 title: "Baldr: The Death of the Shining God"
 description: "Baldr god death explained: Frigg's oaths, the mistletoe, blind Höðr, Loki's trick and Hermod's ride to Hel, and why one killing sets Ragnarok in motion."
-pubDate: 2026-01-01
+pubDate: 2026-09-16
 category: "Mythologie"
 tags: ["Baldr", "Loki", "Frigg", "Ragnarok", "Norse Mythology", "Poetic Edda"]
 heroImage: "/images/baldr.jpg"

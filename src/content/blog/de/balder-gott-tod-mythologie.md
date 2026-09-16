@@ -1,7 +1,7 @@
 ---
 title: "Balder: Der Tod des strahlenden Gottes"
 description: "Balder Gott Tod Mythologie: Friggs Eide, die Mistel, der blinde Höðr, Lokis List und Hermodrs Ritt nach Helheim - warum dieser Tod Ragnarök einleitet."
-pubDate: 2026-01-01
+pubDate: 2026-09-16
 category: "Mythologie"
 tags: ["Balder", "Loki", "Frigg", "Ragnarök", "Nordische Mythologie", "Edda"]
 heroImage: "/images/baldr.jpg"
