@@ -1,7 +1,7 @@
 ---
 title: "Viking Tattoos and Their Meaning: What the Sources Actually Say"
 description: "Viking tattoos meaning, checked against the evidence: what Ibn Fadlan really wrote, why the Vegvisir is not Viking Age, and what the graves actually prove."
-pubDate: 2026-01-01
+pubDate: 2026-09-16
 category: "Alltag & Kultur"
 tags: ["Viking Tattoos", "Body Art", "Ibn Fadlan", "Runes", "Valknut", "Viking Age"]
 heroImage: "/images/viking-tattoos.jpg"

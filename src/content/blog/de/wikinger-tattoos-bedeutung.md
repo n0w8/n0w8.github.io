@@ -1,7 +1,7 @@
 ---
 title: "Wikinger-Tattoos und ihre Bedeutung: Was die Quellen wirklich hergeben"
 description: "Wikinger Tattoos Bedeutung im Faktencheck: Was Ibn Fadlan wirklich schrieb, warum der Vegvisir nicht aus der Wikingerzeit stammt und was Gräber belegen."
-pubDate: 2026-01-01
+pubDate: 2026-09-16
 category: "Alltag & Kultur"
 tags: ["Wikinger Tattoos", "Körperkunst", "Ibn Fadlan", "Runen", "Valknut", "Wikingerzeit"]
 heroImage: "/images/viking-tattoos.jpg"
