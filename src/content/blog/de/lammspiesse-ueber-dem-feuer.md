@@ -1,7 +1,7 @@
 ---
 title: "Lammspieße über dem Feuer: Das Wikinger-Grillrezept"
 description: "Lammspieße über Feuer nach Wikinger-Art: Rezept mit Wacholder, Honig und Thymian, dazu die echten Funde aus Island und Norwegen und Tipps zur richtigen Glut."
-pubDate: 2026-01-01
+pubDate: 2026-09-17
 category: "Rezepte"
 tags: ["Wikinger Rezept", "Lamm", "Grillen", "Offenes Feuer", "Wacholder", "Wikinger-Küche"]
 heroImage: "/images/viking-lamb-skewers.jpg"

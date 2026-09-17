@@ -1,7 +1,7 @@
 ---
 title: "Viking Lamb Skewers Recipe: Fire-Grilled the Norse Way"
 description: "A Viking lamb skewers recipe with juniper, honey and thyme, plus the real archaeology behind Norse open-fire cooking and how to build the right bed of embers."
-pubDate: 2026-01-01
+pubDate: 2026-09-17
 category: "Rezepte"
 tags: ["Viking Recipe", "Lamb", "Grilling", "Open Fire", "Juniper", "Viking Kitchen"]
 heroImage: "/images/viking-lamb-skewers.jpg"
