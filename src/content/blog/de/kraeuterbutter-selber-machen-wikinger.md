@@ -1,7 +1,7 @@
 ---
 title: "Kräuterbutter selber machen wie die Wikinger: Butter aus Rahm"
 description: "Kräuterbutter selber machen wie die Wikinger: Rahm zu Butter schlagen, mit Wildkräutern würzen. Das Rezept in 30 Minuten, dazu die Geschichte dahinter."
-pubDate: 2026-01-01
+pubDate: 2026-09-17
 category: "Rezepte"
 tags: ["Kräuterbutter", "Butter selber machen", "Wikinger-Küche", "Wildkräuter", "Rezepte"]
 heroImage: "/images/viking-herb-butter.jpg"

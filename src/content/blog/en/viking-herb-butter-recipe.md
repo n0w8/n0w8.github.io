@@ -1,7 +1,7 @@
 ---
 title: "Viking Herb Butter Recipe: Churn Your Own Butter from Cream"
 description: "A Viking herb butter recipe that starts with the cream: churn real butter by hand, then fold in wild herbs. Ready in 30 minutes, with the history behind it."
-pubDate: 2026-01-01
+pubDate: 2026-09-17
 category: "Rezepte"
 tags: ["Herb Butter", "Homemade Butter", "Viking Kitchen", "Wild Herbs", "Recipes"]
 heroImage: "/images/viking-herb-butter.jpg"
