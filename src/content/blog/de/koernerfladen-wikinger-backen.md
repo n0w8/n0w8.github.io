@@ -1,7 +1,7 @@
 ---
 title: "Körnerfladen wie die Wikinger backen: Brot vom heißen Stein ohne Ofen"
 description: "Körnerfladen wikinger backen ohne Ofen: Rezept für kernige Fladen vom heißen Stein, mit Leinsamen und Gerste, dazu die Funde hinter dem nordischen Brot."
-pubDate: 2026-01-01
+pubDate: 2026-09-18
 category: "Rezepte"
 tags: ["Wikinger Rezept", "Fladenbrot", "Körner und Saaten", "Brot ohne Ofen", "Nordische Küche"]
 heroImage: "/images/viking-flatbread-seeds.jpg"

@@ -1,7 +1,7 @@
 ---
 title: "Viking Seeded Flatbread: The Recipe for Baking Bread on Hot Stone"
 description: "A Viking seeded flatbread recipe with no oven needed: crisp barley and flaxseed rounds baked on hot stone, plus the real finds behind Norse daily bread."
-pubDate: 2026-01-01
+pubDate: 2026-09-18
 category: "Rezepte"
 tags: ["Viking Recipe", "Flatbread", "Seeds and Grains", "No-Oven Baking", "Nordic Kitchen"]
 heroImage: "/images/viking-flatbread-seeds.jpg"
