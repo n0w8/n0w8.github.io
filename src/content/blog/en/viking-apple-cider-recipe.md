@@ -1,7 +1,7 @@
 ---
 title: "Viking Apple Cider Recipe: The Drink After Harvest"
 description: "A Viking apple cider recipe from the North: press, ferment and age your own cider, plus the real apple finds from Oseberg and Hedeby behind the legend."
-pubDate: 2026-01-01
+pubDate: 2026-09-18
 category: "Rezepte"
 tags: ["Viking Recipe", "Apple Cider", "Drinks", "Fermentation", "Autumn", "Homemade"]
 heroImage: "/images/viking-apple-drink.jpg"

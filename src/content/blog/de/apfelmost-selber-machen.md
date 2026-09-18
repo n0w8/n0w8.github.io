@@ -1,7 +1,7 @@
 ---
 title: "Apfelmost selber machen: Der Trank nach der Ernte im Norden"
 description: "Apfelmost selber machen wie im Norden: einfaches Grundrezept mit Saft und Hefe, dazu die echten Apfelfunde der Wikingerzeit und Tipps zum Reifenlassen."
-pubDate: 2026-01-01
+pubDate: 2026-09-18
 category: "Rezepte"
 tags: ["Apfelmost", "Getränke", "Wikinger-Küche", "Selber machen", "Herbst", "Gärung"]
 heroImage: "/images/viking-apple-drink.jpg"
