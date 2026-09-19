@@ -1,7 +1,7 @@
 ---
 title: "The Oseberg Cart: A Viking Wagon Carved for the Final Journey"
 description: "The Oseberg cart is the only Viking wagon to survive intact. Its carvings, its fixed axle and its 834 AD burial tell us what it was really built to do."
-pubDate: 2026-01-01
+pubDate: 2026-09-19
 category: "Alltag & Kultur"
 tags: ["Oseberg", "Oseberg Cart", "Viking Age", "Archaeology", "Ship Burial", "Wood Carving"]
 heroImage: "/images/oseberg-cart.jpg"

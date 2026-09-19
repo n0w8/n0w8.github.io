@@ -1,7 +1,7 @@
 ---
 title: "Oseberg-Wagen: Der Fund, geschnitzt für die letzte Fahrt"
 description: "Oseberg Wagen Fund: der einzige vollständig erhaltene Wagen der Wikingerzeit. Was Schnitzwerk, starre Achse und Grabkontext über die letzte Fahrt verraten."
-pubDate: 2026-01-01
+pubDate: 2026-09-19
 category: "Alltag & Kultur"
 tags: ["Oseberg", "Oseberg-Wagen", "Wikingerzeit", "Archäologie", "Schiffsgrab", "Holzschnitzerei"]
 heroImage: "/images/oseberg-cart.jpg"
