@@ -1,7 +1,7 @@
 ---
 title: "Thorshammer-Amulett-Funde: Was sie wirklich zeigen"
 description: "Thorshammer Amulett Fund im Faktencheck: über tausend Hämmer von Island bis zur Wolga, der Runenhammer von Købelev und was die Gräber tatsächlich hergeben."
-pubDate: 2026-01-01
+pubDate: 2026-09-19
 category: "Runen & Symbole"
 tags: ["Thorshammer", "Amulette", "Archäologie", "Wikingerzeit", "Købelev", "Thorshammerringe"]
 heroImage: "/images/thor-hammer-amulets.jpg"

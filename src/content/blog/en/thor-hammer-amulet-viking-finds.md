@@ -1,7 +1,7 @@
 ---
 title: "Thor Hammer Amulets: What the Viking Finds Really Show"
 description: "Thor hammer amulet Viking finds examined: over a thousand pendants mapped, the runic hammer from Købelev, and what the graves can and cannot really prove."
-pubDate: 2026-01-01
+pubDate: 2026-09-19
 category: "Runen & Symbole"
 tags: ["Thor's Hammer", "Amulets", "Archaeology", "Viking Age", "Købelev", "Hammer Rings"]
 heroImage: "/images/thor-hammer-amulets.jpg"
