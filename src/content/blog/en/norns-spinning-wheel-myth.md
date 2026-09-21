@@ -1,7 +1,7 @@
 ---
 title: "The Norns' Spinning Wheel: A Nineteenth-Century Invention"
 description: "Spinning wheel, thread and shears appear in no Edda. How Wagner, Art Nouveau and Victorian book art gave the Norns a borrowed image that still sticks today."
-pubDate: 2026-01-01
+pubDate: 2026-09-21
 category: "Mythologie"
 tags: ["Spinning Wheel", "Richard Wagner", "Art Nouveau", "Reception History", "Textile Craft", "Myth and Modernity"]
 heroImage: "/images/the-norns.jpg"

@@ -1,7 +1,7 @@
 ---
 title: "Das Spinnrad der Nornen: Eine Erfindung des 19. Jahrhunderts"
 description: "Spinnrad, Faden und Schere stehen in keiner Edda. Wie Wagner, Jugendstil und Buchillustration den Nornen ein fremdes Bild verpassten, das bis heute hält."
-pubDate: 2026-01-01
+pubDate: 2026-09-21
 category: "Mythologie"
 tags: ["Spinnrad", "Richard Wagner", "Jugendstil", "Rezeptionsgeschichte", "Textilhandwerk", "Mythos und Moderne"]
 heroImage: "/images/the-norns.jpg"
