@@ -1,7 +1,7 @@
 ---
 title: "Das Tune-Schiff: Das vergessene Wikingerschiff neben Oseberg"
 description: "Das Tune-Schiff der Wikinger: 1867 als erstes Schiffsgrab Norwegens ausgegraben, nur halb erhalten, um 900 gebaut und bis heute im Schatten von Oseberg."
-pubDate: 2026-01-01
+pubDate: 2026-09-21
 category: "Geschichte"
 tags: ["Tune-Schiff", "Wikingerschiff", "Schiffsgrab", "Østfold", "Archäologie", "Vikingskipshuset"]
 heroImage: "/images/tune-ship.jpg"

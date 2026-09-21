@@ -1,7 +1,7 @@
 ---
 title: "The Tune Ship: The Forgotten Viking Ship Beside Oseberg"
 description: "The Tune ship is the quiet Viking ship in Oslo: excavated in 1867, only half preserved, built around 900 AD, and living in Oseberg's shadow ever since."
-pubDate: 2026-01-01
+pubDate: 2026-09-21
 category: "Geschichte"
 tags: ["Tune Ship", "Viking Ship", "Ship Burial", "Østfold", "Archaeology", "Viking Ship Museum"]
 heroImage: "/images/tune-ship.jpg"
