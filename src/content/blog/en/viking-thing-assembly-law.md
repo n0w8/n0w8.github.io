@@ -1,7 +1,7 @@
 ---
 title: "The Thing Assembly: How Viking Law Was Actually Spoken"
 description: "Viking thing assembly law explained: how a case reached court, what fines, outlawry and confiscation meant, and why one procedural slip could sink a whole suit."
-pubDate: 2026-01-01
+pubDate: 2026-09-22
 category: "Alltag & Kultur"
 tags: ["Thing Assembly", "Viking Law", "Grágás", "Althing", "Outlawry", "Lawspeaker"]
 heroImage: "/images/viking-thing-assembly.jpg"

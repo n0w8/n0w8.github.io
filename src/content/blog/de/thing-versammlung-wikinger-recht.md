@@ -1,7 +1,7 @@
 ---
 title: "Thing-Versammlung: Wie die Wikinger Recht sprachen"
 description: "Thing-Versammlung und Wikinger-Recht: Wie ein Fall vor Gericht kam, was Bußen, Acht und Waldgang bedeuteten und warum ein Formfehler jede Klage kippen konnte."
-pubDate: 2026-01-01
+pubDate: 2026-09-22
 category: "Alltag & Kultur"
 tags: ["Thing", "Wikinger Recht", "Grágás", "Althing", "Acht", "Gesetzessprecher"]
 heroImage: "/images/viking-thing-assembly.jpg"
