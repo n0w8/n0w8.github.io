@@ -1,7 +1,7 @@
 ---
 title: "Viking Trade Routes: From Baghdad to Newfoundland"
 description: "Viking trade routes stretched from Baghdad to Newfoundland. Follow the silver dirhams, furs and silk along the rivers, portages and Atlantic crossings."
-pubDate: 2026-01-01
+pubDate: 2026-09-22
 category: "Geschichte"
 tags: ["Trade Routes", "Long-Distance Trade", "Dirham", "Rus", "Viking Age", "Silver Hoard"]
 heroImage: "/images/viking-trade-routes.jpg"

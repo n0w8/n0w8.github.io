@@ -1,7 +1,7 @@
 ---
 title: "Wikinger Handelswege: Von Bagdad bis Neufundland"
 description: "Wikinger Handelswege reichten von Bagdad bis Neufundland: Dirham-Silber, Pelze und Seide auf Flusswegen, Portagen und Nordatlantikrouten im Faktencheck."
-pubDate: 2026-01-01
+pubDate: 2026-09-22
 category: "Geschichte"
 tags: ["Handelswege", "Fernhandel", "Dirham", "Rus", "Wikingerzeit", "Silberhort"]
 heroImage: "/images/viking-trade-routes.jpg"
