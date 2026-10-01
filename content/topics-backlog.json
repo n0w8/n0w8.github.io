@@ -1151,6 +1151,217 @@
       "queuedDate": "2026-09-03",
       "slug_de": "thing-versammlung-wikinger-recht",
       "slug_en": "viking-thing-assembly-law"
+    },
+    {
+      "translationKey": "viking-barley-pancakes",
+      "status": "todo",
+      "category": "Rezepte",
+      "artistKey": "eldruna",
+      "keyword_de": "wikinger pfannkuchen gerste rezept",
+      "keyword_en": "viking barley pancakes recipe",
+      "title_de": "Wikinger-Pfannkuchen aus Gerste: Rezept mit Honig und Beeren",
+      "title_en": "Viking Barley Pancakes: A Recipe with Honey and Berries"
+    },
+    {
+      "translationKey": "viking-gravlax",
+      "status": "todo",
+      "category": "Rezepte",
+      "artistKey": "eldruna",
+      "keyword_de": "gravlax selber machen",
+      "keyword_en": "how to make gravlax",
+      "title_de": "Gravlax selber machen: Gebeizter Lachs nach nordischer Art",
+      "title_en": "How to Make Gravlax: Cured Salmon the Nordic Way"
+    },
+    {
+      "translationKey": "viking-onion-leek-soup",
+      "status": "todo",
+      "category": "Rezepte",
+      "artistKey": "domsgard",
+      "keyword_de": "lauchsuppe wikinger rezept",
+      "keyword_en": "viking leek soup recipe",
+      "title_de": "Wikinger-Lauchsuppe mit Zwiebeln: Rezept aus der Langhaus-Kueche",
+      "title_en": "Viking Leek and Onion Soup: A Longhouse Recipe"
+    },
+    {
+      "translationKey": "viking-steamed-mussels",
+      "status": "todo",
+      "category": "Rezepte",
+      "artistKey": "eldruna",
+      "keyword_de": "muscheln im sud rezept wikinger",
+      "keyword_en": "viking mussels recipe",
+      "title_de": "Muscheln im Kraeutersud: Ein Kuestenrezept der Wikinger",
+      "title_en": "Viking Mussels in Herb Broth: A Coastal Recipe"
+    },
+    {
+      "translationKey": "viking-fried-herring",
+      "status": "todo",
+      "category": "Rezepte",
+      "artistKey": "domsgard",
+      "keyword_de": "hering braten rezept",
+      "keyword_en": "fried herring recipe",
+      "title_de": "Gebratener Hering nach Wikinger-Art: Rezept und Geschichte",
+      "title_en": "Viking-Style Fried Herring: Recipe and History"
+    },
+    {
+      "translationKey": "viking-venison-stew",
+      "status": "todo",
+      "category": "Rezepte",
+      "artistKey": "domsgard",
+      "keyword_de": "hirscheintopf rezept",
+      "keyword_en": "venison stew recipe",
+      "title_de": "Hirscheintopf nach Wikinger-Art: Wild, Wurzeln und Wacholder",
+      "title_en": "Viking Venison Stew: Game, Roots and Juniper"
+    },
+    {
+      "translationKey": "tyr",
+      "status": "todo",
+      "category": "Mythologie",
+      "artistKey": "domsgard",
+      "keyword_de": "tyr gott",
+      "keyword_en": "tyr norse god",
+      "title_de": "Tyr: Der einhaendige Gott des Rechts und des Krieges",
+      "title_en": "Tyr: The One-Handed Norse God of Law and War",
+      "youtubeId": "UWLBL1tTQJ4"
+    },
+    {
+      "translationKey": "heimdall",
+      "status": "todo",
+      "category": "Mythologie",
+      "artistKey": "domsgard",
+      "keyword_de": "heimdall waechter",
+      "keyword_en": "heimdall norse god",
+      "title_de": "Heimdall: Der Waechter der Regenbogenbruecke",
+      "title_en": "Heimdall: Guardian of the Rainbow Bridge",
+      "youtubeId": "w6X1Z95jSg4"
+    },
+    {
+      "translationKey": "helheim",
+      "status": "todo",
+      "category": "Mythologie",
+      "artistKey": "domsgard",
+      "keyword_de": "helheim totenreich",
+      "keyword_en": "helheim norse underworld",
+      "title_de": "Helheim: Das Totenreich der nordischen Mythologie",
+      "title_en": "Helheim: The Norse Underworld Explained",
+      "youtubeId": "5EAVh6Yckz4"
+    },
+    {
+      "translationKey": "njord",
+      "status": "todo",
+      "category": "Mythologie",
+      "artistKey": "domsgard",
+      "keyword_de": "njord meeresgott",
+      "keyword_en": "njord norse god of the sea",
+      "title_de": "Njord: Der nordische Gott des Meeres und der Seefahrt",
+      "title_en": "Njord: The Norse God of the Sea and Seafaring",
+      "youtubeId": "A6DOCQIav3U"
+    },
+    {
+      "translationKey": "bjorn-ironside",
+      "status": "todo",
+      "category": "Geschichte",
+      "artistKey": "domsgard",
+      "keyword_de": "bjoern eisenseite",
+      "keyword_en": "bjorn ironside",
+      "title_de": "Bjoern Eisenseite: Wikingerkoenig zwischen Saga und Geschichte",
+      "title_en": "Bjorn Ironside: Viking King Between Saga and History",
+      "youtubeId": "zVM2d32DJ1U"
+    },
+    {
+      "translationKey": "ribe-viking-town",
+      "status": "todo",
+      "category": "Geschichte",
+      "artistKey": "eldruna",
+      "keyword_de": "ribe wikinger",
+      "keyword_en": "ribe viking town",
+      "title_de": "Ribe: Die aelteste Stadt Skandinaviens und ihre Wikinger",
+      "title_en": "Ribe: Scandinavia's Oldest Town and Its Vikings",
+      "imagePolicy": "real-photo"
+    },
+    {
+      "translationKey": "borg-lofoten-chieftain-hall",
+      "status": "todo",
+      "category": "Geschichte",
+      "artistKey": "domsgard",
+      "keyword_de": "borg lofoten haeuptlingshalle",
+      "keyword_en": "borg lofoten viking chieftain hall",
+      "title_de": "Borg auf den Lofoten: Das groesste Langhaus der Wikingerzeit",
+      "title_en": "Borg in Lofoten: The Largest Viking Age Longhouse",
+      "imagePolicy": "real-photo"
+    },
+    {
+      "translationKey": "jarlshof-shetland",
+      "status": "todo",
+      "category": "Geschichte",
+      "artistKey": "eldruna",
+      "keyword_de": "jarlshof shetland",
+      "keyword_en": "jarlshof shetland viking",
+      "title_de": "Jarlshof auf Shetland: Wikinger-Siedlung am Rand der Welt",
+      "title_en": "Jarlshof in Shetland: A Viking Settlement at the Edge of the World",
+      "imagePolicy": "real-photo"
+    },
+    {
+      "translationKey": "ulfberht-swords",
+      "status": "todo",
+      "category": "Krieger & Schlachten",
+      "artistKey": "domsgard",
+      "keyword_de": "ulfberht schwert",
+      "keyword_en": "ulfberht sword",
+      "title_de": "Ulfberht-Schwerter: Die Hightech-Klingen der Wikingerzeit",
+      "title_en": "Ulfberht Swords: The High-Tech Blades of the Viking Age",
+      "imagePolicy": "real-photo"
+    },
+    {
+      "translationKey": "gamla-uppsala-mounds",
+      "status": "todo",
+      "category": "Geschichte",
+      "artistKey": "domsgard",
+      "keyword_de": "alt uppsala grabhuegel",
+      "keyword_en": "gamla uppsala burial mounds",
+      "title_de": "Alt-Uppsala: Koenigshuegel und der legendaere Tempel",
+      "title_en": "Gamla Uppsala: Royal Mounds and the Legendary Temple",
+      "imagePolicy": "real-photo"
+    },
+    {
+      "translationKey": "jorvik-coppergate",
+      "status": "todo",
+      "category": "Geschichte",
+      "artistKey": "eldruna",
+      "keyword_de": "jorvik york wikinger",
+      "keyword_en": "jorvik viking york",
+      "title_de": "Jorvik: Wie die Wikinger York praegten - die Coppergate-Funde",
+      "title_en": "Jorvik: How the Vikings Shaped York - The Coppergate Finds",
+      "imagePolicy": "real-photo"
+    },
+    {
+      "translationKey": "viking-age-timeline",
+      "status": "todo",
+      "category": "Geschichte",
+      "artistKey": "domsgard",
+      "keyword_de": "wikingerzeit zeitleiste",
+      "keyword_en": "viking age timeline",
+      "title_de": "Wikingerzeit-Zeitleiste: Von Lindisfarne 793 bis Stamford Bridge 1066",
+      "title_en": "Viking Age Timeline: From Lindisfarne 793 to Stamford Bridge 1066"
+    },
+    {
+      "translationKey": "norse-creation-myth",
+      "status": "todo",
+      "category": "Mythologie",
+      "artistKey": "eldruna",
+      "keyword_de": "nordische schoepfungsgeschichte",
+      "keyword_en": "norse creation myth",
+      "title_de": "Die nordische Schoepfungsgeschichte: Ymir, Ginnungagap und die ersten Menschen",
+      "title_en": "The Norse Creation Myth: Ymir, Ginnungagap and the First Humans"
+    },
+    {
+      "translationKey": "viking-beards-hair",
+      "status": "todo",
+      "category": "Alltag & Kultur",
+      "artistKey": "eldruna",
+      "keyword_de": "wikinger frisuren bart",
+      "keyword_en": "viking hairstyles beards",
+      "title_de": "Wikinger-Frisuren und Baerte: Was die Quellen wirklich sagen",
+      "title_en": "Viking Hairstyles and Beards: What the Sources Really Say"
     }
   ]
 }
