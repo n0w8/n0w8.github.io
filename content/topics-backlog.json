@@ -496,13 +496,16 @@
     },
     {
       "translationKey": "midgard-serpent",
-      "status": "todo",
+      "status": "done",
       "category": "Mythologie",
       "artistKey": "domsgard",
       "keyword_de": "midgardschlange jörmungandr",
       "keyword_en": "jormungandr midgard serpent",
       "title_de": "Jörmungandr: Die Midgardschlange und Thors Erzfeind",
-      "title_en": "Jörmungandr: The Midgard Serpent and Thor's Nemesis"
+      "title_en": "Jörmungandr: The Midgard Serpent and Thor's Nemesis",
+      "queuedDate": "2026-10-02",
+      "slug_de": "midgardschlange-joermungandr",
+      "slug_en": "jormungandr-midgard-serpent"
     },
     {
       "translationKey": "viking-names",
@@ -519,33 +522,42 @@
     },
     {
       "translationKey": "norse-gods-family-tree",
-      "status": "todo",
+      "status": "done",
       "category": "Mythologie",
       "artistKey": "eldruna",
       "keyword_de": "nordische götter stammbaum",
       "keyword_en": "norse gods family tree",
       "title_de": "Der Stammbaum der nordischen Götter einfach erklärt",
-      "title_en": "The Norse Gods Family Tree Explained"
+      "title_en": "The Norse Gods Family Tree Explained",
+      "queuedDate": "2026-10-02",
+      "slug_de": "nordische-goetter-stammbaum",
+      "slug_en": "norse-gods-family-tree"
     },
     {
       "translationKey": "viking-vs-norse",
-      "status": "todo",
+      "status": "done",
       "category": "Geschichte",
       "artistKey": "domsgard",
       "keyword_de": "wikinger nordmänner unterschied",
       "keyword_en": "viking vs norse difference",
       "title_de": "Wikinger oder Nordmänner? Der Unterschied einfach erklärt",
-      "title_en": "Viking vs Norse: What's the Difference?"
+      "title_en": "Viking vs Norse: What's the Difference?",
+      "queuedDate": "2026-10-02",
+      "slug_de": "wikinger-nordmaenner-unterschied",
+      "slug_en": "viking-vs-norse-difference"
     },
     {
       "translationKey": "valhalla-how-to-enter",
-      "status": "todo",
+      "status": "done",
       "category": "Mythologie",
       "artistKey": "domsgard",
       "keyword_de": "wie kommt man nach walhall",
       "keyword_en": "how to get to valhalla",
       "title_de": "Wie kam ein Wikinger nach Walhall? Die Regeln des Jenseits",
-      "title_en": "How Did a Viking Get Into Valhalla? The Rules of the Afterlife"
+      "title_en": "How Did a Viking Get Into Valhalla? The Rules of the Afterlife",
+      "queuedDate": "2026-10-02",
+      "slug_de": "wie-kommt-man-nach-walhall",
+      "slug_en": "how-to-get-to-valhalla"
     },
     {
       "translationKey": "oseberg-ship",
@@ -917,53 +929,68 @@
     },
     {
       "translationKey": "viking-hygiene",
-      "status": "todo",
+      "status": "done",
       "category": "Alltag & Kultur",
       "artistKey": "eldruna",
       "keyword_de": "wikinger hygiene koerperpflege",
       "keyword_en": "viking hygiene grooming",
       "title_de": "Wikinger-Hygiene: Kaemme, Ohrloeffel und der Samstag",
-      "title_en": "Viking Hygiene: Combs, Ear Spoons and Saturday"
+      "title_en": "Viking Hygiene: Combs, Ear Spoons and Saturday",
+      "queuedDate": "2026-10-02",
+      "slug_de": "wikinger-hygiene-koerperpflege",
+      "slug_en": "viking-hygiene-grooming"
     },
     {
       "translationKey": "hnefatafl",
-      "status": "todo",
+      "status": "done",
       "category": "Alltag & Kultur",
       "artistKey": "domsgard",
       "keyword_de": "hnefatafl wikinger brettspiel",
       "keyword_en": "hnefatafl viking board game",
       "title_de": "Hnefatafl: Das Brettspiel der Wikinger und seine Regeln",
-      "title_en": "Hnefatafl: The Viking Board Game and Its Rules"
+      "title_en": "Hnefatafl: The Viking Board Game and Its Rules",
+      "queuedDate": "2026-10-02",
+      "slug_de": "hnefatafl-wikinger-brettspiel",
+      "slug_en": "hnefatafl-viking-board-game"
     },
     {
       "translationKey": "viking-shield-construction",
-      "status": "todo",
+      "status": "done",
       "category": "Krieger & Schlachten",
       "artistKey": "domsgard",
       "keyword_de": "wikinger schild aufbau",
       "keyword_en": "viking shield construction",
       "title_de": "Der Wikingerschild: Aufbau, Material und Schildwall",
-      "title_en": "The Viking Shield: Construction, Material and Shield Wall"
+      "title_en": "The Viking Shield: Construction, Material and Shield Wall",
+      "queuedDate": "2026-10-02",
+      "slug_de": "wikinger-schild-aufbau-schildwall",
+      "slug_en": "viking-shield-construction"
     },
     {
       "translationKey": "viking-thralls",
-      "status": "todo",
+      "status": "done",
       "category": "Alltag & Kultur",
       "artistKey": "domsgard",
       "keyword_de": "wikinger sklaven thralls",
       "keyword_en": "viking slaves thralls",
       "title_de": "Thralls: Die Sklaven der Wikinger und der Handel mit Menschen",
-      "title_en": "Thralls: Viking Slaves and the Trade in People"
+      "title_en": "Thralls: Viking Slaves and the Trade in People",
+      "queuedDate": "2026-10-02",
+      "slug_de": "wikinger-sklaven-thralls",
+      "slug_en": "viking-slaves-thralls"
     },
     {
       "translationKey": "viking-children",
-      "status": "todo",
+      "status": "done",
       "category": "Alltag & Kultur",
       "artistKey": "eldruna",
       "keyword_de": "wikinger kinder kindheit",
       "keyword_en": "viking children childhood",
       "title_de": "Kindheit bei den Wikingern: Spielzeug, Arbeit und Erwachsenwerden",
-      "title_en": "Childhood Among the Vikings: Toys, Work and Growing Up"
+      "title_en": "Childhood Among the Vikings: Toys, Work and Growing Up",
+      "queuedDate": "2026-10-02",
+      "slug_de": "wikinger-kinder-kindheit",
+      "slug_en": "viking-children-childhood"
     },
     {
       "translationKey": "viking-smoked-fish",
@@ -1154,85 +1181,109 @@
     },
     {
       "translationKey": "viking-barley-pancakes",
-      "status": "todo",
+      "status": "done",
       "category": "Rezepte",
       "artistKey": "eldruna",
       "keyword_de": "wikinger pfannkuchen gerste rezept",
       "keyword_en": "viking barley pancakes recipe",
       "title_de": "Wikinger-Pfannkuchen aus Gerste: Rezept mit Honig und Beeren",
-      "title_en": "Viking Barley Pancakes: A Recipe with Honey and Berries"
+      "title_en": "Viking Barley Pancakes: A Recipe with Honey and Berries",
+      "queuedDate": "2026-10-02",
+      "slug_de": "wikinger-pfannkuchen-gerste-rezept",
+      "slug_en": "viking-barley-pancakes-recipe"
     },
     {
       "translationKey": "viking-gravlax",
-      "status": "todo",
+      "status": "done",
       "category": "Rezepte",
       "artistKey": "eldruna",
       "keyword_de": "gravlax selber machen",
       "keyword_en": "how to make gravlax",
       "title_de": "Gravlax selber machen: Gebeizter Lachs nach nordischer Art",
-      "title_en": "How to Make Gravlax: Cured Salmon the Nordic Way"
+      "title_en": "How to Make Gravlax: Cured Salmon the Nordic Way",
+      "queuedDate": "2026-10-02",
+      "slug_de": "gravlax-selber-machen",
+      "slug_en": "how-to-make-gravlax"
     },
     {
       "translationKey": "viking-onion-leek-soup",
-      "status": "todo",
+      "status": "done",
       "category": "Rezepte",
       "artistKey": "domsgard",
       "keyword_de": "lauchsuppe wikinger rezept",
       "keyword_en": "viking leek soup recipe",
       "title_de": "Wikinger-Lauchsuppe mit Zwiebeln: Rezept aus der Langhaus-Kueche",
-      "title_en": "Viking Leek and Onion Soup: A Longhouse Recipe"
+      "title_en": "Viking Leek and Onion Soup: A Longhouse Recipe",
+      "queuedDate": "2026-10-02",
+      "slug_de": "lauchsuppe-wikinger-rezept",
+      "slug_en": "viking-leek-soup-recipe"
     },
     {
       "translationKey": "viking-steamed-mussels",
-      "status": "todo",
+      "status": "done",
       "category": "Rezepte",
       "artistKey": "eldruna",
       "keyword_de": "muscheln im sud rezept wikinger",
       "keyword_en": "viking mussels recipe",
       "title_de": "Muscheln im Kraeutersud: Ein Kuestenrezept der Wikinger",
-      "title_en": "Viking Mussels in Herb Broth: A Coastal Recipe"
+      "title_en": "Viking Mussels in Herb Broth: A Coastal Recipe",
+      "queuedDate": "2026-10-02",
+      "slug_de": "muscheln-im-sud-wikinger-rezept",
+      "slug_en": "viking-mussels-recipe"
     },
     {
       "translationKey": "viking-fried-herring",
-      "status": "todo",
+      "status": "done",
       "category": "Rezepte",
       "artistKey": "domsgard",
       "keyword_de": "hering braten rezept",
       "keyword_en": "fried herring recipe",
       "title_de": "Gebratener Hering nach Wikinger-Art: Rezept und Geschichte",
-      "title_en": "Viking-Style Fried Herring: Recipe and History"
+      "title_en": "Viking-Style Fried Herring: Recipe and History",
+      "queuedDate": "2026-10-02",
+      "slug_de": "hering-braten-rezept-wikinger",
+      "slug_en": "fried-herring-recipe-viking"
     },
     {
       "translationKey": "viking-venison-stew",
-      "status": "todo",
+      "status": "done",
       "category": "Rezepte",
       "artistKey": "domsgard",
       "keyword_de": "hirscheintopf rezept",
       "keyword_en": "venison stew recipe",
       "title_de": "Hirscheintopf nach Wikinger-Art: Wild, Wurzeln und Wacholder",
-      "title_en": "Viking Venison Stew: Game, Roots and Juniper"
+      "title_en": "Viking Venison Stew: Game, Roots and Juniper",
+      "queuedDate": "2026-10-02",
+      "slug_de": "hirscheintopf-wikinger-rezept",
+      "slug_en": "viking-venison-stew-recipe"
     },
     {
       "translationKey": "tyr",
-      "status": "todo",
+      "status": "done",
       "category": "Mythologie",
       "artistKey": "domsgard",
       "keyword_de": "tyr gott",
       "keyword_en": "tyr norse god",
       "title_de": "Tyr: Der einhaendige Gott des Rechts und des Krieges",
       "title_en": "Tyr: The One-Handed Norse God of Law and War",
-      "youtubeId": "UWLBL1tTQJ4"
+      "youtubeId": "UWLBL1tTQJ4",
+      "queuedDate": "2026-10-02",
+      "slug_de": "tyr-gott-recht-krieg",
+      "slug_en": "tyr-norse-god-law-war"
     },
     {
       "translationKey": "heimdall",
-      "status": "todo",
+      "status": "done",
       "category": "Mythologie",
       "artistKey": "domsgard",
       "keyword_de": "heimdall waechter",
       "keyword_en": "heimdall norse god",
       "title_de": "Heimdall: Der Waechter der Regenbogenbruecke",
       "title_en": "Heimdall: Guardian of the Rainbow Bridge",
-      "youtubeId": "w6X1Z95jSg4"
+      "youtubeId": "w6X1Z95jSg4",
+      "queuedDate": "2026-10-02",
+      "slug_de": "heimdall-waechter-bifroest",
+      "slug_en": "heimdall-norse-god-rainbow-bridge"
     },
     {
       "translationKey": "helheim",
@@ -1269,69 +1320,87 @@
     },
     {
       "translationKey": "ribe-viking-town",
-      "status": "todo",
+      "status": "done",
       "category": "Geschichte",
       "artistKey": "eldruna",
       "keyword_de": "ribe wikinger",
       "keyword_en": "ribe viking town",
       "title_de": "Ribe: Die aelteste Stadt Skandinaviens und ihre Wikinger",
       "title_en": "Ribe: Scandinavia's Oldest Town and Its Vikings",
-      "imagePolicy": "real-photo"
+      "imagePolicy": "real-photo",
+      "queuedDate": "2026-10-02",
+      "slug_de": "ribe-wikinger-aelteste-stadt",
+      "slug_en": "ribe-viking-town-denmark"
     },
     {
       "translationKey": "borg-lofoten-chieftain-hall",
-      "status": "todo",
+      "status": "done",
       "category": "Geschichte",
       "artistKey": "domsgard",
       "keyword_de": "borg lofoten haeuptlingshalle",
       "keyword_en": "borg lofoten viking chieftain hall",
       "title_de": "Borg auf den Lofoten: Das groesste Langhaus der Wikingerzeit",
       "title_en": "Borg in Lofoten: The Largest Viking Age Longhouse",
-      "imagePolicy": "real-photo"
+      "imagePolicy": "real-photo",
+      "queuedDate": "2026-10-02",
+      "slug_de": "borg-lofoten-haeuptlingshalle",
+      "slug_en": "borg-lofoten-viking-chieftain-hall"
     },
     {
       "translationKey": "jarlshof-shetland",
-      "status": "todo",
+      "status": "done",
       "category": "Geschichte",
       "artistKey": "eldruna",
       "keyword_de": "jarlshof shetland",
       "keyword_en": "jarlshof shetland viking",
       "title_de": "Jarlshof auf Shetland: Wikinger-Siedlung am Rand der Welt",
       "title_en": "Jarlshof in Shetland: A Viking Settlement at the Edge of the World",
-      "imagePolicy": "real-photo"
+      "imagePolicy": "real-photo",
+      "queuedDate": "2026-10-02",
+      "slug_de": "jarlshof-shetland-wikinger-siedlung",
+      "slug_en": "jarlshof-shetland-viking-settlement"
     },
     {
       "translationKey": "ulfberht-swords",
-      "status": "todo",
+      "status": "done",
       "category": "Krieger & Schlachten",
       "artistKey": "domsgard",
       "keyword_de": "ulfberht schwert",
       "keyword_en": "ulfberht sword",
       "title_de": "Ulfberht-Schwerter: Die Hightech-Klingen der Wikingerzeit",
       "title_en": "Ulfberht Swords: The High-Tech Blades of the Viking Age",
-      "imagePolicy": "real-photo"
+      "imagePolicy": "real-photo",
+      "queuedDate": "2026-10-02",
+      "slug_de": "ulfberht-schwert-wikinger",
+      "slug_en": "ulfberht-sword-viking-age"
     },
     {
       "translationKey": "gamla-uppsala-mounds",
-      "status": "todo",
+      "status": "done",
       "category": "Geschichte",
       "artistKey": "domsgard",
       "keyword_de": "alt uppsala grabhuegel",
       "keyword_en": "gamla uppsala burial mounds",
       "title_de": "Alt-Uppsala: Koenigshuegel und der legendaere Tempel",
       "title_en": "Gamla Uppsala: Royal Mounds and the Legendary Temple",
-      "imagePolicy": "real-photo"
+      "imagePolicy": "real-photo",
+      "queuedDate": "2026-10-02",
+      "slug_de": "alt-uppsala-grabhuegel-tempel",
+      "slug_en": "gamla-uppsala-burial-mounds"
     },
     {
       "translationKey": "jorvik-coppergate",
-      "status": "todo",
+      "status": "done",
       "category": "Geschichte",
       "artistKey": "eldruna",
       "keyword_de": "jorvik york wikinger",
       "keyword_en": "jorvik viking york",
       "title_de": "Jorvik: Wie die Wikinger York praegten - die Coppergate-Funde",
       "title_en": "Jorvik: How the Vikings Shaped York - The Coppergate Finds",
-      "imagePolicy": "real-photo"
+      "imagePolicy": "real-photo",
+      "queuedDate": "2026-10-02",
+      "slug_de": "jorvik-york-wikinger-coppergate",
+      "slug_en": "jorvik-viking-york-coppergate"
     },
     {
       "translationKey": "viking-age-timeline",
@@ -1345,13 +1414,16 @@
     },
     {
       "translationKey": "norse-creation-myth",
-      "status": "todo",
+      "status": "done",
       "category": "Mythologie",
       "artistKey": "eldruna",
       "keyword_de": "nordische schoepfungsgeschichte",
       "keyword_en": "norse creation myth",
       "title_de": "Die nordische Schoepfungsgeschichte: Ymir, Ginnungagap und die ersten Menschen",
-      "title_en": "The Norse Creation Myth: Ymir, Ginnungagap and the First Humans"
+      "title_en": "The Norse Creation Myth: Ymir, Ginnungagap and the First Humans",
+      "queuedDate": "2026-10-02",
+      "slug_de": "nordische-schoepfungsgeschichte-ymir",
+      "slug_en": "norse-creation-myth-ymir"
     },
     {
       "translationKey": "viking-beards-hair",

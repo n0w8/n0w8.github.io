@@ -29,7 +29,7 @@ async function place(srcName, destRel) {
   // WICHTIG: auch das Datum im Recipe-JSON-LD - sonst stehen in den Google
   // Rich Results Platzhalter (real passiert: 2026-01-01 und sogar 2099-01-01
   // standen live in 6 Rezeptartikeln, weil nur das Frontmatter ersetzt wurde).
-  md = md.replace(/("datePublished"s*:s*)"[^"]*"/g, `$1"${today}"`);
+  md = md.replace(/("datePublished"\s*:\s*)"[^"]*"/g, `$1"${today}"`);
   if (dry) { console.log(`[dry] ${srcName} -> ${destRel}`); return; }
   const dest = path.resolve(destRel);
   await mkdir(path.dirname(dest), { recursive: true });
