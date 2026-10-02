@@ -1,7 +1,7 @@
 ---
 title: "Viking Barley Pancakes: A Recipe with Honey and Berries"
 description: "Viking barley pancakes recipe: thick, nutty griddle cakes served with honey and wild berries, plus what archaeology really shows about barley in the North."
-pubDate: 2026-01-01
+pubDate: 2026-10-02
 category: "Rezepte"
 tags: ["Viking Recipe", "Barley", "Pancakes", "Honey", "Wild Berries", "Norse Kitchen"]
 heroImage: "/images/viking-barley-pancakes.jpg"

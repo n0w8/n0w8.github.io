@@ -1,7 +1,7 @@
 ---
 title: "Wikinger-Pfannkuchen aus Gerste: Rezept mit Honig und Beeren"
 description: "Wikinger Pfannkuchen Gerste Rezept: dicke, nussige Fladen mit Honig und Waldbeeren, dazu was die Archäologie über Gerste und Backplatten wirklich belegt."
-pubDate: 2026-01-01
+pubDate: 2026-10-02
 category: "Rezepte"
 tags: ["Wikinger Rezept", "Gerste", "Pfannkuchen", "Honig", "Waldbeeren", "Wikinger-Küche"]
 heroImage: "/images/viking-barley-pancakes.jpg"
