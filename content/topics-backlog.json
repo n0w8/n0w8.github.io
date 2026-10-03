@@ -1434,6 +1434,212 @@
       "keyword_en": "viking hairstyles beards",
       "title_de": "Wikinger-Frisuren und Baerte: Was die Quellen wirklich sagen",
       "title_en": "Viking Hairstyles and Beards: What the Sources Really Say"
+    },
+    {
+      "translationKey": "viking-pork-roast",
+      "status": "todo",
+      "category": "Rezepte",
+      "artistKey": "eldruna",
+      "keyword_de": "wikinger schweinebraten",
+      "keyword_en": "viking pork roast",
+      "title_de": "Wikinger-Schweinebraten: Saehrimnir zum Nachkochen",
+      "title_en": "Viking Pork Roast: Cook Saehrimnir at Home"
+    },
+    {
+      "translationKey": "viking-bean-stew",
+      "status": "todo",
+      "category": "Rezepte",
+      "artistKey": "eldruna",
+      "keyword_de": "wikinger bohneneintopf",
+      "keyword_en": "viking bean stew",
+      "title_de": "Wikinger-Bohneneintopf mit Ackerbohnen",
+      "title_en": "Viking Bean Stew with Fava Beans"
+    },
+    {
+      "translationKey": "viking-fire-salmon",
+      "status": "todo",
+      "category": "Rezepte",
+      "artistKey": "domsgard",
+      "keyword_de": "lachs am feuer wikinger",
+      "keyword_en": "viking salmon over fire",
+      "title_de": "Lachs am offenen Feuer nach Wikingerart",
+      "title_en": "Viking Salmon Cooked Over an Open Fire"
+    },
+    {
+      "translationKey": "viking-mushroom-stew",
+      "status": "todo",
+      "category": "Rezepte",
+      "artistKey": "eldruna",
+      "keyword_de": "wikinger pilzeintopf",
+      "keyword_en": "viking mushroom stew",
+      "title_de": "Wikinger-Pilzeintopf aus dem Herbstwald",
+      "title_en": "Viking Mushroom Stew from the Autumn Forest"
+    },
+    {
+      "translationKey": "viking-fresh-cheese",
+      "status": "todo",
+      "category": "Rezepte",
+      "artistKey": "eldruna",
+      "keyword_de": "wikinger frischkaese selber machen",
+      "keyword_en": "viking fresh cheese",
+      "title_de": "Wikinger-Frischkaese selber machen",
+      "title_en": "How to Make Viking Fresh Cheese"
+    },
+    {
+      "translationKey": "viking-roast-chicken",
+      "status": "todo",
+      "category": "Rezepte",
+      "artistKey": "domsgard",
+      "keyword_de": "wikinger brathuhn",
+      "keyword_en": "viking roast chicken",
+      "title_de": "Wikinger-Brathuhn mit Wildkraeutern",
+      "title_en": "Viking Roast Chicken with Wild Herbs"
+    },
+    {
+      "translationKey": "ragnarok",
+      "status": "todo",
+      "category": "Mythologie",
+      "artistKey": "domsgard",
+      "keyword_de": "ragnarök",
+      "keyword_en": "ragnarok",
+      "title_de": "Ragnarök: Der Weltuntergang der nordischen Mythologie",
+      "title_en": "Ragnarok: The End of the World in Norse Mythology"
+    },
+    {
+      "translationKey": "valkyries",
+      "status": "todo",
+      "category": "Mythologie",
+      "artistKey": "domsgard",
+      "keyword_de": "walküren",
+      "keyword_en": "valkyries norse mythology",
+      "title_de": "Walküren: Die Totenwaehlerinnen Odins",
+      "title_en": "Valkyries: Odin's Choosers of the Slain"
+    },
+    {
+      "translationKey": "runes",
+      "status": "todo",
+      "category": "Runen & Symbole",
+      "artistKey": "domsgard",
+      "keyword_de": "runen bedeutung",
+      "keyword_en": "viking runes meaning",
+      "title_de": "Wikinger-Runen: Das Futhark und seine Bedeutung",
+      "title_en": "Viking Runes: The Futhark and Its Meaning"
+    },
+    {
+      "translationKey": "norse-gods",
+      "status": "todo",
+      "category": "Mythologie",
+      "artistKey": "domsgard",
+      "keyword_de": "nordische götter",
+      "keyword_en": "norse gods",
+      "title_de": "Nordische Goetter: Asen und Wanen im Ueberblick",
+      "title_en": "Norse Gods: The Aesir and Vanir Explained"
+    },
+    {
+      "translationKey": "ivar-the-boneless",
+      "status": "todo",
+      "category": "Geschichte",
+      "artistKey": "domsgard",
+      "keyword_de": "ivar der knochenlose",
+      "keyword_en": "ivar the boneless",
+      "title_de": "Ivar der Knochenlose: Legende und Geschichte",
+      "title_en": "Ivar the Boneless: Legend and History"
+    },
+    {
+      "translationKey": "lindholm-hoje",
+      "status": "todo",
+      "category": "Geschichte",
+      "artistKey": "eldruna",
+      "keyword_de": "lindholm hoeje",
+      "keyword_en": "lindholm hoje",
+      "title_de": "Lindholm Hoeje: Das Graeberfeld der Schiffssetzungen",
+      "title_en": "Lindholm Hoje: The Burial Ground of Stone Ships",
+      "imagePolicy": "real-photo"
+    },
+    {
+      "translationKey": "ladby-ship",
+      "status": "todo",
+      "category": "Geschichte",
+      "artistKey": "domsgard",
+      "keyword_de": "ladby schiff",
+      "keyword_en": "ladby ship",
+      "title_de": "Das Ladby-Schiff: Daenemarks einziges Schiffsgrab",
+      "title_en": "The Ladby Ship: Denmark's Only Viking Ship Burial",
+      "imagePolicy": "real-photo"
+    },
+    {
+      "translationKey": "kaupang",
+      "status": "todo",
+      "category": "Geschichte",
+      "artistKey": "eldruna",
+      "keyword_de": "kaupang wikinger",
+      "keyword_en": "kaupang viking town",
+      "title_de": "Kaupang: Norwegens erste Stadt der Wikingerzeit",
+      "title_en": "Kaupang: Norway's First Viking Age Town",
+      "imagePolicy": "real-photo"
+    },
+    {
+      "translationKey": "hoen-hoard",
+      "status": "todo",
+      "category": "Geschichte",
+      "artistKey": "eldruna",
+      "keyword_de": "hoen schatz",
+      "keyword_en": "hoen hoard",
+      "title_de": "Der Hoen-Schatz: Norwegens groesster Goldfund",
+      "title_en": "The Hoen Hoard: Norway's Largest Viking Gold Find",
+      "imagePolicy": "real-photo"
+    },
+    {
+      "translationKey": "sigtuna",
+      "status": "todo",
+      "category": "Geschichte",
+      "artistKey": "domsgard",
+      "keyword_de": "sigtuna wikinger",
+      "keyword_en": "sigtuna viking town",
+      "title_de": "Sigtuna: Koenigsstadt am Maelaren",
+      "title_en": "Sigtuna: The Royal Town on Lake Malaren",
+      "imagePolicy": "real-photo"
+    },
+    {
+      "translationKey": "piraeus-lion",
+      "status": "todo",
+      "category": "Runen & Symbole",
+      "artistKey": "domsgard",
+      "keyword_de": "piräus löwe runen",
+      "keyword_en": "piraeus lion runes",
+      "title_de": "Der Piraeus-Loewe: Runen auf einer antiken Statue",
+      "title_en": "The Piraeus Lion: Viking Runes on an Ancient Statue",
+      "imagePolicy": "real-photo"
+    },
+    {
+      "translationKey": "viking-longhouse",
+      "status": "todo",
+      "category": "Alltag & Kultur",
+      "artistKey": "eldruna",
+      "keyword_de": "wikinger langhaus",
+      "keyword_en": "viking longhouse",
+      "title_de": "Das Wikinger-Langhaus: Leben unter einem Dach",
+      "title_en": "The Viking Longhouse: Life Under One Roof"
+    },
+    {
+      "translationKey": "viking-shield-wall",
+      "status": "todo",
+      "category": "Krieger & Schlachten",
+      "artistKey": "domsgard",
+      "keyword_de": "schildwall wikinger",
+      "keyword_en": "viking shield wall",
+      "title_de": "Der Schildwall: Wie Wikinger in der Schlacht kaempften",
+      "title_en": "The Viking Shield Wall: How Vikings Fought in Battle"
+    },
+    {
+      "translationKey": "viking-marriage",
+      "status": "todo",
+      "category": "Alltag & Kultur",
+      "artistKey": "eldruna",
+      "keyword_de": "wikinger hochzeit",
+      "keyword_en": "viking marriage",
+      "title_de": "Hochzeit bei den Wikingern: Brautpreis, Feier und Scheidung",
+      "title_en": "Viking Marriage: Bride Price, Feast and Divorce"
     }
   ]
 }
