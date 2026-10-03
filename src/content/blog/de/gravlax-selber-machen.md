@@ -1,7 +1,7 @@
 ---
 title: "Gravlax selber machen: Gebeizter Lachs nach nordischer Art"
 description: "Gravlax selber machen in 48 Stunden: Beizverhältnis aus Salz, Zucker und Dill, Zeitplan, Schneidetechnik und die nordische Geschichte hinter dem Rezept."
-pubDate: 2026-01-01
+pubDate: 2026-10-03
 category: "Rezepte"
 tags: ["Wikinger Rezept", "Gravlax", "Lachs", "Beizen", "Nordische Küche", "Konservierung"]
 heroImage: "/images/viking-gravlax.jpg"
@@ -120,7 +120,7 @@ Gravlax selber machen ist am Ende ein Rezept, bei dem man fast nichts tut und tr
   "description": "Gravlax selber machen: Lachsfilet in einer Beize aus Salz, Zucker, Pfeffer und viel Dill 48 Stunden kalt gebeizt und hauchdünn aufgeschnitten.",
   "image": "https://blog.nordwaldrecords.com/images/viking-gravlax.jpg",
   "author": { "@type": "Organization", "name": "Nordweg" },
-  "datePublished": "2026-01-01",
+  "datePublished": "2026-10-03",
   "prepTime": "PT30M",
   "cookTime": "PT48H",
   "totalTime": "PT48H30M",

@@ -1,7 +1,7 @@
 ---
 title: "How to Make Gravlax: Cured Salmon the Nordic Way"
 description: "How to make gravlax at home in 48 hours: the exact salt and sugar cure, how much dill, timings, slicing technique and the Nordic history behind the dish."
-pubDate: 2026-01-01
+pubDate: 2026-10-03
 category: "Rezepte"
 tags: ["Viking Recipe", "Gravlax", "Salmon", "Curing", "Nordic Kitchen", "Food Preservation"]
 heroImage: "/images/viking-gravlax.jpg"
@@ -120,7 +120,7 @@ Knowing how to make gravlax ultimately means knowing a recipe in which you do al
   "description": "How to make gravlax: a side of salmon cured for 48 hours in salt, sugar, pepper and plenty of dill, then sliced paper-thin.",
   "image": "https://blog.nordwaldrecords.com/images/viking-gravlax.jpg",
   "author": { "@type": "Organization", "name": "Nordweg" },
-  "datePublished": "2026-01-01",
+  "datePublished": "2026-10-03",
   "prepTime": "PT30M",
   "cookTime": "PT48H",
   "totalTime": "PT48H30M",
