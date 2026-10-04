@@ -1,7 +1,7 @@
 ---
 title: "Wikinger-Lauchsuppe mit Zwiebeln: Rezept aus der Langhaus-Küche"
 description: "Lauchsuppe nach Wikinger-Rezept: Zwiebeln, Lauch, Gerste und Butter aus dem Kessel. Was die Edda über den Lauch verrät und wie die Suppe heute gelingt."
-pubDate: 2026-01-01
+pubDate: 2026-10-04
 category: "Rezepte"
 tags: ["Wikinger Rezept", "Lauch", "Zwiebel", "Suppe", "Gerste", "Nordische Küche"]
 heroImage: "/images/viking-onion-leek-soup.jpg"
@@ -101,7 +101,7 @@ Die großen Erzählungen des Nordens handeln von Königen, Schiffen und Schlacht
   "description": "Nordische Lauchsuppe mit Zwiebeln, Gerste und viel Butter, langsam geschmort und mit Sauerrahm oder Skyr abgerundet - ein Kesselgericht nach Wikinger-Art.",
   "image": "https://blog.nordwaldrecords.com/images/viking-onion-leek-soup.jpg",
   "author": { "@type": "Organization", "name": "Nordweg" },
-  "datePublished": "2026-01-01",
+  "datePublished": "2026-10-04",
   "prepTime": "PT15M",
   "cookTime": "PT60M",
   "totalTime": "PT75M",

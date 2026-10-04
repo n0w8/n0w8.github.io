@@ -1,7 +1,7 @@
 ---
 title: "Viking Leek Soup Recipe: Onions, Butter and Barley from the Longhouse"
 description: "A Viking leek soup recipe built on onions, barley and butter. What the Edda and the runes really say about the humble leek, and how to cook the soup today."
-pubDate: 2026-01-01
+pubDate: 2026-10-04
 category: "Rezepte"
 tags: ["Viking Recipe", "Leek", "Onion", "Soup", "Barley", "Norse Cooking"]
 heroImage: "/images/viking-onion-leek-soup.jpg"
@@ -101,7 +101,7 @@ The great Norse stories are about kings, ships and battles. Daily life ran on pl
   "description": "Nordic leek and onion soup with barley and plenty of butter, slowly sweated and finished with soured cream or skyr - a cauldron dish in the Viking style.",
   "image": "https://blog.nordwaldrecords.com/images/viking-onion-leek-soup.jpg",
   "author": { "@type": "Organization", "name": "Nordweg" },
-  "datePublished": "2026-01-01",
+  "datePublished": "2026-10-04",
   "prepTime": "PT15M",
   "cookTime": "PT60M",
   "totalTime": "PT75M",
