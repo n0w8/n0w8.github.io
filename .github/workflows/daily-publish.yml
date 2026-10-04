@@ -125,10 +125,16 @@ jobs:
         if: env.SKIP != '1' && steps.ftp1.outcome == 'failure' && steps.ftp2.outcome == 'failure'
         run: sleep 240
 
-      # Letzter Versuch OHNE continue-on-error: schlaegt auch der fehl, faellt der
-      # Lauf sichtbar rot aus (statt still zu scheitern).
+      # Auch der letzte Versuch darf den Lauf nicht allein rot faerben. Ueber
+      # rot/gruen entscheidet die Live-Kontrolle weiter unten - sie prueft, ob
+      # der Artikel wirklich abrufbar ist. Grund: die FTP-Action bricht mit
+      # "550 No such file or directory" ab, wenn sie einen Ordner loeschen will,
+      # den ein frueherer Versuch schon geloescht hat. Dann waere alles korrekt
+      # online, der Lauf aber rot - und Mike bekaeme eine unnoetige Fehlermail
+      # (4.10.2026 real passiert).
       - name: FTP sync to easyname (Versuch 3)
         if: env.SKIP != '1' && steps.ftp1.outcome == 'failure' && steps.ftp2.outcome == 'failure'
+        continue-on-error: true
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
           server: e111595-ftp.services.easyname.eu

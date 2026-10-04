@@ -75,6 +75,7 @@ jobs:
 
       - name: FTP sync to easyname (Versuch 3)
         if: steps.ftp1.outcome == 'failure' && steps.ftp2.outcome == 'failure'
+        continue-on-error: true
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
           server: e111595-ftp.services.easyname.eu
@@ -82,3 +83,36 @@ jobs:
           password: ${{ secrets.FTP_PASSWORD }}
           local-dir: ./dist/
           server-dir: nordweg-blog/
+
+      # ENDGUELTIGES URTEIL: nicht der FTP-Schritt entscheidet ueber rot/gruen,
+      # sondern die Live-Seite.
+      #
+      # Warum (4.10.2026): Die FTP-Action fuehrt am Ende Loeschungen aus. Ist
+      # ein Ordner bei einem frueheren Versuch bereits geloescht worden, bricht
+      # sie mit "550 No such file or directory" ab - obwohl ALLE Dateien
+      # erfolgreich oben sind. Genau das ist heute passiert: der komplette
+      # Inhalt war live, der Lauf trotzdem rot, und Mike bekommt fuer so etwas
+      # eine Fehlermail, die er ausdruecklich nicht will.
+      #
+      # Darum wird jetzt geprueft, ob die Seite den SOEBEN gebauten Stand
+      # ausliefert. Als Beweis dient der Dateiname des CSS-Buendels: Astro
+      # haengt einen Inhalts-Hash an, der Name aendert sich also bei jeder
+      # Aenderung. Ist diese Datei live erreichbar, ist der Deploy angekommen.
+      # Ist sie es nicht, faellt der Lauf rot aus - echte Fehler bleiben sichtbar.
+      - name: Live-Kontrolle (entscheidet ueber rot/gruen)
+        run: |
+          CSS=$(find dist/_astro -name "*.css" | head -1 | sed 's|^dist||')
+          if [ -z "$CSS" ]; then echo "Kein CSS-Buendel gefunden - ueberspringe Pruefung."; exit 0; fi
+          echo "Suche live nach: $CSS"
+          for i in 1 2 3 4 5; do
+            CODE=$(curl -sL -o /dev/null -w "%{http_code}" "https://blog.nordwaldrecords.com$CSS?cb=$(date +%s)")
+            HOME_CODE=$(curl -sL -o /dev/null -w "%{http_code}" "https://blog.nordwaldrecords.com/?cb=$(date +%s)")
+            echo "Versuch $i: CSS -> $CODE | Startseite -> $HOME_CODE"
+            if [ "$CODE" = "200" ] && [ "$HOME_CODE" = "200" ]; then
+              echo "Der aktuelle Stand ist live."
+              exit 0
+            fi
+            sleep 30
+          done
+          echo "FEHLER: Der neue Stand ist nach dem Deploy nicht live erreichbar."
+          exit 1
