@@ -1,0 +1,90 @@
+# ===========================================================
+# Nordweg-Blog - Apache-Einstellungen fuer easyname
+# -----------------------------------------------------------
+# Angelegt am 4.10.2026. Vorher lag hier nur public/_headers - das ist das
+# Format von Netlify und wird von easyname (Apache) komplett ignoriert.
+# Folge: ALLE Dateien kamen mit nur einem Tag Cache, auch CSS und JS, deren
+# Dateinamen Astro mit einem Inhalts-Hash versieht und die darum ein Jahr
+# gueltig bleiben koennen. Jeder wiederkehrende Besucher hat sie neu geladen.
+# ===========================================================
+
+# --- Eigene Fehlerseite (Astro baut 404.html) ---
+ErrorDocument 404 /404.html
+
+# --- Dauerhafte Umleitungen (301) ---
+# Am 4.10.2026 standen zwei deutsche Artikel mit EXAKT demselben Titel live
+# ("Freyja: Goettin der Liebe, des Krieges und der Magie"), beide mit demselben
+# Hauptbild und demselben Thema. Google muss sich dann fuer einen entscheiden
+# und wertet meist beide ab (Keyword-Kannibalisierung). Der schwaechere Artikel
+# (1.020 Woerter) wurde entfernt, seine Adresse zeigt dauerhaft auf den
+# staerkeren (1.765 Woerter, mit englischem Gegenstueck). Damit gehen weder
+# Besucher aus alten Pins noch Ranking-Signale verloren.
+<IfModule mod_alias.c>
+  Redirect 301 /blog/freyja-goettin-liebe-krieg-magie/ /blog/freyja-goettin/
+  Redirect 301 /blog/freyja-goettin-liebe-krieg-magie /blog/freyja-goettin/
+</IfModule>
+
+# --- Komprimierung ---
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/plain text/css text/xml
+  AddOutputFilterByType DEFLATE application/javascript application/x-javascript
+  AddOutputFilterByType DEFLATE application/json application/xml
+  AddOutputFilterByType DEFLATE application/rss+xml image/svg+xml
+</IfModule>
+
+# --- Cache-Dauer ---
+<IfModule mod_expires.c>
+  ExpiresActive On
+  # HTML immer frisch pruefen: ein neuer Artikel soll sofort sichtbar sein
+  ExpiresByType text/html "access plus 0 seconds"
+  ExpiresByType application/xml "access plus 1 hours"
+  ExpiresByType application/rss+xml "access plus 1 hours"
+  # Bilder und Schriften lange halten
+  ExpiresByType image/jpeg "access plus 1 months"
+  ExpiresByType image/png "access plus 1 months"
+  ExpiresByType image/webp "access plus 1 months"
+  ExpiresByType image/avif "access plus 1 months"
+  ExpiresByType image/svg+xml "access plus 1 months"
+  ExpiresByType font/woff2 "access plus 1 years"
+</IfModule>
+
+<IfModule mod_headers.c>
+  # Astro-Dateien tragen einen Inhalts-Hash im Namen (index.BG8KCUtI.css).
+  # Aendert sich der Inhalt, aendert sich der Name - sie koennen also
+  # unbegrenzt gecacht werden ("immutable").
+  <FilesMatch "\.(css|js)$">
+    Header set Cache-Control "public, max-age=31536000, immutable"
+  </FilesMatch>
+
+  # HTML nie aus dem Cache beantworten, sonst sehen Besucher alte Artikel-Listen
+  <FilesMatch "\.html$">
+    Header set Cache-Control "public, max-age=0, must-revalidate"
+  </FilesMatch>
+
+  <FilesMatch "\.(xml|txt)$">
+    Header set Cache-Control "public, max-age=3600"
+  </FilesMatch>
+
+  # Pinterest holt die Pin-Bilder von einer anderen Herkunft.
+  # FilesMatch prueft nur den Dateinamen, nicht den Pfad - darum per SetEnvIf.
+  SetEnvIf Request_URI "^/pins/" NORDWEG_CORS=1
+  Header set Access-Control-Allow-Origin "*" env=NORDWEG_CORS
+
+  # Grundlegende Sicherheits-Header
+  Header set X-Content-Type-Options "nosniff"
+  Header set Referrer-Policy "strict-origin-when-cross-origin"
+  Header set Permissions-Policy "interest-cohort=()"
+</IfModule>
+
+# BEWUSST KEINE eigene https-Weiterleitung und keine www-Regel:
+# easyname erzwingt https bereits selbst (die Antwort traegt
+# strict-transport-security). Eine zweite Weiterleitung auf geteiltem Hosting
+# kann hinter dem TLS-Proxy in eine Endlosschleife laufen, weil %{HTTPS} dort
+# nicht zwingend "on" ist. Das Risiko ist groesser als der Nutzen.
+
+# --- Korrekte Dateitypen (easyname kennt webp/avif nicht immer) ---
+<IfModule mod_mime.c>
+  AddType image/webp .webp
+  AddType image/avif .avif
+  AddType application/json .webmanifest
+</IfModule>

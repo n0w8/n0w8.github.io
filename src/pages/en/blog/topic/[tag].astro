@@ -1,0 +1,49 @@
+---
+// Topic pages (EN). Mirror of /blog/thema/[tag].astro.
+import TaxonomyIndex from '../../../../components/pages/TaxonomyIndex.astro';
+import { getPostsByLang } from '../../../../i18n/utils';
+import { slugify, tagText, tagUrl, TAG_SCHWELLE } from '../../../../i18n/taxonomy';
+import type { GetStaticPaths } from 'astro';
+
+export const getStaticPaths = (async () => {
+  const posts = await getPostsByLang('en');
+  const gruppen = new Map<string, { name: string; posts: typeof posts }>();
+  for (const p of posts) {
+    for (const tag of p.data.tags) {
+      const key = slugify(tag);
+      if (!key) continue;
+      const g = gruppen.get(key) ?? { name: tag, posts: [] };
+      if (!g.posts.includes(p)) g.posts.push(p);
+      gruppen.set(key, g);
+    }
+  }
+  const relevant = [...gruppen.entries()].filter(([, g]) => g.posts.length >= TAG_SCHWELLE);
+  return relevant.map(([key, g]) => ({
+    params: { tag: key },
+    props: {
+      name: g.name,
+      posts: g.posts,
+      siblings: relevant
+        .filter(([k]) => k !== key)
+        .sort((a, b) => b[1].posts.length - a[1].posts.length)
+        .slice(0, 12)
+        .map(([, s]) => ({ name: s.name, url: tagUrl(s.name, 'en'), count: s.posts.length })),
+    },
+  }));
+}) satisfies GetStaticPaths;
+
+const { name, posts, siblings } = Astro.props;
+const text = tagText(name, 'en', posts.length);
+---
+
+<TaxonomyIndex
+  lang="en"
+  label={name}
+  title={text.title}
+  description={text.description}
+  lede={text.lede}
+  posts={posts}
+  switchUrl="/blog/"
+  kindLabel="Topic"
+  siblings={siblings}
+/>

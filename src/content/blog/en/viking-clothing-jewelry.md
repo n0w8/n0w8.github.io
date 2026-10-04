@@ -9,7 +9,7 @@ heroImageAlt: "Reconstructed Viking Age leather turnshoes and fur footwear laid 
 readingTime: 9
 translationKey: "viking-clothing"
 artistKey: "eldruna"
-trackTitle: "Scar – Viking Battle Hymn"
+trackTitle: "Scar - Viking Battle Hymn"
 author: "The Nordweg Editorial Team"
 draft: false
 ---

@@ -12,8 +12,14 @@ interface Props {
   image?: string;
   article?: boolean;
   publishedTime?: Date;
+  modifiedTime?: Date;
+  author?: string;
+  section?: string; // Kategorie des Artikels (og:article:section)
+  tags?: string[];
   lang?: Lang;
-  altUrl?: string; // URL derselben Seite in der anderen Sprache
+  altUrl?: string; // URL derselben Seite in der anderen Sprache (echtes Gegenstueck)
+  switchUrl?: string; // Ersatzziel fuer den DE/EN-Knopf, wenn es kein Gegenstueck gibt
+  noindex?: boolean; // z. B. 404 - soll nicht in den Index
 }
 
 const {
@@ -22,7 +28,13 @@ const {
   image = '/images/hero.jpg',
   article = false,
   publishedTime,
+  modifiedTime,
+  author = 'Die Nordweg-Redaktion',
+  section,
+  tags = [],
   altUrl,
+  switchUrl,
+  noindex = false,
 } = Astro.props;
 
 const lang: Lang = Astro.props.lang ?? getLangFromUrl(Astro.url);
@@ -30,9 +42,79 @@ const siteName = 'Nordweg';
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 const fullTitle = title === siteName ? title : `${title} | ${siteName}`;
 
-// hreflang-Alternativen für Google
-const deHref = new URL(lang === 'de' ? Astro.url.pathname : (altUrl ?? '/'), Astro.site);
-const enHref = new URL(lang === 'en' ? Astro.url.pathname : (altUrl ?? '/en/'), Astro.site);
+// Bild immer absolut gegen die SITE aufloesen (nicht gegen Astro.url) - sonst
+// zeigt og:image bei relativen Pfaden auf die falsche Ebene.
+const imageURL = new URL(image, Astro.site).toString();
+const logoURL = new URL('/images/logo-nordweg.png', Astro.site).toString();
+
+// hreflang-Alternativen fuer Google.
+// WICHTIG: Ohne altUrl gibt es KEINE verlaessliche Gegenstueck-URL. Frueher wurde
+// dann auf "/" bzw. "/en/" verwiesen - das meldet Google ein falsches Sprachpaar
+// (jede EN-Seite zeigte auf die DE-Startseite). Jetzt wird in dem Fall gar kein
+// alternate ausgegeben, das ist sauberer als ein falsches.
+const selfHref = canonicalURL.toString();
+const otherHref = altUrl ? new URL(altUrl, Astro.site).toString() : null;
+const deHref = lang === 'de' ? selfHref : otherHref;
+const enHref = lang === 'en' ? selfHref : otherHref;
+
+// --- Strukturierte Daten (schema.org) ---
+const publisher = {
+  '@type': 'Organization',
+  '@id': new URL('/#organization', Astro.site).toString(),
+  name: siteName,
+  url: Astro.site?.toString(),
+  logo: { '@type': 'ImageObject', url: logoURL, width: 512, height: 512 },
+};
+
+const graph: Record<string, unknown>[] = [
+  publisher,
+  {
+    '@type': 'WebSite',
+    '@id': new URL('/#website', Astro.site).toString(),
+    url: Astro.site?.toString(),
+    name: siteName,
+    inLanguage: lang,
+    publisher: { '@id': publisher['@id'] },
+  },
+];
+
+if (article) {
+  graph.push({
+    '@type': 'Article',
+    '@id': `${selfHref}#article`,
+    isPartOf: { '@id': new URL('/#website', Astro.site).toString() },
+    mainEntityOfPage: { '@type': 'WebPage', '@id': selfHref },
+    headline: title,
+    description,
+    inLanguage: lang,
+    url: selfHref,
+    image: { '@type': 'ImageObject', url: imageURL },
+    // Eine Redaktion ist eine Organisation, keine Person. Google akzeptiert
+    // beides, aber der falsche Typ widerspricht der Autorenbox im Artikel.
+    author: /redaktion|editorial|team/i.test(author)
+      ? { '@type': 'Organization', name: author, url: new URL(lang === 'de' ? '/ueber-uns/' : '/en/about/', Astro.site).toString() }
+      : { '@type': 'Person', name: author },
+    publisher: { '@id': publisher['@id'] },
+    ...(section ? { articleSection: section } : {}),
+    ...(tags.length ? { keywords: tags.join(', ') } : {}),
+    ...(publishedTime ? { datePublished: publishedTime.toISOString() } : {}),
+    // dateModified ist fuer Google ein Frische-Signal. Ohne Angabe faellt es auf
+    // das Veroeffentlichungsdatum zurueck.
+    dateModified: (modifiedTime ?? publishedTime)?.toISOString(),
+  });
+} else {
+  graph.push({
+    '@type': 'WebPage',
+    '@id': selfHref,
+    url: selfHref,
+    name: fullTitle,
+    description,
+    inLanguage: lang,
+    isPartOf: { '@id': new URL('/#website', Astro.site).toString() },
+  });
+}
+
+const jsonLd = JSON.stringify({ '@context': 'https://schema.org', '@graph': graph });
 ---
 
 <!doctype html>
@@ -42,45 +124,59 @@ const enHref = new URL(lang === 'en' ? Astro.url.pathname : (altUrl ?? '/en/'), 
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <meta name="generator" content={Astro.generator} />
+    <meta name="theme-color" content="#0b0a09" />
+
+    <!-- Schriften: fruehes Verbinden spart beim ersten Rendern ~200-300 ms.
+         Der Stylesheet-Link ersetzt den alten @import in global.css, der eine
+         blockierende Kette HTML -> CSS -> CSS -> Schriftdatei erzeugt hat. -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600;700&family=Marcellus&family=Spectral:ital,wght@0,400;0,500;0,600;1,400&display=swap"
+    />
 
     <title>{fullTitle}</title>
-    <meta name="title" content={fullTitle} />
     <meta name="description" content={description} />
     <link rel="canonical" href={canonicalURL} />
+    {noindex
+      ? <meta name="robots" content="noindex, follow" />
+      : <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />}
 
     <!-- Sprach-Alternativen (SEO) -->
-    <link rel="alternate" hreflang="de" href={deHref} />
-    <link rel="alternate" hreflang="en" href={enHref} />
-    <link rel="alternate" hreflang="x-default" href={deHref} />
+    {deHref && <link rel="alternate" hreflang="de" href={deHref} />}
+    {enHref && <link rel="alternate" hreflang="en" href={enHref} />}
+    {deHref && <link rel="alternate" hreflang="x-default" href={deHref} />}
 
     <!-- Open Graph -->
     <meta property="og:type" content={article ? 'article' : 'website'} />
     <meta property="og:url" content={canonicalURL} />
     <meta property="og:title" content={fullTitle} />
     <meta property="og:description" content={description} />
-    <meta property="og:image" content={new URL(image, Astro.url)} />
+    <meta property="og:image" content={imageURL} />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content={title} />
     <meta property="og:site_name" content={siteName} />
     <meta property="og:locale" content={lang === 'en' ? 'en_US' : 'de_DE'} />
+    {article && publishedTime && (
+      <meta property="article:published_time" content={publishedTime.toISOString()} />
+    )}
+    {article && (modifiedTime ?? publishedTime) && (
+      <meta property="article:modified_time" content={(modifiedTime ?? publishedTime)!.toISOString()} />
+    )}
+    {article && section && <meta property="article:section" content={section} />}
+    {article && tags.map((tag) => <meta property="article:tag" content={tag} />)}
 
     <!-- Twitter/X -->
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content={fullTitle} />
     <meta name="twitter:description" content={description} />
-    <meta name="twitter:image" content={new URL(image, Astro.url)} />
+    <meta name="twitter:image" content={imageURL} />
 
     <link rel="alternate" type="application/rss+xml" title={siteName} href="/rss.xml" />
 
-    <script type="application/ld+json" set:html={JSON.stringify({
-      '@context': 'https://schema.org',
-      '@type': article ? 'Article' : 'WebSite',
-      inLanguage: lang,
-      name: fullTitle,
-      headline: title,
-      description: description,
-      url: canonicalURL.toString(),
-      ...(publishedTime ? { datePublished: publishedTime.toISOString() } : {}),
-      publisher: { '@type': 'Organization', name: siteName },
-    })} />
+    <script type="application/ld+json" set:html={jsonLd} />
     <!-- Selbst gehostete, cookie-freie Besucherzaehlung (Daten bleiben auf nordwaldrecords.com) -->
     <script is:inline>
       (function () {
@@ -99,13 +195,13 @@ const enHref = new URL(lang === 'en' ? Astro.url.pathname : (altUrl ?? '/en/'), 
   <body>
     <div class="scroll-progress" aria-hidden="true"></div>
     <Atmosphere />
-    <Header lang={lang} altUrl={altUrl} />
+    <Header lang={lang} altUrl={altUrl} switchUrl={switchUrl} />
     <main>
       <slot />
     </main>
     <Footer lang={lang} />
     <script>
-      // Motion v2: Lenis-Smooth-Scroll, Parallax, Reveals, Magnetic (gebuendelt)
+      // Motion v3: Lenis-Smooth-Scroll, GSAP-Reveals, Parallax, Magnetic (gebuendelt)
       import "../scripts/motion.js";
     </script>
   </body>

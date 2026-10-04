@@ -9,7 +9,7 @@ heroImageAlt: "Rekonstruierte wikingerzeitliche Lederschuhe und Fellschuhe auf e
 readingTime: 9
 translationKey: "viking-clothing"
 artistKey: "eldruna"
-trackTitle: "Scar – Viking Battle Hymn"
+trackTitle: "Scar - Viking Battle Hymn"
 author: "Die Nordweg-Redaktion"
 draft: false
 ---

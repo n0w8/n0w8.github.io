@@ -1,0 +1,181 @@
+---
+// Gemeinsame Ansicht fuer Kategorie- und Themen-Seiten.
+//
+// WARUM ES DIESE SEITEN BRAUCHT (4.10.2026):
+// Die Kategorie-Auswahl lief vorher nur ueber ?cat=... und reines JavaScript.
+// Google behandelt einen Query-Parameter als dieselbe Seite - es gab also fuer
+// "Wikinger Rezepte" oder "Nordische Mythologie" keine eigene, indexierbare
+// Uebersichtsseite. Genau solche Hub-Seiten sind aber das, worueber ein Blog
+// mit 100 Artikeln Themen-Autoritaet aufbaut und wofuer er mittelfristig
+// rankt. Jetzt hat jede Kategorie und jedes groessere Thema eine echte URL.
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import ArticleCard from '../ArticleCard.astro';
+import { useTranslations, localizedPath, postUrl } from '../../i18n/utils';
+import type { Lang } from '../../i18n/ui';
+import type { CollectionEntry } from 'astro:content';
+
+interface Props {
+  lang: Lang;
+  /** Angezeigter Name, z. B. "Rezepte" oder "Yggdrasil" */
+  label: string;
+  /** Seitentitel fuer <title> und H1 */
+  title: string;
+  description: string;
+  lede: string;
+  posts: CollectionEntry<'blog'>[];
+  altUrl?: string;
+  /** Ersatzziel fuer den DE/EN-Knopf (Themen-Seiten haben kein Gegenstueck) */
+  switchUrl?: string;
+  /** Oberer Breadcrumb-Zweig: "Kategorie" bzw. "Thema" */
+  kindLabel: string;
+  /** Weitere Eintraege derselben Art zum Weiterklicken */
+  siblings?: { name: string; url: string; count: number }[];
+}
+
+const { lang, label, title, description, lede, posts, altUrl, switchUrl, kindLabel, siblings = [] } = Astro.props;
+const t = useTranslations(lang);
+const blogPath = localizedPath('/blog', lang);
+
+const crumbs = [
+  { name: t('nav.home'), url: localizedPath('/', lang) },
+  { name: t('nav.blog'), url: blogPath },
+  { name: label, url: Astro.url.pathname },
+];
+
+// Breadcrumb- und Listen-Markup fuer Google.
+const ld = JSON.stringify({
+  '@context': 'https://schema.org',
+  '@graph': [
+    {
+      '@type': 'BreadcrumbList',
+      itemListElement: crumbs.map((c, i) => ({
+        '@type': 'ListItem',
+        position: i + 1,
+        name: c.name,
+        item: new URL(c.url, Astro.site).toString(),
+      })),
+    },
+    {
+      '@type': 'CollectionPage',
+      name: title,
+      description,
+      inLanguage: lang,
+      url: new URL(Astro.url.pathname, Astro.site).toString(),
+      mainEntity: {
+        '@type': 'ItemList',
+        numberOfItems: posts.length,
+        itemListElement: posts.slice(0, 25).map((p, i) => ({
+          '@type': 'ListItem',
+          position: i + 1,
+          url: new URL(postUrl(p, lang), Astro.site).toString(),
+          name: p.data.title,
+        })),
+      },
+    },
+  ],
+});
+
+const countLabel = lang === 'en'
+  ? `${posts.length} ${posts.length === 1 ? 'article' : 'articles'}`
+  : `${posts.length} ${posts.length === 1 ? 'Artikel' : 'Artikel'}`;
+const moreLabel = lang === 'en' ? 'More paths' : 'Weitere Pfade';
+const allLabel = lang === 'en' ? 'All articles' : 'Alle Artikel';
+---
+
+<BaseLayout title={title} description={description} lang={lang} altUrl={altUrl} switchUrl={switchUrl}>
+  <script type="application/ld+json" set:html={ld} />
+
+  <header class="tax-head container">
+    <nav class="breadcrumbs" aria-label={t('article.breadcrumb.aria')}>
+      <ol>
+        {crumbs.map((c, i) => (
+          <li>
+            {i < crumbs.length - 1
+              ? <a href={c.url}>{c.name}</a>
+              : <span aria-current="page">{c.name}</span>}
+            {i < crumbs.length - 1 && <span class="crumb-sep" aria-hidden="true">›</span>}
+          </li>
+        ))}
+      </ol>
+    </nav>
+    <p class="eyebrow">{kindLabel}</p>
+    <h1 class="tax-title">{label}</h1>
+    <p class="tax-lede text-dim">{lede}</p>
+    <p class="tax-count">{countLabel}</p>
+  </header>
+
+  <section class="container">
+    <div class="post-grid">
+      {posts.map((post) => (
+        <ArticleCard
+          href={postUrl(post, lang)}
+          title={post.data.title}
+          description={post.data.description}
+          category={post.data.category}
+          pubDate={post.data.pubDate}
+          lang={lang}
+          heroImage={post.data.heroImage}
+          readingTime={post.data.readingTime}
+        />
+      ))}
+    </div>
+  </section>
+
+  {siblings.length > 0 && (
+    <section class="container tax-siblings" aria-label={moreLabel}>
+      <p class="eyebrow">{moreLabel}</p>
+      <div class="sibling-list">
+        {siblings.map((s) => (
+          <a href={s.url} class="sibling">{s.name}<span class="sibling-n">{s.count}</span></a>
+        ))}
+        <a href={blogPath} class="sibling sibling--all">{allLabel}</a>
+      </div>
+    </section>
+  )}
+</BaseLayout>
+
+<style>
+  .tax-head { padding-top: 3rem; max-width: var(--maxw-prose); }
+  .breadcrumbs { font-family: var(--font-title); font-size: 0.82rem; letter-spacing: 0.05em; }
+  .breadcrumbs ol { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; align-items: center; row-gap: 0.25rem; }
+  .breadcrumbs li { display: flex; align-items: center; }
+  .breadcrumbs a { color: var(--color-text-dim); }
+  .breadcrumbs a:hover { color: var(--color-bronze-bright); }
+  .breadcrumbs span[aria-current] { color: var(--color-bronze-dim); }
+  .crumb-sep { color: var(--color-text-faint); margin: 0 0.55rem; }
+
+  .tax-head .eyebrow { margin: 1.5rem 0 0.4rem; }
+  .tax-title { font-size: clamp(2.2rem, 5.5vw, 3.4rem); margin: 0 0 1rem; line-height: 1.1; }
+  .tax-lede { font-size: 1.12rem; line-height: 1.7; margin: 0 0 1rem; }
+  .tax-count {
+    font-family: var(--font-title);
+    font-size: 0.85rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--color-bronze-dim);
+    border-top: 1px solid var(--color-border);
+    padding-top: 1rem;
+    margin: 0 0 2.5rem;
+  }
+
+  .post-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 1.6rem;
+    margin-bottom: 3.5rem;
+  }
+
+  .tax-siblings { margin-bottom: 4rem; }
+  .sibling-list { display: flex; flex-wrap: wrap; gap: 0.6rem; margin-top: 0.9rem; }
+  .sibling {
+    display: inline-flex; align-items: center; gap: 0.5rem;
+    font-family: var(--font-title); font-size: 0.92rem;
+    border: 1px solid var(--color-border); border-radius: 999px;
+    padding: 0.4rem 0.95rem;
+    color: var(--color-text);
+    transition: color 0.16s ease, border-color 0.16s ease, background 0.16s ease;
+  }
+  .sibling:hover { color: var(--color-bronze-bright); border-color: var(--color-bronze-dim); background: rgba(201, 162, 90, 0.08); }
+  .sibling-n { font-size: 0.75rem; color: var(--color-text-faint); }
+  .sibling--all { border-color: var(--color-bronze-dim); color: var(--color-bronze); }
+</style>

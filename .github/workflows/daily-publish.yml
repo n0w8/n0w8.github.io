@@ -1,4 +1,4 @@
-# Der "Roboter im Quellcode": veröffentlicht täglich Artikel aus content/queue/ —
+# Der "Roboter im Quellcode": veröffentlicht täglich Artikel aus content/queue/ -
 # läuft GRATIS auf GitHubs Servern, auch wenn der PC aus ist. Keine KI, keine API-Kosten.
 name: Daily publish from queue
 
@@ -11,7 +11,7 @@ on:
   schedule:
     - cron: '7 4 * * *'  # früher Slot (~06:07 Wien Sommer)
     - cron: '23 8 * * *' # mittlerer Slot (~10:23)
-    - cron: '41 12 * * *' # später Slot (~14:41) — fängt verspätete/übersprungene Tage ab
+    - cron: '41 12 * * *' # später Slot (~14:41) - fängt verspätete/übersprungene Tage ab
   workflow_dispatch: {} # manueller "Jetzt testen"-Knopf (überspringt nie)
 
 concurrency:
@@ -31,7 +31,7 @@ jobs:
         with:
           node-version: 20
 
-      # Ruhetag + Tagesziel — beides aus content/publish-config.json gesteuert
+      # Ruhetag + Tagesziel - beides aus content/publish-config.json gesteuert
       # (im Agentic OS sichtbar/änderbar). restDayWeekday: 0=So..6=Sa (UTC-Tag);
       # restDayEnabled:false => jeden Tag posten. Gezählt werden die heute
       # veröffentlichten DE-Artikel (1 pro Paar). KEINE Uhrzeit-Abhängigkeit.
@@ -46,15 +46,15 @@ jobs:
           PERDAY=$(node -p "require('./content/publish-config.json').postsPerDay ?? 1" 2>/dev/null || echo 1)
           if [ "$ENABLED" = "true" ] && [ "$DOW" = "$RESTDOW" ]; then
             echo "SKIP=1" >> "$GITHUB_ENV"
-            echo "Geplanter Ruhetag (Wochentag $DOW laut publish-config.json) — heute keine Veröffentlichung."
+            echo "Geplanter Ruhetag (Wochentag $DOW laut publish-config.json) - heute keine Veröffentlichung."
             exit 0
           fi
           COUNT=$(grep -rl "pubDate: $TODAY" src/content/blog/de 2>/dev/null | wc -l)
           if [ "$COUNT" -ge "$PERDAY" ]; then
             echo "SKIP=1" >> "$GITHUB_ENV"
-            echo "Tagesziel erreicht ($COUNT von $PERDAY heute veröffentlicht) — überspringe."
+            echo "Tagesziel erreicht ($COUNT von $PERDAY heute veröffentlicht) - überspringe."
           else
-            echo "Heute $COUNT von $PERDAY veröffentlicht — dieser Slot postet Artikel $((COUNT + 1))."
+            echo "Heute $COUNT von $PERDAY veröffentlicht - dieser Slot postet Artikel $((COUNT + 1))."
           fi
 
       - name: Publish one article from queue
@@ -68,7 +68,7 @@ jobs:
           git config user.email "publisher@users.noreply.github.com"
           git add -A
           if git diff --cached --quiet; then
-            echo "Queue leer — nichts zu veröffentlichen."
+            echo "Queue leer - nichts zu veröffentlichen."
             echo "SKIP=1" >> "$GITHUB_ENV"
           else
             git commit -m "Auto-publish: daily article from queue"
@@ -152,3 +152,13 @@ jobs:
           done
           echo "FEHLER: Artikel /blog/$SLUG/ ist nach dem Deploy nicht erreichbar."
           exit 1
+
+      # IndexNow: meldet die neuen Adressen sofort an Bing, Yandex, Seznam und
+      # Naver. Braucht keinen Zugang und keinen Schluessel-Austausch, der
+      # Nachweis liegt als Datei auf dem Webspace (public/<key>.txt).
+      # Google nimmt IndexNow NICHT an - dafuer braucht es die Search Console.
+      # Ein Fehler hier darf den Lauf nicht rot machen (es ist nur eine Meldung).
+      - name: IndexNow anstossen (Bing/Yandex)
+        if: env.SKIP != '1'
+        continue-on-error: true
+        run: node scripts/ping-indexnow.mjs

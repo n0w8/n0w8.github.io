@@ -1,6 +1,6 @@
 ---
 title: "Die Jelling-Steine: Dänemarks Taufurkunde in Stein"
-description: "Die Jelling-Steine: Wie Gorm der Alte und Harald Blauzahn in Runen Liebe, Macht und Dänemarks Bekehrung verewigten – und was Bluetooth damit zu tun hat."
+description: "Die Jelling-Steine: Wie Gorm der Alte und Harald Blauzahn in Runen Liebe, Macht und Dänemarks Bekehrung verewigten - und was Bluetooth damit zu tun hat."
 pubDate: 2026-07-25
 category: "Runen & Symbole"
 tags: ["Jelling-Steine", "Harald Blauzahn", "Runen", "Dänemark", "UNESCO", "Wikingerzeit"]
@@ -9,7 +9,7 @@ heroImageAlt: "Verwitterter Runenstein in dänischer Landschaft, Sinnbild für d
 readingTime: 9
 translationKey: "jelling-stones"
 artistKey: "eldruna"
-trackTitle: "Eldruna – Scar – Viking Battle Hymn"
+trackTitle: "Eldruna - Scar - Viking Battle Hymn"
 author: "Die Nordweg-Redaktion"
 draft: false
 ---

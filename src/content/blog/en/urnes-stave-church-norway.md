@@ -9,7 +9,7 @@ heroImageAlt: "Urnes Stave Church above the turquoise Lustrafjord in Norway"
 readingTime: 9
 translationKey: "urnes-stave-church"
 artistKey: "domsgard"
-trackTitle: "Domsgard – Rætur Yggdrasils – Roots of Yggdrasil"
+trackTitle: "Domsgard - Rætur Yggdrasils - Roots of Yggdrasil"
 author: "The Nordweg Editorial Team"
 draft: false
 ---
@@ -41,7 +41,7 @@ The Christian interpretation sees the four-legged creature as a lion, an ancient
 
 Neither reading can be proven, because the carvers left no inscription. But that ambiguity is precisely what makes the portal such a rare witness. It was made for people standing between two worlds, at a moment when the old gods were not yet forgotten and the new faith was not yet taken for granted.
 
-<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/Q5_6cAatlVQ" title="Domsgard – Rætur Yggdrasils – Roots of Yggdrasil" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/Q5_6cAatlVQ" title="Domsgard - Rætur Yggdrasils - Roots of Yggdrasil" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 
 ## The Urnes Style: The Final Chapter of Viking Art
 

@@ -9,7 +9,7 @@ heroImageAlt: "Viking Age picture stone with a sailing ship from Smiss on Gotlan
 readingTime: 9
 translationKey: "gotland-picture-stones"
 artistKey: "domsgard"
-trackTitle: "Domsgard – Valhalla – Journey to the Golden Hall"
+trackTitle: "Domsgard - Valhalla - Journey to the Golden Hall"
 author: "The Nordweg Editorial Team"
 draft: false
 ---
@@ -48,7 +48,7 @@ An eight-legged horse can only mean one thing in Norse tradition: [Sleipnir](/en
 
 Put on *Valhalla* by Domsgard while you read on. The song tells exactly the journey this stone depicts: a warrior's road to the golden hall.
 
-<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/M_A5BdYrMBg" title="Domsgard – Valhalla – Journey to the Golden Hall" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/M_A5BdYrMBg" title="Domsgard - Valhalla - Journey to the Golden Hall" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 
 ## Ardre VIII: A Whole Saga Collection on One Slab
 

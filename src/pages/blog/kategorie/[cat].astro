@@ -1,0 +1,43 @@
+---
+// Echte, indexierbare Kategorie-Hubs (DE). Ersetzt den alten ?cat=-Filter,
+// den Google nicht als eigene Seite zaehlt.
+import TaxonomyIndex from '../../../components/pages/TaxonomyIndex.astro';
+import { getPostsByLang, localizeCategory } from '../../../i18n/utils';
+import { catSlug, catText, catUrl } from '../../../i18n/taxonomy';
+import type { GetStaticPaths } from 'astro';
+
+export const getStaticPaths = (async () => {
+  const posts = await getPostsByLang('de');
+  const kategorien = [...new Set(posts.map((p) => p.data.category))];
+  const anzahl = new Map(kategorien.map((c) => [c, posts.filter((p) => p.data.category === c).length]));
+  return kategorien.map((cat) => ({
+    params: { cat: catSlug(cat, 'de') },
+    props: {
+      cat,
+      posts: posts.filter((p) => p.data.category === cat),
+      siblings: kategorien
+        .filter((c) => c !== cat)
+        .map((c) => ({ name: localizeCategory(c, 'de'), url: catUrl(c, 'de'), count: anzahl.get(c) ?? 0 })),
+    },
+  }));
+}) satisfies GetStaticPaths;
+
+const { cat, posts, siblings } = Astro.props;
+const text = catText[cat]?.de ?? {
+  title: cat,
+  description: `Alle Nordweg-Artikel in der Kategorie ${cat}.`,
+  lede: `Alle Artikel in der Kategorie ${cat}.`,
+};
+---
+
+<TaxonomyIndex
+  lang="de"
+  label={localizeCategory(cat, 'de')}
+  title={text.title}
+  description={text.description}
+  lede={text.lede}
+  posts={posts}
+  altUrl={catUrl(cat, 'en')}
+  kindLabel="Kategorie"
+  siblings={siblings}
+/>

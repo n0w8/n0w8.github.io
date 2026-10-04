@@ -1,6 +1,6 @@
 # Baut die Astro-Seite und lädt sie per FTP auf Mikes easyname-Webspace hoch
 # (Ordner /nordweg-blog/ -> blog.nordwaldrecords.com). Läuft automatisch nach jedem
-# veröffentlichten Artikel — auch bei ausgeschaltetem PC. Zugangsdaten liegen als
+# veröffentlichten Artikel - auch bei ausgeschaltetem PC. Zugangsdaten liegen als
 # GitHub-Secrets im Tresor (FTP_USERNAME / FTP_PASSWORD), nie im Code.
 # Inkrementeller Sync: nur geänderte Dateien werden übertragen.
 name: Deploy via FTP (easyname)

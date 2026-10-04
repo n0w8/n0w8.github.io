@@ -9,7 +9,7 @@ heroImageAlt: "Riesiger grauer Wolf in nebliger nordischer Wildnis, Sinnbild fü
 readingTime: 10
 translationKey: "fenrir"
 artistKey: "domsgard"
-trackTitle: "Domsgard – Fenrir – When Ragnarök Comes"
+trackTitle: "Domsgard - Fenrir - When Ragnarök Comes"
 author: "Die Nordweg-Redaktion"
 draft: false
 ---
@@ -28,9 +28,9 @@ Das war, im Rückblick der Mythologie, ein fataler Fehler mit Ansage. Nur der Kr
 
 Fenrir wuchs nicht in menschlichen Zeiträumen, sondern erschreckend schnell, und mit jedem Tag wurde seine physische Präsenz bedrohlicher. Snorri beschreibt, wie die Asen zunehmend nervös wurden, je größer der Wolf wurde, bis schließlich Odin selbst, dem als Herrscher über Weissagung und Schicksal besondere Weitsicht zugeschrieben wird, den entscheidenden Impuls gab: Fenrir musste gebunden werden, bevor er zu mächtig würde. Diese Angst speiste sich nicht aus Willkür, sondern aus Prophezeiung. Die Voluspá, jene große eschatologische Vision, die eine Seherin (völva) Odin selbst offenbart, beschreibt unmissverständlich, dass an Ragnarök, dem Untergang der Götterwelt, ein losgerissener Wolf eine zentrale Rolle spielen wird. Die Götter handelten also nicht aus abstrakter Paranoia, sondern aus dem Wissen um eine bereits feststehende Zukunft, die sie höchstens hinauszögern, aber nicht verhindern konnten. Genau dieses Spannungsverhältnis, zwischen Handeln und der Unabänderlichkeit des Schicksals, ist eines der zentralen Motive der gesamten [nordischen Götter](/blog/nordische-goetter)-Welt und wird bei kaum einer anderen Figur so klar durchexerziert wie bei Fenrir.
 
-Hör dir *Fenrir* an, während du weiterliest – genau diese Geschichte, vertont:
+Hör dir *Fenrir* an, während du weiterliest - genau diese Geschichte, vertont:
 
-<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/DdfxZ9POFvY" title="Domsgard – Fenrir – When Ragnarök Comes" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/DdfxZ9POFvY" title="Domsgard - Fenrir - When Ragnarök Comes" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 
 ## Zwei gescheiterte Ketten, ein listiges Band
 
@@ -66,7 +66,7 @@ Diese Szene ist mehr als eine dramatische Pointe. Sie ist eine der klarsten mora
 
 ## Ragnarök: Die Rache des Wolfes
 
-Mit Gleipnir gefesselt, wurde Fenrir auf eine abgelegene Insel namens **Lyngvi** im See Amsvartnir verbracht, das Band an einem tief im Fels verankerten Block namens Gjöll befestigt, ein Schwert zwischen seine Kiefer getrieben, das seinen Rachen weit offenhält. Speichel floss unaufhörlich aus seinem Maul und bildete, so berichtet es die Gylfaginning, den Fluss Ván, dessen Name so viel wie "Erwartung" bedeutet – ein Bild dafür, dass die Fesselung kein Endpunkt der Geschichte war, sondern nur ihr Aufschub.
+Mit Gleipnir gefesselt, wurde Fenrir auf eine abgelegene Insel namens **Lyngvi** im See Amsvartnir verbracht, das Band an einem tief im Fels verankerten Block namens Gjöll befestigt, ein Schwert zwischen seine Kiefer getrieben, das seinen Rachen weit offenhält. Speichel floss unaufhörlich aus seinem Maul und bildete, so berichtet es die Gylfaginning, den Fluss Ván, dessen Name so viel wie "Erwartung" bedeutet - ein Bild dafür, dass die Fesselung kein Endpunkt der Geschichte war, sondern nur ihr Aufschub.
 
 Am Tag von Ragnarök, wenn die Weltordnung selbst zerbricht, reißt sich Fenrir schließlich aus seinen Fesseln. Die Voluspá beschreibt das Ereignis in wenigen, aber gewaltigen Bildern: Der Wolf läuft mit weit aufgerissenem Maul, der Unterkiefer schleift über die Erde, der Oberkiefer reicht bis zum Himmel, und Flammen schlagen ihm aus den Augen und Nüstern. Er ist zu diesem Zeitpunkt keine gefesselte Kreatur mehr, sondern die reinste Verkörperung entfesselter, kosmischer Zerstörung. Genau dieses Element, die Fessel als Verzögerung statt als Lösung, verbindet Fenrirs Schicksal eng mit dem größeren Rahmen von [Ragnarök](/blog/ragnaroek), dem finalen Weltuntergang, auf den die gesamte nordische Kosmologie unweigerlich zusteuert.
 

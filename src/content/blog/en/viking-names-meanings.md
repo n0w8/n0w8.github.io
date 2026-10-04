@@ -9,7 +9,7 @@ heroImageAlt: "Rune serpent with red-traced runic inscription on the Gripsholm r
 readingTime: 9
 translationKey: "viking-names"
 artistKey: "domsgard"
-trackTitle: "Ættblóð – The Meaning of Viking Runes"
+trackTitle: "Ættblóð - The Meaning of Viking Runes"
 author: "The Nordweg Editorial Team"
 draft: false
 ---

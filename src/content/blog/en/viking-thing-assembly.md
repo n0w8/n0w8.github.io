@@ -9,18 +9,18 @@ heroImageAlt: "Wide Icelandic plain with a rock formation, symbolizing the Vikin
 readingTime: 9
 translationKey: "the-thing"
 artistKey: "eldruna"
-trackTitle: "Eldruna – Scar – Viking Battle Hymn"
+trackTitle: "Eldruna - Scar - Viking Battle Hymn"
 author: "The Nordweg Editorial Team"
 draft: false
 ---
 
-"The Vikings had democracy eleven hundred years before anyone else" — that line pops up almost automatically in documentaries and travel brochures the moment Iceland and its famous **Althing** come up. The truth about the **Thing**, the assembly at the heart of Norse society, is more complicated, more interesting, and in some ways considerably less idyllic than the popular image of an early grassroots democracy. Time for a fact check, grounded in the Grágás (Iceland's oldest surviving law code), the Icelandic sagas, and archaeological evidence from assembly sites like Þingvellir.
+"The Vikings had democracy eleven hundred years before anyone else" - that line pops up almost automatically in documentaries and travel brochures the moment Iceland and its famous **Althing** come up. The truth about the **Thing**, the assembly at the heart of Norse society, is more complicated, more interesting, and in some ways considerably less idyllic than the popular image of an early grassroots democracy. Time for a fact check, grounded in the Grágás (Iceland's oldest surviving law code), the Icelandic sagas, and archaeological evidence from assembly sites like Þingvellir.
 
 ## Was the Thing Really an Early Democracy?
 
 **Partly true.** The Thing was undoubtedly a remarkably participatory institution for its time: a regular assembly of free men where laws were proclaimed, disputes were argued, and important community decisions were made without a single ruler deciding alone. Regional Things existed across Scandinavia, including the Gulathing and Frostathing in Norway, as well as in the Norse settlements across the North Atlantic. In that sense, the Thing really was a remarkably early form of collective political decision-making.
 
-But the term "democracy" in its modern sense, with equal voting rights for everyone regardless of wealth or status, doesn't quite fit. Decisions were often reached through visible assent — the clashing of weapons as a sign of approval — rather than formal votes, and actual influence was anything but evenly distributed.
+But the term "democracy" in its modern sense, with equal voting rights for everyone regardless of wealth or status, doesn't quite fit. Decisions were often reached through visible assent - the clashing of weapons as a sign of approval - rather than formal votes, and actual influence was anything but evenly distributed.
 
 It's also worth noting there wasn't just one Thing, but an entire hierarchy of local and regional assemblies. Smaller local Things met more often and handled everyday disputes, while larger regional Things like Norway's Gulathing convened only once or twice a year and dealt with cases that crossed the boundaries of individual communities. This tiered structure meant a dispute could, in principle, escalate from a local assembly up through progressively larger ones, not unlike a modern multi-tier court system, just without its centralized enforcement power.
 
@@ -52,15 +52,15 @@ Archaeologically, the Althing's original site at Þingvellir ("Thing plains") ca
 
 | Claim | Verdict |
 |---|---|
-| "The Thing was an early democracy" | Partly — participatory, but not equal |
-| "Every free man carried equal weight" | Myth — chieftains and the wealthy dominated |
-| "Women had formal speaking rights" | Mostly myth — informal influence yes, formal rarely |
-| "The lawspeaker ruled" | Partly — enormous authority, but no executive power |
-| "The Althing is the oldest parliament" | Mostly true — with competition from Tynwald |
+| "The Thing was an early democracy" | Partly - participatory, but not equal |
+| "Every free man carried equal weight" | Myth - chieftains and the wealthy dominated |
+| "Women had formal speaking rights" | Mostly myth - informal influence yes, formal rarely |
+| "The lawspeaker ruled" | Partly - enormous authority, but no executive power |
+| "The Althing is the oldest parliament" | Mostly true - with competition from Tynwald |
 
 ## What Survives from the Thing Today
 
-The linguistic trail left by the Thing stretches surprisingly far beyond Scandinavia. Viking settlers left place names like **Thingwall** on the Wirral peninsula near Liverpool in Viking-age England, a direct echo of an assembly site that once stood there. Iceland's parliament is still called the Althing today, Norway's parliament is the **Storting**, Denmark's is the **Folketing** — all direct linguistic descendants of the same word. Even the English word "thing," in the sense of a matter or affair, traces back to the same root, since an assembly was originally simply the gathering where "the thing" was debated and settled.
+The linguistic trail left by the Thing stretches surprisingly far beyond Scandinavia. Viking settlers left place names like **Thingwall** on the Wirral peninsula near Liverpool in Viking-age England, a direct echo of an assembly site that once stood there. Iceland's parliament is still called the Althing today, Norway's parliament is the **Storting**, Denmark's is the **Folketing** - all direct linguistic descendants of the same word. Even the English word "thing," in the sense of a matter or affair, traces back to the same root, since an assembly was originally simply the gathering where "the thing" was debated and settled.
 
 The Thing itself was hardly a dry legal affair, either. The sagas describe the great summer assemblies as major social events, with families camping for days in makeshift tent settlements around the assembly site, trading goods, arranging marriages, and swapping news that would otherwise have travelled only slowly across the vast distances of Scandinavia and Iceland. A Thing was, at once, court, parliament, marketplace, and social gathering, a combination of roles that's hard to picture in modern terms, but that for Norse society was exactly the fusion of law and community life that kept the institution functioning for centuries.
 

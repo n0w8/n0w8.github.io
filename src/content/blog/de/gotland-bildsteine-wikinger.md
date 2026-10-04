@@ -9,7 +9,7 @@ heroImageAlt: "Wikingerzeitlicher Bildstein mit Segelschiff von Smiss auf Gotlan
 readingTime: 9
 translationKey: "gotland-picture-stones"
 artistKey: "domsgard"
-trackTitle: "Domsgard – Valhalla – Journey to the Golden Hall"
+trackTitle: "Domsgard - Valhalla - Journey to the Golden Hall"
 author: "Die Nordweg-Redaktion"
 draft: false
 ---
@@ -48,7 +48,7 @@ Ein achtbeiniges Pferd ist in der nordischen Überlieferung eindeutig besetzt: [
 
 Höre dir *Valhalla* von Domsgard an, während du weiterliest. Der Song erzählt genau die Reise, die dieser Stein zeigt: den Weg eines Kriegers in die goldene Halle.
 
-<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/M_A5BdYrMBg" title="Domsgard – Valhalla – Journey to the Golden Hall" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/M_A5BdYrMBg" title="Domsgard - Valhalla - Journey to the Golden Hall" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 
 ## Ardre VIII: Ein ganzes Sagenbuch auf einer Platte
 

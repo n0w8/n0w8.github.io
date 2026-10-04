@@ -9,7 +9,7 @@ heroImageAlt: "Der Gjermundbu-Helm, der einzige weitgehend erhaltene Wikingerhel
 readingTime: 9
 translationKey: "viking-horned-helmet-myth"
 artistKey: "domsgard"
-trackTitle: "Domsgard – Járn ok þrumr (Iron and Thunder)"
+trackTitle: "Domsgard - Járn ok þrumr (Iron and Thunder)"
 author: "Die Nordweg-Redaktion"
 draft: false
 ---

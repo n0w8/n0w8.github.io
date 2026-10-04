@@ -9,7 +9,7 @@ heroImageAlt: "Dramatischer nordischer Himmel über einem Schlachtfeld, Sinnbild
 readingTime: 10
 translationKey: "harald-hardrada"
 artistKey: "domsgard"
-trackTitle: "Domsgard – Víkingr (Full Album)"
+trackTitle: "Domsgard - Víkingr (Full Album)"
 author: "Die Nordweg-Redaktion"
 draft: false
 ---
@@ -36,7 +36,7 @@ Was an dieser Episode besonders bemerkenswert ist: Harald sammelte in byzantinis
 
 Die Heimskringla berichtet zudem von einer dramatischen Verwicklung am Kaiserhof selbst: Nach dem Tod Kaiser Michaels IV. soll Harald in Ungnade gefallen und zeitweise sogar inhaftiert worden sein, möglicherweise weil er sich weigerte, sein angehäuftes Vermögen dem Reich zu überlassen, oder weil er in eine Affäre mit einer Verwandten der Kaiserin Zoe verwickelt war. Die Saga erzählt, er sei nur durch die Hilfe einer Fürstin und mit Unterstützung seiner Warägerkameraden aus dem Kerker befreit worden, woraufhin er heimlich aus der Stadt floh, während byzantinische Wachschiffe die Ausfahrt aus dem Goldenen Horn versperrten. Ob diese Fluchtgeschichte in allen Details stimmt, lässt sich kaum mehr prüfen, doch sie zeigt, wie eng Haralds Aufstieg mit den Intrigen des byzantinischen Kaiserhofs verwoben war, einer der komplexesten und gefährlichsten politischen Bühnen des damaligen Europas.
 
-> "Er war der größte Mann an Wuchs, den man je gesehen hatte, und alle seine Waffen waren mit Gold beschlagen." — Snorri Sturluson, Haralds saga Sigurðarsonar
+> "Er war der größte Mann an Wuchs, den man je gesehen hatte, und alle seine Waffen waren mit Gold beschlagen." - Snorri Sturluson, Haralds saga Sigurðarsonar
 
 ## Heimkehr und Königskrone: Harðráði wird König von Norwegen
 
@@ -49,10 +49,10 @@ Diese Härte richtete sich keineswegs nur gegen äußere Feinde. Mehrere Sagas b
 | Lebensabschnitt | Zeitraum | Zentrales Ereignis |
 |---|---|---|
 | Jugend in Norwegen | bis 1030 | Schlacht bei Stiklestad, Flucht nach Osten |
-| Kiewer Rus | 1031–1034 | Dienst bei Fürst Jaroslaw dem Weisen |
-| Byzanz | 1034–1045 | Warägergarde, Feldzüge, Vermögensaufbau |
-| Rückkehr | 1045–1047 | Mitregentschaft mit Magnus dem Guten |
-| Königtum | 1047–1066 | Alleinherrschaft, Krieg gegen Dänemark |
+| Kiewer Rus | 1031-1034 | Dienst bei Fürst Jaroslaw dem Weisen |
+| Byzanz | 1034-1045 | Warägergarde, Feldzüge, Vermögensaufbau |
+| Rückkehr | 1045-1047 | Mitregentschaft mit Magnus dem Guten |
+| Königtum | 1047-1066 | Alleinherrschaft, Krieg gegen Dänemark |
 | England | 1066 | Invasion, Fulford, Tod bei Stamford Bridge |
 
 ## Der Griff nach England: Fulford und das Ende bei Stamford Bridge

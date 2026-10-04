@@ -1,4 +1,4 @@
-# Pinterest-Autopilot — Bereitschaftsplan
+# Pinterest-Autopilot - Bereitschaftsplan
 
 Status: **wartet auf Pinterest Trial-Freigabe.** App "Domsgard Content Planner",
 App-ID `1587474`, Konto `domsgard` (Pinterest) / `n0w8` (GitHub). Business-Account
@@ -6,7 +6,7 @@ mit ~470k monatlichen Aufrufen, ~6 Monate keine neuen Pins.
 
 ## Prinzip (wie der Blog)
 Pins werden über eine Vorratskammer + GitHub Actions veröffentlicht → 7 Pins/Tag,
-auch bei ausgeschaltetem PC, 0 € laufende Kosten. NIE direkt auf Spotify verlinken —
+auch bei ausgeschaltetem PC, 0 € laufende Kosten. NIE direkt auf Spotify verlinken -
 immer auf den passenden **Blog-Artikel** (dort Player + Spotify/YouTube + später Merch).
 
 ## Board-Strategie (Pinterest = Suchmaschine, Keyword-Namen)
@@ -27,8 +27,8 @@ immer auf den passenden **Blog-Artikel** (dort Player + Spotify/YouTube + späte
 - Rezept-Pins duerfen ab Start ~20-30% des Content-Mixes ausmachen (weibliche Zielgruppe,
   hohe Save-Raten bei Food-Pins).
 
-## Hochfahren (Ramp — Konto war 6 Monate inaktiv, kein Spam-Muster erzeugen!)
-- Woche 1–2: **7 Pins/Tag** · Woche 3–4: **10/Tag** · ab Monat 2: **15/Tag**, WENN die
+## Hochfahren (Ramp - Konto war 6 Monate inaktiv, kein Spam-Muster erzeugen!)
+- Woche 1-2: **7 Pins/Tag** · Woche 3-4: **10/Tag** · ab Monat 2: **15/Tag**, WENN die
   Verteilung gesund bleibt (Impressions je Pin nicht einbrechen). Nie schlagartig hochziehen.
 - Mix pro Tag: ~70 % Content-Pins (Klick-Versprechen → Artikel), ~20 % Video-Pins mit Sound
   (Shorts-Zweitverwertung → Musik direkt im Feed, 0 Klick-Hürden), ~10 % Produkt-/Merch-Pins.
@@ -39,7 +39,7 @@ Jeder Pin verspricht eine ANTWORT, die es nur hinter dem Klick gibt:
 - Titel-Overlays wie "10 Viking Symbols and Their Real Meanings", "Norse Gods Family Tree
   Explained", "Viking Names and Their Meanings", "How Did a Viking Get Into Valhalla?"
 - Auf dem Bild: Zahl/Frage/Versprechen + dezenter CTA ("Read the full chronicle →").
-- Beschreibung: 2–4 Sätze mit Keywords + Handlungsaufforderung + Artikel-Link.
+- Beschreibung: 2-4 Sätze mit Keywords + Handlungsaufforderung + Artikel-Link.
 - Zu jedem Pin-Winkel existiert (oder entsteht) der passende Artikel im Backlog.
 
 ## Merch-Pins (Spreadshirt, später eigener Shop)
@@ -61,7 +61,7 @@ Link auf den thematisch passenden Blog-Artikel umschreiben. SCHRITTWEISE (~25/Ta
 damit Pinterest keine Spam-Welle erkennt.
 
 ## Aktivierung (sobald "Geheimer Schlüssel" NICHT mehr "ausstehend")
-1. App-Secret + Access-Token in `pinterest-zugang.txt` (Desktop) ablegen — NICHT in den Chat.
+1. App-Secret + Access-Token in `pinterest-zugang.txt` (Desktop) ablegen - NICHT in den Chat.
 2. Redirect-URI in der App: `http://localhost:8085/callback` (einmalig eintragen).
 3. Einmaliger OAuth-Flow (Scope u.a. `pins:write`, `boards:read`) → Refresh-Token holen.
 4. Refresh-Token als GitHub-Secret hinterlegen (Tresor, nicht im Code).

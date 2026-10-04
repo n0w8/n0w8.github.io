@@ -9,7 +9,7 @@ heroImageAlt: "Rustikales dunkles Roggenbrot nach Wikinger-Art, frisch gebacken"
 readingTime: 7
 translationKey: "viking-rye-bread"
 artistKey: "eldruna"
-trackTitle: "Scar – Viking Battle Hymn"
+trackTitle: "Scar - Viking Battle Hymn"
 author: "Die Nordweg-Redaktion"
 draft: false
 ---

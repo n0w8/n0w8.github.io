@@ -1,29 +1,41 @@
 ---
 import { useTranslations, localizedPath } from '../i18n/utils';
+import { catUrl } from '../i18n/taxonomy';
 import type { Lang } from '../i18n/ui';
 
 interface Props {
   lang: Lang;
   altUrl?: string;
+  /** Ziel des DE/EN-Knopfs, wenn es kein echtes Gegenstueck gibt (z. B. Themen-Seiten) */
+  switchUrl?: string;
 }
-const { lang, altUrl } = Astro.props;
+const { lang, altUrl, switchUrl } = Astro.props;
 const t = useTranslations(lang);
 
+// Die Themen-Punkte zeigen jetzt auf die echten Kategorie-Seiten.
+// Vorher: /blog?cat=Mythologie - das war auf JEDER der 300 Seiten verlinkt,
+// also 900 interne Links, die alle nur auf die Blog-Uebersicht gezeigt haben
+// (Google ignoriert den Query-Teil). Jetzt landet jeder dieser Links auf einer
+// eigenen Seite mit eigenem Titel und eigenem Text (4.10.2026).
 const nav = [
   { href: localizedPath('/', lang), label: t('nav.home') },
   { href: localizedPath('/blog', lang), label: t('nav.blog') },
-  { href: localizedPath('/blog', lang) + '?cat=Mythologie', label: t('nav.mythology') },
-  { href: localizedPath('/blog', lang) + '?cat=Runen', label: t('nav.runes') },
-  { href: localizedPath('/blog', lang) + '?cat=Rezepte', label: t('nav.recipes') },
+  { href: catUrl('Mythologie', lang), label: t('nav.mythology') },
+  { href: catUrl('Runen & Symbole', lang), label: t('nav.runes') },
+  { href: catUrl('Rezepte', lang), label: t('nav.recipes') },
   { href: lang === 'de' ? '/kochbuch' : '/en/cookbook', label: t('nav.cookbook') },
   { href: localizedPath('/artists', lang), label: t('nav.artists') },
 ];
 const path = Astro.url.pathname;
 
-// Ziel des Sprachumschalters: explizite altUrl, sonst Pfad in die andere Sprache spiegeln
+// Ziel des Sprachumschalters, in dieser Reihenfolge:
+// 1. echtes Gegenstueck (altUrl), 2. bewusst gesetztes Ersatzziel (switchUrl),
+// 3. gespiegelter Pfad. Punkt 2 ist wichtig: Themen-Seiten wie
+// /blog/thema/loki/ haben kein englisches Gegenstueck, der gespiegelte Pfad
+// /en/blog/thema/loki/ existiert nicht und war ein toter Link.
 const otherLang: Lang = lang === 'de' ? 'en' : 'de';
 const currentClean = lang === 'de' ? path : path.replace(/^\/en/, '') || '/';
-const switchHref = altUrl ?? localizedPath(currentClean, otherLang);
+const switchHref = altUrl ?? switchUrl ?? localizedPath(currentClean, otherLang);
 ---
 
 <header class="site-header">

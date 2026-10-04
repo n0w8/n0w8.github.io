@@ -9,7 +9,7 @@ heroImageAlt: "Nebliger nordischer Grabhügel bei Dämmerung"
 readingTime: 9
 translationKey: "draugr"
 artistKey: "domsgard"
-trackTitle: "Ragnarök – Epic Viking Apocalypse"
+trackTitle: "Ragnarök - Epic Viking Apocalypse"
 author: "Die Nordweg-Redaktion"
 draft: false
 ---
@@ -54,7 +54,7 @@ Erst eine radikale Maßnahme beendet den Spuk endgültig: Die Leiche wird ausgeg
 
 Höre *Ragnarök*, während du weiterliest, ein Album, das die düstere Seite der nordischen Mythologie musikalisch einfängt:
 
-<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/CcPgk32usgo" title="Ragnarök – Epic Viking Apocalypse" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/CcPgk32usgo" title="Ragnarök - Epic Viking Apocalypse" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 
 ## Fähigkeiten: Mehr als nur Kraft
 

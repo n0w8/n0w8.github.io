@@ -9,7 +9,7 @@ heroImageAlt: "Reconstructed Viking longhouse at the Ribe VikingeCenter in south
 readingTime: 9
 translationKey: "ribe-viking-town"
 artistKey: "eldruna"
-trackTitle: "Scar – Viking Battle Hymn"
+trackTitle: "Scar - Viking Battle Hymn"
 author: "The Nordweg Editorial Team"
 draft: false
 ---
@@ -34,7 +34,7 @@ That finding matters well beyond local history. It indicates that long-distance 
 
 Put on *Scar* while you read on, a hymn that carries the harsher side of this world:
 
-<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/44mwMKOsN9I" title="Scar – Viking Battle Hymn" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/44mwMKOsN9I" title="Scar - Viking Battle Hymn" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 
 ## What the Workshop Rubbish Reveals
 

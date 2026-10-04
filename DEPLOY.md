@@ -1,6 +1,6 @@
-# Nordweg — Live gehen & Autopilot aktivieren
+# Nordweg - Live gehen & Autopilot aktivieren
 
-## Schritt 1 — Code auf GitHub
+## Schritt 1 - Code auf GitHub
 
 Das Projekt ist bereits ein Git-Repository (initialer Commit vorhanden). Nur noch zu GitHub pushen:
 
@@ -11,7 +11,7 @@ git branch -M main
 git push -u origin main
 ```
 
-## Schritt 2 — Hosting verbinden (empfohlen: Netlify)
+## Schritt 2 - Hosting verbinden (empfohlen: Netlify)
 
 1. Auf [netlify.com](https://netlify.com) einloggen → **Add new site → Import from GitHub** → das `nordweg`-Repo wählen.
 2. Netlify liest `netlify.toml` automatisch (Build: `npm run build`, Ausgabe: `dist`). Nur bestätigen.
@@ -20,11 +20,11 @@ git push -u origin main
 
 > Alternativen mit identischer Config: **Cloudflare Pages** oder **Vercel** (Build `npm run build`, Output `dist`).
 
-## Schritt 3 — Domain in die Config eintragen
+## Schritt 3 - Domain in die Config eintragen
 
 In `astro.config.mjs` `site:` auf deine echte Domain setzen (wichtig für Sitemap, Canonical, hreflang) und pushen.
 
-## Schritt 4 — Autopilot aktivieren
+## Schritt 4 - Autopilot aktivieren
 
 Sobald das Repo auf GitHub liegt, läuft der tägliche Loop (siehe `pipeline/README.md`) als geplante Cloud-Routine:
 

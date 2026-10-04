@@ -1,7 +1,7 @@
-// Gratis-Hero-Bild für den Autopilot — KEIN Bezahldienst nötig.
+// Gratis-Hero-Bild für den Autopilot - KEIN Bezahldienst nötig.
 // Reihenfolge: 1) Wikimedia Commons (gratis, echte Fotos, mit Quellenangabe)
 //              2) Fallback: lokale Bild-Bibliothek (public/images/library/<kategorie>/)
-// Ergebnis immer: public/images/<translationKey>.jpg (1600px, optimiert) — kann NIE fehlschlagen,
+// Ergebnis immer: public/images/<translationKey>.jpg (1600px, optimiert) - kann NIE fehlschlagen,
 // solange die Bibliothek existiert.
 //
 // Aufruf:  node scripts/lib/set-hero-image.mjs <translationKey> "<category>" "<keyword>"

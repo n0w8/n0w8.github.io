@@ -1,5 +1,5 @@
 // Veröffentlicht GENAU EINEN Artikel aus der Warteschlange (content/queue/).
-// Läuft täglich in GitHub Actions (gratis, PC kann aus sein) — braucht KEIN KI-Modell.
+// Läuft täglich in GitHub Actions (gratis, PC kann aus sein) - braucht KEIN KI-Modell.
 // Queue-Eintrag: content/queue/<nnn>-<key>/{de.md, en.md, slugs.json}
 import { readdir, readFile, writeFile, mkdir, rm } from 'node:fs/promises';
 import { existsSync } from 'node:fs';
@@ -13,7 +13,7 @@ const entries = existsSync(QUEUE)
   : [];
 
 if (!entries.length) {
-  console.log('QUEUE_EMPTY — nichts zu veröffentlichen.');
+  console.log('QUEUE_EMPTY - nichts zu veröffentlichen.');
   process.exit(0);
 }
 
@@ -22,10 +22,23 @@ const dir = path.join(QUEUE, item);
 const slugs = JSON.parse(await readFile(path.join(dir, 'slugs.json'), 'utf8'));
 const today = new Date().toISOString().slice(0, 10);
 
+// Mike-Dauerregel: in sichtbaren Texten NIE lange Striche, nur "-".
+// Die Agenten-Anweisung sagt das, aber am 4.10.2026 standen trotzdem 1.516
+// lange Striche in den veröffentlichten Artikeln. Eine Regel, die nur in einer
+// Anleitung steht, wird irgendwann gebrochen - darum wird sie hier beim
+// Veröffentlichen zusätzlich erzwungen. Betrifft Gedankenstrich (em/en dash),
+// Hyphen-Varianten, Horizontalstrich und das Minuszeichen.
+const LANGE_STRICHE = /[‐‑‒–—―−]/g;
+
 async function place(srcName, destRel) {
   let md = await readFile(path.join(dir, srcName), 'utf8');
   // Platzhalter-Datum durch echtes Veröffentlichungsdatum ersetzen
   md = md.replace(/^pubDate:.*$/m, `pubDate: ${today}`);
+  const vorher = (md.match(LANGE_STRICHE) || []).length;
+  if (vorher > 0) {
+    md = md.replace(LANGE_STRICHE, '-');
+    console.log(`  ${srcName}: ${vorher} lange Striche durch "-" ersetzt.`);
+  }
   // WICHTIG: auch das Datum im Recipe-JSON-LD - sonst stehen in den Google
   // Rich Results Platzhalter (real passiert: 2026-01-01 und sogar 2099-01-01
   // standen live in 6 Rezeptartikeln, weil nur das Frontmatter ersetzt wurde).
@@ -40,4 +53,4 @@ await place('de.md', `src/content/blog/de/${slugs.slug_de}.md`);
 await place('en.md', `src/content/blog/en/${slugs.slug_en}.md`);
 if (!dry) await rm(dir, { recursive: true });
 
-console.log(`PUBLISHED ${item} (pubDate=${today}) — verbleibend in Queue: ${entries.length - 1}`);
+console.log(`PUBLISHED ${item} (pubDate=${today}) - verbleibend in Queue: ${entries.length - 1}`);

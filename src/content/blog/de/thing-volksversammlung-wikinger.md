@@ -9,12 +9,12 @@ heroImageAlt: "Weite isländische Ebene mit Felsformation, Sinnbild für die Thi
 readingTime: 9
 translationKey: "the-thing"
 artistKey: "eldruna"
-trackTitle: "Eldruna – Scar – Viking Battle Hymn"
+trackTitle: "Eldruna - Scar - Viking Battle Hymn"
 author: "Die Nordweg-Redaktion"
 draft: false
 ---
 
-"Die Wikinger hatten schon Demokratie, elfhundert Jahre vor allen anderen" – dieser Satz fällt in Dokumentationen und Reisebroschüren fast automatisch, sobald von Island und seinem berühmten **Althing** die Rede ist. Die Wahrheit über das **Thing**, die Volksversammlung der nordischen Gesellschaften, ist komplizierter, interessanter und in mancher Hinsicht deutlich weniger idyllisch als das populäre Bild einer frühen Basisdemokratie. Zeit für einen Faktencheck, gestützt auf die Grágás (das älteste erhaltene isländische Gesetzeswerk), die Isländersagas und archäologische Befunde an Versammlungsplätzen wie Þingvellir.
+"Die Wikinger hatten schon Demokratie, elfhundert Jahre vor allen anderen" - dieser Satz fällt in Dokumentationen und Reisebroschüren fast automatisch, sobald von Island und seinem berühmten **Althing** die Rede ist. Die Wahrheit über das **Thing**, die Volksversammlung der nordischen Gesellschaften, ist komplizierter, interessanter und in mancher Hinsicht deutlich weniger idyllisch als das populäre Bild einer frühen Basisdemokratie. Zeit für einen Faktencheck, gestützt auf die Grágás (das älteste erhaltene isländische Gesetzeswerk), die Isländersagas und archäologische Befunde an Versammlungsplätzen wie Þingvellir.
 
 ## War das Thing wirklich eine frühe Demokratie?
 
@@ -52,11 +52,11 @@ Archäologisch lässt sich das Althing an seinem ursprünglichen Ort, Þingvelli
 
 | Behauptung | Einordnung |
 |---|---|
-| "Das Thing war eine frühe Demokratie" | Teilweise – partizipativ, aber nicht gleichberechtigt |
-| "Jeder freie Mann hatte gleiches Gewicht" | Mythos – Goden und Reiche dominierten |
-| "Frauen hatten formales Rederecht" | Größtenteils Mythos – informeller Einfluss ja, formaler kaum |
-| "Der Gesetzessprecher regierte" | Teilweise – enorme Autorität, aber keine Exekutivmacht |
-| "Das Althing ist das älteste Parlament" | Größtenteils Fakt – mit Konkurrenz durch Tynwald |
+| "Das Thing war eine frühe Demokratie" | Teilweise - partizipativ, aber nicht gleichberechtigt |
+| "Jeder freie Mann hatte gleiches Gewicht" | Mythos - Goden und Reiche dominierten |
+| "Frauen hatten formales Rederecht" | Größtenteils Mythos - informeller Einfluss ja, formaler kaum |
+| "Der Gesetzessprecher regierte" | Teilweise - enorme Autorität, aber keine Exekutivmacht |
+| "Das Althing ist das älteste Parlament" | Größtenteils Fakt - mit Konkurrenz durch Tynwald |
 
 ## Was vom Thing bis heute überlebt hat
 

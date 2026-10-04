@@ -4,6 +4,7 @@ import MusicPlayer from '../components/MusicPlayer.astro';
 import BookPromo from '../components/BookPromo.astro';
 import ArticleCard from '../components/ArticleCard.astro';
 import { useTranslations, localizeCategory, formatDate, localizedPath, getPostsByLang, postUrl } from '../i18n/utils';
+import { slugify, catUrl, tagUrl, TAG_SCHWELLE } from '../i18n/taxonomy';
 import type { Lang } from '../i18n/ui';
 import type { CollectionEntry } from 'astro:content';
 import type { MarkdownHeading } from 'astro';
@@ -11,10 +12,11 @@ import type { MarkdownHeading } from 'astro';
 interface Props {
   entry: CollectionEntry<'blog'>;
   lang: Lang;
-  altUrl?: string;
+  altUrl?: string; // echtes Gegenstueck in der anderen Sprache (nur das wird hreflang)
+  switchUrl?: string; // Ziel des DE/EN-Knopfs, wenn es kein Gegenstueck gibt
   headings?: MarkdownHeading[];
 }
-const { entry, lang, altUrl, headings = [] } = Astro.props;
+const { entry, lang, altUrl, switchUrl, headings = [] } = Astro.props;
 const { data } = entry;
 const t = useTranslations(lang);
 const dateStr = formatDate(data.pubDate, lang);
@@ -29,7 +31,10 @@ const blogPath = localizedPath('/blog', lang);
 const crumbs = [
   { name: t('nav.home'), url: localizedPath('/', lang) },
   { name: t('nav.blog'), url: blogPath },
-  { name: catLabel, url: `${blogPath}?cat=${encodeURIComponent(data.category)}` },
+  // Zeigt auf die echte Kategorie-Seite. Vorher stand hier ein ?cat=-Link -
+  // einen Query-Parameter behandelt Google als dieselbe Seite, der Breadcrumb
+  // war damit fuer die Suche wertlos.
+  { name: catLabel, url: catUrl(data.category, lang) },
 ];
 const breadcrumbLd = JSON.stringify({
   '@context': 'https://schema.org',
@@ -42,14 +47,36 @@ const breadcrumbLd = JSON.stringify({
   })),
 });
 
-// Weiterlesen: 3 Artikel derselben Kategorie und Sprache (neueste zuerst),
-// aufgefüllt mit den neuesten übrigen, ohne den aktuellen Artikel.
+// Weiterlesen: nach thematischer Naehe sortiert, nicht mehr nur nach Datum.
+// Punkte: gemeinsame Tags zaehlen am meisten, gleiche Kategorie als Basis.
+// Das verbessert die interne Verlinkung (Google bewertet Themen-Cluster) und
+// haelt Leser laenger auf der Seite.
 const allPosts = await getPostsByLang(lang);
-const others = allPosts.filter((p) => p.slug !== entry.slug);
-const related = [
-  ...others.filter((p) => p.data.category === data.category),
-  ...others.filter((p) => p.data.category !== data.category),
-].slice(0, 3);
+const meineTags = new Set(data.tags.map((t) => t.toLowerCase()));
+const related = allPosts
+  .filter((p) => p.slug !== entry.slug)
+  .map((p) => {
+    const treffer = p.data.tags.filter((t) => meineTags.has(t.toLowerCase())).length;
+    const punkte = treffer * 3 + (p.data.category === data.category ? 2 : 0);
+    return { p, punkte };
+  })
+  .sort((a, b) => b.punkte - a.punkte || b.p.data.pubDate.valueOf() - a.p.data.pubDate.valueOf())
+  .slice(0, 3)
+  .map((x) => x.p);
+
+// Themen-Seiten gibt es nur fuer Tags, die genug Artikel tragen (sonst entstehen
+// duenne Seiten, die Google als "thin content" abwertet). Schwelle: 3 Artikel.
+// Nach Slug zaehlen, damit "Odin" und "odin" als dasselbe Thema gelten -
+// genau so gruppiert auch die Themen-Seite selbst.
+const tagZaehler = new Map<string, number>();
+for (const p of allPosts) {
+  for (const t of new Set(p.data.tags.map(slugify))) {
+    if (!t) continue;
+    tagZaehler.set(t, (tagZaehler.get(t) ?? 0) + 1);
+  }
+}
+// Slug-Bildung und Pfade kommen aus src/i18n/taxonomy.ts, damit Artikel,
+// Kategorie-Seiten und Themen-Seiten garantiert dieselben Adressen erzeugen.
 
 // Über-uns-Seite (wird separat gepflegt).
 const aboutUrl = lang === 'de' ? '/ueber-uns' : '/en/about';
@@ -61,8 +88,13 @@ const aboutUrl = lang === 'de' ? '/ueber-uns' : '/en/about';
   image={data.heroImage}
   article={true}
   publishedTime={data.pubDate}
+  modifiedTime={data.updatedDate}
+  author={data.author}
+  section={catLabel}
+  tags={data.tags}
   lang={lang}
   altUrl={altUrl}
+  switchUrl={switchUrl}
 >
   <script type="application/ld+json" set:html={breadcrumbLd} />
 
@@ -93,7 +125,18 @@ const aboutUrl = lang === 'de' ? '/ueber-uns' : '/en/about';
 
     {data.heroImage && (
       <figure class="article-hero parallax-frame reveal">
-        <img src={data.heroImage} alt={data.heroImageAlt ?? data.title} data-parallax="0.1" data-parallax-scale="1.1" />
+        {/* width/height verhindern das Nachrutschen des Layouts (CLS), */}
+        {/* fetchpriority="high" laedt das LCP-Bild sofort statt in der Warteschlange. */}
+        <img
+          src={data.heroImage}
+          alt={data.heroImageAlt ?? data.title}
+          width="1280"
+          height="720"
+          fetchpriority="high"
+          decoding="async"
+          data-parallax="0.1"
+          data-parallax-scale="1.1"
+        />
       </figure>
     )}
 
@@ -126,7 +169,15 @@ const aboutUrl = lang === 'de' ? '/ueber-uns' : '/en/about';
 
       {data.tags.length > 0 && (
         <div class="article-tags">
-          {data.tags.map((tag) => <span class="tag">#{tag}</span>)}
+          {/* Tags waren vorher toter Text. Jetzt verlinken sie auf echte
+              Themen-Seiten - das sind pro Artikel 3-6 zusaetzliche interne
+              Links, die Google die Themen-Cluster zeigen. Tags mit weniger als
+              3 Artikeln bleiben unverlinkt (keine duennen Seiten). */}
+          {data.tags.map((tag) =>
+            (tagZaehler.get(slugify(tag)) ?? 0) >= TAG_SCHWELLE
+              ? <a class="tag tag--link" href={tagUrl(tag, lang)}>#{tag}</a>
+              : <span class="tag">#{tag}</span>
+          )}
         </div>
       )}
 
@@ -299,6 +350,8 @@ const aboutUrl = lang === 'de' ? '/ueber-uns' : '/en/about';
 
   .article-tags { display: flex; flex-wrap: wrap; gap: 0.6rem; margin-bottom: 2.5rem; }
   .tag { font-family: var(--font-title); font-size: 0.85rem; color: var(--color-text-dim); border: 1px solid var(--color-border); padding: 0.25rem 0.75rem; border-radius: 999px; }
+  .tag--link { transition: color 0.16s ease, border-color 0.16s ease, background 0.16s ease; }
+  .tag--link:hover { color: var(--color-bronze-bright); border-color: var(--color-bronze-dim); background: rgba(201, 162, 90, 0.08); }
 
   /* --- Autorenbox (E-E-A-T) --- */
   .author-box {

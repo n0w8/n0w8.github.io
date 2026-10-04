@@ -9,7 +9,7 @@ heroImageAlt: "The Piraeus Lion, a marble lion statue carved with runes by Scand
 readingTime: 10
 translationKey: "varangian-guard"
 artistKey: "domsgard"
-trackTitle: "Domsgard – Víkingr"
+trackTitle: "Domsgard - Víkingr"
 author: "The Nordweg Editorial Team"
 draft: false
 ---
@@ -30,7 +30,7 @@ That force then stayed in imperial service and formed the core of a new, permane
 
 How the Byzantines themselves perceived the Varangian Guard can be traced in the work of the chronicler John Skylitzes, whose eleventh century chronicle stands as one of the most important narrative sources for middle Byzantine history. Skylitzes and other Byzantine authors repeatedly describe the Varangian Guard as "axe bearing barbarians," a phrase that carries both respect and cultural distance in equal measure. Their signature weapon really was the two handed Danish axe, a tool that must have been hard to miss in the close quarters of the imperial palace and stood in visible contrast to the lighter arms carried by some of the other palace guards.
 
-<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/vDr3M4UDeE4" title="Domsgard – Víkingr" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/vDr3M4UDeE4" title="Domsgard - Víkingr" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 
 The Varangian Guard accompanied the emperors on campaign as well as at court ceremonies, where, according to later accounts, they were sometimes turned out with polished weapons and even gilded equipment to impress. Recruitment initially drew heavily from the Rus lands and wider Scandinavia, but later, particularly after the Norman conquest of England in 1066, Anglo-Saxon warriors fleeing their new Norman rulers increasingly joined the ranks as well. For decades the guard remained a living gathering point for Norse, and later English, fighters at the Byzantine court.
 

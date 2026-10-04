@@ -9,7 +9,7 @@ heroImageAlt: "Reconstructed Viking houses at the Hedeby open-air museum near Sc
 readingTime: 10
 translationKey: "haithabu"
 artistKey: "eldruna"
-trackTitle: "Scar – Viking Battle Hymn"
+trackTitle: "Scar - Viking Battle Hymn"
 author: "The Nordweg Editorial Team"
 draft: false
 ---
@@ -34,7 +34,7 @@ Particularly notable is that Hedeby was already minting its own coins around the
 
 Listen to *Scar* while you read on, a hymn that captures the harshness of Viking life in sound:
 
-<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/44mwMKOsN9I" title="Scar – Viking Battle Hymn" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/44mwMKOsN9I" title="Scar - Viking Battle Hymn" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 
 ## Royal Attention: Hedeby and the Danish Crown
 
@@ -80,9 +80,9 @@ Hedeby wasn't the only major Viking Age trading settlement, but it was one of th
 
 | Trading Town | Location | Golden Age | Distinguishing Feature |
 |---|---|---|---|
-| Hedeby | Schlei inlet, modern Schleswig-Holstein | 8th–11th c. | Baltic-North Sea land bridge, own coinage |
-| Birka | Björkö, Sweden | 8th–10th c. | Central Sweden's most important trading center |
-| Kaupang | Vestfold, Norway | 8th–10th c. | Norway's oldest known trading site |
+| Hedeby | Schlei inlet, modern Schleswig-Holstein | 8th-11th c. | Baltic-North Sea land bridge, own coinage |
+| Birka | Björkö, Sweden | 8th-10th c. | Central Sweden's most important trading center |
+| Kaupang | Vestfold, Norway | 8th-10th c. | Norway's oldest known trading site |
 
 Unlike Birka or Kaupang, Hedeby benefited enormously from sitting right on the shortest overland connection between the Baltic and North Seas - a structural advantage none of the other major trading sites had in quite the same form, and one that contributed decisively to Hedeby's broader regional importance.
 

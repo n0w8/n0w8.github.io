@@ -15,8 +15,8 @@ export const artists = {
   domsgard: {
     name: 'Domsgard',
     tagline: {
-      de: 'Epische nordische Klänge – Trommeln, Chöre und die Wucht der Schlacht.',
-      en: 'Epic Nordic soundscapes – drums, choirs and the thunder of battle.',
+      de: 'Epische nordische Klänge - Trommeln, Chöre und die Wucht der Schlacht.',
+      en: 'Epic Nordic soundscapes - drums, choirs and the thunder of battle.',
     },
     spotifyId: '4bw38ajepdedya70ivRX35',
     spotifyEmbed: 'https://open.spotify.com/embed/artist/4bw38ajepdedya70ivRX35?utm_source=nordweg',

@@ -1,0 +1,42 @@
+---
+// Real, indexable category hubs (EN). Mirror of /blog/kategorie/[cat].astro.
+import TaxonomyIndex from '../../../../components/pages/TaxonomyIndex.astro';
+import { getPostsByLang, localizeCategory } from '../../../../i18n/utils';
+import { catSlug, catText, catUrl } from '../../../../i18n/taxonomy';
+import type { GetStaticPaths } from 'astro';
+
+export const getStaticPaths = (async () => {
+  const posts = await getPostsByLang('en');
+  const kategorien = [...new Set(posts.map((p) => p.data.category))];
+  const anzahl = new Map(kategorien.map((c) => [c, posts.filter((p) => p.data.category === c).length]));
+  return kategorien.map((cat) => ({
+    params: { cat: catSlug(cat, 'en') },
+    props: {
+      cat,
+      posts: posts.filter((p) => p.data.category === cat),
+      siblings: kategorien
+        .filter((c) => c !== cat)
+        .map((c) => ({ name: localizeCategory(c, 'en'), url: catUrl(c, 'en'), count: anzahl.get(c) ?? 0 })),
+    },
+  }));
+}) satisfies GetStaticPaths;
+
+const { cat, posts, siblings } = Astro.props;
+const text = catText[cat]?.en ?? {
+  title: localizeCategory(cat, 'en'),
+  description: `Every Nordweg article in ${localizeCategory(cat, 'en')}.`,
+  lede: `All articles in ${localizeCategory(cat, 'en')}.`,
+};
+---
+
+<TaxonomyIndex
+  lang="en"
+  label={localizeCategory(cat, 'en')}
+  title={text.title}
+  description={text.description}
+  lede={text.lede}
+  posts={posts}
+  altUrl={catUrl(cat, 'de')}
+  kindLabel="Category"
+  siblings={siblings}
+/>

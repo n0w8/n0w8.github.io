@@ -9,7 +9,7 @@ heroImageAlt: "A misty Norse burial mound at dusk"
 readingTime: 9
 translationKey: "draugr"
 artistKey: "domsgard"
-trackTitle: "Ragnarök – Epic Viking Apocalypse"
+trackTitle: "Ragnarök - Epic Viking Apocalypse"
 author: "The Nordweg Editorial Team"
 draft: false
 ---
@@ -54,7 +54,7 @@ Only a radical measure finally ends the haunting for good: the corpse is dug up,
 
 Listen to *Ragnarök* while you read on, an album that captures the darker side of Norse mythology in sound:
 
-<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/CcPgk32usgo" title="Ragnarök – Epic Viking Apocalypse" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/CcPgk32usgo" title="Ragnarök - Epic Viking Apocalypse" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 
 ## Abilities: More Than Just Strength
 

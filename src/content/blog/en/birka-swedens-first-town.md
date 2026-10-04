@@ -9,7 +9,7 @@ heroImageAlt: "Historic black-and-white photograph of the Birka grave field on t
 readingTime: 9
 translationKey: "birka"
 artistKey: "domsgard"
-trackTitle: "Domsgard – Víkingr"
+trackTitle: "Domsgard - Víkingr"
 author: "The Nordweg Editorial Team"
 draft: false
 ---
@@ -33,7 +33,7 @@ By the standards of its era, Birka was a real town. Estimates put the permanent 
 
 The settlement was protected by a semicircular earth and timber rampart sealing off the landward side, along with the so-called "Borg," a hillfort with a clear view over the surrounding waterways from which approaching ships could be spotted early. Wooden stakes driven into the water further secured the approach to the harbor, forcing incoming vessels onto a controllable course. This combination of commercial openness and military preparedness was typical of the early Scandinavian trading centers: wealth attracted attention, and attention had to be defended.
 
-<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/vDr3M4UDeE4" title="Domsgard – Víkingr" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/vDr3M4UDeE4" title="Domsgard - Víkingr" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 
 ## Ansgar's Mission: Christianity Arrives at Birka
 

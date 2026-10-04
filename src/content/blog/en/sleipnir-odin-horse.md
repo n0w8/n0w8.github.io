@@ -9,7 +9,7 @@ heroImageAlt: "The Tjängvide picture stone from Gotland: an eight-legged horse 
 readingTime: 10
 translationKey: "sleipnir"
 artistKey: "eldruna"
-trackTitle: "Eldruna – Voor Odin (ft. Domsgard)"
+trackTitle: "Eldruna - Voor Odin (ft. Domsgard)"
 author: "The Nordweg Editorial Team"
 draft: false
 ---
@@ -32,7 +32,7 @@ This double attestation, once as the outcome of a shapeshifting tale in the Gylf
 
 Before we turn to a very different kind of source, it is worth pausing on the music that picks up this same bond between god and horse.
 
-<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/kx7nQNH7K6o" title="Eldruna & Domsgard – Voor Odin" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/kx7nQNH7K6o" title="Eldruna & Domsgard - Voor Odin" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 
 ## The Tjängvide Stone: The Oldest Image of an Eight-Legged Horse?
 

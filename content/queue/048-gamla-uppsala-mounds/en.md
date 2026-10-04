@@ -9,7 +9,7 @@ heroImageAlt: "Two of the three royal burial mounds at Gamla Uppsala in Sweden, 
 readingTime: 9
 translationKey: "gamla-uppsala-mounds"
 artistKey: "domsgard"
-trackTitle: "Domsgard – SPØKELSE ÆSÌR – The Æsir Return"
+trackTitle: "Domsgard - SPØKELSE ÆSÌR - The Æsir Return"
 author: "The Nordweg Editorial Team"
 draft: false
 ---
@@ -45,7 +45,7 @@ Who actually lay there cannot be settled with certainty. For the West Mound most
 ![The royal mounds at Gamla Uppsala with visitors on the crests showing the scale of the monuments](/images/gamla-uppsala-mounds-3.jpg)
 *Image credit: Gunnar Creutz (CC BY-SA 4.0), via Wikimedia Commons*
 
-<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/2Aqu531NXTI" title="Domsgard – SPØKELSE ÆSÌR – The Æsir Return" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/2Aqu531NXTI" title="Domsgard - SPØKELSE ÆSÌR - The Æsir Return" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 
 ## Adam of Bremen and the Temple Covered in Gold
 

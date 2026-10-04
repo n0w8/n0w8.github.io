@@ -2,6 +2,7 @@
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import ArticleCard from '../ArticleCard.astro';
 import { artists } from '../../data/artists';
+import { catUrl } from '../../i18n/taxonomy';
 import { useTranslations, localizedPath, getPostsByLang, postUrl } from '../../i18n/utils';
 import type { Lang } from '../../i18n/ui';
 
@@ -14,15 +15,15 @@ const featured = posts[0];
 const rest = posts.slice(1, 7);
 
 const paths = [
-  { name: 'Geschichte', key: 'Geschichte', icon: 'M12 2 L21 7 V17 L12 22 L3 17 V7 Z',
+  { name: 'Geschichte', key: 'Geschichte', cat: 'Geschichte', icon: 'M12 2 L21 7 V17 L12 22 L3 17 V7 Z',
     desc: { de: 'Raubzüge, Könige und das Zeitalter der Nordmänner', en: 'Raids, kings and the age of the Northmen' } },
-  { name: 'Mythologie', key: 'Mythologie', icon: 'M12 2 L12 22 M4 8 L20 8 M6 15 L18 15',
+  { name: 'Mythologie', key: 'Mythologie', cat: 'Mythologie', icon: 'M12 2 L12 22 M4 8 L20 8 M6 15 L18 15',
     desc: { de: 'Odin, Thor und die neun Welten von Yggdrasil', en: 'Odin, Thor and the nine worlds of Yggdrasil' } },
-  { name: 'Runen', key: 'Runen', icon: 'M12 2 L12 22 M12 6 L18 12 M12 12 L18 6',
+  { name: 'Runen', key: 'Runen', cat: 'Runen & Symbole', icon: 'M12 2 L12 22 M12 6 L18 12 M12 12 L18 6',
     desc: { de: 'Das Futhark und die verborgene Sprache des Nordens', en: 'The Futhark and the hidden language of the North' } },
-  { name: 'Krieger', key: 'Krieger', icon: 'M12 2 L14 9 L21 9 L15 13 L17 21 L12 16 L7 21 L9 13 L3 9 L10 9 Z',
+  { name: 'Krieger', key: 'Krieger', cat: 'Krieger & Schlachten', icon: 'M12 2 L14 9 L21 9 L15 13 L17 21 L12 16 L7 21 L9 13 L3 9 L10 9 Z',
     desc: { de: 'Berserker, Waffen und die Kunst des Kampfes', en: 'Berserkers, weapons and the art of war' } },
-  { name: 'Rezepte', key: 'Rezepte', icon: 'M4 9 H20 M6 9 V15 A4 4 0 0 0 10 19 H14 A4 4 0 0 0 18 15 V9 M4 9 L2.6 7.2 M20 9 L21.4 7.2 M9.5 6 C9.5 4.7 10.6 4.5 10.6 3.2 M13.5 6 C13.5 4.7 14.6 4.5 14.6 3.2',
+  { name: 'Rezepte', key: 'Rezepte', cat: 'Rezepte', icon: 'M4 9 H20 M6 9 V15 A4 4 0 0 0 10 19 H14 A4 4 0 0 0 18 15 V9 M4 9 L2.6 7.2 M20 9 L21.4 7.2 M9.5 6 C9.5 4.7 10.6 4.5 10.6 3.2 M13.5 6 C13.5 4.7 14.6 4.5 14.6 3.2',
     desc: { de: 'Met, Fladenbrot und Festmähler wie in Walhall', en: 'Mead, flatbread and feasts worthy of Valhalla' } },
 ];
 const pathTitle: Record<string, { de: string; en: string }> = {
@@ -81,7 +82,7 @@ const marqueeItems = lang === 'de'
     </div>
     <div class="cat-grid stagger">
       {paths.map((cat) => (
-        <a href={`${localizedPath('/blog', lang)}?cat=${encodeURIComponent(cat.key)}`} class="cat-card">
+        <a href={catUrl(cat.cat, lang)} class="cat-card">
           <span class="cat-glow" aria-hidden="true"></span>
           <span class="cat-icon">
             <svg viewBox="0 0 24 24" width="34" height="34" aria-hidden="true">
@@ -161,7 +162,7 @@ const marqueeItems = lang === 'de'
 </BaseLayout>
 
 <style>
-  /* ===== HERO — cinematic, carved from stone and firelight ===== */
+  /* ===== HERO - cinematic, carved from stone and firelight ===== */
   .hero { position: relative; overflow: hidden; padding: clamp(7rem, 20vh, 13rem) 0 clamp(6rem, 14vh, 9rem); text-align: center; border-bottom: 1px solid var(--color-border); min-height: clamp(560px, 88vh, 900px); display: flex; align-items: center; }
   /* Parallax uebernimmt die Bewegung (motion.js); inset -6% gibt Ueberhang gegen Raender */
   .hero-bg { position: absolute; inset: -6%; width: 112%; height: 112%; object-fit: cover; opacity: 0.42; filter: saturate(0.85) contrast(1.1) brightness(0.92); transform: scale(1.16); transform-origin: 50% 45%; will-change: transform; }
@@ -216,7 +217,7 @@ const marqueeItems = lang === 'de'
   .section-head:not(.center) .eyebrow.flourish { padding-left: 1.9rem; }
   .section-head:not(.center) .eyebrow.flourish::before { content: ""; position: absolute; left: 0; top: 50%; width: 1.3rem; height: 1px; background: linear-gradient(90deg, transparent, var(--color-bronze)); }
 
-  /* ===== CATEGORY CARDS — mysterious portals (5 Pfade, auto-fit) ===== */
+  /* ===== CATEGORY CARDS - mysterious portals (5 Pfade, auto-fit) ===== */
   .cat-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1.2rem; }
   .cat-card { position: relative; overflow: hidden; isolation: isolate; border: 1px solid var(--color-border); border-radius: var(--radius); padding: 1.8rem 1.4rem; background:
       radial-gradient(ellipse 120% 90% at 50% -10%, rgba(201,162,90,0.05), transparent 60%),
@@ -238,7 +239,7 @@ const marqueeItems = lang === 'de'
 
   .post-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.4rem; }
 
-  /* ===== ARTIST CARDS — premium ===== */
+  /* ===== ARTIST CARDS - premium ===== */
   .artist-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 1.4rem; }
   .artist-card { position: relative; display: grid; grid-template-columns: 1fr 1fr; gap: 1.2rem; align-items: center; border: 1px solid var(--color-border); border-radius: var(--radius); padding: 1.5rem; background:
       radial-gradient(ellipse 90% 120% at 0% 0%, rgba(201,162,90,0.06), transparent 55%),
@@ -250,7 +251,7 @@ const marqueeItems = lang === 'de'
   .artist-links .btn { padding: 0.5rem 1rem; font-size: 0.85rem; }
   .artist-card iframe { width: 100%; height: 152px; border-radius: var(--radius); }
 
-  /* ===== NEWSLETTER — inviting, premium ===== */
+  /* ===== NEWSLETTER - inviting, premium ===== */
   .newsletter { position: relative; text-align: center; padding: clamp(2.8rem, 7vw, 4.5rem) 2rem; border: 1px solid var(--color-border-strong); border-radius: var(--radius); background:
       radial-gradient(ellipse 80% 70% at 50% 0%, var(--glow-blood, rgba(160,44,28,0.16)), transparent 68%),
       radial-gradient(ellipse 60% 60% at 50% 120%, var(--color-aurora, rgba(64,148,140,0.10)), transparent 60%),

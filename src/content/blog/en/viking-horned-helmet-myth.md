@@ -9,7 +9,7 @@ heroImageAlt: "The Gjermundbu helmet, the only largely complete Viking Age helme
 readingTime: 9
 translationKey: "viking-horned-helmet-myth"
 artistKey: "domsgard"
-trackTitle: "Domsgard – Járn ok þrumr (Iron and Thunder)"
+trackTitle: "Domsgard - Járn ok þrumr (Iron and Thunder)"
 author: "The Nordweg Editorial Team"
 draft: false
 ---

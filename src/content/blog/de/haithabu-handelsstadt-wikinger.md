@@ -9,7 +9,7 @@ heroImageAlt: "Rekonstruierte Wikingerhäuser im Freilichtmuseum Haithabu bei Sc
 readingTime: 10
 translationKey: "haithabu"
 artistKey: "eldruna"
-trackTitle: "Scar – Viking Battle Hymn"
+trackTitle: "Scar - Viking Battle Hymn"
 author: "Die Nordweg-Redaktion"
 draft: false
 ---
@@ -34,7 +34,7 @@ Besonders bemerkenswert ist, dass in Haithabu bereits um das Jahr 825 eigene Mü
 
 Höre *Scar*, während du weiterliest, eine Hymne, die die Härte des Wikingerlebens musikalisch einfängt:
 
-<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/44mwMKOsN9I" title="Scar – Viking Battle Hymn" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/44mwMKOsN9I" title="Scar - Viking Battle Hymn" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 
 ## Königliche Aufmerksamkeit: Haithabu und die dänische Krone
 
@@ -80,9 +80,9 @@ Haithabu war nicht die einzige große Handelssiedlung der Wikingerzeit, aber ein
 
 | Handelsstadt | Lage | Blütezeit | Besonderheit |
 |---|---|---|---|
-| Haithabu | Schlei, heutiges Schleswig-Holstein | 8.–11. Jh. | Landbrücke Ostsee-Nordsee, eigene Münzprägung |
-| Birka | Björkö, Schweden | 8.–10. Jh. | Wichtigstes Handelszentrum Mittelschwedens |
-| Kaupang | Vestfold, Norwegen | 8.–10. Jh. | Ältester bekannter norwegischer Handelsplatz |
+| Haithabu | Schlei, heutiges Schleswig-Holstein | 8.-11. Jh. | Landbrücke Ostsee-Nordsee, eigene Münzprägung |
+| Birka | Björkö, Schweden | 8.-10. Jh. | Wichtigstes Handelszentrum Mittelschwedens |
+| Kaupang | Vestfold, Norwegen | 8.-10. Jh. | Ältester bekannter norwegischer Handelsplatz |
 
 Anders als Birka oder Kaupang profitierte Haithabu besonders stark von seiner Lage direkt an der kürzesten Landverbindung zwischen Ostsee und Nordsee - ein struktureller Vorteil, den keiner der anderen großen Handelsplätze in dieser Form besaß und der maßgeblich zu Haithabus überregionaler Bedeutung beitrug.
 

@@ -1,4 +1,4 @@
-# Nordweg — Autopilot-Pipeline
+# Nordweg - Autopilot-Pipeline
 
 Täglicher, autonomer Ablauf, der einen neuen zweisprachigen Artikel schreibt, prüft, bebildert und veröffentlicht.
 
@@ -26,8 +26,8 @@ Danach herunterladen und mit `sharp` auf 1600px Breite / JPEG q82 optimieren
 
 ## Frequenz
 
-Empfohlen: **1 Artikel/Tag** in der Aufbauphase (Monat 1–3), danach 3–4/Woche + Aktualisierung alter Artikel.
-Der Backlog enthält aktuell 20 vorbereitete Themen — läuft also ~3 Wochen ohne Nachschub.
+Empfohlen: **1 Artikel/Tag** in der Aufbauphase (Monat 1-3), danach 3-4/Woche + Aktualisierung alter Artikel.
+Der Backlog enthält aktuell 20 vorbereitete Themen - läuft also ~3 Wochen ohne Nachschub.
 Neue Themen einfach unten in `topics-backlog.json` anhängen.
 
 ## Auslösung

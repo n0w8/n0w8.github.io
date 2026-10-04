@@ -9,7 +9,7 @@ heroImageAlt: "Die Stabkirche von Urnes über dem türkisfarbenen Lustrafjord in
 readingTime: 9
 translationKey: "urnes-stave-church"
 artistKey: "domsgard"
-trackTitle: "Domsgard – Rætur Yggdrasils – Roots of Yggdrasil"
+trackTitle: "Domsgard - Rætur Yggdrasils - Roots of Yggdrasil"
 author: "Die Nordweg-Redaktion"
 draft: false
 ---
@@ -41,7 +41,7 @@ Die christliche Deutung sieht in dem Vierbeiner einen Löwen, ein seit der Antik
 
 Sicher belegen lässt sich keine der Deutungen, denn die Schnitzer haben keine Inschrift hinterlassen. Genau diese Offenheit macht das Portal aber zu einem einzigartigen Zeugnis einer Übergangszeit, in der die alten Götter noch nicht vergessen und der neue Glaube noch nicht selbstverständlich war.
 
-<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/Q5_6cAatlVQ" title="Domsgard – Rætur Yggdrasils – Roots of Yggdrasil" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/Q5_6cAatlVQ" title="Domsgard - Rætur Yggdrasils - Roots of Yggdrasil" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 
 ## Der Urnes-Stil: Die letzte große Kunst der Wikingerzeit
 

@@ -1,6 +1,6 @@
 ---
 title: "Viking Symbols and Their Meaning"
-description: "Viking symbols and their meaning explained: Mjölnir, Valknut, Vegvísir and more — what's actually confirmed by archaeology and what came centuries later."
+description: "Viking symbols and their meaning explained: Mjölnir, Valknut, Vegvísir and more - what's actually confirmed by archaeology and what came centuries later."
 pubDate: 2026-07-17
 category: "Runen & Symbole"
 tags: ["Viking Symbols", "Mjolnir", "Valknut", "Vegvisir", "Norse Mythology", "Runes"]
@@ -9,7 +9,7 @@ heroImageAlt: "Viking Age rune stone carved with Norse symbols"
 readingTime: 9
 translationKey: "norse-gods-symbols"
 artistKey: "eldruna"
-trackTitle: "Eldruna – Marks in the Stone"
+trackTitle: "Eldruna - Marks in the Stone"
 author: "The Nordweg Editorial Team"
 draft: false
 ---
@@ -68,16 +68,16 @@ The rest of the answer is simple marketing, dating back to the 19th-century Viki
 
 Weighing the evidence gives a fairly clear picture. From the Viking Age itself, backed by archaeological or written evidence from the 8th through 11th centuries:
 
-- **Mjölnir** — hundreds of pendant finds, runic inscriptions
-- **Valknut** — picture stones, grave finds, textile finds from Oseberg
-- **Gungnir and Odin's ravens** — picture stones, Snorri's Prose Edda, Anglo-Saxon chronicles
-- **Elder and Younger Futhark runes** — thousands of inscriptions on stone, wood, and bone
+- **Mjölnir** - hundreds of pendant finds, runic inscriptions
+- **Valknut** - picture stones, grave finds, textile finds from Oseberg
+- **Gungnir and Odin's ravens** - picture stones, Snorri's Prose Edda, Anglo-Saxon chronicles
+- **Elder and Younger Futhark runes** - thousands of inscriptions on stone, wood, and bone
 
 From later centuries, mostly the Icelandic magical tradition of the 15th through 17th centuries:
 
-- **Vegvísir** — Galdrabók, 17th century
-- **Ægishjálmur** in its current graphic form — galdrastafir tradition, though the name itself is older
-- **Web of Wyrd** — no documented historical origin before the 20th century
+- **Vegvísir** - Galdrabók, 17th century
+- **Ægishjálmur** in its current graphic form - galdrastafir tradition, though the name itself is older
+- **Web of Wyrd** - no documented historical origin before the 20th century
 
 None of this is a reason to avoid the later symbols. It's a reason to be honest when explaining them, especially since the real history, with its gaps, reinterpretations, and centuries-long threads of tradition, is more compelling than any smoothed-over legend could be.
 

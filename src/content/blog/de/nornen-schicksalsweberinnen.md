@@ -9,7 +9,7 @@ heroImageAlt: "Drei mystische Gestalten an einem Brunnen unter einem gewaltigen 
 readingTime: 9
 translationKey: "norns"
 artistKey: "eldruna"
-trackTitle: "Eldruna – Scar – Viking Battle Hymn"
+trackTitle: "Eldruna - Scar - Viking Battle Hymn"
 author: "Die Nordweg-Redaktion"
 draft: false
 ---
@@ -36,7 +36,7 @@ Snorri erwähnt zudem, dass zwei Schwäne auf dem Wasser des Urðarbrunnr leben,
 
 Mehrere Quellen beschreiben, wie die Nornen bei der Geburt eines Kindes erscheinen und ihm sein Schicksal zuweisen, indem sie es buchstäblich in Holzstäbe **ritzen** (rista á skíði), eine Formulierung, die eng mit der Praxis des Runenschnitzens selbst verwandt ist. Schicksal ist in der nordischen Vorstellung also kein abstrakter, unsichtbarer Erlass, sondern etwas, das mit den Händen hergestellt wird, ähnlich wie ein Handwerker ein Stück Holz bearbeitet. Diese handwerkliche Metapher erklärt auch, warum Schicksal in der nordischen Kosmologie nie ganz vollendet, sondern eher wie ein wachsendes Geflecht erscheint, Schicht um Schicht angelegt, mit jeder neuen Handlung eines Menschen oder Gottes ein weiteres Stück hinzugefügt.
 
-> "Dort weiß ich stehen eine Esche, Yggdrasil heißt sie, hoher Baum, mit weißem Lehm begossen; von dort kommt der Tau, der in die Täler fällt. Immergrün steht sie über dem Brunnen der Urd." — Völuspá, Strophe 19
+> "Dort weiß ich stehen eine Esche, Yggdrasil heißt sie, hoher Baum, mit weißem Lehm begossen; von dort kommt der Tau, der in die Täler fällt. Immergrün steht sie über dem Brunnen der Urd." - Völuspá, Strophe 19
 
 ## Nicht nur drei: Die vielen namenlosen Nornen der Sagas
 

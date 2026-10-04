@@ -9,7 +9,7 @@ heroImageAlt: "Runenschlange mit rot nachgezogenen Runen auf dem Gripsholm-Runen
 readingTime: 9
 translationKey: "viking-names"
 artistKey: "domsgard"
-trackTitle: "Ættblóð – The Meaning of Viking Runes"
+trackTitle: "Ættblóð - The Meaning of Viking Runes"
 author: "Die Nordweg-Redaktion"
 draft: false
 ---

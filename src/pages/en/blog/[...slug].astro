@@ -9,7 +9,9 @@ export async function getStaticPaths() {
   const en = all.filter((e) => e.slug.startsWith('en/'));
   return en.map((entry) => {
     const counterpart = de.find((e) => e.data.translationKey === entry.data.translationKey);
-    const altUrl = counterpart ? `/blog/${stripLangFromSlug(counterpart.slug)}` : '/';
+    // Siehe Kommentar in src/pages/blog/[...slug].astro: altUrl nur beim echten
+    // Gegenstueck und immer mit abschliessendem Schraegstrich.
+    const altUrl = counterpart ? `/blog/${stripLangFromSlug(counterpart.slug)}/` : undefined;
     return { params: { slug: stripLangFromSlug(entry.slug) }, props: { entry, altUrl } };
   });
 }
@@ -17,6 +19,6 @@ export async function getStaticPaths() {
 const { entry, altUrl } = Astro.props;
 const { Content, headings } = await entry.render();
 ---
-<ArticleLayout entry={entry} lang="en" altUrl={altUrl} headings={headings}>
+<ArticleLayout entry={entry} lang="en" altUrl={altUrl} switchUrl="/blog/" headings={headings}>
   <Content />
 </ArticleLayout>

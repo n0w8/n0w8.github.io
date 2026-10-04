@@ -9,7 +9,7 @@ heroImageAlt: "Three mystical figures at a well beneath a giant tree, symbolizin
 readingTime: 9
 translationKey: "norns"
 artistKey: "eldruna"
-trackTitle: "Eldruna – Scar – Viking Battle Hymn"
+trackTitle: "Eldruna - Scar - Viking Battle Hymn"
 author: "The Nordweg Editorial Team"
 draft: false
 ---
@@ -36,7 +36,7 @@ Snorri also mentions that two swans live on the water of Urðarbrunnr, from whic
 
 Several sources describe the Norns appearing at a child's birth and assigning it a fate by literally **carving** it into wooden slats (rista á skíði), a phrase closely related to the practice of rune-carving itself. In the Norse imagination, fate isn't an abstract, invisible decree but something made by hand, much like a craftsman shaping a piece of wood. This craft metaphor also explains why fate in Norse cosmology never appears fully finished, but more like a growing weave, laid down layer by layer, with every new action by a human or a god adding one more piece.
 
-> "There stands an ash, I know, called Yggdrasil, a high tree, showered with white clay; from there come the dews that fall in the valleys. It stands evergreen above the Well of Urd." — Völuspá, stanza 19
+> "There stands an ash, I know, called Yggdrasil, a high tree, showered with white clay; from there come the dews that fall in the valleys. It stands evergreen above the Well of Urd." - Völuspá, stanza 19
 
 ## Not Just Three: The Many Nameless Norns of the Sagas
 

@@ -121,32 +121,29 @@ if (!reduced) {
   }
 
   // ---------- 9) Velocity-Skew auf Karten-Grids ----------
+  // Entschaerft am 4.10.2026: vorher +-4 Grad und pro Scroll-Ereignis ein neuer
+  // gsap.to() je Grid. Das hat bei jedem Scrollen das ganze Raster neu zeichnen
+  // lassen und zusammen mit dem alten Zeiger den Ruckel-Eindruck erzeugt.
+  // Jetzt: halber Ausschlag und feste quickTo-Setter (kein Tween-Nachschub).
   if (lenis) {
-    const grids = document.querySelectorAll('.post-grid, .cat-grid, .artist-grid');
-    let skew = 0;
-    lenis.on('scroll', ({ velocity }) => {
-      const ziel = gsap.utils.clamp(-4, 4, velocity * 0.28);
-      if (Math.abs(ziel - skew) < 0.05) return;
-      skew = ziel;
-      grids.forEach((g) => gsap.to(g, { skewY: skew * 0.35, duration: 0.4, ease: 'power2.out', overwrite: 'auto' }));
-    });
+    const grids = [...document.querySelectorAll('.post-grid, .cat-grid, .artist-grid')];
+    if (grids.length) {
+      const setter = grids.map((g) => gsap.quickTo(g, 'skewY', { duration: 0.5, ease: 'power2.out' }));
+      let letzter = 0;
+      lenis.on('scroll', ({ velocity }) => {
+        const ziel = gsap.utils.clamp(-0.7, 0.7, velocity * 0.05);
+        if (Math.abs(ziel - letzter) < 0.02) return;
+        letzter = ziel;
+        for (const s of setter) s(ziel);
+      });
+    }
   }
 
-  // ---------- 10) Custom Cursor (nur Desktop) ----------
-  if (fein) {
-    const dot = document.createElement('div'); dot.className = 'cursor-dot';
-    const ring = document.createElement('div'); ring.className = 'cursor-ring';
-    document.body.append(dot, ring);
-    document.documentElement.classList.add('has-cursor');
-    const setDot = gsap.quickSetter(dot, 'css');
-    const rx = gsap.quickTo(ring, 'x', { duration: 0.45, ease: 'power3.out' });
-    const ry = gsap.quickTo(ring, 'y', { duration: 0.45, ease: 'power3.out' });
-    addEventListener('mousemove', (e) => { setDot({ x: e.clientX, y: e.clientY }); rx(e.clientX); ry(e.clientY); }, { passive: true });
-    document.addEventListener('mouseover', (e) => {
-      const inter = e.target.closest && e.target.closest('a, button, [data-magnetic], .card');
-      ring.classList.toggle('ist-gross', !!inter);
-    });
-  }
+  // ---------- 10) Zeiger ----------
+  // Bewusst KEIN JavaScript-Cursor mehr. Der frueher hier nachgezogene Ring lag
+  // immer hinter der echten Maus und wirkte wie eine hakende Seite (Mike,
+  // 4.10.2026). Der Nordweg-Zeiger ist jetzt ein echter SVG-Systemcursor in
+  // global.css - den zeichnet das Betriebssystem, er kann nicht nachlaufen.
 }
 
 // ---------- 11) Reveal-Observer (Basis-Einblendungen, wie v2) ----------

@@ -9,7 +9,7 @@ heroImageAlt: "Der Tjängvide-Bildstein von Gotland: ein achtbeiniges Pferd trä
 readingTime: 10
 translationKey: "sleipnir"
 artistKey: "eldruna"
-trackTitle: "Eldruna – Voor Odin (ft. Domsgard)"
+trackTitle: "Eldruna - Voor Odin (ft. Domsgard)"
 author: "Die Nordweg-Redaktion"
 draft: false
 ---
@@ -32,7 +32,7 @@ Genau diese doppelte Bezeugung, einmal als Ergebnis einer Verwandlungsgeschichte
 
 Bevor wir uns der zweiten, ganz anderen Quellengattung zuwenden, lohnt sich ein Blick zurück auf die Musik, die genau diese Verbindung zwischen Gott und Pferd wieder aufgreift.
 
-<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/kx7nQNH7K6o" title="Eldruna & Domsgard – Voor Odin" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/kx7nQNH7K6o" title="Eldruna & Domsgard - Voor Odin" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 
 ## Der Tjängvide-Stein: Das älteste Bild eines achtbeinigen Pferdes?
 

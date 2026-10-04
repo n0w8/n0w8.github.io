@@ -9,7 +9,7 @@ heroImageAlt: "Der Löwe von Piräus, eine marmorne Löwenstatue mit eingeritzte
 readingTime: 10
 translationKey: "varangian-guard"
 artistKey: "domsgard"
-trackTitle: "Domsgard – Víkingr"
+trackTitle: "Domsgard - Víkingr"
 author: "Die Nordweg-Redaktion"
 draft: false
 ---
@@ -30,7 +30,7 @@ Diese Truppe blieb danach in kaiserlichen Diensten und bildete den Kern einer ne
 
 Wie die Warägergarde bei den Byzantinern selbst wahrgenommen wurde, lässt sich unter anderem beim Chronisten Johannes Skylitzes nachlesen, dessen Chronik aus dem 11. Jahrhundert eine der wichtigsten erzählenden Quellen zur mittelbyzantinischen Geschichte darstellt. Skylitzes und andere byzantinische Autoren beschreiben die Warägergarde wiederholt als "axttragende Barbaren", ein Ausdruck, der zugleich Respekt und kulturelle Distanz transportiert. Ihre Hauptwaffe war tatsächlich die zweihändig geführte dänische Axt, ein Werkzeug, das im engen Umfeld des Kaiserpalasts kaum zu übersehen gewesen sein dürfte und optisch weit von der leichteren Bewaffnung mancher byzantinischer Palastwachen entfernt war.
 
-<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/vDr3M4UDeE4" title="Domsgard – Víkingr" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/vDr3M4UDeE4" title="Domsgard - Víkingr" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 
 Die Warägergarde begleitete die Kaiser auf Feldzügen ebenso wie bei Palastzeremonien, wo sie laut späteren Berichten mit polierten Waffen und gelegentlich sogar vergoldeter Ausrüstung Eindruck schinden sollte. Rekrutiert wurde zunächst überwiegend aus dem Rus-Gebiet und dem übrigen Skandinavien, später, besonders nach der normannischen Eroberung Englands 1066, kamen zunehmend auch angelsächsische Krieger hinzu, die vor den neuen normannischen Herren geflohen waren. Die Garde blieb damit über Jahrzehnte ein lebendiges Sammelbecken nordischer und später auch englischer Kämpfer am byzantinischen Hof.
 

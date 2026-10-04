@@ -4,6 +4,7 @@
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import book from '../../../content/book.json';
 import { useTranslations, localizedPath } from '../../i18n/utils';
+import { catUrl } from '../../i18n/taxonomy';
 import type { Lang } from '../../i18n/ui';
 
 interface Props { lang: Lang; }
@@ -15,7 +16,7 @@ const tagline = lang === 'de' ? book.tagline_de : book.tagline_en;
 const cover = lang === 'de' ? book.cover_de : book.cover_en;
 const amazonUrl = lang === 'de' ? book.amazonUrlDe : book.amazonUrlEn;
 const altUrl = lang === 'de' ? '/en/cookbook' : '/kochbuch';
-const recipesUrl = localizedPath('/blog', lang) + '?cat=Rezepte';
+const recipesUrl = catUrl('Rezepte', lang);
 
 const copy = {
   de: {

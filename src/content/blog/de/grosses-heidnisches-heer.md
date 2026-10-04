@@ -9,7 +9,7 @@ heroImageAlt: "Handschriftseite der Angelsächsischen Chronik mit mittelalterlic
 readingTime: 10
 translationKey: "great-heathen-army"
 artistKey: "domsgard"
-trackTitle: "Ragnarök – Epic Viking Apocalypse"
+trackTitle: "Ragnarök - Epic Viking Apocalypse"
 author: "Die Nordweg-Redaktion"
 draft: false
 ---
@@ -27,11 +27,11 @@ Die Anführer des Heeres werden in späteren Quellen, vor allem den nordischen S
 | Jahr | Ereignis |
 |---|---|
 | 865 | Landung in East Anglia, Überwinterung, Tributzahlung der Ostangeln |
-| 866–867 | Eroberung Yorks, Sturz des northumbrischen Königreichs |
+| 866-867 | Eroberung Yorks, Sturz des northumbrischen Königreichs |
 | 869 | Rückkehr nach East Anglia, Tod König Edmunds |
 | 870er | Feldzüge gegen Mercia, weite Teile fallen unter dänische Kontrolle |
 | 878 | Niederlage gegen Alfred den Großen bei Edington |
-| 878–886 | Vertrag von Wedmore, Entstehung des Danelaw |
+| 878-886 | Vertrag von Wedmore, Entstehung des Danelaw |
 
 Diese Tabelle zeigt bereits das Muster, das sich durch die gesamte Kampagne zieht: Ein Königreich nach dem anderen wird destabilisiert, erobert oder zur Tributzahlung gezwungen, während sich das Heer je nach militärischer Lage neu formiert und weiterzieht.
 
@@ -51,7 +51,7 @@ Wie historisch exakt diese detailreiche Schilderung ist, lässt sich hundert Jah
 
 Höre *Ragnarök*, während du weiterliest, ein episches Album, das die Wucht dieser Invasionsjahre musikalisch einfängt:
 
-<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/CcPgk32usgo" title="Ragnarök – Epic Viking Apocalypse" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/CcPgk32usgo" title="Ragnarök - Epic Viking Apocalypse" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 
 ## 871: Das Jahr der Schlachten
 

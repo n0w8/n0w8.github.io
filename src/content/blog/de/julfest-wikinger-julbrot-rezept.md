@@ -9,7 +9,7 @@ heroImageAlt: "Aufgeschnittenes norwegisches Julebrot mit Rosinen und Butter"
 readingTime: 8
 translationKey: "jul-feast-recipes"
 artistKey: "domsgard"
-trackTitle: "Rætur Yggdrasils – Roots of Yggdrasil"
+trackTitle: "Rætur Yggdrasils - Roots of Yggdrasil"
 author: "Die Nordweg-Redaktion"
 draft: false
 ---

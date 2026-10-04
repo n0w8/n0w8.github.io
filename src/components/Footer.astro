@@ -1,5 +1,6 @@
 ---
 import { useTranslations, localizedPath } from '../i18n/utils';
+import { catUrl } from '../i18n/taxonomy';
 import { artists } from '../data/artists';
 import type { Lang } from '../i18n/ui';
 
@@ -29,8 +30,8 @@ const year = new Date().getFullYear();
         <h4 class="footer-head">{t('footer.discover')}</h4>
         <ul>
           <li><a href={localizedPath('/blog', lang)}>{t('footer.allArticles')}</a></li>
-          <li><a href={localizedPath('/blog', lang) + '?cat=Mythologie'}>{t('nav.mythology')}</a></li>
-          <li><a href={localizedPath('/blog', lang) + '?cat=Runen'}>{t('nav.runes')}</a></li>
+          <li><a href={catUrl('Mythologie', lang)}>{t('nav.mythology')}</a></li>
+          <li><a href={catUrl('Runen & Symbole', lang)}>{t('nav.runes')}</a></li>
           <li><a href={lang === 'de' ? '/kochbuch' : '/en/cookbook'}>{lang === 'de' ? 'Das Kochbuch' : 'The Cookbook'}</a></li>
           <li><a href={localizedPath('/artists', lang)}>{t('nav.artists')}</a></li>
           <li><a href={lang === 'de' ? '/ueber-uns' : '/en/about'}>{lang === 'de' ? 'Über uns' : 'About us'}</a></li>

@@ -9,7 +9,7 @@ heroImageAlt: "Rekonstruiertes Wikinger-Langhaus im Ribe VikingeCenter in Südwe
 readingTime: 9
 translationKey: "ribe-viking-town"
 artistKey: "eldruna"
-trackTitle: "Scar – Viking Battle Hymn"
+trackTitle: "Scar - Viking Battle Hymn"
 author: "Die Nordweg-Redaktion"
 draft: false
 ---
@@ -34,7 +34,7 @@ Dieser Befund ist mehr als eine Fußnote zur Stadtgeschichte. Er zeigt, dass der
 
 Höre *Scar*, während du weiterliest, eine Hymne, die die raue Seite dieser Welt einfängt:
 
-<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/44mwMKOsN9I" title="Scar – Viking Battle Hymn" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/44mwMKOsN9I" title="Scar - Viking Battle Hymn" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 
 ## Was der Boden von Ribe hergibt
 

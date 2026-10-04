@@ -9,7 +9,7 @@ heroImageAlt: "Replica Viking ship under sail on open water beneath an overcast 
 readingTime: 9
 translationKey: "viking-navigation"
 artistKey: "eldruna"
-trackTitle: "Eldruna – Wellerman (Brutal Sea Shanty)"
+trackTitle: "Eldruna - Wellerman (Brutal Sea Shanty)"
 author: "The Nordweg Editorial Team"
 draft: false
 ---
@@ -49,7 +49,7 @@ Reconstructions of this instrument genuinely work, accurate to within a few degr
 
 Listen to *Wellerman* while you read on, a rough-edged sea shanty that captures the mood of a seafaring nation:
 
-<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/GHEUw9YnVP0" title="Eldruna – Wellerman (Brutal Sea Shanty)" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/GHEUw9YnVP0" title="Eldruna - Wellerman (Brutal Sea Shanty)" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 
 ## Stars, Waves, and Birds: The Full Navigation System
 

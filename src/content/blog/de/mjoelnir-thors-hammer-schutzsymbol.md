@@ -9,7 +9,7 @@ heroImageAlt: "Stilisierter Hammeranhänger aus Silber vor dunklem Hintergrund, 
 readingTime: 9
 translationKey: "mjolnir"
 artistKey: "domsgard"
-trackTitle: "Domsgard – Þórr (Thor) – Wrath of the Thunder God"
+trackTitle: "Domsgard - Þórr (Thor) - Wrath of the Thunder God"
 author: "Die Nordweg-Redaktion"
 draft: false
 ---

@@ -9,7 +9,7 @@ heroImageAlt: "Sliced Norwegian Christmas bread with raisins, buttered and ready
 readingTime: 8
 translationKey: "jul-feast-recipes"
 artistKey: "domsgard"
-trackTitle: "Rætur Yggdrasils – Roots of Yggdrasil"
+trackTitle: "Rætur Yggdrasils - Roots of Yggdrasil"
 author: "The Nordweg Editorial Team"
 draft: false
 ---

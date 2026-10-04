@@ -1,6 +1,6 @@
 ---
 title: "The Jelling Stones: Denmark's Birth Certificate in Stone"
-description: "The Jelling Stones: how Gorm the Old and Harald Bluetooth carved love, power, and Denmark's conversion to Christianity in runes — and how Bluetooth got its name."
+description: "The Jelling Stones: how Gorm the Old and Harald Bluetooth carved love, power, and Denmark's conversion to Christianity in runes - and how Bluetooth got its name."
 pubDate: 2026-07-25
 category: "Runen & Symbole"
 tags: ["Jelling Stones", "Harald Bluetooth", "Runes", "Denmark", "UNESCO", "Viking Age"]
@@ -9,12 +9,12 @@ heroImageAlt: "Weathered runestone in a Danish landscape, symbolizing the Jellin
 readingTime: 9
 translationKey: "jelling-stones"
 artistKey: "eldruna"
-trackTitle: "Eldruna – Scar – Viking Battle Hymn"
+trackTitle: "Eldruna - Scar - Viking Battle Hymn"
 author: "The Nordweg Editorial Team"
 draft: false
 ---
 
-In an unassuming churchyard in the Danish town of Jelling stand two stones that together say more about the transition from the Viking Age into Christian medieval Europe than plenty of history books manage. The **Jelling Stones** aren't ordinary runestones of the kind found by the thousand across Scandinavia — they're royal monuments in which family love, political power, and religious upheaval are packed into an extraordinarily small space. Since 1994 they've stood, together with the two burial mounds and the church at Jelling, on the UNESCO World Heritage list, and for good reason: no other monument captures the moment Denmark became a nation and a Christian kingdom quite so compactly.
+In an unassuming churchyard in the Danish town of Jelling stand two stones that together say more about the transition from the Viking Age into Christian medieval Europe than plenty of history books manage. The **Jelling Stones** aren't ordinary runestones of the kind found by the thousand across Scandinavia - they're royal monuments in which family love, political power, and religious upheaval are packed into an extraordinarily small space. Since 1994 they've stood, together with the two burial mounds and the church at Jelling, on the UNESCO World Heritage list, and for good reason: no other monument captures the moment Denmark became a nation and a Christian kingdom quite so compactly.
 
 ## 1. Two Stones, One Royal Line: Gorm and Harald Bluetooth
 
@@ -32,7 +32,7 @@ Later saga traditions, which admittedly need to be read with real caution, embel
 
 The great Jelling stone, often called "Denmark's birth certificate," carries one of the most famous runic inscriptions of the entire Viking Age:
 
-> "King Harald ordered this monument made in memory of Gorm, his father, and in memory of Thyra, his mother — that Harald who won for himself all of Denmark and Norway, and made the Danes Christian."
+> "King Harald ordered this monument made in memory of Gorm, his father, and in memory of Thyra, his mother - that Harald who won for himself all of Denmark and Norway, and made the Danes Christian."
 
 This inscription is far more than a dedication to his parents. It's one of the earliest surviving pieces of political self-presentation by a Scandinavian ruler, a text that deliberately ties dynastic legitimacy, territorial claim, and religious change together in a single sentence. In it, Harald claims not only control over Denmark but Norway as well, a claim whose actual historical extent historians still debate today, particularly since rule over Norway at the time was probably loose and heavily dependent on local alliances rather than any continuous administration.
 
@@ -46,7 +46,7 @@ Pairing a beast-and-serpent motif with a depiction of Christ on the very same st
 
 ## 5. The Burial Mounds: What Archaeology Found Beneath Jelling
 
-Jelling's two massive burial mounds, North and South, rank among the largest of their kind in Denmark. Excavations in the north mound, in the 1820s and again in the 1970s, uncovered an empty but originally richly furnished burial chamber, dendrochronologically dated to 958 or 959 — a date many archaeologists connect to Gorm's burial. Curiously, the chamber was already empty at the time of excavation, giving rise to the theory that Harald Bluetooth, after his own conversion to Christianity, had his father's pagan remains exhumed and reburied in consecrated ground beside the newly built church, an act that may have been driven equally by piety and political calculation. Bone finds beneath the present-day Jelling church, which indeed match a robustly built middle-aged man, support this theory without proving it conclusively.
+Jelling's two massive burial mounds, North and South, rank among the largest of their kind in Denmark. Excavations in the north mound, in the 1820s and again in the 1970s, uncovered an empty but originally richly furnished burial chamber, dendrochronologically dated to 958 or 959 - a date many archaeologists connect to Gorm's burial. Curiously, the chamber was already empty at the time of excavation, giving rise to the theory that Harald Bluetooth, after his own conversion to Christianity, had his father's pagan remains exhumed and reburied in consecrated ground beside the newly built church, an act that may have been driven equally by piety and political calculation. Bone finds beneath the present-day Jelling church, which indeed match a robustly built middle-aged man, support this theory without proving it conclusively.
 
 The south mound, meanwhile, despite being even larger than the north one, turned out on excavation to contain no burial evidence at all, a puzzle that stumped archaeologists for a long time. The now-favored explanation is that Harald had this mound built not as an actual grave but purely as a symbolic monument, an enormous earthwork meant to underscore his power and the site's significance without ever serving a burial function. Dendrochronological analysis of timber remains from both mounds dates the construction work precisely to Harald's reign, further confirming just how deliberately he shaped the entire site as a unified statement of power, burial mounds, runestones, and eventually the first church all included.
 
@@ -59,7 +59,7 @@ The south mound, meanwhile, despite being even larger than the north one, turned
 
 ## 6. From Runestone to Bluetooth Logo: An Unexpected Legacy
 
-Few Viking-age monuments have had an afterlife quite as unexpected as the great Jelling stone. When Swedish and Finnish engineers developed a short-range wireless technology in the late 1990s meant to connect devices from different manufacturers, they named it after **Harald Bluetooth**, as a symbol of the technology's ambition to unite different "tribes" of the electronics industry the way Harald once united Denmark. Even the globally recognized **Bluetooth logo** is a direct link: it combines the Younger Futhark runes for Harald's initials, ᚼ (H) and ᛒ (B), into a single bindrune. So anyone pairing a phone with wireless headphones today is, without realizing it, using a symbol that traces straight back to the runic language of the Jelling Stones — a striking testament to how far these [runes](/en/blog/elder-futhark-runes) have travelled.
+Few Viking-age monuments have had an afterlife quite as unexpected as the great Jelling stone. When Swedish and Finnish engineers developed a short-range wireless technology in the late 1990s meant to connect devices from different manufacturers, they named it after **Harald Bluetooth**, as a symbol of the technology's ambition to unite different "tribes" of the electronics industry the way Harald once united Denmark. Even the globally recognized **Bluetooth logo** is a direct link: it combines the Younger Futhark runes for Harald's initials, ᚼ (H) and ᛒ (B), into a single bindrune. So anyone pairing a phone with wireless headphones today is, without realizing it, using a symbol that traces straight back to the runic language of the Jelling Stones - a striking testament to how far these [runes](/en/blog/elder-futhark-runes) have travelled.
 
 ## 7. UNESCO World Heritage: Why Jelling Remains Denmark's Cradle
 

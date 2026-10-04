@@ -23,7 +23,7 @@ const rtLabel = lang === 'en' ? 'min read' : 'Min. Lesezeit';
   <a href={href} class="card-link" aria-label={title}>
     <div class="card-media">
       {heroImage
-        ? <img src={heroImage} alt="" loading="lazy" />
+        ? <img src={heroImage} alt="" width="640" height="420" loading="lazy" decoding="async" />
         : <div class="card-media-fallback" aria-hidden="true">
             <svg viewBox="0 0 60 60" width="52" height="52">
               <path d="M30 6 L52 18 V42 L30 54 L8 42 V18 Z" fill="none" stroke="currentColor" stroke-width="1.2"/>

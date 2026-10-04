@@ -9,7 +9,7 @@ heroImageAlt: "Der reich geschnitzte Bug des Oseberg-Schiffs im Vikingskipshuset
 readingTime: 10
 translationKey: "oseberg-ship"
 artistKey: "eldruna"
-trackTitle: "Eldruna – Wellerman (Brutal Sea Shanty)"
+trackTitle: "Eldruna - Wellerman (Brutal Sea Shanty)"
 author: "Die Nordweg-Redaktion"
 draft: false
 ---
@@ -35,7 +35,7 @@ Was das Schiff jedoch unverwechselbar macht, ist seine Verzierung. Bug und Heck 
 
 Hör dir *Wellerman* an, während du weiterliest, einen rauen Sea Shanty, der die Stimmung einer Seefahrernation gut einfängt:
 
-<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/GHEUw9YnVP0" title="Eldruna – Wellerman (Brutal Sea Shanty)" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/GHEUw9YnVP0" title="Eldruna - Wellerman (Brutal Sea Shanty)" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 
 ## Zwei Frauen im Zentrum des Rätsels
 

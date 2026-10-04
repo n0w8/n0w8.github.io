@@ -9,7 +9,7 @@ heroImageAlt: "Manuscript page of the Anglo-Saxon Chronicle with a medieval illu
 readingTime: 10
 translationKey: "great-heathen-army"
 artistKey: "domsgard"
-trackTitle: "Ragnarök – Epic Viking Apocalypse"
+trackTitle: "Ragnarök - Epic Viking Apocalypse"
 author: "The Nordweg Editorial Team"
 draft: false
 ---
@@ -27,11 +27,11 @@ Later sources, chiefly the Norse sagas, name the army's leaders as sons of the s
 | Year | Event |
 |---|---|
 | 865 | Landing in East Anglia, wintering, tribute paid by the East Angles |
-| 866–867 | Capture of York, collapse of the kingdom of Northumbria |
+| 866-867 | Capture of York, collapse of the kingdom of Northumbria |
 | 869 | Return to East Anglia, death of King Edmund |
 | 870s | Campaigns against Mercia, large areas fall under Danish control |
 | 878 | Defeat by Alfred the Great at Edington |
-| 878–886 | Treaty of Wedmore, formation of the Danelaw |
+| 878-886 | Treaty of Wedmore, formation of the Danelaw |
 
 This table already reveals the pattern that runs through the entire campaign: one kingdom after another is destabilized, conquered, or forced into paying tribute, while the army regroups and moves on depending on the military situation.
 
@@ -51,7 +51,7 @@ How historically accurate this richly detailed account actually is can hardly be
 
 Listen to *Ragnarök* while you read on, an epic album that captures the sheer force of these invasion years:
 
-<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/CcPgk32usgo" title="Ragnarök – Epic Viking Apocalypse" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/CcPgk32usgo" title="Ragnarök - Epic Viking Apocalypse" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 
 ## 871: The Year of Battles
 

@@ -9,7 +9,7 @@ heroImageAlt: "The richly carved bow of the Oseberg ship at the Viking Ship Muse
 readingTime: 10
 translationKey: "oseberg-ship"
 artistKey: "eldruna"
-trackTitle: "Eldruna – Wellerman (Brutal Sea Shanty)"
+trackTitle: "Eldruna - Wellerman (Brutal Sea Shanty)"
 author: "The Nordweg Editorial Team"
 draft: false
 ---
@@ -35,7 +35,7 @@ What truly sets the ship apart is its ornamentation. Bow and stern taper into in
 
 Listen to *Wellerman* while you keep reading, a rough sea shanty that captures the spirit of a seafaring people:
 
-<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/GHEUw9YnVP0" title="Eldruna – Wellerman (Brutal Sea Shanty)" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/GHEUw9YnVP0" title="Eldruna - Wellerman (Brutal Sea Shanty)" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 
 ## Two Women at the Heart of the Mystery
 

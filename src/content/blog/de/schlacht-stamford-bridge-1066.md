@@ -9,7 +9,7 @@ heroImageAlt: "Nebliger englischer Fluss mit hölzerner Brücke, Sinnbild für d
 readingTime: 9
 translationKey: "stamford-bridge"
 artistKey: "domsgard"
-trackTitle: "Domsgard – Blodmark – Viking Combat Music"
+trackTitle: "Domsgard - Blodmark - Viking Combat Music"
 author: "Die Nordweg-Redaktion"
 draft: false
 ---
@@ -54,7 +54,7 @@ Diese Episode findet sich weder in der Angelsächsischen Chronik noch bei Snorri
 
 Sobald das englische Heer die Brücke überquert hatte, entwickelte sich eine lange, erbitterte Schlacht auf offenem Feld. Die Angelsächsische Chronik berichtet knapp, aber eindeutig, dass **Harald Hardrada** durch einen Pfeilschuss in die Kehle fiel. Auch Tostig Godwinson kam in der Schlacht um. Als eine Verstärkung der Norweger unter **Eystein Orre** verspätet vom Humber eintraf, wurde auch sie geschlagen. Von den ursprünglich rund 300 Schiffen der Invasionsflotte sollen nach der Schlacht nur noch 24 benötigt worden sein, um die überlebenden Norweger unter dem Sohn Hardradas, **Olav Kyrre**, dem Harold Godwinson freies Geleit gewährte, nach Hause zu bringen.
 
-> "Und die Norweger flohen vor den Engländern, aber einige von ihnen wurden erschlagen, bevor sie die Schiffe erreichten." — Angelsächsische Chronik, zum Jahr 1066
+> "Und die Norweger flohen vor den Engländern, aber einige von ihnen wurden erschlagen, bevor sie die Schiffe erreichten." - Angelsächsische Chronik, zum Jahr 1066
 
 Diese Geste Harolds, den geschlagenen Feinden den Rückzug zu erlauben, statt sie vollständig zu vernichten, wird von Historikern gelegentlich als Zeichen ritterlicher Konvention gelesen, war aber vermutlich vor allem pragmatisch: Harold brauchte sein Heer intakt, denn die eigentliche Bedrohung stand ihm noch bevor.
 

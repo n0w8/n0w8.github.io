@@ -9,7 +9,7 @@ heroImageAlt: "Zwei der drei Königshügel von Alt-Uppsala in Schweden, grasbewa
 readingTime: 9
 translationKey: "gamla-uppsala-mounds"
 artistKey: "domsgard"
-trackTitle: "Domsgard – SPØKELSE ÆSÌR – The Æsir Return"
+trackTitle: "Domsgard - SPØKELSE ÆSÌR - The Æsir Return"
 author: "Die Nordweg-Redaktion"
 draft: false
 ---
@@ -45,7 +45,7 @@ Wer dort tatsächlich lag, ist nicht mit letzter Sicherheit zu sagen. Für den W
 ![Die Königshügel von Alt-Uppsala mit Besuchern auf den Kuppen, die den Maßstab der Monumente zeigen](/images/gamla-uppsala-mounds-3.jpg)
 *Bildquelle: Gunnar Creutz (CC BY-SA 4.0), via Wikimedia Commons*
 
-<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/2Aqu531NXTI" title="Domsgard – SPØKELSE ÆSÌR – The Æsir Return" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/2Aqu531NXTI" title="Domsgard - SPØKELSE ÆSÌR - The Æsir Return" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 
 ## Adam von Bremen und der Tempel aus Gold
 

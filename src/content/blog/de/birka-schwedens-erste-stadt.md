@@ -9,7 +9,7 @@ heroImageAlt: "Historische Schwarz-Weiß-Fotografie des Gräberfelds von Birka a
 readingTime: 9
 translationKey: "birka"
 artistKey: "domsgard"
-trackTitle: "Domsgard – Víkingr"
+trackTitle: "Domsgard - Víkingr"
 author: "Die Nordweg-Redaktion"
 draft: false
 ---
@@ -33,7 +33,7 @@ Birka war nach dem Maßstab seiner Zeit eine echte Stadt: Schätzungen gehen von
 
 Geschützt wurde die Siedlung durch einen halbkreisförmigen Wall aus Erde und Holz, der die Landseite abriegelte, sowie durch die sogenannte "Borg", ein Hügelfort mit freiem Blick über die Wasserwege, von dem aus sich anrückende Schiffe frühzeitig erkennen ließen. Zusätzlich sicherten Holzpfähle im Wasser die Zufahrt zum Hafen und zwangen ankommende Schiffe auf einen kontrollierbaren Kurs. Diese Kombination aus Handelsoffenheit und militärischer Absicherung war typisch für die frühen skandinavischen Handelsplätze: Reichtum zog Aufmerksamkeit an, und Aufmerksamkeit musste verteidigt werden.
 
-<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/vDr3M4UDeE4" title="Domsgard – Víkingr" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/vDr3M4UDeE4" title="Domsgard - Víkingr" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 
 ## Ansgars Mission: Das Christentum kommt nach Birka
 
