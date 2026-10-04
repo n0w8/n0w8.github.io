@@ -19,9 +19,13 @@ ErrorDocument 404 /404.html
 # (1.020 Woerter) wurde entfernt, seine Adresse zeigt dauerhaft auf den
 # staerkeren (1.765 Woerter, mit englischem Gegenstueck). Damit gehen weder
 # Besucher aus alten Pins noch Ranking-Signale verloren.
+# Das Ziel wird MIT vollem Namen angegeben. Mit nur "/blog/..." baut Apache die
+# Adresse selbst zusammen und haengt auf diesem Webspace den Port an
+# (https://blog.nordwaldrecords.com:443/...). Das ist fuer Google eine andere
+# Adresse als die kanonische - geprueft am 4.10.2026.
 <IfModule mod_alias.c>
-  Redirect 301 /blog/freyja-goettin-liebe-krieg-magie/ /blog/freyja-goettin/
-  Redirect 301 /blog/freyja-goettin-liebe-krieg-magie /blog/freyja-goettin/
+  Redirect 301 /blog/freyja-goettin-liebe-krieg-magie/ https://blog.nordwaldrecords.com/blog/freyja-goettin/
+  Redirect 301 /blog/freyja-goettin-liebe-krieg-magie https://blog.nordwaldrecords.com/blog/freyja-goettin/
 </IfModule>
 
 # --- Komprimierung ---

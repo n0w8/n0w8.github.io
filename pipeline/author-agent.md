@@ -46,3 +46,23 @@ draft: false
 ## Danach
 
 Übergib an den **Reviewer-Agent** (`reviewer-agent.md`). Erst nach dessen Freigabe wird committet.
+
+## Nachtrag 4.10.2026: Tags sind jetzt echte Seiten
+
+Seit dem 4.10.2026 bekommt jeder Tag mit mindestens 3 Artikeln eine eigene,
+indexierbare Themen-Seite (`/blog/thema/<tag>/` bzw. `/en/blog/topic/<tag>/`).
+Dadurch aendert sich, wie Tags vergeben werden muessen:
+
+- **Bestehende Tags wiederverwenden, nicht neu erfinden.** Vor dem Setzen die
+  schon vergebenen Tags der Nachbarartikel ansehen. "Nordische Mythologie" und
+  "Mythologie Nordisch" waeren zwei halbleere Seiten statt einer starken.
+- **Schreibweise exakt uebernehmen** (Gross-/Kleinschreibung ist egal, der Rest
+  nicht): "Yggdrasil", nicht "Yggdrasill".
+- **4-6 Tags**, davon mindestens 2-3 schon vorhandene. Ein voellig neuer Tag ist
+  nur sinnvoll, wenn absehbar weitere Artikel dazu kommen.
+- Deutsche Artikel bekommen deutsche Tags, englische englische. Die beiden
+  Themen-Seiten sind bewusst NICHT per hreflang verknuepft, weil Tags keine
+  1:1-Uebersetzungen sind.
+
+Ausserdem gilt weiterhin und wird beim Veroeffentlichen jetzt technisch
+erzwungen: **keine langen Striche** in sichtbaren Texten, nur "-".
