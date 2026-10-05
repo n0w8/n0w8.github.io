@@ -1,7 +1,7 @@
 ---
 title: "Ribe: Die älteste Stadt Skandinaviens und ihre Wikinger"
 description: "Ribe in Jütland gilt als älteste Stadt Skandinaviens. Wie Grabungen den Markt auf das Jahr 710 datierten und was die Ribe Wikinger wirklich gehandelt haben."
-pubDate: 2026-01-01
+pubDate: 2026-10-05
 category: "Geschichte"
 tags: ["Ribe", "Dänemark", "Handelsstadt", "Wikingerzeit", "Archäologie", "Sceattas"]
 heroImage: "/images/ribe-viking-town.jpg"

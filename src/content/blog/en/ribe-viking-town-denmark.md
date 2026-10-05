@@ -1,7 +1,7 @@
 ---
 title: "Ribe: Scandinavia's Oldest Viking Town and Its Traders"
 description: "Ribe is Scandinavia's oldest town. How excavations dated its market to the year 710 and what the Ribe viking town really traded in beads, antler and silver."
-pubDate: 2026-01-01
+pubDate: 2026-10-05
 category: "Geschichte"
 tags: ["Ribe", "Denmark", "Trading Town", "Viking Age", "Archaeology", "Sceattas"]
 heroImage: "/images/ribe-viking-town.jpg"
