@@ -1,7 +1,7 @@
 ---
 title: "Ulfberht Sword: The High-Tech Blade of the Viking Age"
 description: "The Ulfberht sword explained: why around 170 blades marked +VLFBERH+T count as tenth-century high tech, and what the metallurgy actually proves about them."
-pubDate: 2026-01-01
+pubDate: 2026-10-06
 category: "Krieger & Schlachten"
 tags: ["Ulfberht", "Viking sword", "Crucible steel", "Swordsmithing", "Viking Age", "Archaeology"]
 heroImage: "/images/ulfberht-swords.jpg"

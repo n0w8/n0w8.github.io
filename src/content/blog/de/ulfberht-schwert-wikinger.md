@@ -1,7 +1,7 @@
 ---
 title: "Ulfberht Schwert: Die Hightech-Klinge der Wikingerzeit"
 description: "Ulfberht Schwert: Warum rund 170 Klingen mit der Inschrift +VLFBERH+T als Hightech des 10. Jahrhunderts gelten und was die Metallurgie heute wirklich zeigt."
-pubDate: 2026-01-01
+pubDate: 2026-10-06
 category: "Krieger & Schlachten"
 tags: ["Ulfberht", "Wikingerschwert", "Tiegelstahl", "Waffenschmiede", "Wikingerzeit", "Archäologie"]
 heroImage: "/images/ulfberht-swords.jpg"
