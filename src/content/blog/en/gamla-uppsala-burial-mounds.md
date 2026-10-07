@@ -1,7 +1,7 @@
 ---
 title: "Gamla Uppsala Burial Mounds: Royal Graves and the Legendary Temple"
 description: "The Gamla Uppsala burial mounds hold Vendel-era kings. What the digs really reveal, and why Adam of Bremen's golden temple is still debated by scholars."
-pubDate: 2026-01-01
+pubDate: 2026-10-07
 category: "Geschichte"
 tags: ["Gamla Uppsala", "Burial Mounds", "Royal Mounds", "Adam of Bremen", "Sweden", "Archaeology"]
 heroImage: "/images/gamla-uppsala-mounds.jpg"

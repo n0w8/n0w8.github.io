@@ -1,7 +1,7 @@
 ---
 title: "Die Grabhügel von Alt-Uppsala: Königshügel und der legendäre Tempel"
 description: "Die Grabhügel von Alt-Uppsala bergen Könige der Vendelzeit. Was die Ausgrabungen wirklich zeigen und warum Adam von Bremens Goldtempel umstritten bleibt."
-pubDate: 2026-01-01
+pubDate: 2026-10-07
 category: "Geschichte"
 tags: ["Alt-Uppsala", "Grabhügel", "Königshügel", "Adam von Bremen", "Schweden", "Archäologie"]
 heroImage: "/images/gamla-uppsala-mounds.jpg"
