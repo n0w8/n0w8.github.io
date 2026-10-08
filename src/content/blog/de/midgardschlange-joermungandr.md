@@ -1,7 +1,7 @@
 ---
 title: "Midgardschlange Jörmungandr: Thors Erzfeind aus der Edda"
 description: "Midgardschlange Jörmungandr: Herkunft bei Loki, Thors Angelfahrt mit Hymir, Steinbilder der Wikingerzeit und das tödliche Duell der beiden bei Ragnarök."
-pubDate: 2026-01-01
+pubDate: 2026-10-08
 category: "Mythologie"
 tags: ["Jörmungandr", "Midgardschlange", "Thor", "Loki", "Ragnarök", "Nordische Mythologie"]
 heroImage: "/images/midgard-serpent.jpg"

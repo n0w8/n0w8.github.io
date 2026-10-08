@@ -1,7 +1,7 @@
 ---
 title: "Jormungandr the Midgard Serpent: Thor's Oldest Enemy"
 description: "Jormungandr the Midgard Serpent explained: Loki's child in the world ocean, Thor's fishing trip with Hymir, Viking carvings, and their last duel at Ragnarok."
-pubDate: 2026-01-01
+pubDate: 2026-10-08
 category: "Mythologie"
 tags: ["Jormungandr", "Midgard Serpent", "Thor", "Loki", "Ragnarok", "Norse Mythology"]
 heroImage: "/images/midgard-serpent.jpg"
