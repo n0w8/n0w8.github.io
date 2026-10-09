@@ -1,7 +1,7 @@
 ---
 title: "Nordische Götter Stammbaum: Die Familie Odins einfach erklärt"
 description: "Nordische Götter Stammbaum einfach erklärt: von Ymir und Audhumla über Odin, Thor und die Wanen bis zu Lokis Brut - wer mit wem verwandt ist und warum."
-pubDate: 2026-01-01
+pubDate: 2026-10-09
 category: "Mythologie"
 tags: ["Nordische Götter", "Stammbaum", "Odin", "Thor", "Loki", "Edda"]
 heroImage: "/images/norse-gods-family-tree.jpg"

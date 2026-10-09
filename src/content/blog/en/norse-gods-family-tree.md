@@ -1,7 +1,7 @@
 ---
 title: "The Norse Gods Family Tree: Odin's Kin Explained"
 description: "The Norse gods family tree explained: from Ymir and Audhumla to Odin, Thor, the Vanir and Loki's brood, and why the medieval sources often flatly disagree."
-pubDate: 2026-01-01
+pubDate: 2026-10-09
 category: "Mythologie"
 tags: ["Norse Gods", "Family Tree", "Odin", "Thor", "Loki", "Prose Edda"]
 heroImage: "/images/norse-gods-family-tree.jpg"
