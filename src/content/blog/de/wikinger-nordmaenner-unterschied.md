@@ -1,7 +1,7 @@
 ---
 title: "Wikinger oder Nordmänner? Der Unterschied einfach erklärt"
 description: "Wikinger und Nordmänner: der Unterschied einfach erklärt. Was víkingr im Altnordischen bedeutete, wie die Nachbarn sie nannten und wer wirklich auszog."
-pubDate: 2026-01-01
+pubDate: 2026-10-10
 category: "Geschichte"
 tags: ["Wikinger", "Nordmänner", "Begriffsgeschichte", "Altnordisch", "Wikingerzeit", "Runeninschriften"]
 heroImage: "/images/viking-vs-norse.jpg"

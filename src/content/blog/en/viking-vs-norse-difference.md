@@ -1,7 +1,7 @@
 ---
 title: "Viking vs Norse: What's the Difference?"
 description: "Viking vs Norse, the difference explained: what víkingr meant in Old Norse, what the neighbours called them, and why most Scandinavians never went raiding."
-pubDate: 2026-01-01
+pubDate: 2026-10-10
 category: "Geschichte"
 tags: ["Vikings", "Norse", "Etymology", "Old Norse", "Viking Age", "Runestones"]
 heroImage: "/images/viking-vs-norse.jpg"
