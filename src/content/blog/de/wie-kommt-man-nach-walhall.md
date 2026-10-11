@@ -1,7 +1,7 @@
 ---
 title: "Wie kommt man nach Walhall? Die Regeln des nordischen Jenseits"
 description: "Wie kommt man nach Walhall? Was Edda, Snorri und alte Skaldengedichte wirklich über die Aufnahme in Odins Halle sagen, und welche Totenreiche es sonst gab."
-pubDate: 2026-01-01
+pubDate: 2026-10-11
 category: "Mythologie"
 tags: ["Walhall", "Odin", "Einherjer", "Jenseits", "Mythologie", "Walküren"]
 heroImage: "/images/valhalla-how-to-enter.jpg"

@@ -1,7 +1,7 @@
 ---
 title: "How to Get to Valhalla: The Real Rules of the Norse Afterlife"
 description: "How to get to Valhalla, according to the Eddas, Snorri and the oldest skaldic poems: who was chosen, who decided, and where everyone else actually went."
-pubDate: 2026-01-01
+pubDate: 2026-10-11
 category: "Mythologie"
 tags: ["Valhalla", "Odin", "Einherjar", "Afterlife", "Norse Mythology", "Valkyries"]
 heroImage: "/images/valhalla-how-to-enter.jpg"
