@@ -1,7 +1,7 @@
 ---
 title: "Tyr: Der einhändige Gott des Rechts und des Krieges"
 description: "Tyr Gott des Rechts und des Krieges: warum er Fenrir die rechte Hand opferte, was die Tyr-Rune bedeutet und wieso sein Name einst einfach nur Gott hieß."
-pubDate: 2026-01-01
+pubDate: 2026-10-12
 category: "Mythologie"
 tags: ["Tyr", "Fenrir", "Nordische Mythologie", "Runen", "Edda", "Ragnarök"]
 heroImage: "/images/tyr.jpg"

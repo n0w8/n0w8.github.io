@@ -1,7 +1,7 @@
 ---
 title: "Tyr: The One-Handed Norse God of Law and War"
 description: "Tyr, the Norse god of law and war: why he put his right hand into Fenrir's jaws, what the t-rune really meant, and how his name once simply meant god."
-pubDate: 2026-01-01
+pubDate: 2026-10-12
 category: "Mythologie"
 tags: ["Tyr", "Fenrir", "Norse Mythology", "Runes", "Poetic Edda", "Ragnarok"]
 heroImage: "/images/tyr.jpg"
