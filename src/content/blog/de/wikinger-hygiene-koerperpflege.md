@@ -1,7 +1,7 @@
 ---
 title: "Wikinger-Hygiene: Was Geweihkämme und gefeilte Zähne verraten"
 description: "Wikinger-Hygiene ohne Mythos: wie Verbundkämme aus Geweih entstanden, warum der Samstag laugardagr hieß und was die Kloaken von Jorvik wirklich hergeben."
-pubDate: 2026-01-01
+pubDate: 2026-10-13
 category: "Alltag & Kultur"
 tags: ["Wikinger Hygiene", "Körperpflege", "Kamm", "Haithabu", "Jorvik", "Alltag"]
 heroImage: "/images/viking-hygiene.jpg"

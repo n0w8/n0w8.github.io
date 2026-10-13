@@ -1,7 +1,7 @@
 ---
 title: "Viking Hygiene: What Antler Combs and Filed Teeth Reveal"
 description: "Viking hygiene without the myth: how antler composite combs were built, why Saturday was called laugardagr, and what the Coppergate deposits really show."
-pubDate: 2026-01-01
+pubDate: 2026-10-13
 category: "Alltag & Kultur"
 tags: ["Viking Hygiene", "Grooming", "Combs", "Hedeby", "Jorvik", "Daily Life"]
 heroImage: "/images/viking-hygiene.jpg"
