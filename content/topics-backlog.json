@@ -1287,36 +1287,45 @@
     },
     {
       "translationKey": "helheim",
-      "status": "todo",
+      "status": "done",
       "category": "Mythologie",
       "artistKey": "domsgard",
       "keyword_de": "helheim totenreich",
       "keyword_en": "helheim norse underworld",
       "title_de": "Helheim: Das Totenreich der nordischen Mythologie",
       "title_en": "Helheim: The Norse Underworld Explained",
-      "youtubeId": "5EAVh6Yckz4"
+      "youtubeId": "5EAVh6Yckz4",
+      "queuedDate": "2026-10-13",
+      "slug_de": "helheim-totenreich-mythologie",
+      "slug_en": "helheim-norse-underworld"
     },
     {
       "translationKey": "njord",
-      "status": "todo",
+      "status": "done",
       "category": "Mythologie",
       "artistKey": "domsgard",
       "keyword_de": "njord meeresgott",
       "keyword_en": "njord norse god of the sea",
       "title_de": "Njord: Der nordische Gott des Meeres und der Seefahrt",
       "title_en": "Njord: The Norse God of the Sea and Seafaring",
-      "youtubeId": "A6DOCQIav3U"
+      "youtubeId": "A6DOCQIav3U",
+      "queuedDate": "2026-10-13",
+      "slug_de": "njord-meeresgott-wikinger",
+      "slug_en": "njord-norse-god-sea"
     },
     {
       "translationKey": "bjorn-ironside",
-      "status": "todo",
+      "status": "done",
       "category": "Geschichte",
       "artistKey": "domsgard",
       "keyword_de": "bjoern eisenseite",
       "keyword_en": "bjorn ironside",
       "title_de": "Bjoern Eisenseite: Wikingerkoenig zwischen Saga und Geschichte",
       "title_en": "Bjorn Ironside: Viking King Between Saga and History",
-      "youtubeId": "zVM2d32DJ1U"
+      "youtubeId": "zVM2d32DJ1U",
+      "queuedDate": "2026-10-13",
+      "slug_de": "bjoern-eisenseite-wikingerkoenig",
+      "slug_en": "bjorn-ironside-viking-king"
     },
     {
       "translationKey": "ribe-viking-town",
@@ -1497,43 +1506,55 @@
     },
     {
       "translationKey": "ragnarok",
-      "status": "todo",
+      "status": "done",
       "category": "Mythologie",
       "artistKey": "domsgard",
       "keyword_de": "ragnarök",
       "keyword_en": "ragnarok",
       "title_de": "Ragnarök: Der Weltuntergang der nordischen Mythologie",
-      "title_en": "Ragnarok: The End of the World in Norse Mythology"
+      "title_en": "Ragnarok: The End of the World in Norse Mythology",
+      "note": "Bereits ueber anderen Dateinamen veroeffentlicht (Altbestand) - Cloud-Backup-Agent Korrektur 2026-10-13",
+      "slug_de": "ragnaroek",
+      "slug_en": "ragnarok"
     },
     {
       "translationKey": "valkyries",
-      "status": "todo",
+      "status": "done",
       "category": "Mythologie",
       "artistKey": "domsgard",
       "keyword_de": "walküren",
       "keyword_en": "valkyries norse mythology",
       "title_de": "Walküren: Die Totenwaehlerinnen Odins",
-      "title_en": "Valkyries: Odin's Choosers of the Slain"
+      "title_en": "Valkyries: Odin's Choosers of the Slain",
+      "note": "Bereits ueber anderen Dateinamen veroeffentlicht (Altbestand) - Cloud-Backup-Agent Korrektur 2026-10-13",
+      "slug_de": "walkueren",
+      "slug_en": "valkyries"
     },
     {
       "translationKey": "runes",
-      "status": "todo",
+      "status": "done",
       "category": "Runen & Symbole",
       "artistKey": "domsgard",
       "keyword_de": "runen bedeutung",
       "keyword_en": "viking runes meaning",
       "title_de": "Wikinger-Runen: Das Futhark und seine Bedeutung",
-      "title_en": "Viking Runes: The Futhark and Its Meaning"
+      "title_en": "Viking Runes: The Futhark and Its Meaning",
+      "note": "Bereits ueber anderen Dateinamen veroeffentlicht (Altbestand) - Cloud-Backup-Agent Korrektur 2026-10-13",
+      "slug_de": "runen-das-aeltere-futhark",
+      "slug_en": "runes-older-futhark"
     },
     {
       "translationKey": "norse-gods",
-      "status": "todo",
+      "status": "done",
       "category": "Mythologie",
       "artistKey": "domsgard",
       "keyword_de": "nordische götter",
       "keyword_en": "norse gods",
       "title_de": "Nordische Goetter: Asen und Wanen im Ueberblick",
-      "title_en": "Norse Gods: The Aesir and Vanir Explained"
+      "title_en": "Norse Gods: The Aesir and Vanir Explained",
+      "note": "Bereits ueber anderen Dateinamen veroeffentlicht (Altbestand) - Cloud-Backup-Agent Korrektur 2026-10-13",
+      "slug_de": "nordische-goetter",
+      "slug_en": "norse-gods"
     },
     {
       "translationKey": "ivar-the-boneless",
@@ -1613,33 +1634,42 @@
     },
     {
       "translationKey": "viking-longhouse",
-      "status": "todo",
+      "status": "done",
       "category": "Alltag & Kultur",
       "artistKey": "eldruna",
       "keyword_de": "wikinger langhaus",
       "keyword_en": "viking longhouse",
       "title_de": "Das Wikinger-Langhaus: Leben unter einem Dach",
-      "title_en": "The Viking Longhouse: Life Under One Roof"
+      "title_en": "The Viking Longhouse: Life Under One Roof",
+      "queuedDate": "2026-10-13",
+      "slug_de": "wikinger-langhaus-leben",
+      "slug_en": "viking-longhouse-life"
     },
     {
       "translationKey": "viking-shield-wall",
-      "status": "todo",
+      "status": "done",
       "category": "Krieger & Schlachten",
       "artistKey": "domsgard",
       "keyword_de": "schildwall wikinger",
       "keyword_en": "viking shield wall",
       "title_de": "Der Schildwall: Wie Wikinger in der Schlacht kaempften",
-      "title_en": "The Viking Shield Wall: How Vikings Fought in Battle"
+      "title_en": "The Viking Shield Wall: How Vikings Fought in Battle",
+      "queuedDate": "2026-10-13",
+      "slug_de": "schildwall-wikinger-schlachttaktik",
+      "slug_en": "viking-shield-wall-battle-tactic"
     },
     {
       "translationKey": "viking-marriage",
-      "status": "todo",
+      "status": "done",
       "category": "Alltag & Kultur",
       "artistKey": "eldruna",
       "keyword_de": "wikinger hochzeit",
       "keyword_en": "viking marriage",
       "title_de": "Hochzeit bei den Wikingern: Brautpreis, Feier und Scheidung",
-      "title_en": "Viking Marriage: Bride Price, Feast and Divorce"
+      "title_en": "Viking Marriage: Bride Price, Feast and Divorce",
+      "queuedDate": "2026-10-13",
+      "slug_de": "wikinger-hochzeit-brautpreis-scheidung",
+      "slug_en": "viking-marriage-bride-price-divorce"
     }
   ]
 }
