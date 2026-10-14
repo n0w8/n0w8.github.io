@@ -1,7 +1,7 @@
 ---
 title: "Muscheln im Kräutersud: Ein Küstenrezept der Wikinger"
 description: "Muscheln im Sud nach Wikinger Art: Miesmuscheln in Bier mit Lauch, Wacholder und Dill, fertig in 35 Minuten - dazu die Küstengeschichte hinter dem Rezept."
-pubDate: 2026-01-01
+pubDate: 2026-10-14
 category: "Rezepte"
 tags: ["Wikinger Rezept", "Miesmuscheln", "Meeresfrüchte", "Küstenküche", "Wikinger-Küche"]
 heroImage: "/images/viking-steamed-mussels.jpg"
@@ -113,7 +113,7 @@ Am Ende ist dieses Gericht eine Erinnerung daran, dass die reichste Speisekammer
   "description": "Miesmuscheln im Sud aus Bier, Lauch, Wacholder und Dill, in einem Topf gegart und mit Brot serviert.",
   "image": "https://blog.nordwaldrecords.com/images/viking-steamed-mussels.jpg",
   "author": { "@type": "Organization", "name": "Nordweg" },
-  "datePublished":"2026-01-01",
+  "datePublished":"2026-10-14",
   "prepTime": "PT25M",
   "cookTime": "PT10M",
   "totalTime": "PT35M",

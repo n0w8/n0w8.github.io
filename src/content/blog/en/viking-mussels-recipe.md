@@ -1,7 +1,7 @@
 ---
 title: "Viking Mussels Recipe: Steamed in a Coastal Herb Broth"
 description: "Viking mussels recipe: blue mussels steamed in ale with leek, juniper and dill, on the table in 35 minutes, plus the real coastal history behind the pot."
-pubDate: 2026-01-01
+pubDate: 2026-10-14
 category: "Rezepte"
 tags: ["Viking Recipe", "Mussels", "Seafood", "Coastal Cooking", "Norse Kitchen"]
 heroImage: "/images/viking-steamed-mussels.jpg"
@@ -113,7 +113,7 @@ In the end the dish is a reminder that the richest larder in the North was never
   "description": "Blue mussels steamed in a broth of ale, leek, juniper and dill, cooked in a single pot and served with bread.",
   "image": "https://blog.nordwaldrecords.com/images/viking-steamed-mussels.jpg",
   "author": { "@type": "Organization", "name": "Nordweg" },
-  "datePublished":"2026-01-01",
+  "datePublished":"2026-10-14",
   "prepTime": "PT25M",
   "cookTime": "PT10M",
   "totalTime": "PT35M",
