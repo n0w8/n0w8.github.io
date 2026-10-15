@@ -1,7 +1,7 @@
 ---
 title: "Hering braten: Rezept und Geschichte nach Wikinger-Art"
 description: "Hering braten: das Grundrezept mit Roggenmehl, Butter und Wacholder, dazu die Geschichte des Fisches, der Nordeuropa über Jahrhunderte satt gemacht hat."
-pubDate: 2026-01-01
+pubDate: 2026-10-15
 category: "Rezepte"
 tags: ["Wikinger Rezept", "Hering", "Fisch", "Pfannengericht", "Ostsee", "Wikinger-Küche"]
 heroImage: "/images/viking-fried-herring.jpg"

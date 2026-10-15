@@ -1,7 +1,7 @@
 ---
 title: "Fried Herring Recipe: The Fish That Fed the Viking North"
 description: "A fried herring recipe done the Nordic way: rye flour, butter and juniper, plus the long history of the humble fish that fed northern Europe for centuries."
-pubDate: 2026-01-01
+pubDate: 2026-10-15
 category: "Rezepte"
 tags: ["Viking Recipe", "Herring", "Fish", "Pan Fried", "Baltic Sea", "Nordic Cooking"]
 heroImage: "/images/viking-fried-herring.jpg"
