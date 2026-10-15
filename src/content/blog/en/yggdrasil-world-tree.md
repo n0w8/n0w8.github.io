@@ -39,7 +39,7 @@ The Grímnismál names three roots that support the tree, anchoring it in three 
 More exciting than the exact geography is what lies at the roots. For there collects the most precious thing this mythology knows: knowledge and fate, bound to three wells.
 
 - The **Well of Urd** (*Urðarbrunnr*), where the gods gather in council each day. Here dwell the **Norns**-Urd, Verdandi and Skuld-who lay down the fate of every being. They draw water and white clay from the well and pour it over the tree, day after day, so that it will not wither.
-- **Mímir's Well** (*Mímisbrunnr*) among the giants, in which wisdom and understanding lie hidden. For a single drink from it, Odin gave up an eye-we told that story in our overview of the [Norse gods](/en/blog/norse-gods).
+- **Mímir's Well** (*Mímisbrunnr*) among the giants, in which wisdom and understanding lie hidden. For a single drink from it, Odin gave up an eye-we told that story in our overview of the [Norse gods](/en/blog/norse-gods/).
 - **Hvergelmir** in Niflheim, the seething primal spring from which all rivers flow-and beneath which the dragon Níðhöggr has his lair.
 
 Note the twist: of all beings, it is the gods who do not own fate. It rests with the Norns, at the foot of the tree, and not even Odin can shake it. The order of the world hangs, quite literally, on the watering can of three women.
@@ -80,7 +80,7 @@ The world tree, then, is also Odin's place of sacrifice. Cosmic axis and gallows
 
 ## Yggdrasil at Ragnarök - and After
 
-What happens to the tree when the world ends? The Völuspá gives an astonishing answer: when [Ragnarök](/en/blog/ragnarok) breaks loose, when Heimdall sounds his horn and the wolf's fetters snap, the old ash **trembles**-it groans and shakes. But nowhere does it say that the tree falls.
+What happens to the tree when the world ends? The Völuspá gives an astonishing answer: when [Ragnarök](/en/blog/ragnarok/) breaks loose, when Heimdall sounds his horn and the wolf's fetters snap, the old ash **trembles**-it groans and shakes. But nowhere does it say that the tree falls.
 
 Quite the opposite. The **Vafþrúðnismál**, another of the Edda's wisdom poems, reveals that one human couple survives the burning of the world: **Líf and Lífþrasir**, "Life" and "the one who strives after life", hidden in "Hoddmímir's wood"-by the most widespread interpretation, nothing other than the world tree itself. They feed on the morning dew, and from them grows the new humankind when the green earth rises once more from the sea.
 

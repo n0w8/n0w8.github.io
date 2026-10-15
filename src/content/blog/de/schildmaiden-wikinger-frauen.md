@@ -20,7 +20,7 @@ Die ehrliche Antwort lautet: Wir wissen es nicht genau - und genau das macht die
 
 ## Was der Begriff "Schildmaid" überhaupt meint
 
-Zunächst eine Klärung, die in der Debatte oft untergeht: **Schildmaid** (altnordisch *skjaldmær*) bezeichnet eine sterbliche Frau, die als Kriegerin kämpft - kein übernatürliches Wesen. Das unterscheidet sie klar von den **Walküren**, jenen Schicksalsgeistern Odins, die über Leben und Tod auf dem Schlachtfeld entscheiden, ohne selbst am Kampf teilzunehmen. Wer mehr über diese Totenwählerinnen erfahren möchte, findet sie in unserem Artikel über die [Walküren](/blog/walkueren) - dort geht es um Mythologie, hier geht es um eine historische und literarische Figur aus Fleisch und Blut, oder zumindest um deren Behauptung.
+Zunächst eine Klärung, die in der Debatte oft untergeht: **Schildmaid** (altnordisch *skjaldmær*) bezeichnet eine sterbliche Frau, die als Kriegerin kämpft - kein übernatürliches Wesen. Das unterscheidet sie klar von den **Walküren**, jenen Schicksalsgeistern Odins, die über Leben und Tod auf dem Schlachtfeld entscheiden, ohne selbst am Kampf teilzunehmen. Wer mehr über diese Totenwählerinnen erfahren möchte, findet sie in unserem Artikel über die [Walküren](/blog/walkueren/) - dort geht es um Mythologie, hier geht es um eine historische und literarische Figur aus Fleisch und Blut, oder zumindest um deren Behauptung.
 
 Die Grenze zwischen beiden verschwimmt in den Quellen selbst immer wieder, was die Verwirrung nur vergrößert. Manche Dichter benutzen "Schildmaid" fast synonym mit "Walküre", andere meinen eindeutig eine reale Kämpferin. Genau diese Unschärfe ist der erste Hinweis darauf, wie schwierig das Thema wird.
 
@@ -72,7 +72,7 @@ Die Debatte um Schildmaiden ist deshalb so hitzig, weil sie selten rein historis
 
 Beide Extreme greifen zu kurz. Wer behauptet, Schildmaiden hätten regulär in geschlossenen Formationen neben Männern gekämpft, überstrapaziert die Belege deutlich. Wer aber behauptet, es habe *nie* eine bewaffnete Frau gegeben, ignoriert Bj 581, Solør und den Bericht des Skylitzes. Die ehrlichste Position liegt in der Mitte: Es gab wahrscheinlich vereinzelte Frauen, die kämpften oder zumindest mit voller Kriegerausrüstung bestattet wurden - aber es gibt keinen Beleg für reguläre, gesellschaftlich institutionalisierte Frauentruppen, wie Saxos 300 Schildmaiden von Bråvalla sie schildern. Das Massenphänomen bleibt Legende. Der Einzelfall ist plausibel.
 
-Interessant ist auch, wie diese Kriegerinnen bewaffnet gewesen wären. Das ikonische Langschiff der Wikinger transportierte Krieger beiderlei Geschlechts über weite Strecken - wer sich für die Technik hinter diesen Fahrten interessiert, findet mehr dazu in unserem Artikel über das [Langschiff](/blog/das-langschiff). Und wer als Schildmaid tatsächlich kämpfte, tat das vermutlich mit denselben Waffen wie ihre männlichen Zeitgenossen: Rundschild, Speer, Axt, seltener das teure Schwert - wie es auch in Bj 581 lag.
+Interessant ist auch, wie diese Kriegerinnen bewaffnet gewesen wären. Das ikonische Langschiff der Wikinger transportierte Krieger beiderlei Geschlechts über weite Strecken - wer sich für die Technik hinter diesen Fahrten interessiert, findet mehr dazu in unserem Artikel über das [Langschiff](/blog/das-langschiff/). Und wer als Schildmaid tatsächlich kämpfte, tat das vermutlich mit denselben Waffen wie ihre männlichen Zeitgenossen: Rundschild, Speer, Axt, seltener das teure Schwert - wie es auch in Bj 581 lag.
 
 ## Fiktion, Übertreibung und der harte Kern
 

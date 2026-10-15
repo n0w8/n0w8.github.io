@@ -16,7 +16,7 @@ draft: false
 
 Search for pictures of the Norns and you get the same scene a hundred times over: three women, a spinning wheel, a long thread, a pair of shears. Book covers, tattoo flash, album art, roleplaying illustrations. The motif is so well rehearsed that it reads like a direct translation from the Edda. Not one medieval text describes it.
 
-Who the Norns actually are, where they live and what the sources credit them with, we have taken apart elsewhere, in [The Norns: The Weavers of Fate of the North](/en/blog/norns-weavers-of-fate). This article asks a different question. Not "who are they" but: where did the picture in everyone's head come from? Who built it, when, and why is it so hard to shift?
+Who the Norns actually are, where they live and what the sources credit them with, we have taken apart elsewhere, in [The Norns: The Weavers of Fate of the North](/en/blog/norns-weavers-of-fate/). This article asks a different question. Not "who are they" but: where did the picture in everyone's head come from? Who built it, when, and why is it so hard to shift?
 
 The answer is pleasingly concrete. The popular Norn image is not a vague misunderstanding. It is an assembly of four parts, and every one of them can be dated: a piece of anachronistic technology, a Greek prop, a mix-up with a different set of figures, and a staging idea from Bayreuth.
 
@@ -40,7 +40,7 @@ Why that happened so readily has everything to do with the audience. Educated re
 
 The third element, the great weaving of fate, is not an invention at all. It is a mix-up, and an instructive one, because the sources half invite it.
 
-The most famous weaving scene in Norse literature sits in the *Darraðarljóð*, an older poem preserved in *Njáls saga*, written down around 1280. It describes a loom warped with entrails, weighted with severed heads and beaten with arrows. The figures working it are [valkyries](/en/blog/valkyries). The poem names them. No Norn appears in it.
+The most famous weaving scene in Norse literature sits in the *Darraðarljóð*, an older poem preserved in *Njáls saga*, written down around 1280. It describes a loom warped with entrails, weighted with severed heads and beaten with arrows. The figures working it are [valkyries](/en/blog/valkyries/). The poem names them. No Norn appears in it.
 
 There is also a genuine ambiguity in the material. Skuld, third of the great Norns, turns up in the Völuspá only a few stanzas after her first appearance, this time in a list of valkyries mustering to ride. One figure, two job descriptions. That seam is exactly where the modern conflation slipped through.
 
@@ -73,7 +73,7 @@ Threads are genuinely there in the sources, which is exactly why the wrong pictu
 
 Just read the verbs. Twisting, fastening, anchoring, distributing across the compass, and one of them flings a strand northward and orders it to hold forever. That is rope work, not delicate spinning, and certainly not machinery. Above all, nothing is severed. Karen Bek-Pedersen made this case at length in *The Norns in Old Norse Mythology* (2011): the familiar spinning-and-weaving imagery runs well ahead of what the sources will support.
 
-The second Norse tool is not a textile one at all. Fate gets scored into wood with a blade, the same gesture used to set a [rune](/en/blog/elder-futhark-runes). How that craft-based idea of fate works is laid out in our [Norns article](/en/blog/norns-weavers-of-fate). For the history of the picture, one sentence covers it: the Norns' tool is a knife, not a pair of shears.
+The second Norse tool is not a textile one at all. Fate gets scored into wood with a blade, the same gesture used to set a [rune](/en/blog/elder-futhark-runes/). How that craft-based idea of fate works is laid out in our [Norns article](/en/blog/norns-weavers-of-fate/). For the history of the picture, one sentence covers it: the Norns' tool is a knife, not a pair of shears.
 
 ## What the Ground Actually Holds
 
@@ -81,10 +81,10 @@ No archaeologist has ever dug up a Norn, and it is worth saying so plainly. What
 
 - **Spindle whorls** in clay, soapstone and lead are among the most common small finds from Viking-Age settlements and graves.
 - **Loom weights** of fired clay attest to the warp-weighted loom, standing upright against a wall in virtually any substantial household.
-- **Tablet-weaving tablets**, including examples from the [Oseberg ship](/en/blog/oseberg-ship) burial of 834, show highly specialised craft.
+- **Tablet-weaving tablets**, including examples from the [Oseberg ship](/en/blog/oseberg-ship/) burial of 834, show highly specialised craft.
 - **Textile tools in women's graves** appear so consistently that they are read as status markers, roughly parallel to weapons in men's graves.
 
-The inference has to be drawn carefully, but it explains a lot. Textile work was everywhere in the daily life of [Norse women](/en/blog/viking-women-role-society), and it was entirely unceremonious. The golden cord in the Helgi lay is not mysticism, then. It is a job of work every listener in the hall had watched being done. The romantic Norn image inverts that completely: it turns an ordinary task into a sacrament.
+The inference has to be drawn carefully, but it explains a lot. Textile work was everywhere in the daily life of [Norse women](/en/blog/viking-women-role-society/), and it was entirely unceremonious. The golden cord in the Helgi lay is not mysticism, then. It is a job of work every listener in the hall had watched being done. The romantic Norn image inverts that completely: it turns an ordinary task into a sacrament.
 
 ## Bayreuth 1876: Wagner Hands Them a Rope
 

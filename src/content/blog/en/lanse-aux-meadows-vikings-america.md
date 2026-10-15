@@ -32,7 +32,7 @@ Nor was the location lucky. Anyone running south along the Labrador coast from G
 
 Beneath the turf lay the foundations of eight structures, arranged in three groups: each a large hall paired with one or two smaller workshop huts, plus a separate smithy across the brook. All of them were built of stacked sod over a timber frame, with the thick walls and internal layout familiar from tenth and eleventh century Iceland and Greenland. None of it matches Indigenous building practice in Newfoundland.
 
-The largest hall measured roughly 28 by 15 metres and was divided into several rooms. Taken together, the buildings could shelter an estimated 70 to 90 people, which is to say the crews of two or three ships. Those ships only got there at all because the Norse had, in the [longship](/en/blog/the-longship), a hull that handled open ocean and shallow coastal water equally well.
+The largest hall measured roughly 28 by 15 metres and was divided into several rooms. Taken together, the buildings could shelter an estimated 70 to 90 people, which is to say the crews of two or three ships. Those ships only got there at all because the Norse had, in the [longship](/en/blog/the-longship/), a hull that handled open ocean and shallow coastal water equally well.
 
 The smithy is the most telling structure of the lot. Bog iron was roasted there and smelted in a small furnace; excavators recovered slag, an anvil stone and the remains of the hearth. It is the earliest known evidence of iron smelting anywhere in the Americas. The output was humble, mostly nails and rivets, and that humbleness is the point. This was a place for repairing ships, wintering over and moving on.
 
@@ -76,7 +76,7 @@ The tempting equation of site with Vinland does not survive scrutiny. The sagas 
 
 The Grœnlendinga saga mentions a place called *Leifsbúðir*, literally "Leif's booths", a camp of huts that later expeditions reused rather than rebuilt. That description sits oddly well with what was dug up in Newfoundland: several halls with attached outbuildings, used communally instead of being divided into individual family farms as a genuine settlement would be. The identification cannot be proved. It is far from unreasonable.
 
-Birgitta Wallace built the now widely accepted reading on exactly this evidence. L'Anse aux Meadows was not a destination but a gateway: a base at the entrance to the Gulf of St. Lawrence where ships wintered, were repaired and were loaded, while the actual exploring happened further south. "Vinland", on that reading, was never a dot on a map but a whole region, with the Newfoundland station as its northern anchor. How those voyages started in the first place is the subject of our article on [Leif Erikson](/en/blog/leif-erikson-america).
+Birgitta Wallace built the now widely accepted reading on exactly this evidence. L'Anse aux Meadows was not a destination but a gateway: a base at the entrance to the Gulf of St. Lawrence where ships wintered, were repaired and were loaded, while the actual exploring happened further south. "Vinland", on that reading, was never a dot on a map but a whole region, with the Newfoundland station as its northern anchor. How those voyages started in the first place is the subject of our article on [Leif Erikson](/en/blog/leif-erikson-america/).
 
 ![Grass-covered outlines of the original Norse buildings at the L'Anse aux Meadows site](/images/lanse-aux-meadows-3.jpg)
 *Image source: Clinton Pierce (CC BY-SA 3.0), via Wikimedia Commons*

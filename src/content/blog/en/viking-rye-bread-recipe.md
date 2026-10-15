@@ -22,7 +22,7 @@ Because here is the twist: the image of a Viking slicing into dark rye bread eve
 
 Rye did not start out as a crop at all. It started out as a weed. It grew uninvited among wheat and barley, and because it shrugs off cold, poor soil, and soggy summers, it quietly won ground the farther north farming spread. Botanists call this a secondary crop: a stowaway that eventually took over the ship.
 
-In the Viking Age proper, barley still ruled the table. The famous charred loaves from the graves of Birka in Sweden are mostly barley and oats, coarsely ground and stretched with whatever the farm could spare. But toward the end of the era the picture shifts. From the 10th century onward, rye cultivation expands noticeably in Denmark and southern Scandinavia. The weed became the bread grain of the medieval North - and the flat [barley flatbread from the pan](/en/blog/viking-flatbread-recipe) slowly gave way to the dark loaf that Denmark still worships today as rugbrød.
+In the Viking Age proper, barley still ruled the table. The famous charred loaves from the graves of Birka in Sweden are mostly barley and oats, coarsely ground and stretched with whatever the farm could spare. But toward the end of the era the picture shifts. From the 10th century onward, rye cultivation expands noticeably in Denmark and southern Scandinavia. The weed became the bread grain of the medieval North - and the flat [barley flatbread from the pan](/en/blog/viking-flatbread-recipe/) slowly gave way to the dark loaf that Denmark still worships today as rugbrød.
 
 So if you want to be strict about it: early Viking Age means barley flatbread. But if you want to taste the late Viking Age, the era of the great trading towns and the first real cities, a dark rye loaf is precisely the right thing to bake.
 
@@ -45,7 +45,7 @@ There is a fine irony in how this story ends. The rough, dark bread of thralls a
 | Bread was the great staple food | Porridge of barley and oats was on the table at least as often |
 | Sourdough is a modern invention | Norse households were master fermenters, but whether they kept a deliberate sourdough culture is not securely documented |
 
-If you want the bigger picture of what actually simmered in the cauldron and hung in the storehouse, our overview of the [Viking diet](/en/blog/viking-food-diet) covers it in depth.
+If you want the bigger picture of what actually simmered in the cauldron and hung in the storehouse, our overview of the [Viking diet](/en/blog/viking-food-diet/) covers it in depth.
 
 ## The Viking Rye Bread Recipe
 
@@ -92,7 +92,7 @@ For 1 loaf (loaf pan, about 10 inches / 25 cm):
 
 **By the way:** rye bread stays fresh so long because of the pentosans in rye, gums that bind water in the crumb. Exactly this quality later made dark bread the ideal provision for long winters and long journeys.
 
-If this loaf turns out well, treat it as a beginning: our cookbook **"Viking Feast"** gathers 141 recipes of the Norse kitchen, from honey bread and hearty stews to mead you brew yourself. [See the cookbook](/en/cookbook)
+If this loaf turns out well, treat it as a beginning: our cookbook **"Viking Feast"** gathers 141 recipes of the Norse kitchen, from honey bread and hearty stews to mead you brew yourself. [See the cookbook](/en/cookbook/)
 
 A dark loaf on a board, a knife, butter, and honey within reach: in a modern kitchen, you will not get much closer to the storehouse of a late Viking Age farm. The sagas sing of kings and battles, but it was this quiet, heavy bread that actually carried the North through its long winters. Bake it once, wait until morning, and cut the first slice. You will understand why the North never gave up on rye.
 

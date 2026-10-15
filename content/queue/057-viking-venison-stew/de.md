@@ -54,7 +54,7 @@ Die Wikingerzeit hat keine Kochbücher hinterlassen, und jedes Rezept, das etwas
 
 Unsere ehrliche Einschätzung aus der Redaktionsküche, nach mehreren Durchgängen: Die zwei häufigsten Fehler sind zu viel Hitze und zu wenig Geduld. Wild, das bei starker Hitze im Topf kocht statt leise zu ziehen, wird trocken und faserig, und zwar unwiderruflich; mehr Flüssigkeit repariert das nicht. Der zweite Fehler ist Säure zu Beginn. Ein Löffel Essig oder eine Handvoll Beeren am Ende hebt das ganze Gericht und schneidet durch die Schwere. Dieselbe Menge zu Anfang mitgekocht macht das Fleisch stumpf und grau.
 
-Wer Wild lieber am Stück mag, findet bei uns den [Wildschweinbraten mit Honigglasur](/blog/wildschweinbraten-honigglasur). Und wie wenig der Alltag im Norden mit den Festtafeln der Serien zu tun hatte, steht in unserem Überblick darüber, [was die Wikinger wirklich aßen](/blog/wikinger-ernaehrung-essen).
+Wer Wild lieber am Stück mag, findet bei uns den [Wildschweinbraten mit Honigglasur](/blog/wildschweinbraten-honigglasur/). Und wie wenig der Alltag im Norden mit den Festtafeln der Serien zu tun hatte, steht in unserem Überblick darüber, [was die Wikinger wirklich aßen](/blog/wikinger-ernaehrung-essen/).
 
 ## Zutaten
 
@@ -96,7 +96,7 @@ Für 4 kräftige Portionen Hirscheintopf:
 - **Am zweiten Tag:** Dieser Hirscheintopf wird über Nacht besser. Abkühlen, kalt stellen, am nächsten Tag langsam erhitzen und mit einem Spritzer Essig auffrischen.
 - **Historisch streng:** Kein Bier aus der Flasche, sondern nur Brühe, weiße oder gelbe Möhren statt oranger und grob geschroteter Gerstenschrot statt Perlgraupen.
 
-Wenn dich diese Küche packt: In unserem Kochbuch **"Wikinger Festmahl"** warten 141 Rezepte des Nordens, von Fladenbrot über Kesselgerichte und Festtagsbraten bis zu Met und süßen Vorratsschätzen. [Zum Kochbuch](/kochbuch)
+Wenn dich diese Küche packt: In unserem Kochbuch **"Wikinger Festmahl"** warten 141 Rezepte des Nordens, von Fladenbrot über Kesselgerichte und Festtagsbraten bis zu Met und süßen Vorratsschätzen. [Zum Kochbuch](/kochbuch/)
 
 ## Warum Wild im Norden anders schmeckte
 

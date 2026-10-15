@@ -37,4 +37,48 @@ No creature shaped the Northern diet like the salmon. It was smoked, dried, salt
 
 ## The Skald's Tip
 
-Coarse mustard and rustic breadcrumbs give the crust extra bite - almost like it came off a fire-plank. Curious how the Norsemen sailed as far as Iceland and Greenland in the first place? Read our article on [the longship](/en/blog/the-longship).
+Coarse mustard and rustic breadcrumbs give the crust extra bite - almost like it came off a fire-plank. Curious how the Norsemen sailed as far as Iceland and Greenland in the first place? Read our article on [the longship](/en/blog/the-longship/).
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Honey-Mustard Crusted Salmon: Catch of the Fjords",
+  "description": "Oven-baked salmon with a crispy honey-mustard crust, Viking style: quick 30-minute recipe with just 5 ingredients. The fish of the fjords, served modern.",
+  "image": "https://blog.nordwaldrecords.com/images/rezepte/recipe-honey-salmon-1.webp",
+  "author": {
+    "@type": "Organization",
+    "name": "Nordweg"
+  },
+  "datePublished": "2026-07-10",
+  "cookTime": "PT20M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "Nordic",
+  "keywords": "Viking Recipe, Salmon, Fish, Oven Baked, Honey",
+  "recipeIngredient": [
+    "1.3 lb salmon fillet (600 g)",
+    "2 tbsp honey",
+    "2 tbsp mustard (coarse or dijon-style)",
+    "2 tbsp breadcrumbs",
+    "Salt and black pepper"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Season the salmon fillet with salt and black pepper."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Mix honey, mustard and breadcrumbs into a paste and spread it evenly over the salmon."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bake at 350°F (180°C) for about 20 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "The crust should be golden and crispy."
+    }
+  ]
+}
+</script>

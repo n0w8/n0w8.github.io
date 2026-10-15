@@ -22,7 +22,7 @@ The Old Norse sources never set out admission rules the way a monastery sets out
 
 The shortest defensible answer is that nobody gets into Valhalla. People are taken there.
 
-The hall's Old Norse name, *Valhöll*, means "hall of the slain". The same first element sits inside *valkyrja*, "chooser of the slain". Neither word describes an arrival. Both describe a choice made by somebody else, and the ones doing the choosing are the [valkyries](/en/blog/valkyries), riding the field while the fighting is still going on. Odin carries the byname **Valföðr**, father of the slain, and Snorri Sturluson states plainly that every man who falls in battle becomes his adopted son.
+The hall's Old Norse name, *Valhöll*, means "hall of the slain". The same first element sits inside *valkyrja*, "chooser of the slain". Neither word describes an arrival. Both describe a choice made by somebody else, and the ones doing the choosing are the [valkyries](/en/blog/valkyries/), riding the field while the fighting is still going on. Odin carries the byname **Valföðr**, father of the slain, and Snorri Sturluson states plainly that every man who falls in battle becomes his adopted son.
 
 So the one condition that genuinely appears across the sources is a manner of death: **killed in combat**. Not a virtuous life, not generous sacrifice, not piety, not even courage in general. The sources are oddly uninterested in what kind of person you were. They care about how you died, because Odin is not rewarding goodness. He is recruiting.
 
@@ -30,7 +30,7 @@ That shift in logic is worth sitting with. A Christian heaven answers the questi
 
 ## What the Sources Actually Require
 
-The fullest picture of the building comes from **Grímnismál** in the Poetic Edda, with its 540 doors, its roof of shields and its rafters of spears. We covered the architecture and the daily routine of the einherjar in our piece on [Valhalla, the hall of the fallen warriors](/en/blog/valhalla-hall-fallen-warriors). On the question of admission, though, that poem is almost silent. It describes the house, not the doorway.
+The fullest picture of the building comes from **Grímnismál** in the Poetic Edda, with its 540 doors, its roof of shields and its rafters of spears. We covered the architecture and the daily routine of the einherjar in our piece on [Valhalla, the hall of the fallen warriors](/en/blog/valhalla-hall-fallen-warriors/). On the question of admission, though, that poem is almost silent. It describes the house, not the doorway.
 
 For something closer to a rule you have to go to Snorri Sturluson's **Gylfaginning**, written around 1220. There the division is explicit: those who fall in battle go to Odin and are called **einherjar**, while those who die of sickness or old age go to Hel. Snorri even uses the technical vocabulary, *sóttdauðr* and *ellidauðr*, "sickness-dead" and "age-dead". It is the clearest statement of entry criteria we possess, and it was written by a Christian Icelander two centuries after the conversion.
 
@@ -70,7 +70,7 @@ The biggest error buried inside the question is the assumption that Valhalla was
 | The sea | Rán | The drowned, implied in kennings and sagas |
 | The burial mound | nobody | Continued existence near the farm, well attested archaeologically |
 
-How the slain were divided between Odin and Freyja, and why the overwhelming majority of the dead ended up with Hel, we worked through in [Valhalla, the hall of the fallen warriors](/en/blog/valhalla-hall-fallen-warriors). For the admission question only one consequence of that matters: dying in battle does not by itself land you in Odin's hall, because even the battle-dead get split.
+How the slain were divided between Odin and Freyja, and why the overwhelming majority of the dead ended up with Hel, we worked through in [Valhalla, the hall of the fallen warriors](/en/blog/valhalla-hall-fallen-warriors/). For the admission question only one consequence of that matters: dying in battle does not by itself land you in Odin's hall, because even the battle-dead get split.
 
 The more interesting rows are the bottom two, which almost never make the list. **Rán**, wife of the sea-giant Ægir, draws the drowned into her net; the sagas and skaldic kennings gesture at this rather than spelling it out, but for a seafaring culture it was the death permanently in view. And one destination needed no deity at all: the solid conviction that the dead simply carried on in the **burial mound**, within sight of the farm, occasionally troublesome. The saga tradition of restless draugr assumes precisely that. Ask how to reach Valhalla and you are asking about the rarest of five options.
 

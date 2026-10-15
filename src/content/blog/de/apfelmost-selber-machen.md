@@ -22,7 +22,7 @@ In diesem Artikel bekommst du beides: das einfache Grundrezept, mit dem der erst
 
 Der Apfel war im Norden kein Import und kein Luxus. Der Holzapfel, botanisch *Malus sylvestris*, wächst von Süddänemark bis in die südschwedischen Wälder wild - klein, hart, ausgesprochen sauer. Genau diese Frucht taucht in den Ausgrabungen immer wieder auf:
 
-- **Oseberg-Schiffsgrab, Norwegen (bestattet 834):** Neben den beiden Frauen und der berühmten Schiffsausstattung fand sich ein Holzeimer mit Wildäpfeln. Proviant für die Fahrt ins Jenseits, konserviert im blauen Ton des Grabhügels. Die ganze Geschichte des Fundes erzählen wir im Porträt zum [Oseberg-Schiff](/blog/oseberg-schiff).
+- **Oseberg-Schiffsgrab, Norwegen (bestattet 834):** Neben den beiden Frauen und der berühmten Schiffsausstattung fand sich ein Holzeimer mit Wildäpfeln. Proviant für die Fahrt ins Jenseits, konserviert im blauen Ton des Grabhügels. Die ganze Geschichte des Fundes erzählen wir im Porträt zum [Oseberg-Schiff](/blog/oseberg-schiff/).
 - **Haithabu, Schleswig:** In den feuchten Siedlungsschichten der Handelsstadt haben sich Pflanzenreste erhalten, darunter Äpfel, Schlehen, Haselnüsse und Beeren. Obst war Teil des Alltags, nicht nur der Festtafel.
 - **Egtved, Dänemark (Bronzezeit, um 1370 v. Chr.):** Im Rindeneimer der berühmten Bestattung wies das Nationalmuseum Reste eines vergorenen Getränks aus Weizen, Honig, Preiselbeeren und Gagel nach. Im Norden wurde also schon zwei Jahrtausende vor den Wikingern gegoren.
 - **Capitulare de villis, Frankenreich (um 800):** Die Güterordnung Karls des Großen listet unter dem Personal eines Hofes ausdrücklich Leute für *sicera* auf - vergorene Obstgetränke. Auf dem Kontinent war Most zur Wikingerzeit also längst etabliert.
@@ -81,13 +81,13 @@ Ein Wort zur Sicherheit: Am Ende stehen je nach Ausgangszucker etwa 5 bis 7 Proz
 - **Weiße Haut auf der Oberfläche?** Eine dünne, matte Schicht ist meist harmlose Kahmhefe: abschöpfen und sofort abziehen. Pelziger, bunter Schimmel dagegen bedeutet wegschütten und beim nächsten Mal sauberer arbeiten.
 - **Richtig servieren.** Kühl, aber nicht eiskalt, aus Ton oder dickem Glas. Zu geräuchertem Fisch, deftigem Brot und Hartkäse ist Most fast unschlagbar.
 
-Übrigens: Dieses Grundrezept ist nur ein Anfang. In unserem Kochbuch **"Wikinger Festmahl - Das große Wikinger-Kochbuch"** warten 141 Rezepte aus der Welt der Nordmänner auf dich, von Festtagsbraten über Eintöpfe bis zu weiteren Getränken aus Honig, Obst und Getreide. [Zum Kochbuch](/kochbuch)
+Übrigens: Dieses Grundrezept ist nur ein Anfang. In unserem Kochbuch **"Wikinger Festmahl - Das große Wikinger-Kochbuch"** warten 141 Rezepte aus der Welt der Nordmänner auf dich, von Festtagsbraten über Eintöpfe bis zu weiteren Getränken aus Honig, Obst und Getreide. [Zum Kochbuch](/kochbuch/)
 
 ## Apfelmost selber machen ohne Alkohol
 
 Nicht jeder will Wochen warten oder Alkohol im Glas. Für süßen Most, wie ihn Kinder und Fahrer trinken können, lässt du die Hefe einfach weg: Saft pressen, durch ein feines Tuch seihen, in einem großen Topf auf 78 Grad erhitzen und diese Temperatur 20 Minuten halten. Nicht kochen, sonst schmeckt der Saft nach Kompott. Danach heiß in sterile Flaschen füllen, sofort verschließen und auf den Kopf stellen. So hält der süße Most ein Jahr im Keller und schmeckt immer noch nach dem Baum, von dem er kommt.
 
-Wer den fermentierten Weg wählt, aber lieber mit Honig als mit Obst arbeitet, findet in unserer Anleitung zum [Met selber machen](/blog/met-selber-machen) das gleiche Prinzip mit anderer Zuckerquelle - beide Getränke vertragen sich auf einem Tisch hervorragend.
+Wer den fermentierten Weg wählt, aber lieber mit Honig als mit Obst arbeitet, findet in unserer Anleitung zum [Met selber machen](/blog/met-selber-machen/) das gleiche Prinzip mit anderer Zuckerquelle - beide Getränke vertragen sich auf einem Tisch hervorragend.
 
 ## Der Trank nach der Ernte
 

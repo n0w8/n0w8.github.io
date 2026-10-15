@@ -38,7 +38,7 @@ And this particular winter drops the find into the middle of a political earthqu
 
 > King Harald ordered this monument made for Gorm his father and Thyra his mother, that Harald who won all of Denmark for himself, and Norway, and made the Danes Christian.
 
-If you want the stones themselves in detail, we cover them in our article on the [Jelling stones](/en/blog/jelling-stones-denmark). For the man from Mammen, the date means one thing above all: he did not die at some vague point in the Viking Age. He died in the decade that decided which religion and which royal power would shape Denmark from then on.
+If you want the stones themselves in detail, we cover them in our article on the [Jelling stones](/en/blog/jelling-stones-denmark/). For the man from Mammen, the date means one thing above all: he did not die at some vague point in the Viking Age. He died in the decade that decided which religion and which royal power would shape Denmark from then on.
 
 ## The axe itself: silver that sits inside the iron
 
@@ -58,7 +58,7 @@ The instinct to read a rich weapon grave as a warrior grave is understandable, b
 
 The textiles from the chamber are among the most significant surviving cloth from the entire Viking Age in northern Europe. Silk had to travel long trade routes from the east. Metal thread and elaborate embroidery cost weeks of specialist labour. Fine wool with fur trim was a small fortune in a society without mechanised weaving. Then there are the two wax candles. Candles of that kind are unusual in pagan burial practice in the North and are generally read as a Christian element, which fits Harald's decade exactly.
 
-Put together, this is not the picture the films sell. The man in this mound was not a brawler. He belonged to the immediate circle of royal power: someone with access to imported silk, to silver, to specialist craftsmen, and to a new and politically charged burial vocabulary. How closely weaponry and social rank were tied together in this period is something we set out in more detail in our article on [Viking weapons](/en/blog/viking-weapons-axe-sword).
+Put together, this is not the picture the films sell. The man in this mound was not a brawler. He belonged to the immediate circle of royal power: someone with access to imported silk, to silver, to specialist craftsmen, and to a new and politically charged burial vocabulary. How closely weaponry and social rank were tied together in this period is something we set out in more detail in our article on [Viking weapons](/en/blog/viking-weapons-axe-sword/).
 
 **The life of the find at a glance:**
 

@@ -69,7 +69,7 @@ Für 4 bis 6 Portionen:
 - **Vorkochen lohnt sich:** Wie jeder gute Eintopf schmeckt Skause aufgewärmt am nächsten Tag noch runder.
 - **Auf Vorrat:** Der Eintopf lässt sich problemlos portionsweise einfrieren und hält sich so mehrere Monate. Beim Aufwärmen einen Schluck Wasser zugeben, weil die Graupen nachquellen - dann steht das Langhaus-Essen auch an stressigen Tagen in 10 Minuten auf dem Tisch.
 
-Dieses Rezept ist übrigens nur eine Kostprobe: In unserem Kochbuch **"Wikinger Festmahl - Das große Wikinger-Kochbuch"** warten 141 Rezepte aus der nordischen Küche auf dich - von weiteren Kesselgerichten über Festtagsbraten bis zu Brot und Met. [Zum Kochbuch](/kochbuch)
+Dieses Rezept ist übrigens nur eine Kostprobe: In unserem Kochbuch **"Wikinger Festmahl - Das große Wikinger-Kochbuch"** warten 141 Rezepte aus der nordischen Küche auf dich - von weiteren Kesselgerichten über Festtagsbraten bis zu Brot und Met. [Zum Kochbuch](/kochbuch/)
 
 | In den Wikinger-Kessel | Erst nach 1500 nach Europa |
 |---|---|
@@ -82,7 +82,7 @@ Dieses Rezept ist übrigens nur eine Kostprobe: In unserem Kochbuch **"Wikinger 
 
 ## Das Gericht, das den Norden trug
 
-Von den Höfen Islands bis zu den Handelsplätzen der Ostsee: Der Kesseleintopf war der stille Treibstoff der Wikingerzeit. Er wärmte die Bauern nach der Feldarbeit ebenso wie die Männer, die von langen Fahrten mit dem [Langschiff](/blog/das-langschiff) heimkehrten, und bei Festen zu Ehren der [nordischen Götter](/blog/nordische-goetter) hing über demselben Feuer der Opferkessel. Wenn bei dir zuhause der Duft von Zwiebeln, Kümmel und geschmortem Fleisch durch die Küche zieht, bist du diesem Alltag näher, als es jedes Museum vermitteln kann.
+Von den Höfen Islands bis zu den Handelsplätzen der Ostsee: Der Kesseleintopf war der stille Treibstoff der Wikingerzeit. Er wärmte die Bauern nach der Feldarbeit ebenso wie die Männer, die von langen Fahrten mit dem [Langschiff](/blog/das-langschiff/) heimkehrten, und bei Festen zu Ehren der [nordischen Götter](/blog/nordische-goetter/) hing über demselben Feuer der Opferkessel. Wenn bei dir zuhause der Duft von Zwiebeln, Kümmel und geschmortem Fleisch durch die Küche zieht, bist du diesem Alltag näher, als es jedes Museum vermitteln kann.
 
 ![Eintopf in Gusseisentöpfen über offenem Feuer in einem Wikinger-Nachbaudorf](/images/wikinger-eintopf-wm.jpg)
 

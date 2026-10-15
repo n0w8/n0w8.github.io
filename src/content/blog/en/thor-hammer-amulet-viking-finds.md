@@ -16,7 +16,7 @@ draft: false
 
 Almost everything we say about Norse religion rests on texts written down by Christians, centuries after the fact, usually in Iceland. The Thor hammer amulet is one of the rare Viking subjects where that dependence breaks. These little pendants are physical objects. They can be weighed, measured, mapped, dated by the graves they sit in, and counted. Over a thousand of them survive. That makes them one of the very few places where we can check the sagas against something solid.
 
-So this article does not retell the myth. We have covered the symbolism of Mjölnir [in a separate piece](/en/blog/mjolnir-thor-hammer-protective-symbol). What follows is a look at the evidence itself: how many hammers there are, where they turn up, when they appear and vanish, and which handful of individual finds genuinely moved the scholarship forward.
+So this article does not retell the myth. We have covered the symbolism of Mjölnir [in a separate piece](/en/blog/mjolnir-thor-hammer-protective-symbol/). What follows is a look at the evidence itself: how many hammers there are, where they turn up, when they appear and vanish, and which handful of individual finds genuinely moved the scholarship forward.
 
 ## The corpus: small, cheap, and everywhere
 
@@ -40,7 +40,7 @@ The edges of the map are the most revealing part. In England, the Portable Antiq
 
 *Image: Lincolnshire County Council, Adam Daubney, Portable Antiquities Scheme (CC BY-SA 4.0), via Wikimedia Commons*
 
-It is tempting to read that spread as a map of belief pushing outward against Christianity. It is more honestly a map of commerce. Hammers travelled with the same people, in the same bags, along the same routes as hacksilver, beads, and folding scales, and they cluster where other Scandinavian imports cluster: at trading places, river mouths, and transhipment points such as [Birka](/en/blog/birka-swedens-first-town).
+It is tempting to read that spread as a map of belief pushing outward against Christianity. It is more honestly a map of commerce. Hammers travelled with the same people, in the same bags, along the same routes as hacksilver, beads, and folding scales, and they cluster where other Scandinavian imports cluster: at trading places, river mouths, and transhipment points such as [Birka](/en/blog/birka-swedens-first-town/).
 
 Put *Þórr* on while you read the rest, the track about the god behind these amulets:
 

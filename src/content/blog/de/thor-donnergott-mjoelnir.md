@@ -16,7 +16,7 @@ draft: false
 
 Ein Donnerschlag über den Fjorden, und die Bauern wussten: **Thor**, der **Donnergott**, ist unterwegs. Kein anderer Gott der nordischen Mythologie war im Alltag der Wikinger so gegenwärtig wie er. Während Odin über Könige und Skalden herrschte, gehörte Thor dem einfachen Volk - dem Bauern, der auf Regen hoffte, und dem Seemann, der einen Sturm überstehen musste. Doch hinter dem populären Bild vom bärtigen Kraftprotz verbirgt sich eine Figur mit überraschend viel Tiefe, verbürgt in Gedichten, die über achthundert Jahre alt sind.
 
-Wir haben Thor bereits in unserem [Überblick über die nordischen Götter](/blog/nordische-goetter) kurz vorgestellt. Hier gehen wir tiefer: Wie entstand sein Hammer wirklich? Welche Abenteuer bestand er? Und warum trug halb Skandinavien sein Symbol um den Hals?
+Wir haben Thor bereits in unserem [Überblick über die nordischen Götter](/blog/nordische-goetter/) kurz vorgestellt. Hier gehen wir tiefer: Wie entstand sein Hammer wirklich? Welche Abenteuer bestand er? Und warum trug halb Skandinavien sein Symbol um den Hals?
 
 ## Woher wir von Thor wissen
 
@@ -52,7 +52,7 @@ Ernster wird es in der **Hymiskviða**. Thor begleitet den Riesen **Hymir** auf 
 
 Weit draußen auf See wirft Thor die Angel aus - und an den Haken beißt niemand Geringeres als **Jörmungand**, die **Weltenschlange**, die den gesamten Erdkreis in ihren Windungen umschließt. Thor zieht mit solcher Kraft, dass seine Füße durch den Bootsboden brechen und sich in den Meeresgrund stemmen. Für einen Moment starren sich Gott und Ungeheuer Auge in Auge gegenüber - Snorri beschreibt, wie Gift aus dem Rachen der Schlange spritzt.
 
-Thor hebt den Hammer, um endgültig zuzuschlagen. Doch der entsetzte Hymir zerschneidet in Panik die Angelschnur, und Jörmungand entkommt zurück in die Tiefe. Die Mythen sind sich einig, dass sich die beiden erst bei **Ragnarök** wiederbegegnen werden - dann mit tödlichem Ausgang für beide, wie wir in unserem Artikel über [Ragnarök](/blog/ragnaroek) erzählen.
+Thor hebt den Hammer, um endgültig zuzuschlagen. Doch der entsetzte Hymir zerschneidet in Panik die Angelschnur, und Jörmungand entkommt zurück in die Tiefe. Die Mythen sind sich einig, dass sich die beiden erst bei **Ragnarök** wiederbegegnen werden - dann mit tödlichem Ausgang für beide, wie wir in unserem Artikel über [Ragnarök](/blog/ragnaroek/) erzählen.
 
 > Sinngemäß aus der Hymiskviða: Thor zog die Schlange so hart empor, dass die Erde selbst erzitterte, während Gift aus ihrem Rachen troff.
 

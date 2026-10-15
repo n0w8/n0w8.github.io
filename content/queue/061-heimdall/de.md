@@ -61,11 +61,11 @@ Mehr ist von diesem Lied nicht erhalten. Wer diese neun Frauen waren, sagt Snorr
 
 ## Heimdall und Loki: Zwei Robben, ein Halsschmuck, ein letztes Duell
 
-Die einzige größere Erzählung, in der Heimdall handelt statt bewacht, ist ausgerechnet nur noch in Bruchstücken erhalten. Der Skalde **Úlfr Uggason** trug um 985 auf einem Hochzeitsfest in Hjarðarholt auf Island sein Gedicht **Húsdrápa** vor, in dem er die Bildschnitzereien einer Halle beschrieb. Eine dieser Szenen zeigt Heimdall und [Loki](/blog/loki-trickster-gott), die in Robbengestalt am Felsen Singasteinn um Freyjas Halsschmuck Brísingamen kämpfen.
+Die einzige größere Erzählung, in der Heimdall handelt statt bewacht, ist ausgerechnet nur noch in Bruchstücken erhalten. Der Skalde **Úlfr Uggason** trug um 985 auf einem Hochzeitsfest in Hjarðarholt auf Island sein Gedicht **Húsdrápa** vor, in dem er die Bildschnitzereien einer Halle beschrieb. Eine dieser Szenen zeigt Heimdall und [Loki](/blog/loki-trickster-gott/), die in Robbengestalt am Felsen Singasteinn um Freyjas Halsschmuck Brísingamen kämpfen.
 
 Snorri zitiert diese Strophe im *Skáldskaparmál* und hält als Dichterregel fest, man dürfe Heimdall unter anderem als "Besucher von Vágasker und Singasteinn" und als Lokis Feind umschreiben, Loki wiederum als den Dieb des Brísingamen. Damit ist der Mythos selbst verloren, die Umschreibungen aber haben ihn überlebt. Wie Loki an das Schmuckstück kam, warum ausgerechnet Heimdall es zurückholte und wieso beide dafür die Gestalt von Robben annahmen, steht in keiner erhaltenen Quelle. Das ist kein Mangel an Fantasie der Überlieferung, sondern ein handfester Textverlust.
 
-Die Rechnung zwischen beiden wird am Weltenende beglichen. Snorri schildert im *Gylfaginning*, wie bei [Ragnarök](/blog/ragnaroek) Heimdall und Loki aufeinandertreffen und einander gegenseitig töten. Zwei Figuren, die über die gesamte Mythologie hinweg Gegenpole bilden, der Grenzwächter und der Grenzüberschreiter, enden in einem Zweikampf, bei dem niemand übrig bleibt.
+Die Rechnung zwischen beiden wird am Weltenende beglichen. Snorri schildert im *Gylfaginning*, wie bei [Ragnarök](/blog/ragnaroek/) Heimdall und Loki aufeinandertreffen und einander gegenseitig töten. Zwei Figuren, die über die gesamte Mythologie hinweg Gegenpole bilden, der Grenzwächter und der Grenzüberschreiter, enden in einem Zweikampf, bei dem niemand übrig bleibt.
 
 ## Rígsþula: Der Wächter als Stammvater der Menschen
 

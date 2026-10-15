@@ -34,7 +34,7 @@ A short timeline puts the key dates in order:
 
 ## How Viking York Became Jorvik
 
-The conquest itself is well recorded, largely because it horrified English chroniclers. The Great Heathen Army, that coalition of Scandinavian leaders campaigning in England from 865 onwards, exploited a succession dispute between Osberht and Ælla and took York in 866 with little resistance. The counterattack the following spring was a disaster: both kings died, and Northumbria lost its ruling class in a single day. For how that army came together and moved through England, see our longer piece on [the Great Heathen Army](/en/blog/great-heathen-army).
+The conquest itself is well recorded, largely because it horrified English chroniclers. The Great Heathen Army, that coalition of Scandinavian leaders campaigning in England from 865 onwards, exploited a succession dispute between Osberht and Ælla and took York in 866 with little resistance. The counterattack the following spring was a disaster: both kings died, and Northumbria lost its ruling class in a single day. For how that army came together and moved through England, see our longer piece on [the Great Heathen Army](/en/blog/great-heathen-army/).
 
 But the year that mattered most for the town was not 866. It was 876, when Halfdan divided Northumbrian land among his warriors, who then settled, ploughed and built. Occupiers became landholders, traders and craftsmen. That transition is legible in the ground at Coppergate, where the earliest Viking Age layers are not encampments at all. They are workshops.
 
@@ -93,7 +93,7 @@ The helmet is therefore not a Viking object at all. It is an Anglo-Saxon prestig
 
 Jorvik was never an isolated North Sea harbour. It was a node in a network reaching from the North Atlantic to the Near East. The amber came from the Baltic, the glossy black jet from nearby Whitby, and the silk of a head covering found at Coppergate from the eastern Mediterranean, most likely through Byzantine intermediaries. Add carnelian beads whose raw stone comes from the belt between the Persian Gulf and India, and a cowrie shell native only to the Indian Ocean or the Red Sea.
 
-None of this proves that a merchant from York personally travelled to Baghdad. It proves something else, and arguably something more interesting: that York was embedded in a relay system where goods changed hands many times over. Every stage took its cut, and at the far end an Indian carnelian bead ended up on a workbench in northern England. Comparable patterns turn up at [Hedeby](/en/blog/hedeby-lost-trading-city) on the modern Danish-German border, which did for the Baltic what Jorvik did for the North Sea and the Irish Sea.
+None of this proves that a merchant from York personally travelled to Baghdad. It proves something else, and arguably something more interesting: that York was embedded in a relay system where goods changed hands many times over. Every stage took its cut, and at the far end an Indian carnelian bead ended up on a workbench in northern England. Comparable patterns turn up at [Hedeby](/en/blog/hedeby-lost-trading-city/) on the modern Danish-German border, which did for the Baltic what Jorvik did for the North Sea and the Irish Sea.
 
 The coinage fits the same picture. York struck coins in quantity in the early tenth century, including the well-known Saint Peter series, and Coppergate yielded equipment connected with minting. Striking coins requires silver, control of a market, and an authority willing to prosecute forgery. Jorvik evidently had all three.
 

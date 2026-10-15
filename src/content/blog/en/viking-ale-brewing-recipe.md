@@ -18,7 +18,7 @@ Picture a Norse hall and you probably picture mead going round in drinking horns
 
 ## Ale Was Everyday, Mead Was Occasion
 
-Barley was the workhorse grain of Scandinavia. It ripens where wheat gives up: short summers, sour soils, salt wind off the water. Whatever did not become porridge or flatbread went into the brewing kettle, which made Viking ale food and drink at once. It carried calories, kept far better than standing water, and everyone from farmhand to jarl had a cup. Mead was another matter, because mead demanded honey by the bucket, and honey was expensive. We cover the honey side of the story in [how to make mead](/en/blog/how-to-make-mead).
+Barley was the workhorse grain of Scandinavia. It ripens where wheat gives up: short summers, sour soils, salt wind off the water. Whatever did not become porridge or flatbread went into the brewing kettle, which made Viking ale food and drink at once. It carried calories, kept far better than standing water, and everyone from farmhand to jarl had a cup. Mead was another matter, because mead demanded honey by the bucket, and honey was expensive. We cover the honey side of the story in [how to make mead](/en/blog/how-to-make-mead/).
 
 That ale mattered is not merely implied between the lines of the sagas. The Norwegian law codes of the high Middle Ages, the Gulathing Law above all, obliged farms to brew ale for Yule and to bless it. The wording is Christian, but it preserves a much older duty, and skipping the Yule brew carried a penalty. A drink written into statute is not a marginal habit.
 
@@ -89,9 +89,9 @@ Gather the juniper yourself if you can, from unsprayed stands. Bog myrtle turns 
 - **A hint of smoke:** Swap 300 g of the pale malt for smoked malt. It moves the beer closer to something brewed over an open hearth in a smoky longhouse.
 - **Neither myrtle nor hops:** A teaspoon of crushed juniper berries with a little mugwort in the boil gives a dry, herbal Viking ale. Go easy on the mugwort, it turns harsh fast.
 - **Safety first:** Never exceed the priming sugar given here. Too much bursts bottles, and there is nothing romantic about that.
-- **On the table alongside it:** For what else the hall ate, see our overview of the [Viking diet](/en/blog/viking-food-diet).
+- **On the table alongside it:** For what else the hall ate, see our overview of the [Viking diet](/en/blog/viking-food-diet/).
 
-If this kind of cooking speaks to you, our cookbook **"Viking Feast"** holds 141 recipes of the North, from flatbread and feast roasts to mead and the treasures of the storeroom. [See the cookbook](/en/cookbook)
+If this kind of cooking speaks to you, our cookbook **"Viking Feast"** holds 141 recipes of the North, from flatbread and feast roasts to mead and the treasures of the storeroom. [See the cookbook](/en/cookbook/)
 
 ## A Mouthful of the North: Our Verdict
 

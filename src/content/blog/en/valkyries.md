@@ -23,7 +23,7 @@ The Old Norse word *valkyrja* means, quite literally, "chooser of the slain"-fro
 
 That is an enormous idea of power. Pause on it for a moment: not the enemy's blade, not luck or skill, seals a warrior's fate, but the gaze of a supernatural woman who already knows, before the battle begins, who will not be coming home. In a warrior culture such as the Norse one, this was among the most disquieting-and most consoling-notions imaginable.
 
-The earliest evidence paints a grim picture. In some sources the Valkyries are not lovely maidens at all but ravenous death-spirits, kin to the ravens that circle above the corpses. They belong to the same world as the **Norns**, the three fate-women at the foot of Yggdrasil who, within the wider family of the [Norse gods](/en/blog/norse-gods), watch over all becoming and passing away. Where the Norns weave life, the Valkyries, it seems, weave death.
+The earliest evidence paints a grim picture. In some sources the Valkyries are not lovely maidens at all but ravenous death-spirits, kin to the ravens that circle above the corpses. They belong to the same world as the **Norns**, the three fate-women at the foot of Yggdrasil who, within the wider family of the [Norse gods](/en/blog/norse-gods/), watch over all becoming and passing away. Where the Norns weave life, the Valkyries, it seems, weave death.
 
 ## The "Choosers of the Slain"
 
@@ -39,7 +39,7 @@ And yet there is a strange honour buried in that choosing. To be selected by a V
 
 Here is where Odin enters. For the Valkyries do not act on a whim of their own-they are servants of the **Allfather**.
 
-Odin gathers the fallen for one cold, calculating reason: he is preparing for [Ragnarök](/en/blog/ragnarok), the last battle in which the gods will fall. For that he needs an army. The chosen dead, the **Einherjar** ("those who fight alone," or "the lone champions"), dwell in Valhalla, the vast hall with its 540 doors and a roof made of golden shields.
+Odin gathers the fallen for one cold, calculating reason: he is preparing for [Ragnarök](/en/blog/ragnarok/), the last battle in which the gods will fall. For that he needs an army. The chosen dead, the **Einherjar** ("those who fight alone," or "the lone champions"), dwell in Valhalla, the vast hall with its 540 doors and a roof made of golden shields.
 
 And what do they do there? Snorri Sturluson describes it in the **Prose Edda** with almost macabre delight: every day the Einherjar ride out to fight and slaughter one another. Every evening they all rise again, whole and unharmed, and feast together. They eat the ever-renewing flesh of the boar Sæhrímnir and drink the mead that flows from the udder of the goat Heiðrún.
 

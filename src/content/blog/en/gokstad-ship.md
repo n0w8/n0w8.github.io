@@ -24,7 +24,7 @@ Dendrochronological analysis dates the ship's timber to around 890 AD, while the
 
 ## The Measurements and Craftsmanship of a Masterpiece
 
-At 23.24 meters long and 5.20 meters wide, the Gokstad ship ranks among the larger surviving Viking ships. It was built entirely of oak using the classic **clinker technique**, in which overlapping planks give the whole hull remarkable flexibility - the same principle that defines the famous [longship](/en/blog/the-longship). Unlike the more ceremonial Oseberg ship, the Gokstad find was a genuine ocean-going sailing vessel: sturdily built, with a deep keel that gave it markedly better handling on the open sea.
+At 23.24 meters long and 5.20 meters wide, the Gokstad ship ranks among the larger surviving Viking ships. It was built entirely of oak using the classic **clinker technique**, in which overlapping planks give the whole hull remarkable flexibility - the same principle that defines the famous [longship](/en/blog/the-longship/). Unlike the more ceremonial Oseberg ship, the Gokstad find was a genuine ocean-going sailing vessel: sturdily built, with a deep keel that gave it markedly better handling on the open sea.
 
 Aboard, archaeologists found 64 round shields, painted alternately black and yellow and mounted in pairs along the gunwale - an imposing, intimidating sight for anyone who encountered the ship at sea. The grave also contained three smaller boats, a sled, tent frames, cooking equipment, and a gaming board, apparently meant to serve the deceased on his journey into the afterlife.
 
@@ -82,6 +82,6 @@ The comparison makes clear why the Gokstad find mattered so much for the questio
 
 ## A Ship That Proved More Than Any Other
 
-What makes the Gokstad ship so remarkable is the rare combination of archaeological quality and practical proof. While many Viking ship finds mostly raise questions, the 1893 replica answered one of the central questions in Viking scholarship with wind, water, and a four-week Atlantic crossing: yes, these ships really could conquer the open ocean. If you want to see what ships like this one could do when used as weapons of attack rather than as grave goods, check out our article on the [raid on Lindisfarne](/en/blog/lindisfarne-raid).
+What makes the Gokstad ship so remarkable is the rare combination of archaeological quality and practical proof. While many Viking ship finds mostly raise questions, the 1893 replica answered one of the central questions in Viking scholarship with wind, water, and a four-week Atlantic crossing: yes, these ships really could conquer the open ocean. If you want to see what ships like this one could do when used as weapons of attack rather than as grave goods, check out our article on the [raid on Lindisfarne](/en/blog/lindisfarne-raid/).
 
 Our take: precisely because the grave was looted and the man buried inside remains nameless, the Gokstad find shows just how much can still be learned about the Viking Age purely from shipbuilding, burial ritual, and experimental archaeology - even without ever answering the one question everyone really wants answered: who was actually lying there.

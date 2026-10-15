@@ -43,7 +43,7 @@ The leek deserves a closer look. Old Norse *geirlaukr*, literally "spear-leek", 
 
 > If the smell of leek rose from a belly wound, the man was given up for lost. A crude test, but a clever one: it revealed whether the gut had been pierced.
 
-**Myth versus fact.** The myth says Norse food was bland, unseasoned, all porridge and boiled meat. The fact is that they had salt, mustard, horseradish, leeks, dill, juniper and, along the trade routes, even coriander. What they lacked were the expensive eastern spices, pepper and cinnamon, which only arrived in quantity later in the Middle Ages. For the full picture of the northern spice cupboard, see our piece on [herbs and spices in the Viking kitchen](/en/blog/viking-herbs-spices-cooking).
+**Myth versus fact.** The myth says Norse food was bland, unseasoned, all porridge and boiled meat. The fact is that they had salt, mustard, horseradish, leeks, dill, juniper and, along the trade routes, even coriander. What they lacked were the expensive eastern spices, pepper and cinnamon, which only arrived in quantity later in the Middle Ages. For the full picture of the northern spice cupboard, see our piece on [herbs and spices in the Viking kitchen](/en/blog/viking-herbs-spices-cooking/).
 
 ## The Physics Behind the Viking Herb Butter Recipe
 
@@ -88,7 +88,7 @@ You will also want a large screw-top jar or a stand mixer, a fine sieve, and a b
 - **Keeping.** Well washed and properly salted, it holds about a week in the fridge, three months in the freezer.
 - **Butter refusing to form?** The cream was too warm or too lean. Below 30 percent fat little happens, and the leaner the cream, the less butter you are left with at the end. Ultra-pasteurised cream often will not churn at all.
 
-If this has given you an appetite for more: the recipe is a taste of a much larger collection. Our cookbook **"Viking Feast"** gathers 141 recipes from the Norse kitchen, from flatbread and feast-day roasts to brewing your own mead. [See the cookbook](/en/cookbook)
+If this has given you an appetite for more: the recipe is a taste of a much larger collection. Our cookbook **"Viking Feast"** gathers 141 recipes from the Norse kitchen, from flatbread and feast-day roasts to brewing your own mead. [See the cookbook](/en/cookbook/)
 
 ## Why It Is Worth the Effort
 
@@ -96,7 +96,7 @@ Our honest verdict after several rounds of testing: the historical thrill is not
 
 There is a second, practical payoff. Home-churned butter tastes stronger than the industrial version because nothing about it is standardised. It shifts with the cream, the season and what the cow has been eating. That variability, which the dairy industry spent a century engineering away, was simply normal to the people who made it a thousand years ago.
 
-It is at its best on something equally honest. A warm barley flatbread straight out of the pan, a thick smear of herb butter melting into it, and the evening is sorted. The flatbread takes 30 minutes and is written up in our [Viking flatbread recipe](/en/blog/viking-flatbread-recipe).
+It is at its best on something equally honest. A warm barley flatbread straight out of the pan, a thick smear of herb butter melting into it, and the evening is sorted. The flatbread takes 30 minutes and is written up in our [Viking flatbread recipe](/en/blog/viking-flatbread-recipe/).
 
 *Images: cover by ChrisHH (CC BY-SA 3.0), wild garlic butter by Sacha47 (CC BY-SA 4.0), via Wikimedia Commons*
 

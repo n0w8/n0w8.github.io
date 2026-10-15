@@ -45,7 +45,7 @@ Hör dir *Voor Odin* an, während du weiterliest:
 
 ## Odins Kinder: ein Vater, mehrere Mütter
 
-[Odin](/blog/odin-allvater-weisheit) ist der Knotenpunkt des gesamten Stammbaums, und er ist es auf eine Weise, die mittelalterliche Chronisten sichtlich in Verlegenheit brachte. Seine Kinder stammen von mindestens vier verschiedenen Frauen.
+[Odin](/blog/odin-allvater-weisheit/) ist der Knotenpunkt des gesamten Stammbaums, und er ist es auf eine Weise, die mittelalterliche Chronisten sichtlich in Verlegenheit brachte. Seine Kinder stammen von mindestens vier verschiedenen Frauen.
 
 Mit seiner Gemahlin **Frigg**, der Tochter Fjörgynns, hat er **Balder**, den strahlenden Gott, dessen Tod bei Snorri die Lawine Richtung Ragnarök lostritt. Balder wiederum ist mit **Nanna** verheiratet, der Tochter des Nep, und beider Sohn **Forseti** gilt als Gott des Rechtsspruchs.
 
@@ -71,7 +71,7 @@ Freyr verliebt sich in die Riesentochter **Gerd** und gibt für sie sein Schwert
 
 ## Loki: der Zweig, der alles sprengt
 
-[Loki](/blog/loki-trickster-gott) steht in jeder Übersicht bei den Göttern, und er gehört dort nicht hin. Er ist der Sohn des Riesen **Fárbauti** und der **Laufey**, hat zwei Brüder namens Býleistr und Helblindi und wird nur deshalb in Asgard geduldet, weil Odin ihn zum Blutsbruder genommen hat. In der *Lokasenna* erinnert Loki den Allvater genau daran, als es eng wird.
+[Loki](/blog/loki-trickster-gott/) steht in jeder Übersicht bei den Göttern, und er gehört dort nicht hin. Er ist der Sohn des Riesen **Fárbauti** und der **Laufey**, hat zwei Brüder namens Býleistr und Helblindi und wird nur deshalb in Asgard geduldet, weil Odin ihn zum Blutsbruder genommen hat. In der *Lokasenna* erinnert Loki den Allvater genau daran, als es eng wird.
 
 Seine Nachkommenschaft ist die gefährlichste Linie des ganzen Systems. Mit der Riesin **Angrboda** zeugt er drei Kinder, die jeweils eine Weltgegend bedrohen: den Wolf **Fenrir**, die Weltenschlange **Jörmungand** und **Hel**, die Herrin der Toten. Mit seiner Ehefrau **Sigyn** hat er zwei Söhne, Narfi und Váli, und die Strafe der Götter nutzt genau diese Verwandtschaft: Váli wird in einen Wolf verwandelt und zerreißt seinen Bruder, mit dessen Gedärmen Loki an den Fels gebunden wird.
 

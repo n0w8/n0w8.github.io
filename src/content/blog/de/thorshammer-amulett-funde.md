@@ -16,7 +16,7 @@ draft: false
 
 Ein neuer Thorshammer-Amulett-Fund ist in Skandinavien längst keine Sensation mehr, sondern Routine. Detektorgänger, Baggerfahrer und Grabungsteams melden Jahr für Jahr neue Exemplare, und in den Magazinen der großen Museen liegen sie zu Hunderten. Genau deshalb sind sie so wertvoll. Wo Mythen nur erzählt werden, ist dieses Material hart messbar: Man kann die Hämmer zählen, kartieren, datieren und ihren Grabkontext auswerten. Und was dabei herauskommt, deckt sich nur teilweise mit dem populären Bild vom hammertragenden Kriegerwikinger.
 
-Dieser Artikel schaut deshalb bewusst nicht auf den Mythos, sondern auf das Fundmaterial. Über die religiöse Bedeutung von Mjölnir haben wir [an anderer Stelle](/blog/mjoelnir-thors-hammer-schutzsymbol) ausführlich geschrieben. Hier geht es um die Objekte selbst: wie viele es gibt, wo sie liegen, wann sie auftauchen, wann sie verschwinden, und welche wenigen Einzelstücke die Forschung wirklich weitergebracht haben.
+Dieser Artikel schaut deshalb bewusst nicht auf den Mythos, sondern auf das Fundmaterial. Über die religiöse Bedeutung von Mjölnir haben wir [an anderer Stelle](/blog/mjoelnir-thors-hammer-schutzsymbol/) ausführlich geschrieben. Hier geht es um die Objekte selbst: wie viele es gibt, wo sie liegen, wann sie auftauchen, wann sie verschwinden, und welche wenigen Einzelstücke die Forschung wirklich weitergebracht haben.
 
 ## Was als Thorshammer-Amulett-Fund überhaupt zählt
 
@@ -40,7 +40,7 @@ Besonders aufschlussreich sind die Randzonen. In England hat das Portable Antiqu
 
 *Bildquelle: Lincolnshire County Council, Adam Daubney, Portable Antiquities Scheme (CC BY-SA 4.0), via Wikimedia Commons*
 
-Diese weite Streuung sagt allerdings weniger über Missionierung oder Glaubenskämpfe aus, als man vermuten könnte. Sie sagt vor allem etwas über Handel. Hammeranhänger reisten mit denselben Menschen und auf denselben Routen wie Silberbarren, Perlen und Waagen, und sie tauchen bevorzugt dort auf, wo auch andere skandinavische Importgüter liegen: an Handelsplätzen, Flussmündungen und Umschlagorten wie [Birka](/blog/birka-schwedens-erste-stadt).
+Diese weite Streuung sagt allerdings weniger über Missionierung oder Glaubenskämpfe aus, als man vermuten könnte. Sie sagt vor allem etwas über Handel. Hammeranhänger reisten mit denselben Menschen und auf denselben Routen wie Silberbarren, Perlen und Waagen, und sie tauchen bevorzugt dort auf, wo auch andere skandinavische Importgüter liegen: an Handelsplätzen, Flussmündungen und Umschlagorten wie [Birka](/blog/birka-schwedens-erste-stadt/).
 
 Hör dir *Þórr* an, während du weiterliest, das Stück zum Gott hinter diesen Amuletten:
 

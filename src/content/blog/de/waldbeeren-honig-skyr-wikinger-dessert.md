@@ -22,7 +22,7 @@ Zucker war in Skandinavien des 9. Jahrhunderts schlicht nicht vorhanden. Wer sü
 
 Genau diese Knappheit macht den Honig zum Schlüssel für jedes süße Gericht der Epoche. Ein Klecks Honig über Beeren oder Milchspeisen war kein Alltag, sondern ein kleines Fest. Wer heute großzügig aus der Honigflasche über sein Dessert kreist, gönnt sich einen Luxus, für den ein Bauer der Wikingerzeit gutes Silber hingelegt hätte.
 
-Die zweite Süße des Nordens lieferte die Natur gratis: Beeren. Himbeeren, Brombeeren, Heidelbeeren, Holunder und Schlehen wuchsen an Waldrändern und Mooren, kosteten nichts außer Sammelzeit und waren im August und September in Mengen verfügbar. In einer Ernährung, die stark auf Getreide, Fisch und Fleisch beruhte, waren sie zugleich eine wichtige Vitaminquelle - einen Überblick über den gesamten Speiseplan gibt unser Artikel zur [Ernährung der Wikinger](/blog/wikinger-ernaehrung-essen).
+Die zweite Süße des Nordens lieferte die Natur gratis: Beeren. Himbeeren, Brombeeren, Heidelbeeren, Holunder und Schlehen wuchsen an Waldrändern und Mooren, kosteten nichts außer Sammelzeit und waren im August und September in Mengen verfügbar. In einer Ernährung, die stark auf Getreide, Fisch und Fleisch beruhte, waren sie zugleich eine wichtige Vitaminquelle - einen Überblick über den gesamten Speiseplan gibt unser Artikel zur [Ernährung der Wikinger](/blog/wikinger-ernaehrung-essen/).
 
 ## Beeren im Bodenarchiv: Was Ausgrabungen verraten
 
@@ -83,9 +83,9 @@ Außerdem: ein kleiner Topf, ein Schneebesen und vier Schalen - Holz oder Steing
 - **Winterversion:** Tiefkühlbeeren funktionieren hervorragend, sie dürfen direkt gefroren in den Topf. Dann 2 bis 3 Minuten länger köcheln.
 - **Ohne Skyr:** Griechischer Joghurt oder Quark mit einem Schuss Zitronensaft kommt dem säuerlichen Charakter am nächsten.
 - **Herber Akzent:** Eine Handvoll Holunderbeeren oder ein paar zerdrückte Wacholderbeeren im Kompott bringen den Geschmack noch näher an den Waldrand der Wikingerzeit.
-- **Mehr Süße aus dem Ofen:** Wer den Norden lieber warm mag, findet in unseren [gebackenen Äpfeln mit Honig](/blog/gebackene-aepfel-mit-honig) das passende Schwesterrezept.
+- **Mehr Süße aus dem Ofen:** Wer den Norden lieber warm mag, findet in unseren [gebackenen Äpfeln mit Honig](/blog/gebackene-aepfel-mit-honig/) das passende Schwesterrezept.
 
-Wenn dich diese Küche packt: In unserem Kochbuch **"Wikinger Festmahl - Das große Wikinger-Kochbuch"** warten 141 Rezepte des Nordens, von Fladenbrot über Festbraten bis zu Met und süßen Vorratsschätzen. [Zum Kochbuch](/kochbuch)
+Wenn dich diese Küche packt: In unserem Kochbuch **"Wikinger Festmahl - Das große Wikinger-Kochbuch"** warten 141 Rezepte des Nordens, von Fladenbrot über Festbraten bis zu Met und süßen Vorratsschätzen. [Zum Kochbuch](/kochbuch/)
 
 ## Ein Löffel Spätsommer
 

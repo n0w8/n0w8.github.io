@@ -24,7 +24,7 @@ Dass wir überhaupt so genau wissen, wie das Brot der Wikinger aussah, verdanken
 
 Gerste war das Getreide des Nordens. Weizen braucht Wärme und lange Sommer - im kühlen Skandinavien wuchs er nur in wenigen Gegenden und blieb Luxus. Gerste dagegen ist genügsam, reift schnell und übersteht auch einen rauen Sommer. Gemahlen wurde sie mühsam von Hand: Drehmühlen aus Stein gehörten zur Ausstattung praktisch jedes Hofes, und der Abrieb der Mahlsteine landete unweigerlich mit im Mehl. Skelettfunde zeigen die Folge - stark abgeschliffene Zähne, bei fast allen Erwachsenen.
 
-Gebacken wurde direkt am Herdfeuer in der Mitte des Langhauses: auf flachen Steinplatten, in Asche oder in flachen Eisenpfannen mit langem Stiel, wie sie in mehreren Gräbern gefunden wurden. Frisches Fladenbrot war dabei Alltagsware und Reiseproviant zugleich - haltbar, nahrhaft und leicht zu stapeln. Auch an Bord der [Langschiffe](/blog/das-langschiff) gehörte hartes Brot neben Trockenfisch zur Standardverpflegung auf langen Fahrten.
+Gebacken wurde direkt am Herdfeuer in der Mitte des Langhauses: auf flachen Steinplatten, in Asche oder in flachen Eisenpfannen mit langem Stiel, wie sie in mehreren Gräbern gefunden wurden. Frisches Fladenbrot war dabei Alltagsware und Reiseproviant zugleich - haltbar, nahrhaft und leicht zu stapeln. Auch an Bord der [Langschiffe](/blog/das-langschiff/) gehörte hartes Brot neben Trockenfisch zur Standardverpflegung auf langen Fahrten.
 
 Und wer buk das alles? Nach allem, was wir wissen, lag das Backen wie der gesamte Haushalt in den Händen der Hausherrin. Die Frau des Hofes trug die Schlüssel zu den Vorratskammern am Gürtel - ein Zeichen echter Macht, denn wer die Vorräte verwaltete, entschied im Norden über Leben und Tod im Winter. Das tägliche Brot war Frauensache, und es war eine Daueraufgabe: Ohne Konservierungsmöglichkeiten für weiches Brot wurde praktisch jeden Tag frisch gebacken.
 
@@ -67,7 +67,7 @@ Noch ein Wort zum Gerstenmehl, falls du es zum ersten Mal verwendest: Es schmeck
 - **Aufbewahren:** Luftdicht verpackt halten die Fladen 2 bis 3 Tage. Kurz in der Pfanne aufgefrischt schmecken sie wie neu.
 - **Fladen zu trocken oder brüchig?** Dann war entweder zu wenig Wasser im Teig oder die Pfanne zu lange im Einsatz. Gerstenteig verzeiht ein bisschen mehr Feuchtigkeit - lieber einen Hauch klebriger starten und beim Ausrollen nachmehlen.
 
-Wenn dir dieses Rezept Lust auf mehr gemacht hat: Es ist eine Kostprobe aus unserer Sammlung. Im Kochbuch **"Wikinger Festmahl - Das große Wikinger-Kochbuch"** findest du 141 Rezepte der nordischen Küche - vom Honigbrot über Festtagsgerichte bis zum passenden Met. [Zum Kochbuch](/kochbuch)
+Wenn dir dieses Rezept Lust auf mehr gemacht hat: Es ist eine Kostprobe aus unserer Sammlung. Im Kochbuch **"Wikinger Festmahl - Das große Wikinger-Kochbuch"** findest du 141 Rezepte der nordischen Küche - vom Honigbrot über Festtagsgerichte bis zum passenden Met. [Zum Kochbuch](/kochbuch/)
 
 | Getreide | Anbau im Norden | Typische Verwendung zur Wikingerzeit |
 |---|---|---|
@@ -80,7 +80,7 @@ Wenn dir dieses Rezept Lust auf mehr gemacht hat: Es ist eine Kostprobe aus unse
 
 ## Brot, das verbindet
 
-Ein Fladen aus der heißen Pfanne, etwas Butter, dazu Honig oder ein Stück Käse - viel näher kannst du dem Alltag eines nordischen Hofes vor tausend Jahren kulinarisch kaum kommen. Während in den Sagas Könige und [Krieger](/blog/berserker-wikinger) die großen Auftritte haben, war es dieses unscheinbare Brot, das den Norden tatsächlich am Leben hielt. Backe es einmal selbst, und du verstehst, warum man es den Toten mit auf die letzte Reise gab.
+Ein Fladen aus der heißen Pfanne, etwas Butter, dazu Honig oder ein Stück Käse - viel näher kannst du dem Alltag eines nordischen Hofes vor tausend Jahren kulinarisch kaum kommen. Während in den Sagas Könige und [Krieger](/blog/berserker-wikinger/) die großen Auftritte haben, war es dieses unscheinbare Brot, das den Norden tatsächlich am Leben hielt. Backe es einmal selbst, und du verstehst, warum man es den Toten mit auf die letzte Reise gab.
 
 ![Dünne nordische Fladenbrote auf Holz](/images/wikinger-fladenbrot-wm.jpg)
 

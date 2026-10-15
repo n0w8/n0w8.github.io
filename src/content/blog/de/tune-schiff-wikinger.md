@@ -30,8 +30,8 @@ Die geborgenen Hölzer gingen anschließend nach Christiania, wo sie über Jahrz
 |---|---|
 | um 900 | Bau des Schiffs aus Eichenholz, kurz darauf Bestattung im Hügel |
 | 1867 | Ausgrabung durch Oluf Rygh, erste Wikingerschiff-Grabung Norwegens |
-| 1880 | Fund des [Gokstad-Schiffs](/blog/gokstad-schiff), methodischer Wendepunkt |
-| 1904/05 | Ausgrabung des [Oseberg-Schiffs](/blog/oseberg-schiff), der reichste Fund |
+| 1880 | Fund des [Gokstad-Schiffs](/blog/gokstad-schiff/), methodischer Wendepunkt |
+| 1904/05 | Ausgrabung des [Oseberg-Schiffs](/blog/oseberg-schiff/), der reichste Fund |
 | 1932 | Das Tune-Schiff bezieht seinen Platz im Wikingerschiffshaus auf Bygdøy |
 | 2016 | Vollständiger 3D-Scan des erhaltenen Rumpfes |
 | ab 2021 | Neubau des Museums um die Schiffe herum, Halle für Publikum geschlossen |

@@ -62,11 +62,11 @@ Norse mythology never had one single, unified afterlife. It had several, sometim
 | Ran's realm | those drowned at sea, in some sources | the sea giantess Ran |
 | The burial mound | some sagas describe the dead remaining in their own mound | - |
 
-Our assessment, after comparing the sources: this division was less a carefully engineered theology than a collection of local and literary ideas that Snorri only pulled into a semblance of order in the 13th century. For ordinary people in the Viking Age, Helheim was probably just the sober, unremarkable default expectation, not something anyone spent much time worrying about while healthy. For the far more famous alternative, see our article on [Valhalla and the fallen warriors](/en/blog/valhalla-hall-fallen-warriors).
+Our assessment, after comparing the sources: this division was less a carefully engineered theology than a collection of local and literary ideas that Snorri only pulled into a semblance of order in the 13th century. For ordinary people in the Viking Age, Helheim was probably just the sober, unremarkable default expectation, not something anyone spent much time worrying about while healthy. For the far more famous alternative, see our article on [Valhalla and the fallen warriors](/en/blog/valhalla-hall-fallen-warriors/).
 
 ## Helheim and Ragnarok: the End of the Underworld
 
-Helheim is not a permanently stable place. At **Ragnarok**, the end of the world, the underworld itself breaks open: the ship **Naglfar**, built from the nails of the dead, sets sail from there, and the hound Garm tears free of his chain at Gnipahellir. Even death, the mythology suggests, is not a final resting state but part of a cycle that stirs again at the end of time. Our article on [Ragnarok and the fall of the gods](/en/blog/ragnarok) covers that connection in more depth.
+Helheim is not a permanently stable place. At **Ragnarok**, the end of the world, the underworld itself breaks open: the ship **Naglfar**, built from the nails of the dead, sets sail from there, and the hound Garm tears free of his chain at Gnipahellir. Even death, the mythology suggests, is not a final resting state but part of a cycle that stirs again at the end of time. Our article on [Ragnarok and the fall of the gods](/en/blog/ragnarok/) covers that connection in more depth.
 
 ## What Helheim Reveals About the Norse Worldview
 

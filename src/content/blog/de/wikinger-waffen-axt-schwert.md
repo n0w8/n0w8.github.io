@@ -30,7 +30,7 @@ Nein, das Gegenteil ist eher zutreffend: Die **Axt** war die eigentliche Hauptwa
 
 Der eindrucksvollste archäologische Beleg für die handwerkliche Raffinesse dieser Waffengattung ist die sogenannte **Mammen-Axt**, gefunden 1868 in einem reich ausgestatteten Grab bei Mammen in Dänemark, datiert auf etwa 970/971 n. Chr. Die Axt trägt aufwendige Einlegearbeiten aus Silber in einem Stil, der der Kunstrichtung ihren Namen gab, dem sogenannten Mammen-Stil. Sie zeigt: Auch Äxte konnten Prestigeobjekte höchsten Ranges sein, keineswegs nur billige Behelfswaffen. Gleichzeitig belegen zahllose einfachere, unverzierte Axtköpfe aus Gräbern in ganz Skandinavien, dass die überwiegende Mehrheit dieser Waffen schlicht funktional war - geschmiedet für den Alltag, notfalls für die Schlacht.
 
-Wer sich für die berühmtesten Kämpfer dieser Waffengattung interessiert, sollte einen Blick auf die [Berserker](/blog/berserker-wikinger) werfen, deren Ruf als furchtlose Krieger untrennbar mit dem Bild der schweren Kampfaxt verbunden ist - auch wenn die Realität hinter diesem Mythos komplizierter ist, als die Sagas vermuten lassen.
+Wer sich für die berühmtesten Kämpfer dieser Waffengattung interessiert, sollte einen Blick auf die [Berserker](/blog/berserker-wikinger/) werfen, deren Ruf als furchtlose Krieger untrennbar mit dem Bild der schweren Kampfaxt verbunden ist - auch wenn die Realität hinter diesem Mythos komplizierter ist, als die Sagas vermuten lassen.
 
 ## Waren Ulfberht-Schwerter tatsächlich magisch überlegen?
 
@@ -73,6 +73,6 @@ Diese Nivellierung passt gut zu Videospielen, die aus Balance-Gründen ohnehin j
 
 Die archäologische Beweislage, von den Silbereinlagen der Mammen-Axt über die metallurgische Präzision der Ulfberht-Klingen bis zu den leichten Schildkonstruktionen aus Gokstad, zeichnet ein Bild, das komplexer und interessanter ist als jedes Filmklischee. **Wikinger Waffen** waren keine uniforme Ausrüstung, sondern ein fein austariertes System aus Werkzeug, Statussymbol und importierter Hochtechnologie - geformt von Handelsrouten bis nach Bagdad, von norwegischen Schmiedewerkstätten und von einer Gesellschaft, in der man am Gürtel eines Mannes fast ablesen konnte, wer er war.
 
-Wer das nächste Mal einen Wikinger mit glänzendem Zweihandschwert über die Leinwand stürmen sieht, darf sich ruhig fragen, ob dieser Mann sich das Schwert überhaupt hätte leisten können - oder ob er in der historischen Realität eher mit einer schlichten Axt in der Hand gestanden hätte, die tags zuvor noch Brennholz gespalten hat. Wer sich für die Schiffe interessiert, mit denen diese Krieger überhaupt erst an fremde Küsten gelangten, findet dazu mehr im Artikel über [das Langschiff](/blog/das-langschiff).
+Wer das nächste Mal einen Wikinger mit glänzendem Zweihandschwert über die Leinwand stürmen sieht, darf sich ruhig fragen, ob dieser Mann sich das Schwert überhaupt hätte leisten können - oder ob er in der historischen Realität eher mit einer schlichten Axt in der Hand gestanden hätte, die tags zuvor noch Brennholz gespalten hat. Wer sich für die Schiffe interessiert, mit denen diese Krieger überhaupt erst an fremde Küsten gelangten, findet dazu mehr im Artikel über [das Langschiff](/blog/das-langschiff/).
 
 *Bildquelle: Unknown author (Public domain), via Wikimedia Commons*

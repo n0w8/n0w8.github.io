@@ -68,7 +68,7 @@ For 4 to 6 servings:
 - **Smoky flavor:** Without an open fire, smoked bacon or a piece of smoked fish carries the longhouse aroma onto the plate.
 - **Make it ahead:** Like every good stew, skause tastes even rounder reheated the next day.
 
-By the way, this recipe is just a taste: our cookbook **"Viking Feast"** holds 141 recipes from the Norse kitchen - from more cauldron dishes and feast-day roasts to bread and mead. [See the cookbook](/en/cookbook)
+By the way, this recipe is just a taste: our cookbook **"Viking Feast"** holds 141 recipes from the Norse kitchen - from more cauldron dishes and feast-day roasts to bread and mead. [See the cookbook](/en/cookbook/)
 
 | Into the Viking cauldron | Only reached Europe after 1500 |
 |---|---|
@@ -81,7 +81,7 @@ By the way, this recipe is just a taste: our cookbook **"Viking Feast"** holds 1
 
 ## The Dish That Carried the North
 
-From the farms of Iceland to the trading towns of the Baltic: the cauldron stew was the quiet fuel of the Viking Age. It warmed farmers after a day in the fields just as it warmed the men returning from long voyages on the [longship](/en/blog/the-longship), and at feasts in honor of the [Norse gods](/en/blog/norse-gods), the sacrificial cauldron hung over that same fire. When the scent of onions, caraway, and braised meat drifts through your kitchen, you are closer to that everyday world than any museum can take you.
+From the farms of Iceland to the trading towns of the Baltic: the cauldron stew was the quiet fuel of the Viking Age. It warmed farmers after a day in the fields just as it warmed the men returning from long voyages on the [longship](/en/blog/the-longship/), and at feasts in honor of the [Norse gods](/en/blog/norse-gods/), the sacrificial cauldron hung over that same fire. When the scent of onions, caraway, and braised meat drifts through your kitchen, you are closer to that everyday world than any museum can take you.
 
 ![Stew in cast-iron pots over an open fire at a Viking reenactment village](/images/wikinger-eintopf-wm.jpg)
 

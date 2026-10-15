@@ -38,7 +38,7 @@ Listen to *Midgard* while you read on:
 
 ## The Cat at Utgard
 
-The first meeting between [Thor](/en/blog/thor-norse-god-mjolnir) and the serpent is the only one Thor does not recognise while it is happening. In the Gylfaginning, Snorri sends the god to the stronghold of the giant king **Útgarða-Loki**, where he is set a series of contests that look trivial and turn out not to be.
+The first meeting between [Thor](/en/blog/thor-norse-god-mjolnir/) and the serpent is the only one Thor does not recognise while it is happening. In the Gylfaginning, Snorri sends the god to the stronghold of the giant king **Útgarða-Loki**, where he is set a series of contests that look trivial and turn out not to be.
 
 One of them is lifting a grey housecat off the floor. Thor grips, hauls with everything he has, and manages to raise exactly one paw. Only afterwards does the giant king admit what the guests were really looking at: the cat was Jormungandr, shrunk by illusion, and for a moment Thor came close to hoisting the world serpent out of the ocean. Útgarða-Loki says openly that the sight frightened him.
 
@@ -73,7 +73,7 @@ What matters here is the spread. Sweden, Denmark and Norse-settled northern Engl
 
 ## Ragnarok and the Nine Steps
 
-The third meeting settles everything. At [Ragnarok](/en/blog/ragnarok) Jormungandr releases its own tail and comes ashore. The Völuspá describes the sea rising over the coasts as the enormous body begins to move, and the air itself turning poisonous.
+The third meeting settles everything. At [Ragnarok](/en/blog/ragnarok/) Jormungandr releases its own tail and comes ashore. The Völuspá describes the sea rising over the coasts as the enormous body begins to move, and the air itself turning poisonous.
 
 Thor and the serpent meet for the last time, and this time no frightened giant is standing by to cut the line. Thor kills it with Mjolnir. Then he walks nine paces and falls dead, poisoned by the breath of the creature he has just destroyed.
 

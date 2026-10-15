@@ -23,7 +23,7 @@ Das altnordische Wort *valkyrja* bedeutet wörtlich "Wählerin der Gefallenen" -
 
 Das ist eine gewaltige Machtvorstellung. Denk kurz darüber nach: Nicht die Klinge des Feindes, nicht Glück oder Geschick besiegeln das Los eines Kriegers, sondern der Blick einer übernatürlichen Frau, die schon vor der Schlacht weiß, wer nicht heimkehren wird. In einer Kriegerkultur wie der nordischen war das eine der beunruhigendsten und zugleich tröstlichsten Vorstellungen überhaupt.
 
-Die frühesten Belege zeichnen ein finsteres Bild. In manchen Quellen sind die Walküren keine schönen Jungfrauen, sondern raubgierige Todesgeister, verwandt mit den Raben, die über den Leichen kreisen. Sie gehören zur selben Welt wie die **Nornen**, jene drei Schicksalsfrauen am Fuße Yggdrasils, die im Gefüge der [nordischen Götter](/blog/nordische-goetter) über allem Werden und Vergehen wachen. Wo die Nornen das Leben weben, weben die Walküren, so scheint es, den Tod.
+Die frühesten Belege zeichnen ein finsteres Bild. In manchen Quellen sind die Walküren keine schönen Jungfrauen, sondern raubgierige Todesgeister, verwandt mit den Raben, die über den Leichen kreisen. Sie gehören zur selben Welt wie die **Nornen**, jene drei Schicksalsfrauen am Fuße Yggdrasils, die im Gefüge der [nordischen Götter](/blog/nordische-goetter/) über allem Werden und Vergehen wachen. Wo die Nornen das Leben weben, weben die Walküren, so scheint es, den Tod.
 
 ## Die "Wählerinnen der Gefallenen"
 
@@ -39,7 +39,7 @@ Und doch liegt in dieser Auswahl auch eine seltsame Ehre. Von einer Walküre erw
 
 Hier kommt Odin ins Spiel. Denn die Walküren handeln nicht aus eigener Laune - sie sind Dienerinnen des **Allvaters**.
 
-Odin sammelt die Gefallenen aus einem einzigen, kühlen Grund: Er rüstet sich für [Ragnarök](/blog/ragnaroek), die letzte Schlacht, in der die Götter untergehen werden. Dafür braucht er ein Heer. Die auserwählten Toten, die **Einherjer** ("die allein Kämpfenden" oder "die Einzelkämpfer"), wohnen in Walhall, der gewaltigen Halle mit ihren 540 Toren, deren Dach aus goldenen Schilden besteht.
+Odin sammelt die Gefallenen aus einem einzigen, kühlen Grund: Er rüstet sich für [Ragnarök](/blog/ragnaroek/), die letzte Schlacht, in der die Götter untergehen werden. Dafür braucht er ein Heer. Die auserwählten Toten, die **Einherjer** ("die allein Kämpfenden" oder "die Einzelkämpfer"), wohnen in Walhall, der gewaltigen Halle mit ihren 540 Toren, deren Dach aus goldenen Schilden besteht.
 
 Und was tun sie dort? Snorri Sturluson beschreibt es in der **Prosa-Edda** mit fast makabrer Freude: Jeden Tag ziehen die Einherjer aus, um gegeneinander zu kämpfen und sich zu erschlagen. Jeden Abend stehen alle wieder auf, heil und unversehrt, und feiern gemeinsam beim Gelage. Sie essen das ewig nachwachsende Fleisch des Ebers Sæhrímnir und trinken den Met, der aus dem Euter der Ziege Heiðrún fließt.
 

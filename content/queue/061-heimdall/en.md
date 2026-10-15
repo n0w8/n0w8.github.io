@@ -61,11 +61,11 @@ That is the entire surviving fragment. Snorri does not say who the nine women we
 
 ## Seals, a Stolen Necklace, and a Final Duel
 
-The one story in which Heimdall acts rather than watches survives only in pieces. Around 985 the skald **Úlfr Uggason** performed his **Húsdrápa** at a wedding feast at Hjarðarholt in Iceland, describing the carved scenes on the walls of the hall. One of those scenes shows Heimdall and [Loki](/en/blog/loki-trickster-god) in the shape of seals, fighting at a rock called Singasteinn over Freyja's necklace, the Brísingamen.
+The one story in which Heimdall acts rather than watches survives only in pieces. Around 985 the skald **Úlfr Uggason** performed his **Húsdrápa** at a wedding feast at Hjarðarholt in Iceland, describing the carved scenes on the walls of the hall. One of those scenes shows Heimdall and [Loki](/en/blog/loki-trickster-god/) in the shape of seals, fighting at a rock called Singasteinn over Freyja's necklace, the Brísingamen.
 
 Snorri quotes the verse in the *Skáldskaparmál* and records the poetic conventions that go with it: Heimdall may be called the visitor of Vágasker and Singasteinn and the enemy of Loki, while Loki may be called the thief of the Brísingamen. The myth is gone, in other words, but the shorthand for it survived. How Loki got hold of the necklace, why Heimdall of all gods went after it, and what made either of them take the form of a seal, no surviving text explains. That is not a gap in the storytelling, it is a straightforward loss of manuscript.
 
-The account between the two is settled at the end of the world. In the *Gylfaginning* Snorri has Heimdall and Loki meet during [Ragnarök](/en/blog/ragnarok) and kill one another. The guardian of boundaries and the god who exists to cross them cancel each other out, and neither walks away.
+The account between the two is settled at the end of the world. In the *Gylfaginning* Snorri has Heimdall and Loki meet during [Ragnarök](/en/blog/ragnarok/) and kill one another. The guardian of boundaries and the god who exists to cross them cancel each other out, and neither walks away.
 
 ## Rígsþula: The Watchman as Ancestor of Humankind
 

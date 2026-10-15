@@ -22,13 +22,13 @@ The dragon ships get the sagas. The pea gets forgotten. Yet when archaeobotanist
 
 In a world without refrigeration, that last point decided winters. Fresh meat clustered around the autumn slaughter; fish depended on the catch. Dried peas simply waited in the storage pit until needed, and they delivered serious protein in a diet where meat was not a daily guest. If the Viking Age had ranked its foods by lives saved, the humble pea would sit near the top.
 
-The poetry knows this plain fare too. The Eddic poem Rigsthula, which walks through the households of Norse society, sets a heavy, bran-filled loaf and a bowl of broth on the table of the common folk. That bowl is the world our soup comes from: what simmered over the embers was rarely a roast and very often a porridge or stew built from whatever the stores could spare. We have mapped that everyday table in our article on the [Viking diet](/en/blog/viking-food-diet).
+The poetry knows this plain fare too. The Eddic poem Rigsthula, which walks through the households of Norse society, sets a heavy, bran-filled loaf and a bowl of broth on the table of the common folk. That bowl is the world our soup comes from: what simmered over the embers was rarely a roast and very often a porridge or stew built from whatever the stores could spare. We have mapped that everyday table in our article on the [Viking diet](/en/blog/viking-food-diet/).
 
 ## Why a Viking Pea Soup Recipe Still Works Today
 
 Strip away the romance and the logic is bulletproof. One pot. Ingredients that store for months. A dish that simmers unattended for hours, forgives every interruption, and tastes better on day two. That is precisely how you cook when the hearth in the middle of the house burns around the clock and people drift in hungry from field, fjord, and forge at different times. The iron cauldron on its chain, or the carved soapstone pot beside the embers, was built for exactly this kind of patience.
 
-Smoked meat completes the equation. To keep pork through the winter, the Norse salted it, dried it, or hung it in the smoke under the roof. Boil a piece of that with peas and it seasons the entire cauldron - a trick that has survived unchanged into every good pea soup on earth. Our honest editorial take, after cooking our way through the Norse repertoire: pea soup is the most underrated dish of the Viking kitchen. The famous [cauldron stew skause](/en/blog/viking-stew-skause) gets the glory, but the pea almost certainly fed more Norse mouths than any cut of meat ever did.
+Smoked meat completes the equation. To keep pork through the winter, the Norse salted it, dried it, or hung it in the smoke under the roof. Boil a piece of that with peas and it seasons the entire cauldron - a trick that has survived unchanged into every good pea soup on earth. Our honest editorial take, after cooking our way through the Norse repertoire: pea soup is the most underrated dish of the Viking kitchen. The famous [cauldron stew skause](/en/blog/viking-stew-skause/) gets the glory, but the pea almost certainly fed more Norse mouths than any cut of meat ever did.
 
 ## From Storage Pit to Thursday Ritual
 
@@ -70,7 +70,7 @@ Serves 4 to 6:
 4. **Add the vegetables.** Add the onions, leek, carrots, parsnip or rutabaga, and thyme. Simmer for another 30 to 45 minutes, until the peas collapse and the soup turns thick and creamy.
 5. **Shred the pork.** Lift out the meat, cut or pull it into bite-sized pieces, and return it to the pot.
 6. **Season.** Now taste and adjust with salt and pepper. Too thick? Add a splash of water. Too thin? Simmer uncovered for a few minutes - it thickens on its own.
-7. **Serve.** Scatter chopped parsley or dill on top and serve with a spoonful of coarse mustard on the side. [Viking flatbread](/en/blog/viking-flatbread-recipe) straight from the pan is the natural companion.
+7. **Serve.** Scatter chopped parsley or dill on top and serve with a spoonful of coarse mustard on the side. [Viking flatbread](/en/blog/viking-flatbread-recipe/) straight from the pan is the natural companion.
 
 ## Tips & Variations
 
@@ -80,7 +80,7 @@ Serves 4 to 6:
 - **The mustard move:** In Sweden, everyone stirs their own mustard into the bowl at the table. Try it - the gentle heat lifts the sweetness of the peas noticeably.
 - **Batch cooking:** Pea soup freezes beautifully and tastes even rounder reheated. Add a splash of water when warming it up, because it keeps thickening as it stands.
 
-If this style of cooking speaks to you, our cookbook **"Viking Feast"** goes much deeper: 141 recipes from the Norse kitchen, from cauldron dishes and feast-day roasts to bread and mead. [See the cookbook](/en/cookbook)
+If this style of cooking speaks to you, our cookbook **"Viking Feast"** goes much deeper: 141 recipes from the Norse kitchen, from cauldron dishes and feast-day roasts to bread and mead. [See the cookbook](/en/cookbook/)
 
 ## A Spoonful of the North
 

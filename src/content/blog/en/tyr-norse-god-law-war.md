@@ -28,7 +28,7 @@ In *Skaldskaparmal*, Snorri's handbook for poets, the approved ways to name him 
 
 ## The Binding of Fenrir: A Legal Case With Teeth
 
-The one full narrative sits in *Gylfaginning*, and it reads like litigation. The gods had raised [Fenrir](/en/blog/fenrir-wolf-mythology), Loki's wolf son, inside Asgard on the theory that they could watch him there, and only Tyr was willing to walk up and feed him. When the animal grew faster than expected and the prophecies sharpened, the gods decided to bind him.
+The one full narrative sits in *Gylfaginning*, and it reads like litigation. The gods had raised [Fenrir](/en/blog/fenrir-wolf-mythology/), Loki's wolf son, inside Asgard on the theory that they could watch him there, and only Tyr was willing to walk up and feed him. When the animal grew faster than expected and the prophecies sharpened, the gods decided to bind him.
 
 Twice they tried it openly. The fetter **Laeding** burst at the wolf's first stretch, and **Dromi**, twice as strong, went the same way. Snorri records that both became proverbs for anyone who forces their way out of a tight spot. The gods had now proved to Fenrir, twice, that he was stronger than their best work.
 
@@ -91,7 +91,7 @@ Georges Dumezil placed Tyr beside Odin in his trifunctional model: Odin rules by
 
 Our reading pushes further, and it is less flattering. Tyr's hand is not proof of courage. It is collateral on a lie. The gods knew they would never untie Fenrir when they accepted his condition, which makes the agreement a planned fraud from the first word, and the god responsible for oaths and procedure is the one who notarises it and pays for it. In the whole scene, the wolf is the only party who keeps his side of the deal.
 
-That fits what we know about Norse legal thinking from the [Thing assembly](/en/blog/viking-thing-assembly-law): law was not a moral condition but a process with a price attached. The Edda is not telling a hero story here. It is describing an order that holds only because somebody is willing to be personally liable for breaking it. That Tyr then nearly vanishes from the myths is the logical next chapter. A god whose authority rests on his word has little left to say after a night like that.
+That fits what we know about Norse legal thinking from the [Thing assembly](/en/blog/viking-thing-assembly-law/): law was not a moral condition but a process with a price attached. The Edda is not telling a hero story here. It is describing an order that holds only because somebody is willing to be personally liable for breaking it. That Tyr then nearly vanishes from the myths is the logical next chapter. A god whose authority rests on his word has little left to say after a night like that.
 
 **Myth versus fact, briefly sorted:**
 

@@ -37,4 +37,48 @@ Bevor ein Tag auf dem Feld, an Bord oder im Schildwall begann, stand im Norden e
 
 ## Der Tipp vom Skalden
 
-Im Sommer frische Beeren, im Winter eingekochte - die Nordleute kannten beides. Eine Handvoll gehackte Nüsse obendrauf macht den Brei zum Krieger-Frühstück. Süß geht übrigens auch zum Nachtisch: unsere [gebackenen Äpfel mit Honig](/blog/gebackene-aepfel-mit-honig).
+Im Sommer frische Beeren, im Winter eingekochte - die Nordleute kannten beides. Eine Handvoll gehackte Nüsse obendrauf macht den Brei zum Krieger-Frühstück. Süß geht übrigens auch zum Nachtisch: unsere [gebackenen Äpfel mit Honig](/blog/gebackene-aepfel-mit-honig/).
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Haferbrei mit Beeren: Das Frühstück der Nordmänner",
+  "description": "Cremiger Haferbrei mit Honig und Waldbeeren wie zur Wikingerzeit: gesundes Porridge-Rezept in 10 Minuten, mit nur 5 Zutaten.",
+  "image": "https://blog.nordwaldrecords.com/images/rezepte/recipe-porridge-1.webp",
+  "author": {
+    "@type": "Organization",
+    "name": "Nordweg"
+  },
+  "cookTime": "PT7M",
+  "datePublished": "2026-07-10",
+  "recipeCategory": "Hauptgericht",
+  "recipeCuisine": "Nordisch",
+  "keywords": "Wikinger Rezept, Porridge, Frühstück, Beeren, Hafer",
+  "recipeIngredient": [
+    "200 g Haferflocken",
+    "500 ml Milch oder Wasser",
+    "1 Prise Salz",
+    "2 EL Honig",
+    "100 g Beeren (z. B. Heidelbeeren, Himbeeren)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Haferflocken in Milch oder Wasser aufkochen."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bei kleiner Hitze 5 bis 7 Minuten quellen lassen."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Mit Honig süßen und die Beeren unterrühren."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Heiß servieren."
+    }
+  ]
+}
+</script>

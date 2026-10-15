@@ -42,7 +42,7 @@ What the sources agree on: Leif Erikson set out with a crew of roughly 35 men an
 - **Markland** ("Forest Land") - probably the coast of Labrador, densely wooded
 - **Vinland** ("Land of Wine" or "Pastureland" - the exact meaning is still debated) - where the crew wintered over
 
-The sagas describe Vinland as mild and fertile, with salmon "larger than any seen before" and wild grapes said to have given the land its name. None of this would have been possible without the right ship for the job - the shallow-draft, remarkably seaworthy [Viking longship](/en/blog/the-longship), equally at home on open ocean and coastal rivers.
+The sagas describe Vinland as mild and fertile, with salmon "larger than any seen before" and wild grapes said to have given the land its name. None of this would have been possible without the right ship for the job - the shallow-draft, remarkably seaworthy [Viking longship](/en/blog/the-longship/), equally at home on open ocean and coastal rivers.
 
 > The Grœnlendinga saga reports, in paraphrase, that Leif named the land after its three most notable resources - stone, timber, and wine - and sailed home to Greenland with a hold full of lumber and grapes, since usable timber was chronically scarce there.
 

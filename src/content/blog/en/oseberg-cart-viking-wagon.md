@@ -20,7 +20,7 @@ And here is the twist that most picture-book accounts skip: the Oseberg cart cou
 
 ## 1. One Oseberg Cart, No Second Example
 
-The wagon came out of the same chamber as the [Oseberg ship](/en/blog/oseberg-ship), excavated between 1904 and 1905 by the Norwegian archaeologist Gabriel Gustafson at the farm of Lille Oseberg in Vestfold. Tree-ring dating puts the burial chamber at **AD 834**, with the ship's timbers felled roughly fourteen years earlier. The cart almost certainly belongs to the same window, although its own construction date cannot be pinned down with quite the same confidence.
+The wagon came out of the same chamber as the [Oseberg ship](/en/blog/oseberg-ship/), excavated between 1904 and 1905 by the Norwegian archaeologist Gabriel Gustafson at the farm of Lille Oseberg in Vestfold. Tree-ring dating puts the burial chamber at **AD 834**, with the ship's timbers felled roughly fourteen years earlier. The cart almost certainly belongs to the same window, although its own construction date cannot be pinned down with quite the same confidence.
 
 Its survival was not down to Viking craftsmanship but to soil chemistry. The mound was built of dense blue clay that kept oxygen out and effectively pickled the contents. Wood, leather and textiles, the very materials that normally vanish within a generation or two, sat there for more than a thousand years. Without that accident, our picture of Norse woodworking would be almost entirely guesswork drawn from tool marks and post holes.
 
@@ -97,7 +97,7 @@ Because the two categories get blended constantly online, here is the split.
 
 That removable box leads somewhere unexpected. From tenth-century Denmark and the southern Baltic region archaeologists know a distinct burial type in which a wealthy woman was laid to rest not in a coffin but inside the detached body of a wagon. The box did two jobs: first a vehicle part, then a container for the dead.
 
-This places Oseberg in a wider pattern. Norse [ship burial](/en/blog/viking-burial-ship) and its relatives seem to run on a single recurring idea: death is a change of place, and a change of place needs a vehicle. Whether that vehicle was a ship, a sledge or a cart depended on region, season, wealth and probably on the role the deceased had held in life.
+This places Oseberg in a wider pattern. Norse [ship burial](/en/blog/viking-burial-ship/) and its relatives seem to run on a single recurring idea: death is a change of place, and a change of place needs a vehicle. Whether that vehicle was a ship, a sledge or a cart depended on region, season, wealth and probably on the role the deceased had held in life.
 
 The gender pattern is striking. Wagon-body graves are overwhelmingly female burials, and the Oseberg mound held two women. Whether that points to a specific link between wagon symbolism and women's ritual roles is discussed seriously in the literature, but it has not been settled.
 

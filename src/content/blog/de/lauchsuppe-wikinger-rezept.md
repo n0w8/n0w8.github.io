@@ -48,7 +48,7 @@ Und das fehlt gründlich. Aus der Wikingerzeit ist keine einzige Rezeptsammlung 
 
 Unsere ehrliche Einschätzung aus der Redaktionsküche: Diese Suppe ist deutlich interessanter, als ihr Name vermuten lässt, und das hängt an einem einzigen Handgriff. Wer Zwiebel und Lauch nur kurz anschwitzt, bekommt eine dünne, leicht scharfe Brühe. Wer sich dagegen eine halbe Stunde Zeit nimmt und beides in Butter fast schmelzen lässt, bekommt eine tiefe, fast fleischige Süße, obwohl kein Gramm Fleisch im Topf liegt. Genau das macht aus einem Notgericht ein gutes Gericht, und genau dafür hatte ein Kessel über offenem Feuer alle Zeit der Welt.
 
-Weglassen müssen wir dagegen einiges. Die Kartoffel kam erst Jahrhunderte später aus Amerika nach Europa und hat hier nichts verloren, auch wenn fast jedes moderne Lauchsuppenrezept sie als Bindung nutzt. Sahne aus dem Kühlregal ersetzen wir durch Sauerrahm oder Skyr, denn genau das stand im Norden zur Verfügung. Gebunden wird mit Gerste, dem dominierenden Getreide Skandinaviens in der Wikingerzeit. Pfeffer war über die Handelswege erreichbar, aber teuer und selten; näher am Alltag liegen Kümmel, Thymian und Senfkorn, wie wir sie im Überblick zu den [Kräutern und Gewürzen der Wikingerküche](/blog/wikinger-kraeuter-gewuerze-kueche) beschrieben haben.
+Weglassen müssen wir dagegen einiges. Die Kartoffel kam erst Jahrhunderte später aus Amerika nach Europa und hat hier nichts verloren, auch wenn fast jedes moderne Lauchsuppenrezept sie als Bindung nutzt. Sahne aus dem Kühlregal ersetzen wir durch Sauerrahm oder Skyr, denn genau das stand im Norden zur Verfügung. Gebunden wird mit Gerste, dem dominierenden Getreide Skandinaviens in der Wikingerzeit. Pfeffer war über die Handelswege erreichbar, aber teuer und selten; näher am Alltag liegen Kümmel, Thymian und Senfkorn, wie wir sie im Überblick zu den [Kräutern und Gewürzen der Wikingerküche](/blog/wikinger-kraeuter-gewuerze-kueche/) beschrieben haben.
 
 > **Der eine Handgriff, auf den es ankommt:** Zwiebel und Lauch bei kleiner Hitze schmoren, nicht bei großer Hitze bräunen. Sobald Röstaromen entstehen, schmeckt die Suppe nach gebratener Zwiebel statt nach dem, was sie sein soll: mild, süß, buttrig. Lieber zehn Minuten länger und den Deckel halb auflegen.
 
@@ -74,7 +74,7 @@ Für 4 Portionen:
 3. **Gerste zugeben.** Graupen und Kümmel einrühren, kurz mitschwitzen, dann mit der Brühe auffüllen.
 4. **Köcheln.** Thymianzweige einlegen und alles bei mittlerer Hitze 25 bis 30 Minuten leise köcheln lassen, bis die Gerste weich ist und die Suppe leicht sämig wird.
 5. **Abrunden.** Thymian entfernen, Topf vom Feuer nehmen und Sauerrahm oder Skyr einrühren. Ab hier nicht mehr aufkochen, sonst flockt die Milchsäure aus. Zum Schluss die letzte Butterflocke untermontieren.
-6. **Servieren.** Mit dem fein geschnittenen Lauchgrün bestreuen und heiß servieren, am besten mit einer dicken Scheibe [Roggenbrot nach Wikinger-Art](/blog/roggenbrot-rezept-wikinger).
+6. **Servieren.** Mit dem fein geschnittenen Lauchgrün bestreuen und heiß servieren, am besten mit einer dicken Scheibe [Roggenbrot nach Wikinger-Art](/blog/roggenbrot-rezept-wikinger/).
 
 ## Tipps & Variationen
 
@@ -85,7 +85,7 @@ Für 4 Portionen:
 - **Haltbarkeit:** Ohne Rahm gekocht hält sich die Suppe drei Tage im Kühlschrank und schmeckt am zweiten Tag sogar runder. Den Sauerrahm erst beim Aufwärmen einrühren.
 - **Dickere Suppe:** Statt Graupen 2 EL Gerstenmehl verwenden und gleich mit dem Gemüse anschwitzen.
 
-Dieses Rezept ist nur eine Kostprobe: In unserem Kochbuch **"Wikinger Festmahl"** warten 141 nordische Rezepte auf dich, vom Kesselgericht über Festtagsbraten bis zu Brot, Met und Wildkräuterküche. [Zum Kochbuch](/kochbuch)
+Dieses Rezept ist nur eine Kostprobe: In unserem Kochbuch **"Wikinger Festmahl"** warten 141 nordische Rezepte auf dich, vom Kesselgericht über Festtagsbraten bis zu Brot, Met und Wildkräuterküche. [Zum Kochbuch](/kochbuch/)
 
 ## Was im Kessel bleibt
 

@@ -32,7 +32,7 @@ Die ausführlichste Beschreibung der Halle selbst liefert das **Grímnismál** (
 
 Das Dach der Halle besteht, so das Gedicht, aus goldenen **Schilden**, gestützt von **Speeren** als Dachbalken, die Bänke sind mit Brustpanzern bedeckt. Es ist eine Architektur aus reiner Kriegsausrüstung - ein Gebäude, das aussieht, als sei es aus dem Schlachtfeld selbst errichtet worden. Man muss sich das bildlich vor Augen führen: kein Gold um des Goldes willen, sondern Waffen und Rüstungen, arrangiert wie Baumaterial. Die Halle *ist* der Krieg, nur in Architektur gegossen.
 
-Diese Zahl - 540 Tore, aus denen je 800 Krieger zugleich hervortreten - ist kein Zufall der Dichtung. Sie beziffert exakt die Streitmacht, die Odin am Tag von [Ragnarök](/blog/ragnaroek) gegen den Wolf Fenrir ins Feld führen wird: 432.000 Einherjer. Walhall ist also, streng genommen, keine Ruhestätte im landläufigen Sinn. Es ist eine Kaserne mit Ablaufdatum.
+Diese Zahl - 540 Tore, aus denen je 800 Krieger zugleich hervortreten - ist kein Zufall der Dichtung. Sie beziffert exakt die Streitmacht, die Odin am Tag von [Ragnarök](/blog/ragnaroek/) gegen den Wolf Fenrir ins Feld führen wird: 432.000 Einherjer. Walhall ist also, streng genommen, keine Ruhestätte im landläufigen Sinn. Es ist eine Kaserne mit Ablaufdatum.
 
 Bemerkenswert ist zudem, wo das Grímnismál Walhall verortet: in **Glaðsheimr**, "der Heimstatt der Freude", einem eigenen Bezirk innerhalb Asgards. Snorri Sturluson übernimmt in seiner Prosa-Edda diese Ortsangabe und ergänzt weitere Details, die das Gedicht nur andeutet - etwa, dass ein Wolf vor dem westlichen Tor der Halle hängt und ein Adler über ihr schwebt. Selbst die kleinsten Ausschmückungen folgen also einem Muster: Walhall ist durch und durch von Krieg und dessen Symbolen durchdrungen, bis in die Fassade hinein.
 
@@ -44,7 +44,7 @@ Zur literarischen Überlieferung kommt der archäologische Befund. Auf gotländi
 
 ## Odin und die Wahl der Gefallenen
 
-Wer aber entscheidet, wer überhaupt nach Walhall gelangt? Hier tritt Odin selbst in Erscheinung, gemeinsam mit den **Walküren**, jenen "Wählerinnen der Gefallenen", die auf dem Schlachtfeld reiten und bestimmen, wer sterben und wer nach Walhall geleitet werden soll. Ihre Geschichte, ihre Namen und ihre Rolle als Mundschenkinnen der Halle haben wir ausführlich in unserem Artikel über die [Walküren](/blog/walkueren) erzählt - hier reicht der Hinweis, dass Walhall ohne sie gar nicht denkbar ist. Odin trifft nicht allein die Auswahl; er ist auf seine Botinnen angewiesen, die durch das Kampfgetümmel reiten und mit einem Blick entscheiden, wessen Zeit gekommen ist.
+Wer aber entscheidet, wer überhaupt nach Walhall gelangt? Hier tritt Odin selbst in Erscheinung, gemeinsam mit den **Walküren**, jenen "Wählerinnen der Gefallenen", die auf dem Schlachtfeld reiten und bestimmen, wer sterben und wer nach Walhall geleitet werden soll. Ihre Geschichte, ihre Namen und ihre Rolle als Mundschenkinnen der Halle haben wir ausführlich in unserem Artikel über die [Walküren](/blog/walkueren/) erzählt - hier reicht der Hinweis, dass Walhall ohne sie gar nicht denkbar ist. Odin trifft nicht allein die Auswahl; er ist auf seine Botinnen angewiesen, die durch das Kampfgetümmel reiten und mit einem Blick entscheiden, wessen Zeit gekommen ist.
 
 Warum betreibt der Allvater diesen ganzen Aufwand? Die Antwort liegt in seiner Weisheit - und seiner Angst. Odin weiß durch Prophezeiung, dass Ragnarök kommt, und dass die Götter dabei eine gewaltige Streitmacht aus Riesen, Ungeheuern und den Toten Helheims gegenüberstehen werden. Also sammelt er, so lange er kann, die tapfersten der gefallenen Krieger und rüstet sie in Walhall für genau diesen einen Tag.
 
@@ -66,7 +66,7 @@ Auch die Zahl der täglichen Tode ist kein Nebensatz. Snorri betont ausdrücklic
 
 Damit wird der eigentliche Sinn von Walhall klar, und er unterscheidet sich fundamental von jeder christlich geprägten Himmelsvorstellung. Walhall ist kein Ort der ewigen Ruhe, kein Lohn für ein tugendhaftes Leben, keine Erlösung von den Mühen der Welt. Es ist eine Aufrüstungsanlage.
 
-Die gesamte Existenz der Einherjer ist auf ein einziges zukünftiges Ereignis ausgerichtet: den Tag, an dem Heimdall ins Horn stößt, die Fesseln der Ungeheuer reißen und Odin an der Spitze seiner gesammelten Streitmacht in die letzte Schlacht zieht. Walhall existiert nur, weil Ragnarök kommt. Ohne die Prophezeiung vom Weltuntergang gäbe es keinen Grund, Krieger zu sammeln - die ausführliche Geschichte dieser letzten Schlacht, in der auch Odin selbst fällt, erzählen wir in unserem Artikel über [Ragnarök](/blog/ragnaroek).
+Die gesamte Existenz der Einherjer ist auf ein einziges zukünftiges Ereignis ausgerichtet: den Tag, an dem Heimdall ins Horn stößt, die Fesseln der Ungeheuer reißen und Odin an der Spitze seiner gesammelten Streitmacht in die letzte Schlacht zieht. Walhall existiert nur, weil Ragnarök kommt. Ohne die Prophezeiung vom Weltuntergang gäbe es keinen Grund, Krieger zu sammeln - die ausführliche Geschichte dieser letzten Schlacht, in der auch Odin selbst fällt, erzählen wir in unserem Artikel über [Ragnarök](/blog/ragnaroek/).
 
 Es ist ein bemerkenswert nüchterner, fast schon militärisch-pragmatischer Gedanke für eine Mythologie: Selbst das Jenseits der tapfersten Krieger dient in erster Linie einem strategischen Zweck.
 

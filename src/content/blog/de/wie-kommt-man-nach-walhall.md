@@ -22,13 +22,13 @@ Wer diese Bruchstücke zusammensetzt, bekommt ein deutlich unordentlicheres Bild
 
 Die kürzeste belegbare Antwort lautet: Man kommt nicht nach Walhall, man wird geholt. Das altnordische Wort für die Halle, *Valhöll*, bedeutet "Halle der Gefallenen", und das zugehörige Verb steckt im Wort *valkyrja*, der "Wählerin der Gefallenen". Beide Begriffe beschreiben keinen Eintritt, sondern eine Auswahl. Der Krieger bewirbt sich nicht. Er wird ausgesucht.
 
-Entschieden wird diese Auswahl auf dem Schlachtfeld, und zwar bevor der Kampf überhaupt entschieden ist. Odin trägt den Beinamen **Valföðr**, "Vater der Gefallenen", und Snorri Sturluson schreibt in der Prosa-Edda, alle im Kampf Gefallenen seien seine Wahlsöhne. Die praktische Arbeit übernehmen die [Walküren](/blog/walkueren), die über das Feld reiten und bestimmen, wer fällt und wer weitergeleitet wird.
+Entschieden wird diese Auswahl auf dem Schlachtfeld, und zwar bevor der Kampf überhaupt entschieden ist. Odin trägt den Beinamen **Valföðr**, "Vater der Gefallenen", und Snorri Sturluson schreibt in der Prosa-Edda, alle im Kampf Gefallenen seien seine Wahlsöhne. Die praktische Arbeit übernehmen die [Walküren](/blog/walkueren/), die über das Feld reiten und bestimmen, wer fällt und wer weitergeleitet wird.
 
 Damit ist die eine Bedingung benannt, die wirklich in allen Quellen auftaucht: **Tod im Kampf**. Ein frommes Leben, ein starker Glaube, großzügige Opfergaben, Tapferkeit im Alltag, nichts davon wird irgendwo als Eintrittskarte genannt. Die Mythologie interessiert sich an dieser Stelle nicht für Moral, sondern für Verwendbarkeit. Odin sammelt Soldaten, keine Heiligen.
 
 ## Was die Quellen als Bedingung nennen
 
-Die ausführlichste Beschreibung der Halle selbst steht im **Grímnismál** der Poetischen Edda, das die 540 Tore, das Dach aus Schilden und die Speere als Dachbalken schildert. Wie dieser Ort funktioniert, haben wir im Artikel über [Walhall, die Halle der gefallenen Krieger](/blog/walhall-halle-gefallenen-krieger) ausführlich beschrieben. Zur Frage der Aufnahme schweigt das Gedicht allerdings weitgehend. Es beschreibt das Gebäude, nicht die Tür.
+Die ausführlichste Beschreibung der Halle selbst steht im **Grímnismál** der Poetischen Edda, das die 540 Tore, das Dach aus Schilden und die Speere als Dachbalken schildert. Wie dieser Ort funktioniert, haben wir im Artikel über [Walhall, die Halle der gefallenen Krieger](/blog/walhall-halle-gefallenen-krieger/) ausführlich beschrieben. Zur Frage der Aufnahme schweigt das Gedicht allerdings weitgehend. Es beschreibt das Gebäude, nicht die Tür.
 
 Konkreter wird Snorri Sturluson in der **Gylfaginning**, dem ersten Teil seiner Prosa-Edda von etwa 1220. Dort heißt es klar, dass die im Kampf Gefallenen zu Odin kommen und dort **Einherjer** heißen, während jene, die an Krankheit oder Alter sterben, zu Hel gehen. Snorri benutzt dafür die altnordischen Fachbegriffe *sóttdauðr* und *ellidauðr*, "krankheitstot" und "alterstot". Das ist die präziseste Formulierung einer Aufnahmeregel, die wir besitzen, und sie stammt von einem christlichen Isländer, der zweihundert Jahre nach dem Ende der heidnischen Zeit schrieb.
 
@@ -68,7 +68,7 @@ Der größte Denkfehler bei der Frage, wie man nach Walhall kommt, besteht darin
 | Das Meer | Rán | Die Ertrunkenen, in Kenningar und Sagas angedeutet |
 | Der Grabhügel | niemand | Ein Weiterleben beim eigenen Hof, archäologisch gut belegt |
 
-Wie sich Odin und Freyja die Gefallenen teilen und warum die große Mehrheit aller Toten bei Hel landete, haben wir in [Walhall, die Halle der gefallenen Krieger](/blog/walhall-halle-gefallenen-krieger) ausführlich aufgeschlüsselt. Für die Aufnahmefrage zählt davon nur eine Konsequenz: Selbst wer im Kampf fällt, ist damit noch nicht in Odins Halle, denn schon die Kampftoten werden geteilt.
+Wie sich Odin und Freyja die Gefallenen teilen und warum die große Mehrheit aller Toten bei Hel landete, haben wir in [Walhall, die Halle der gefallenen Krieger](/blog/walhall-halle-gefallenen-krieger/) ausführlich aufgeschlüsselt. Für die Aufnahmefrage zählt davon nur eine Konsequenz: Selbst wer im Kampf fällt, ist damit noch nicht in Odins Halle, denn schon die Kampftoten werden geteilt.
 
 Spannender sind die beiden unteren Zeilen der Tabelle, die in fast jeder Aufzählung fehlen. **Rán**, die Frau des Meerriesen Ægir, zieht die Ertrunkenen in ihr Netz; die Sagas und Skaldenkenningar deuten das eher an, als dass sie es ausformulieren, aber für eine Seefahrerkultur war es die Todesart, die man ständig vor Augen hatte. Und ein Ziel kam ganz ohne Gottheit aus: die handfeste Überzeugung, dass die Toten einfach im **Grabhügel** weiterlebten, in Sichtweite des Hofes, gelegentlich störend. Die Sagas über wiedergängerische Draugr setzen genau das voraus. Wer nach Walhall fragt, fragt also nach der seltensten von fünf Möglichkeiten.
 

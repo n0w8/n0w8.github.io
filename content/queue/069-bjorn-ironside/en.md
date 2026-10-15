@@ -18,7 +18,7 @@ Thanks to a well-known television series, almost everyone today recognizes the n
 
 ## The Son of Ragnar Lothbrok: What the Sagas Say
 
-The main source for Bjorn's family background is the short Icelandic text **Ragnarssona thattr**, "The Tale of Ragnar's Sons," supplemented by details in Saxo Grammaticus's Latin **Gesta Danorum** from the early 13th century. Both credit Bjorn as one of Ragnar Lothbrok's sons, alongside better-known brothers such as Ivar the Boneless and Sigurd Snake-in-the-Eye, whom we covered in detail in our article on [Ragnar Lothbrok](/en/blog/ragnar-lothbrok-legend-truth).
+The main source for Bjorn's family background is the short Icelandic text **Ragnarssona thattr**, "The Tale of Ragnar's Sons," supplemented by details in Saxo Grammaticus's Latin **Gesta Danorum** from the early 13th century. Both credit Bjorn as one of Ragnar Lothbrok's sons, alongside better-known brothers such as Ivar the Boneless and Sigurd Snake-in-the-Eye, whom we covered in detail in our article on [Ragnar Lothbrok](/en/blog/ragnar-lothbrok-legend-truth/).
 
 The nickname **Jarnsida**, "Ironside," is never explained in the sagas themselves, which leaves room for speculation: tough armor, a reputation for being unwoundable in battle, or simply a nickname that outlived its original meaning. It's worth staying honest here: Ragnarssona thattr was written down in the 14th century, three to four hundred years after the events it claims to describe. As a strict historical source it is thin, but as a record of an oral heroic tradition it still carries real weight.
 
@@ -62,7 +62,7 @@ It is worth keeping three levels clearly apart, because public perception consta
 - **The historical Bjorn** (if identical with Dudo's "Bier"): co-leader of a documented raid into the Mediterranean from 859 to 862, attested in Frankish and Norman sources from his own era or shortly after.
 - **The television Bjorn**: the lead character of the series "Vikings," a free dramatic invention that compresses and alters events, relationships, and timelines heavily to carry a character across multiple seasons.
 
-Only the middle level can be anchored to genuine, contemporary documents. The first is tradition with a kernel of truth, the third is entertainment. For more on the wider historical backdrop of this Viking family, see our article on the [Great Heathen Army](/en/blog/great-heathen-army), which Bjorn's brothers led in force.
+Only the middle level can be anchored to genuine, contemporary documents. The first is tradition with a kernel of truth, the third is entertainment. For more on the wider historical backdrop of this Viking family, see our article on the [Great Heathen Army](/en/blog/great-heathen-army/), which Bjorn's brothers led in force.
 
 The television series in particular has shaped public perception so strongly that many viewers no longer recognize its dramatic liberties as liberties at all. Bjorn's relationship with his brothers, his bond with Ragnar, even the sequence of historical events were rearranged drastically for the show and concentrated onto a handful of lead characters who appear together across decades, even though the sagas themselves often suggest far more scattered, internally contradictory timeframes. That is not a knock against the production, drama runs on compression, but it does explain why checking the primary sources tends to come as a genuine surprise to most viewers.
 

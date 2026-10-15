@@ -47,11 +47,11 @@ Diese Begriffe überschneiden sich in der Praxis, und die Texte sind nicht immer
 
 ## Freyja bringt die Kunst zu den Asen
 
-Die Ynglinga saga erzählt, wie der Seidr überhaupt in die Welt der Asen kam. Er stammte demnach nicht von ihnen, sondern von den **Wanen**, jenem zweiten, älteren Göttergeschlecht, das mit Fruchtbarkeit, Reichtum und Gedeihen verbunden ist. Und es war [Freyja](/blog/freyja-goettin), die diese Kunst nach dem Krieg und dem Ausgleich zwischen beiden Geschlechtern bei den Asen einführte.
+Die Ynglinga saga erzählt, wie der Seidr überhaupt in die Welt der Asen kam. Er stammte demnach nicht von ihnen, sondern von den **Wanen**, jenem zweiten, älteren Göttergeschlecht, das mit Fruchtbarkeit, Reichtum und Gedeihen verbunden ist. Und es war [Freyja](/blog/freyja-goettin/), die diese Kunst nach dem Krieg und dem Ausgleich zwischen beiden Geschlechtern bei den Asen einführte.
 
 Das ist mythologisch bemerkenswert. Die mächtigste Wissenstechnik des nordischen Kosmos ist ein Import. Sie gehört ursprünglich nicht dem Kriegergeschlecht um Odin, sondern kommt aus einer Sphäre, die mit Wachstum, Liebe und Gedeihen zu tun hat, und sie kommt in weiblicher Hand.
 
-Ausgerechnet [Odin](/blog/odin-allvater-weisheit) übernimmt sie. In derselben Saga wird er als der Beherrscher des Seidr beschrieben, mit dem er Schicksale erkennen, Unglück, Krankheit und Tod bewirken und Menschen ihren Verstand oder ihre Kraft nehmen konnte. Wer die Odin-Erzählungen kennt, wird nicht überrascht sein. Das Auge in Mimirs Brunnen, die neun Nächte am Baum: Dieser Gott zahlt jeden Preis für Wissen. Der Seidr ist ein weiterer solcher Preis, nur dass er diesmal nicht mit dem Körper bezahlt, sondern mit dem Ansehen.
+Ausgerechnet [Odin](/blog/odin-allvater-weisheit/) übernimmt sie. In derselben Saga wird er als der Beherrscher des Seidr beschrieben, mit dem er Schicksale erkennen, Unglück, Krankheit und Tod bewirken und Menschen ihren Verstand oder ihre Kraft nehmen konnte. Wer die Odin-Erzählungen kennt, wird nicht überrascht sein. Das Auge in Mimirs Brunnen, die neun Nächte am Baum: Dieser Gott zahlt jeden Preis für Wissen. Der Seidr ist ein weiterer solcher Preis, nur dass er diesmal nicht mit dem Körper bezahlt, sondern mit dem Ansehen.
 
 Zur Stimmung dieser Welt aus Wissensdurst, Nebel und Vorzeichen passt ein Stück aus unserem eigenen Umfeld:
 

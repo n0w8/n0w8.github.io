@@ -30,7 +30,7 @@ Thin does not mean cheap. A thin board does not stop a blow dead, it yields, spl
 
 Here poetry and archaeology pull apart in a rather lovely way. Skaldic verse likes to call a shield *lind*, the linden, and linden genuinely is excellent shield timber: light, tough, slow to split catastrophically. The surviving boards tell a different story. The Gokstad shields are conifer. The Trelleborg disc was identified by the Danish National Museum as fir. Fragments from the harbour deposits at Hedeby point in the same direction, with the occasional hardwood exception.
 
-The dullest explanation is probably the right one. People used what grew nearby and split cleanly: spruce, pine or fir across Norway and Jutland, and whatever was seasoned and to hand elsewhere. The poetic linden shield belongs in the same box as the hero's golden sword, an image rather than an inventory. If you want the rest of the warrior's kit in context, our piece on [Viking weapons](/en/blog/viking-weapons-axe-sword) covers the axe, the sword and the much underrated spear.
+The dullest explanation is probably the right one. People used what grew nearby and split cleanly: spruce, pine or fir across Norway and Jutland, and whatever was seasoned and to hand elsewhere. The poetic linden shield belongs in the same box as the hero's golden sword, an image rather than an inventory. If you want the rest of the warrior's kit in context, our piece on [Viking weapons](/en/blog/viking-weapons-axe-sword/) covers the axe, the sword and the much underrated spear.
 
 Put on *Járn ok þrumr* while you read on:
 
@@ -83,6 +83,6 @@ Our editorial read is this: the Viking shield wall was most likely a dense, disc
 
 **Viking shield construction** is a lesson in how material, craft and fighting style lock together. A disc of split boards, a piece of rawhide and a handful of rivets cost almost nothing, took days rather than weeks to make and counted as expendable after a hard battle. That is exactly why nearly every able bodied man could own one, while a sword was worth a small farm.
 
-If you want to see where that same workshop logic leads at a larger scale, our article on the [Gokstad ship](/en/blog/gokstad-ship) picks up the story: the same burial, the same craft tradition, the same sober arithmetic of wood, iron and experience. The round shield was never a showpiece. That is precisely what makes it the most honest object the Viking Age left behind.
+If you want to see where that same workshop logic leads at a larger scale, our article on the [Gokstad ship](/en/blog/gokstad-ship/) picks up the story: the same burial, the same craft tradition, the same sober arithmetic of wood, iron and experience. The round shield was never a showpiece. That is precisely what makes it the most honest object the Viking Age left behind.
 
 *Hero image credit: Paul Hermans (CC BY-SA 4.0), via Wikimedia Commons*

@@ -53,7 +53,7 @@ Open fire was everywhere in the North, just used differently than most people im
 | Juniper, dill, mustard, ramsons | Plant remains from settlement and burial deposits | The marinade can be resinous and herbal |
 | Honey | Beekeeping and mead production in the North | Sweetness came from the honey pot, not sugar |
 
-The practical takeaway: these skewers do not go over flames but over a calm bed of coals filmed with grey ash. Hold them in an open fire and you get charcoal outside and raw lamb inside. For which plants were available in a Norse kitchen, see our piece on [Viking herbs and spices](/en/blog/viking-herbs-spices-cooking).
+The practical takeaway: these skewers do not go over flames but over a calm bed of coals filmed with grey ash. Hold them in an open fire and you get charcoal outside and raw lamb inside. For which plants were available in a Norse kitchen, see our piece on [Viking herbs and spices](/en/blog/viking-herbs-spices-cooking/).
 
 > **Worth knowing:** The English word *steak* comes from Old Norse **steik**, a roast, tied to the verb **steikja**, to roast on a spit. The Norse brought the word to England, even if their daily cooking looked more like a stew than a steakhouse.
 
@@ -87,9 +87,9 @@ Makes 4 skewers, serving 4:
 - **Mutton instead of lamb:** For the older, stronger flavour, use mutton and stretch the marinating time to 8 to 12 hours.
 - **Wooden skewers:** If you would rather avoid metal, soak wooden skewers for at least 30 minutes first. Freshly cut, peeled hazel twigs work too.
 - **No grill?** A screaming hot cast-iron pan does the job indoors. The browning comes from the pan rather than the smoke, and the result is still very good.
-- **What to serve with it:** Flatbread, skyr stirred with wild garlic, or roasted root vegetables. To try the same meat the way it genuinely was cooked in the Viking Age, our [Viking lamb stew](/en/blog/viking-lamb-stew) takes it back into the cauldron.
+- **What to serve with it:** Flatbread, skyr stirred with wild garlic, or roasted root vegetables. To try the same meat the way it genuinely was cooked in the Viking Age, our [Viking lamb stew](/en/blog/viking-lamb-stew/) takes it back into the cauldron.
 
-If this mix of archaeology and cooking appeals to you, this recipe is only a small slice of it. Our cookbook **"Viking Feast"** collects 141 recipes from the Norse kitchen, from flatbread to stews to feast-day roasts, each one with the history behind it. [Get the cookbook](/en/cookbook)
+If this mix of archaeology and cooking appeals to you, this recipe is only a small slice of it. Our cookbook **"Viking Feast"** collects 141 recipes from the Norse kitchen, from flatbread to stews to feast-day roasts, each one with the history behind it. [Get the cookbook](/en/cookbook/)
 
 What is left is a dish that need not dress up as a reconstruction. Sheep, juniper, honey and embers are well attested in the North. The skewer, in this form, is ours. Drawing that line clearly, between what the evidence shows and what the kitchen adds, is what makes Norse cooking worth doing: smoke, resin, and a piece of North Atlantic pasture on a stick.
 

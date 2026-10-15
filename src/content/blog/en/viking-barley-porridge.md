@@ -14,7 +14,7 @@ author: "The Nordweg Editorial Team"
 draft: false
 ---
 
-Think of a Viking Age breakfast, and you should picture a cauldron over the fire and the smell of warm grain. Barley porridge was exactly that: a simple, filling porridge made from pearl barley, simmered in water or milk and sweetened with a spoonful of honey. This was not feast food. It was everyday food, cooked on every farm, in every season, by the servant girl and the farmer himself alike. Unlike the thin, pan-baked [flatbread](/en/blog/viking-flatbread-recipe) that also came from barley, this porridge needed no fire under a pan, only a pot and patience, and that is exactly what made it the most-cooked dish in the North.
+Think of a Viking Age breakfast, and you should picture a cauldron over the fire and the smell of warm grain. Barley porridge was exactly that: a simple, filling porridge made from pearl barley, simmered in water or milk and sweetened with a spoonful of honey. This was not feast food. It was everyday food, cooked on every farm, in every season, by the servant girl and the farmer himself alike. Unlike the thin, pan-baked [flatbread](/en/blog/viking-flatbread-recipe/) that also came from barley, this porridge needed no fire under a pan, only a pot and patience, and that is exactly what made it the most-cooked dish in the North.
 
 ## Barley Porridge: The Daily Bread in Liquid Form
 
@@ -32,7 +32,7 @@ Before barley went into the pot, it often had to be at least coarsely crushed so
 
 This hand labor had a side effect that archaeology has documented clearly. Tiny fragments of stone chipped off during grinding and ended up in the finished flour or grain, and by extension in the porridge itself. Skeletal remains from the Viking Age show heavily worn teeth in almost every adult individual, a direct consequence of decades spent eating stone-ground grain. Someone who reached fifty years of age often already had noticeably flattened molars, a finding recorded in numerous excavation reports from Scandinavia. It is a small, unglamorous detail, but it says a great deal about how much hard work went into what looks like a humble daily bowl.
 
-People in the North typically ate two meals a day, the **dagmal** in the late morning and the **nattmal** in the evening, and porridge dishes belonged to both. If you want to read more about the role grain played in Norse daily life, our article on [Viking flatbread](/en/blog/viking-flatbread-recipe) covers more background on how barley was grown and processed.
+People in the North typically ate two meals a day, the **dagmal** in the late morning and the **nattmal** in the evening, and porridge dishes belonged to both. If you want to read more about the role grain played in Norse daily life, our article on [Viking flatbread](/en/blog/viking-flatbread-recipe/) covers more background on how barley was grown and processed.
 
 ## Ingredients
 
@@ -59,7 +59,7 @@ That is all this recipe needs, and that is exactly what makes it such an honest 
 - **Toast the barley first:** Toast the dry pearl barley in a hot pot without fat for 2 to 3 minutes before adding liquid. It adds a nutty, roasted flavor that plain-boiled barley does not have.
 - **Use milk instead of water:** Cooking with milk makes the porridge noticeably creamier and milder, closer to what wealthier farms could afford on a good day.
 - **Soak overnight:** To cut the cooking time, soak the barley in cold water for a few hours or overnight. This saves about 10 to 15 minutes of cooking and makes the porridge especially tender.
-- **Add berries:** A spoonful of wild berries on top links this porridge to our [oat porridge with berries](/en/blog/viking-porridge-with-berries), two dishes with the same roots, just a different grain.
+- **Add berries:** A spoonful of wild berries on top links this porridge to our [oat porridge with berries](/en/blog/viking-porridge-with-berries/), two dishes with the same roots, just a different grain.
 - **Add nuts or seeds:** A handful of chopped hazelnuts or pumpkin seeds add bite and turn breakfast into a heartier midday meal.
 - **Storing:** Leftovers keep in the fridge for 2 to 3 days and reheat well with a splash of water or milk stirred in.
 
@@ -74,9 +74,9 @@ That is all this recipe needs, and that is exactly what makes it such an honest 
 
 ## A Porridge That Has Lasted for Centuries
 
-Few dishes show as clearly how little a filling meal really needs: a pot, water or milk, barley, and a little honey. That simplicity is exactly what makes barley porridge one of the most honest recipes in Norse cooking to this day, quick to make, nourishing, and carrying a history that reaches back to the quern stones of Viking farms. If you enjoyed this recipe, it is worth trying our [pan-baked flatbread](/en/blog/viking-flatbread-recipe) too, made from the same grain but in a completely different way.
+Few dishes show as clearly how little a filling meal really needs: a pot, water or milk, barley, and a little honey. That simplicity is exactly what makes barley porridge one of the most honest recipes in Norse cooking to this day, quick to make, nourishing, and carrying a history that reaches back to the quern stones of Viking farms. If you enjoyed this recipe, it is worth trying our [pan-baked flatbread](/en/blog/viking-flatbread-recipe/) too, made from the same grain but in a completely different way.
 
-If you want to dive deeper into Norse cooking: this recipe is just a taste of our collection. The cookbook **"Viking Feast"** holds 141 recipes of the Norse kitchen, from honey bread to feast-day dishes and the mead to go with them. [Get the cookbook](/en/cookbook)
+If you want to dive deeper into Norse cooking: this recipe is just a taste of our collection. The cookbook **"Viking Feast"** holds 141 recipes of the Norse kitchen, from honey bread to feast-day dishes and the mead to go with them. [Get the cookbook](/en/cookbook/)
 
 <script type="application/ld+json">
 {

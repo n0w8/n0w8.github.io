@@ -88,4 +88,4 @@ Unlike Birka or Kaupang, Hedeby benefited enormously from sitting right on the s
 
 ## Our Take
 
-Hedeby shows a side of the Viking Age that often gets overshadowed in the popular imagination by raids and battles: the everyday life of a bustling, internationally connected trading city, where craftsmen, merchants, and sailors from half of Europe and the Middle East crossed paths. If you're curious about the ships that made this kind of trade possible in the first place, check out our article on the [longship](/en/blog/the-longship) - without those ships, Hedeby would never have had either its wealth or its sudden downfall.
+Hedeby shows a side of the Viking Age that often gets overshadowed in the popular imagination by raids and battles: the everyday life of a bustling, internationally connected trading city, where craftsmen, merchants, and sailors from half of Europe and the Middle East crossed paths. If you're curious about the ships that made this kind of trade possible in the first place, check out our article on the [longship](/en/blog/the-longship/) - without those ships, Hedeby would never have had either its wealth or its sudden downfall.

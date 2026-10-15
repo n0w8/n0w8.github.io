@@ -51,13 +51,13 @@ Für unseren Eintopf heißt das: Der Speck ist keine Beilage, sondern Fett, Salz
 
 ## Kohleintopf nach Wikinger-Rezept: was davon wirklich belegt ist
 
-Die Wikingerzeit hat keine Kochbücher hinterlassen. Was sie hinterlassen hat, sind Zutaten, Werkzeuge und Essgewohnheiten - und daraus lässt sich sehr wohl ein ehrliches Gericht bauen. Gekocht wurde vor allem in einem Topf: eiserne Kessel hingen an Ketten über der Feuerstelle, dazu kamen Gefäße aus Speckstein, die aus Norwegen bis nach Haithabu gehandelt wurden. Unter den Funden aus dem [Osebergschiff](/blog/oseberg-schiff) findet sich genau dieses Küchengerät, vom eisernen Kessel bis zur Handmühle. Ein Eintopf ist deshalb nicht die romantische, sondern die naheliegendste Antwort auf die Frage, was in so einem Kessel landete.
+Die Wikingerzeit hat keine Kochbücher hinterlassen. Was sie hinterlassen hat, sind Zutaten, Werkzeuge und Essgewohnheiten - und daraus lässt sich sehr wohl ein ehrliches Gericht bauen. Gekocht wurde vor allem in einem Topf: eiserne Kessel hingen an Ketten über der Feuerstelle, dazu kamen Gefäße aus Speckstein, die aus Norwegen bis nach Haithabu gehandelt wurden. Unter den Funden aus dem [Osebergschiff](/blog/oseberg-schiff/) findet sich genau dieses Küchengerät, vom eisernen Kessel bis zur Handmühle. Ein Eintopf ist deshalb nicht die romantische, sondern die naheliegendste Antwort auf die Frage, was in so einem Kessel landete.
 
 **Mythos:** Sauerkraut ist Wikingerküche. **Fakt:** Kohl ja, Kraut ungewiss. Milchsaures Einlegen von Kohl ist in anderen Weltgegenden früh dokumentiert, für den wikingerzeitlichen Norden fehlt der klare Beleg. Frischer Kohl aus der Vorratsgrube war die Regel, ein Schuss Säure im Topf trotzdem wahrscheinlich - über saure Molke, unvergorenes Bier oder Beerensaft.
 
 Unsere ehrliche Einschätzung aus der Redaktionsküche: Der häufigste Fehler bei diesem Gericht ist Ungeduld. Kohl, der nur zehn Minuten im Topf war, schmeckt nach Kantine. Kohl, der eine gute Stunde lang mit Speck und Gerste zieht, wird süßlich, fast cremig und verliert jede Schärfe. Die zweite Regel ist genauso simpel: Säure am Ende, nicht am Anfang. Ein Löffel Essig kurz vor dem Servieren hebt das ganze Gericht an, mitgekocht macht dieselbe Menge den Kohl grau und stumpf.
 
-Wer den Vergleich sucht: Unser [Wikinger-Eintopf Skause](/blog/wikinger-eintopf-skause) arbeitet nach demselben Kesselprinzip, nur mit Lamm und mehr Wurzelgemüse. Der Kohleintopf ist die ärmere, alltäglichere und ehrlich gesagt wintertauglichere Variante.
+Wer den Vergleich sucht: Unser [Wikinger-Eintopf Skause](/blog/wikinger-eintopf-skause/) arbeitet nach demselben Kesselprinzip, nur mit Lamm und mehr Wurzelgemüse. Der Kohleintopf ist die ärmere, alltäglichere und ehrlich gesagt wintertauglichere Variante.
 
 ## Zutaten
 
@@ -97,7 +97,7 @@ Für 4 kräftige Portionen:
 - **Am zweiten Tag:** Dieser Eintopf wird über Nacht deutlich besser. Abkühlen lassen, kalt stellen, am nächsten Tag langsam wieder erhitzen und mit einem Spritzer Essig auffrischen.
 - **Historisch streng:** Weiße oder gelbe Möhren statt oranger, kein Bier aus der Flasche, sondern Brühe, und die Graupen durch grob geschroteten Gerstenschrot ersetzen.
 
-Wenn dich diese Küche packt: In unserem Kochbuch **"Wikinger Festmahl"** warten 141 Rezepte des Nordens, von Fladenbrot über Kesselgerichte und Festtagsbraten bis zu Met und süßen Vorratsschätzen. [Zum Kochbuch](/kochbuch)
+Wenn dich diese Küche packt: In unserem Kochbuch **"Wikinger Festmahl"** warten 141 Rezepte des Nordens, von Fladenbrot über Kesselgerichte und Festtagsbraten bis zu Met und süßen Vorratsschätzen. [Zum Kochbuch](/kochbuch/)
 
 ## Warum ein Topf Kohl mehr erzählt als jede Schlacht
 

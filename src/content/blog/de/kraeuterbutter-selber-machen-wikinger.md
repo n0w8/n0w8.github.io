@@ -43,7 +43,7 @@ Besonders spannend ist der Lauch. Das altnordische *geirlaukr*, wörtlich "Speer
 
 > Roch der Lauch aus einer Bauchwunde heraus, galt der Mann als verloren. Ein grober Test, aber ein kluger: Er zeigte, ob der Darm verletzt war.
 
-**Mythos gegen Fakt.** Der Mythos sagt: Die Wikinger aßen fade, ungewürzte Kost, Fleisch und Brei, sonst nichts. Der Fakt ist: Sie hatten Salz, Senf, Meerrettich, Lauch, Dill, Wacholder und über die Handelswege sogar Koriander. Was fehlte, waren die teuren Fernost-Gewürze wie Pfeffer und Zimt, die erst im Hochmittelalter breiter ankamen. Wie weit die nordische Würzkiste tatsächlich reichte, haben wir in unserem Beitrag über [Kräuter und Gewürze der Wikingerküche](/blog/wikinger-kraeuter-gewuerze-kueche) im Detail aufgeschrieben.
+**Mythos gegen Fakt.** Der Mythos sagt: Die Wikinger aßen fade, ungewürzte Kost, Fleisch und Brei, sonst nichts. Der Fakt ist: Sie hatten Salz, Senf, Meerrettich, Lauch, Dill, Wacholder und über die Handelswege sogar Koriander. Was fehlte, waren die teuren Fernost-Gewürze wie Pfeffer und Zimt, die erst im Hochmittelalter breiter ankamen. Wie weit die nordische Würzkiste tatsächlich reichte, haben wir in unserem Beitrag über [Kräuter und Gewürze der Wikingerküche](/blog/wikinger-kraeuter-gewuerze-kueche/) im Detail aufgeschrieben.
 
 ## Kräuterbutter selber machen wie die Wikinger: das Prinzip
 
@@ -88,7 +88,7 @@ Dazu: ein großes Schraubglas oder eine Küchenmaschine, ein feines Sieb, eine S
 - **Haltbarkeit.** Gut gewaschen und gesalzen hält die Kräuterbutter im Kühlschrank etwa eine Woche, eingefroren rund drei Monate.
 - **Butter wird nicht fest?** Dann war der Rahm zu warm oder zu fettarm. Unter 30 Prozent Fett passiert wenig, und je magerer die Sahne, desto weniger Butter bleibt am Ende übrig. Ultrahocherhitzte Sahne butert oft gar nicht.
 
-Wenn du an diesem Punkt Blut geleckt hast: Das Rezept ist ein Auszug aus unserer Sammlung. Im Kochbuch **"Wikinger Festmahl - Das große Wikinger-Kochbuch"** stehen 141 Rezepte der nordischen Küche, vom Fladenbrot über Festtagsbraten bis zum eigenen Met. [Zum Kochbuch](/kochbuch)
+Wenn du an diesem Punkt Blut geleckt hast: Das Rezept ist ein Auszug aus unserer Sammlung. Im Kochbuch **"Wikinger Festmahl - Das große Wikinger-Kochbuch"** stehen 141 Rezepte der nordischen Küche, vom Fladenbrot über Festtagsbraten bis zum eigenen Met. [Zum Kochbuch](/kochbuch/)
 
 ## Warum sich der Aufwand lohnt
 
@@ -96,7 +96,7 @@ Unsere ehrliche Einschätzung nach mehreren Durchgängen: Der historische Reiz d
 
 Und es gibt einen zweiten, ganz praktischen Gewinn: Selbst gemachte Butter schmeckt deutlich intensiver als Industriebutter, weil sie nicht standardisiert ist. Sie schwankt mit der Sahne, mit der Jahreszeit, mit dem Futter der Kuh. Genau diese Schwankung war für die Menschen der Wikingerzeit normal.
 
-Am besten schmeckt das Ergebnis auf etwas, das genauso ehrlich gemacht ist. Ein warmer Gerstenfladen aus der Pfanne, ein dicker Streifen Kräuterbutter darauf, fertig. Wie der Fladen geht, steht in unserem [Wikinger-Fladenbrot-Rezept](/blog/wikinger-fladenbrot-rezept). Mehr Wikingerküche braucht es an einem Abend nicht.
+Am besten schmeckt das Ergebnis auf etwas, das genauso ehrlich gemacht ist. Ein warmer Gerstenfladen aus der Pfanne, ein dicker Streifen Kräuterbutter darauf, fertig. Wie der Fladen geht, steht in unserem [Wikinger-Fladenbrot-Rezept](/blog/wikinger-fladenbrot-rezept/). Mehr Wikingerküche braucht es an einem Abend nicht.
 
 *Bildquellen: Titelbild ChrisHH (CC BY-SA 3.0), Bärlauchbutter Sacha47 (CC BY-SA 4.0), via Wikimedia Commons*
 

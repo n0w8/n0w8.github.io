@@ -51,13 +51,13 @@ For the stew this means one thing: the bacon is not a garnish. It is your fat, y
 
 ## Building the Viking Cabbage Stew Recipe Around Real Evidence
 
-The Viking Age left no cookbooks. It left ingredients, cooking gear and eating habits, and those are enough to build an honest dish. Cooking happened mostly in one vessel: iron cauldrons slung on chains above the hearth, alongside soapstone pots traded out of Norway as far as Hedeby. The finds from the [Oseberg ship](/en/blog/oseberg-ship) include exactly this kind of kit, from an iron cauldron to a hand quern for grinding grain. A one-pot stew is not the romantic answer to what went in there. It is the obvious one.
+The Viking Age left no cookbooks. It left ingredients, cooking gear and eating habits, and those are enough to build an honest dish. Cooking happened mostly in one vessel: iron cauldrons slung on chains above the hearth, alongside soapstone pots traded out of Norway as far as Hedeby. The finds from the [Oseberg ship](/en/blog/oseberg-ship/) include exactly this kind of kit, from an iron cauldron to a hand quern for grinding grain. A one-pot stew is not the romantic answer to what went in there. It is the obvious one.
 
 **Myth:** sauerkraut is Viking food. **Fact:** cabbage yes, sauerkraut unproven. Lactic fermentation of cabbage is documented early in other parts of the world, but for the Viking-age North the clear evidence is missing. Fresh cabbage out of the storage pit was the norm, though a sour note in the pot is very likely, arriving through soured whey, unfermented ale or berry juice.
 
 Our honest verdict from the test kitchen: the usual failure here is impatience. Cabbage given ten minutes tastes like a school canteen. Cabbage given a full hour with bacon and barley turns sweet, almost creamy, and loses every trace of sharpness. The second rule matters just as much. Acid goes in at the end, never at the start. A spoonful of vinegar stirred in before serving lifts the whole pot, while the same spoonful added early turns the cabbage grey and flat.
 
-If you want the comparison, our [Viking stew known as skause](/en/blog/viking-stew-skause) works on the same cauldron logic with lamb and more root vegetables. The cabbage version is the poorer, more everyday and frankly more winter-proof relative.
+If you want the comparison, our [Viking stew known as skause](/en/blog/viking-stew-skause/) works on the same cauldron logic with lamb and more root vegetables. The cabbage version is the poorer, more everyday and frankly more winter-proof relative.
 
 ## Ingredients
 
@@ -97,7 +97,7 @@ Serves 4 generously:
 - **Day two:** this stew improves overnight. Cool it, chill it, reheat slowly the next day and wake it up with a fresh splash of vinegar.
 - **Strictly historical:** white or yellow carrots instead of orange, stock instead of bottled beer, and coarsely cracked barley groats in place of pearl barley.
 
-If this kind of cooking speaks to you, our cookbook **"Viking Feast"** holds 141 recipes of the North, from flatbread and cauldron dishes to feast roasts, mead and the sweet treasures of the storeroom. [See the cookbook](/en/cookbook)
+If this kind of cooking speaks to you, our cookbook **"Viking Feast"** holds 141 recipes of the North, from flatbread and cauldron dishes to feast roasts, mead and the sweet treasures of the storeroom. [See the cookbook](/en/cookbook/)
 
 ## What a Pot of Cabbage Says About the North
 

@@ -52,7 +52,7 @@ Bewährt haben sich im nordischen Raum vor allem drei Hölzer:
 
 - **Erle** ist der Klassiker der skandinavischen Räucherküche. Sie brennt sanft, schmeckt mild-süßlich und passt zu jedem Fisch.
 - **Buche** ist kräftiger und gibt dem Fisch eine dunklere Farbe. Gut, wenn es deftiger sein soll.
-- **Wacholder** kommt nicht als Grundholz, sondern als Zugabe: ein paar trockene Zweige oder eine Handvoll Beeren auf die Glut, und das Aroma bekommt jene harzige, fast würzige Note, die man aus alten nordischen Küchen kennt. Wie breit das Repertoire an [Kräutern und Gewürzen der Wikingerküche](/blog/wikinger-kraeuter-gewuerze-kueche) tatsächlich war, zeigt unser Überblick dazu.
+- **Wacholder** kommt nicht als Grundholz, sondern als Zugabe: ein paar trockene Zweige oder eine Handvoll Beeren auf die Glut, und das Aroma bekommt jene harzige, fast würzige Note, die man aus alten nordischen Küchen kennt. Wie breit das Repertoire an [Kräutern und Gewürzen der Wikingerküche](/blog/wikinger-kraeuter-gewuerze-kueche/) tatsächlich war, zeigt unser Überblick dazu.
 
 Finger weg von Nadelholz wie Fichte oder Kiefer. Das Harz schlägt sich als bitterer Belag nieder, und der Fisch schmeckt nach Terpentin statt nach Wald.
 
@@ -111,10 +111,10 @@ Für 4 Portionen:
 - **Kräuter in der Lake:** Ein paar Zweige Thymian oder Beifuß bringen eine erdige Note, die gut zum Wacholder passt.
 - **Ohne Räucherofen:** Im Kugelgrill die Kohle auf eine Seite schieben, eine Schale Wasser daneben stellen und den Fisch auf die kühle Seite legen. Die trockenen Späne in eine Alufolienschale mit Löchern geben und an den Rand der Glut setzen.
 - **Als warmes Hauptgericht:** Statt lauwarm auf dem Brett den Fisch grob zerpflücken und mit Salzkartoffeln, Gurkenscheiben mit Dill, Zuckerschoten und einer Pilzrahmsauce servieren. Genau so, mit heiß geräuchertem Lachs statt Forelle, zeigt es das Foto oben.
-- **Aufbewahren:** Heiß geräucherter Fisch hält sich im Kühlschrank 3 bis 4 Tage. Er lässt sich hervorragend zerpflücken und über [nordische Gerichte](/blog/wikinger-ernaehrung-essen) streuen.
+- **Aufbewahren:** Heiß geräucherter Fisch hält sich im Kühlschrank 3 bis 4 Tage. Er lässt sich hervorragend zerpflücken und über [nordische Gerichte](/blog/wikinger-ernaehrung-essen/) streuen.
 - **Reste verwerten:** Zerpflücktes Räucherfischfleisch mit Skyr, Dill und etwas Zitrone verrührt ergibt einen Aufstrich, der auf Fladenbrot hervorragend funktioniert.
 
-Wenn dir dieses Handwerk gefällt: Das Rezept ist eine von 141 Zubereitungen aus unserem Kochbuch **Wikinger Festmahl**, in dem Fisch, Brot, Eintöpfe und Festtagsgerichte der nordischen Küche zusammenkommen. [Zum Kochbuch](/kochbuch)
+Wenn dir dieses Handwerk gefällt: Das Rezept ist eine von 141 Zubereitungen aus unserem Kochbuch **Wikinger Festmahl**, in dem Fisch, Brot, Eintöpfe und Festtagsgerichte der nordischen Küche zusammenkommen. [Zum Kochbuch](/kochbuch/)
 
 Am Ende ist Räuchern eine der ehrlichsten Küchentechniken überhaupt. Es gibt nichts zu verstecken, keine Panade, die etwas gutmacht. Nur Salz, Rauch, Zeit und ein Fisch, der genau so schmeckt, wie er behandelt wurde.
 

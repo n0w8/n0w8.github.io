@@ -34,7 +34,7 @@ Most people who know Norse mythology know the names of Loki's children, even if 
 - **Jörmungandr**, the World Serpent, whom Odin casts into the sea, where it grows until it encircles the entire world, biting its own tail.
 - **Hel**, whom Odin sets to rule over the realm of those who die outside of battle - half living, half rotted in the face, as Snorri describes her.
 
-The Prose Edda is blunt about the reason: the gods fear these three because prophecy has marked them for great calamity. That very fear plants the seed that comes to fruition at Ragnarök, when Fenrir and Jörmungandr return as the gods' enemies - we tell that part of the story in our article on [Ragnarök](/en/blog/ragnarok).
+The Prose Edda is blunt about the reason: the gods fear these three because prophecy has marked them for great calamity. That very fear plants the seed that comes to fruition at Ragnarök, when Fenrir and Jörmungandr return as the gods' enemies - we tell that part of the story in our article on [Ragnarök](/en/blog/ragnarok/).
 
 ## Sleipnir: How Loki Became a Mother
 
@@ -62,7 +62,7 @@ The poem reads, in places, like a scandal transcript, but there's more going on 
 
 ## Baldr's Death: The Break That Cannot Be Mended
 
-The real turning point in Loki's story is the death of the god **Baldr**. Exactly how it happened - the mistletoe, the blind god Höðr, the trick by which Loki turned the one thing in the world that had never sworn an oath into a lethal weapon - we've told in full in our article on [Ragnarök](/en/blog/ragnarok), since Baldr's death also marks the opening act of the end of the world.
+The real turning point in Loki's story is the death of the god **Baldr**. Exactly how it happened - the mistletoe, the blind god Höðr, the trick by which Loki turned the one thing in the world that had never sworn an oath into a lethal weapon - we've told in full in our article on [Ragnarök](/en/blog/ragnarok/), since Baldr's death also marks the opening act of the end of the world.
 
 What matters most for Loki's own story is what follows: after Baldr's death, the rift between Loki and the rest of the gods is final. It's the moment the tolerated troublemaker becomes an enemy.
 

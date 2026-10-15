@@ -16,7 +16,7 @@ draft: false
 
 Ein Backofen war auf einem nordischen Hof der Wikingerzeit die große Ausnahme. Wer heute Körnerfladen wie die Wikinger backen will, braucht deshalb auch keinen: Eine heiße Steinplatte, eine schwere Pfanne oder der Rost über der Glut genügen völlig. Was dabei entsteht, ist kein luftiger Laib, sondern ein flacher, kerniger Fladen, der beim Brechen knackt, nussig schmeckt und sich tagelang hält.
 
-Von unserem klassischen [Gerstenfladen aus der Pfanne](/blog/wikinger-fladenbrot-rezept) unterscheidet sich dieses Rezept in einem einzigen, entscheidenden Punkt: den Körnern. Leinsamen, grob geschrotete Gerste und geröstete Kerne verwandeln das schlichteste Alltagsbrot des Nordens in etwas, das man auch ohne Belag isst. Und das ist keine moderne Foodtrend-Idee, sondern näher an der Wikingerzeit, als die meisten vermuten.
+Von unserem klassischen [Gerstenfladen aus der Pfanne](/blog/wikinger-fladenbrot-rezept/) unterscheidet sich dieses Rezept in einem einzigen, entscheidenden Punkt: den Körnern. Leinsamen, grob geschrotete Gerste und geröstete Kerne verwandeln das schlichteste Alltagsbrot des Nordens in etwas, das man auch ohne Belag isst. Und das ist keine moderne Foodtrend-Idee, sondern näher an der Wikingerzeit, als die meisten vermuten.
 
 ## Ein Herd, kein Ofen: Wie im Norden gebacken wurde
 
@@ -49,7 +49,7 @@ Wie unterschiedlich Brot im Norden ausfallen konnte, erzählt ausgerechnet ein G
 
 Unsere ehrliche Einschätzung aus der Redaktionsküche: Der Leinsamen ist die wichtigste Zutat dieses Rezepts, und zwar nicht wegen der Historie. Geschroteter Lein quillt im Wasser zu einem Gel, das den glutenarmen Gerstenteig zusammenhält. Ohne ihn bröselt der Fladen beim Wenden. Mit ihm bekommst du eine Konsistenz, die dem industriellen Knäckebrot deutlich überlegen ist. Wenn du eine Zutat nicht weglässt, dann diese.
 
-Wer wissen will, was neben dem Brot auf den Tisch kam, findet das in unserem Überblick über [die Ernährung der Wikinger](/blog/wikinger-ernaehrung-essen).
+Wer wissen will, was neben dem Brot auf den Tisch kam, findet das in unserem Überblick über [die Ernährung der Wikinger](/blog/wikinger-ernaehrung-essen/).
 
 ## Zutaten
 
@@ -87,7 +87,7 @@ Dazu brauchst du eine Backfläche, die richtig heiß wird: eine Pizza- oder Back
 - **Aufbewahren:** Vollständig ausgekühlt und luftdicht verpackt bleiben knusprige Körnerfladen zwei Wochen lang gut. Weich gestapelte halten drei Tage.
 - **Bricht der Teig beim Ausrollen?** Dann war zu wenig Wasser im Spiel oder der Lein hatte zu wenig Zeit. Einen Löffel warmes Wasser einkneten und fünf Minuten warten, dann klappt es.
 
-Dieses Rezept ist eine Kostprobe aus unserer Sammlung: Im Kochbuch **"Wikinger Festmahl"** warten 141 nordische Rezepte auf dich, vom Fladenbrot über Kesselgerichte bis zu Met und süßer Glut-Küche. [Zum Kochbuch](/kochbuch)
+Dieses Rezept ist eine Kostprobe aus unserer Sammlung: Im Kochbuch **"Wikinger Festmahl"** warten 141 nordische Rezepte auf dich, vom Fladenbrot über Kesselgerichte bis zu Met und süßer Glut-Küche. [Zum Kochbuch](/kochbuch/)
 
 ## Das Brot, das den Winter überstand
 

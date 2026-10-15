@@ -40,4 +40,54 @@ One pot, one fire, and time - the kitchen of the North needed nothing more. This
 
 ## The Skald's Tip
 
-This stew tastes even better on day two - Viking cauldrons rarely went fully empty anyway. Serve with [barley flatbread](/en/blog/viking-flatbread-recipe) for dipping. And if you want the full feast-in-one-pot experience, try our big [Viking cauldron stew](/en/blog/viking-stew-skause).
+This stew tastes even better on day two - Viking cauldrons rarely went fully empty anyway. Serve with [barley flatbread](/en/blog/viking-flatbread-recipe/) for dipping. And if you want the full feast-in-one-pot experience, try our big [Viking cauldron stew](/en/blog/viking-stew-skause/).
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Viking Lamb Stew with Herbs: Hearty Longhouse Cooking",
+  "description": "Hearty Viking-style lamb stew: an easy recipe with root vegetables, fresh herbs and a long, gentle simmer. Perfect comfort food for cold days.",
+  "image": "https://blog.nordwaldrecords.com/images/rezepte/recipe-lamb-stew-1.webp",
+  "author": {
+    "@type": "Organization",
+    "name": "Nordweg"
+  },
+  "datePublished": "2026-07-10",
+  "cookTime": "PT2H",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "Nordic",
+  "keywords": "Viking Recipe, Stew, Lamb, Comfort Food",
+  "recipeIngredient": [
+    "1 ¾ lbs lamb, cubed (800 g)",
+    "4 carrots",
+    "3 potatoes",
+    "2 onions",
+    "1 leek",
+    "1 bunch parsley & thyme",
+    "6 cups broth (1.5 liters)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Brown the lamb cubes in a large pot."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add onions and leek, sauté briefly."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Dice carrots and potatoes, add to the pot."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pour in the broth and simmer gently for 1.5 to 2 hours."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Stir in the fresh herbs before serving."
+    }
+  ]
+}
+</script>

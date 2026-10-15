@@ -41,6 +41,57 @@ Wenn in den Sagas ein Festmahl beschrieben wird, dann dampft in der Mitte der Ta
 
 ## Der Tipp vom Skalden
 
-Wer es ganz stilecht mag, löscht mit [selbstgemachtem Met](/blog/met-selber-machen) ab statt mit Rotwein - die Soße bekommt dadurch eine feine honigsüße Tiefe. Dazu passt frisches [Fladenbrot aus Gerste](/blog/wikinger-fladenbrot-rezept), um keinen Tropfen zu verschwenden.
+Wer es ganz stilecht mag, löscht mit [selbstgemachtem Met](/blog/met-selber-machen/) ab statt mit Rotwein - die Soße bekommt dadurch eine feine honigsüße Tiefe. Dazu passt frisches [Fladenbrot aus Gerste](/blog/wikinger-fladenbrot-rezept/), um keinen Tropfen zu verschwenden.
 
-Warum das Wildschwein im Norden heilig war? Der Eber Sæhrímnir wurde in Walhalla jeden Abend aufs Neue verspeist - mehr dazu in unserem Artikel über die [nordischen Götter](/blog/nordische-goetter).
+Warum das Wildschwein im Norden heilig war? Der Eber Sæhrímnir wurde in Walhalla jeden Abend aufs Neue verspeist - mehr dazu in unserem Artikel über die [nordischen Götter](/blog/nordische-goetter/).
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Wildschweinbraten mit Honigglasur: Das Festmahl der Wikinger",
+  "description": "Saftiger Wildschweinbraten mit Honig-Senf-Glasur wie zur Wikingerzeit: einfaches Rezept mit Schritt-für-Schritt-Anleitung, Met-Tipp und Fun Fact.",
+  "image": "https://blog.nordwaldrecords.com/images/rezepte/recipe-boar-roast-1.webp",
+  "author": {
+    "@type": "Organization",
+    "name": "Nordweg"
+  },
+  "datePublished": "2026-07-10",
+  "cookTime": "PT3H",
+  "recipeCategory": "Hauptgericht",
+  "recipeCuisine": "Nordisch",
+  "keywords": "Wikinger Rezept, Wildschwein, Braten, Festessen, Honig",
+  "recipeIngredient": [
+    "1,5 kg Wildschweinkeule (ersatzweise Schweinekeule)",
+    "3 EL Honig",
+    "3 EL Senf",
+    "2 EL Öl",
+    "3 Zwiebeln, grob gehackt",
+    "3 Karotten, in Stücke geschnitten",
+    "250 ml Rotwein oder Met",
+    "Salz, Pfeffer, Thymian, Rosmarin"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Das Fleisch mit Öl, Salz und Pfeffer einreiben."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Im Bräter rundherum scharf anbraten, dann herausnehmen."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Zwiebeln und Karotten kurz anrösten, mit Wein oder Met ablöschen."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Fleisch zurücklegen, Kräuter zugeben und zugedeckt bei 160 °C ca. 2,5 bis 3 Stunden schmoren."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Honig und Senf verrühren, den Braten 20 Minuten vor Ende damit bestreichen und unter dem Grill karamellisieren lassen."
+    }
+  ]
+}
+</script>

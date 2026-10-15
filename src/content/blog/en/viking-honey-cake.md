@@ -38,4 +38,52 @@ The North knew no sugar - anyone who wanted to bake sweet needed honey. Which is
 
 ## The Skald's Tip
 
-Rye flour makes the cake darker and spicier - closer to the original. Brush it with a little butter while still warm and it will gleam like amber. And to see what else the Vikings made from honey, try our recipe for [homemade mead](/en/blog/how-to-make-mead).
+Rye flour makes the cake darker and spicier - closer to the original. Brush it with a little butter while still warm and it will gleam like amber. And to see what else the Vikings made from honey, try our recipe for [homemade mead](/en/blog/how-to-make-mead/).
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Viking Honey Cake: Sweet Gold From the Oven",
+  "description": "Moist Viking-style honey loaf cake: easy 5-ingredient recipe - honey instead of sugar, just like the North baked a thousand years ago.",
+  "image": "https://blog.nordwaldrecords.com/images/rezepte/recipe-honey-cake-1.webp",
+  "author": {
+    "@type": "Organization",
+    "name": "Nordweg"
+  },
+  "datePublished": "2026-07-10",
+  "cookTime": "PT35M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "Nordic",
+  "keywords": "Viking Recipe, Honey Cake, Baking, Honey, Cake",
+  "recipeIngredient": [
+    "1 ½ cups flour (rye or wheat) - 200 g",
+    "½ cup honey - 100 g",
+    "1 egg",
+    "3 ½ tbsp butter - 50 g (softened)",
+    "1 tsp baking powder (modern addition)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Mix honey, egg and softened butter until smooth."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add flour and baking powder, then stir into a batter."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Pour into a loaf pan."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bake at 350°F (180°C) for about 35 minutes, until golden and firm."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Let cool and serve."
+    }
+  ]
+}
+</script>

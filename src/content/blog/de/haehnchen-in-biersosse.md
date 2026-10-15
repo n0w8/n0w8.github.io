@@ -36,4 +36,44 @@ Nicht jeder Tag war ein Festtag. An gewöhnlichen Abenden kam im Norden auf den 
 
 ## Der Tipp vom Skalden
 
-Je dunkler das Bier, desto tiefer die Soße - ein malziges Dunkel oder ein rauchiges Kellerbier bringt die beste Farbe. Die Gerste im Bier war übrigens dasselbe Korn wie im Brot: unser [Fladenbrot aus Gerste](/blog/wikinger-fladenbrot-rezept) ist die perfekte Beilage zum Tunken.
+Je dunkler das Bier, desto tiefer die Soße - ein malziges Dunkel oder ein rauchiges Kellerbier bringt die beste Farbe. Die Gerste im Bier war übrigens dasselbe Korn wie im Brot: unser [Fladenbrot aus Gerste](/blog/wikinger-fladenbrot-rezept/) ist die perfekte Beilage zum Tunken.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Hähnchen in Biersoße: Das Alltagsgericht der Wikinger",
+  "description": "Zartes Hähnchen in dunkler Biersoße mit Senf und Thymian: unkompliziertes Wikinger-Rezept für den Feierabend, fertig in rund einer Stunde.",
+  "image": "https://blog.nordwaldrecords.com/images/rezepte/recipe-beer-chicken-1.webp",
+  "author": {
+    "@type": "Organization",
+    "name": "Nordweg"
+  },
+  "cookTime": "PT60M",
+  "datePublished": "2026-07-10",
+  "recipeCategory": "Hauptgericht",
+  "recipeCuisine": "Nordisch",
+  "keywords": "Wikinger Rezept, Hähnchen, Bier, Schmorgericht",
+  "recipeIngredient": [
+    "1 ganzes Hähnchen oder 1 kg Schenkel",
+    "2 Zwiebeln",
+    "300 ml dunkles Bier",
+    "2 EL Senf",
+    "Salz, Pfeffer, Thymian"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Hähnchenstücke rundherum anbraten."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Zwiebeln dazugeben und mit dem Bier ablöschen."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Mit Senf und Kräutern würzen und 45 bis 60 Minuten sanft schmoren."
+    }
+  ]
+}
+</script>

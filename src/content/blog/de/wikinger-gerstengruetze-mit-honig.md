@@ -14,7 +14,7 @@ author: "Die Nordweg-Redaktion"
 draft: false
 ---
 
-Wer an das Frühstück der Wikingerzeit denkt, denkt an einen Kessel über dem Feuer und den Duft von warmem Getreide. Gerstengrütze, auch Gerstenbrei genannt, war genau das: ein einfacher, sättigender Brei aus Gerstengraupen, gekocht in Wasser oder Milch und mit einem Löffel Honig gesüßt. Kein Festessen, sondern Alltagskost - auf jedem Hof, in jeder Jahreszeit, von der Magd bis zum Bauern selbst. Anders als das dünn ausgerollte [Fladenbrot](/blog/wikinger-fladenbrot-rezept), das ebenfalls aus Gerste entstand, brauchte dieser Brei kein Feuer für die Pfanne, sondern nur einen Topf und Geduld - und genau das machte ihn zum meistgekochten Gericht des Nordens.
+Wer an das Frühstück der Wikingerzeit denkt, denkt an einen Kessel über dem Feuer und den Duft von warmem Getreide. Gerstengrütze, auch Gerstenbrei genannt, war genau das: ein einfacher, sättigender Brei aus Gerstengraupen, gekocht in Wasser oder Milch und mit einem Löffel Honig gesüßt. Kein Festessen, sondern Alltagskost - auf jedem Hof, in jeder Jahreszeit, von der Magd bis zum Bauern selbst. Anders als das dünn ausgerollte [Fladenbrot](/blog/wikinger-fladenbrot-rezept/), das ebenfalls aus Gerste entstand, brauchte dieser Brei kein Feuer für die Pfanne, sondern nur einen Topf und Geduld - und genau das machte ihn zum meistgekochten Gericht des Nordens.
 
 Während Fladenbrot Geschick beim Kneten und Ausrollen verlangte, war Gerstengrütze das Gericht, das auch dann gelang, wenn wenig Zeit blieb: Körner in den Kessel, etwas Wasser oder Milch dazu, ans Feuer stellen und weiterarbeiten. Genau diese Einfachheit machte den Brei zum verlässlichen Begleiter durch alle Jahreszeiten - im Sommer auf dem Feld, im Winter am Herdfeuer des Langhauses.
 
@@ -34,7 +34,7 @@ Bevor die Gerste in den Kessel kam, musste sie oft zumindest grob zerkleinert we
 
 Diese Handarbeit hatte einen Nebeneffekt, den die Archäologie eindeutig belegt: Beim Mahlen lösten sich winzige Splitter des Steins und landeten im fertigen Mehl beziehungsweise Grütze. Skelettfunde aus der Wikingerzeit zeigen bei fast allen erwachsenen Individuen einen auffällig starken Zahnabrieb - eine direkte Folge des jahrzehntelangen Verzehrs von steingemahlenem Getreide. Wer damals fünfzig Jahre alt wurde, hatte oft schon deutlich abgeflachte Backenzähne, ein Befund, der in zahlreichen Grabungsberichten aus Skandinavien dokumentiert ist. Ein unscheinbares Detail, das viel darüber verrät, wie hart der scheinbar einfache tägliche Brei tatsächlich erarbeitet werden musste.
 
-Gegessen wurde meist zweimal am Tag, zum **dagmál** am Vormittag und zum **náttmál** am Abend, und Breigerichte gehörten zu beiden Mahlzeiten dazu. Wer mehr über die Rolle von Getreide im nordischen Alltag erfahren möchte, findet in unserem Artikel zum [Fladenbrot](/blog/wikinger-fladenbrot-rezept) weitere Hintergründe zu Anbau und Verarbeitung von Gerste.
+Gegessen wurde meist zweimal am Tag, zum **dagmál** am Vormittag und zum **náttmál** am Abend, und Breigerichte gehörten zu beiden Mahlzeiten dazu. Wer mehr über die Rolle von Getreide im nordischen Alltag erfahren möchte, findet in unserem Artikel zum [Fladenbrot](/blog/wikinger-fladenbrot-rezept/) weitere Hintergründe zu Anbau und Verarbeitung von Gerste.
 
 ## Zutaten
 
@@ -61,7 +61,7 @@ Mehr braucht dieses Rezept nicht - und genau das macht es zu einem so ehrlichen 
 - **Gerste anrösten:** Die trockenen Graupen vor dem Aufgießen 2 bis 3 Minuten in einem heißen Topf ohne Fett anrösten. Das bringt ein nussiges Röstaroma in den Brei, das der bloß gekochten Variante fehlt.
 - **Milch statt Wasser:** Mit Milch gekocht wird die Grütze deutlich cremiger und milder im Geschmack - näher an dem, was sich reichere Höfe an guten Tagen leisten konnten.
 - **Über Nacht einweichen:** Wer die Kochzeit verkürzen möchte, weicht die Graupen einige Stunden oder über Nacht in kaltem Wasser ein. Das spart etwa 10 bis 15 Minuten Kochzeit und macht den Brei besonders zart.
-- **Mit Beeren:** Ein Löffel wilder Beeren obendrauf verbindet diesen Brei mit unserem [Haferbrei mit Beeren](/blog/haferbrei-mit-beeren) - beide Gerichte haben denselben Ursprung, nur mit unterschiedlichem Getreide.
+- **Mit Beeren:** Ein Löffel wilder Beeren obendrauf verbindet diesen Brei mit unserem [Haferbrei mit Beeren](/blog/haferbrei-mit-beeren/) - beide Gerichte haben denselben Ursprung, nur mit unterschiedlichem Getreide.
 - **Mit Nüssen oder Kernen:** Eine Handvoll gehackte Haselnüsse oder Kürbiskerne sorgen für Biss und machen aus dem Frühstück ein kräftigeres Mittagessen.
 - **Aufbewahren:** Reste halten im Kühlschrank 2 bis 3 Tage und lassen sich mit einem Schuss Wasser oder Milch wieder aufwärmen.
 - **Mit Butter:** Ein Klecks Butter im warmen Brei war an guten Tagen der kleine Luxus, den sich auch einfache Höfe leisten konnten - probier es, bevor du zu Honig greifst.
@@ -78,9 +78,9 @@ Mehr braucht dieses Rezept nicht - und genau das macht es zu einem so ehrlichen 
 
 ## Ein Brei, der durch die Jahrhunderte trägt
 
-Kaum ein Gericht zeigt so klar, wie wenig es für ein sättigendes Essen brauchte: ein Topf, Wasser oder Milch, Gerste und ein wenig Honig. Genau diese Schlichtheit macht Gerstengrütze bis heute zu einem der ehrlichsten Rezepte der nordischen Küche - schnell gemacht, nahrhaft und mit einer Geschichte, die bis in die Handquernen der Wikingerhöfe zurückreicht. Wenn dir dieses Rezept gefallen hat, lohnt sich auch ein Blick auf unser [Fladenbrot aus der Pfanne](/blog/wikinger-fladenbrot-rezept), das aus demselben Getreide entsteht, nur auf ganz andere Weise zubereitet.
+Kaum ein Gericht zeigt so klar, wie wenig es für ein sättigendes Essen brauchte: ein Topf, Wasser oder Milch, Gerste und ein wenig Honig. Genau diese Schlichtheit macht Gerstengrütze bis heute zu einem der ehrlichsten Rezepte der nordischen Küche - schnell gemacht, nahrhaft und mit einer Geschichte, die bis in die Handquernen der Wikingerhöfe zurückreicht. Wenn dir dieses Rezept gefallen hat, lohnt sich auch ein Blick auf unser [Fladenbrot aus der Pfanne](/blog/wikinger-fladenbrot-rezept/), das aus demselben Getreide entsteht, nur auf ganz andere Weise zubereitet.
 
-Wenn du noch tiefer in die nordische Küche eintauchen willst: Dieses Rezept ist eine Kostprobe aus unserer Sammlung. Im Kochbuch **"Wikinger Festmahl - Das große Wikinger-Kochbuch"** findest du 141 Rezepte der nordischen Küche - vom Honigbrot über Festtagsgerichte bis zum passenden Met. [Zum Kochbuch](/kochbuch)
+Wenn du noch tiefer in die nordische Küche eintauchen willst: Dieses Rezept ist eine Kostprobe aus unserer Sammlung. Im Kochbuch **"Wikinger Festmahl - Das große Wikinger-Kochbuch"** findest du 141 Rezepte der nordischen Küche - vom Honigbrot über Festtagsgerichte bis zum passenden Met. [Zum Kochbuch](/kochbuch/)
 
 <script type="application/ld+json">
 {

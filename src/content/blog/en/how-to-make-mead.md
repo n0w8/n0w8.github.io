@@ -20,7 +20,7 @@ In this article you get both: the story behind the legendary drink of the gods, 
 
 ## The Drink of Gods and Poets
 
-No other drink is as deeply woven into Norse mythology as mead. The most famous story is told in the Prose Edda of the Icelandic scholar Snorri Sturluson: from the blood of the wise Kvasir, two dwarves brewed the **Mead of Poetry** - whoever drinks it becomes a poet. The drink later fell into the hands of the giant Suttung, who hid it deep inside a mountain, guarded by his daughter Gunnlod. Odin himself bored through the rock, spent three nights with Gunnlod, and stole the entire supply in three enormous gulps before fleeing back to Asgard in the shape of an eagle. Ever since, mead has been considered the source of all poetry. You can read the full story of the cunning Allfather in our portrait of [Odin, the Allfather](/en/blog/odin-allfather-wisdom).
+No other drink is as deeply woven into Norse mythology as mead. The most famous story is told in the Prose Edda of the Icelandic scholar Snorri Sturluson: from the blood of the wise Kvasir, two dwarves brewed the **Mead of Poetry** - whoever drinks it becomes a poet. The drink later fell into the hands of the giant Suttung, who hid it deep inside a mountain, guarded by his daughter Gunnlod. Odin himself bored through the rock, spent three nights with Gunnlod, and stole the entire supply in three enormous gulps before fleeing back to Asgard in the shape of an eagle. Ever since, mead has been considered the source of all poetry. You can read the full story of the cunning Allfather in our portrait of [Odin, the Allfather](/en/blog/odin-allfather-wisdom/).
 
 Beyond the myths, mead was genuinely special. Honey was scarce and expensive in the North - bees only reluctantly tolerate the Scandinavian climate, and much of the honey had to be imported or painstakingly gathered from wild hives. The everyday drink was therefore the far cheaper barley ale. Mead was reserved for the great occasions: weddings, blot sacrifices, feasts in the hall of the jarl. Serving mead to your guests was a display of wealth.
 
@@ -63,7 +63,7 @@ Equipment: a fermentation vessel of at least 6 liters (glass carboy or food-grad
 - **Serve it warm:** In Scandinavia, mead is often gently heated (never boiled!) in winter - the mulled wine of the North.
 - **Drink it in style:** Room temperature or lightly chilled, from a clay cup or a proper mead horn. And as at any feast in the hall: the first sip belongs to the host, the rest to the company.
 
-By the way: this base recipe is just a taste. Our cookbook **"Viking Feast"** holds 141 recipes from the world of the Norse - from feast-day roasts and hearty stews to more mead variations with berries and herbs. [See the cookbook](/en/cookbook)
+By the way: this base recipe is just a taste. Our cookbook **"Viking Feast"** holds 141 recipes from the world of the Norse - from feast-day roasts and hearty stews to more mead variations with berries and herbs. [See the cookbook](/en/cookbook/)
 
 | | Mead | Ale | Wine |
 |---|---|---|---|
@@ -76,7 +76,7 @@ By the way: this base recipe is just a taste. Our cookbook **"Viking Feast"** ho
 
 ## A Drink That Makes Stories
 
-When your first homemade mead sparkles in the glass a few months from now, you are drinking a piece of cultural history: the same drink that flowed from horns in Valhalla, that Odin stole for the sake of poetry, and that was raised in the halls of the jarls in honor of the [Norse gods](/en/blog/norse-gods). Skal - and remember: the best stories are written after the first horn, not after the fifth.
+When your first homemade mead sparkles in the glass a few months from now, you are drinking a piece of cultural history: the same drink that flowed from horns in Valhalla, that Odin stole for the sake of poetry, and that was raised in the halls of the jarls in honor of the [Norse gods](/en/blog/norse-gods/). Skal - and remember: the best stories are written after the first horn, not after the fifth.
 
 ![A tasting flight of different meads on a wooden board](/images/met-honigwein-wm.jpg)
 

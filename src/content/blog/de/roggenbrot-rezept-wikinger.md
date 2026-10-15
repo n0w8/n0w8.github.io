@@ -22,7 +22,7 @@ Denn so viel vorweg: Das Klischee vom Wikinger, der jeden Tag ein dunkles Roggen
 
 Roggen begann seine Karriere nicht als Feldfrucht, sondern als Unkraut. Er wuchs ungebeten zwischen Weizen und Gerste, und weil er Kälte, magere Böden und nasse Sommer klaglos wegsteckt, setzte er sich auf dem Weg nach Norden Stück für Stück durch. Botaniker nennen so etwas eine sekundäre Kulturpflanze: ein blinder Passagier, der irgendwann selbst das Kommando übernahm.
 
-Zur Wikingerzeit war Gerste noch unangefochten das Getreide des Alltags. Die berühmten verkohlten Brotfladen aus den Gräbern von Birka bestehen vor allem aus Gerste und Hafer, oft grob vermahlen und mit allem gestreckt, was der Hof hergab. Doch gegen Ende der Wikingerzeit dreht sich das Bild: Ab dem 10. Jahrhundert nimmt der Roggenanbau in Dänemark und Südskandinavien deutlich zu. Aus dem Unkraut wurde das Brotgetreide des Mittelalters - und aus dem flachen [Gerstenfladen aus der Pfanne](/blog/wikinger-fladenbrot-rezept) wurde über die Jahrhunderte der dunkle Laib, den Dänemark bis heute als rugbrød verehrt.
+Zur Wikingerzeit war Gerste noch unangefochten das Getreide des Alltags. Die berühmten verkohlten Brotfladen aus den Gräbern von Birka bestehen vor allem aus Gerste und Hafer, oft grob vermahlen und mit allem gestreckt, was der Hof hergab. Doch gegen Ende der Wikingerzeit dreht sich das Bild: Ab dem 10. Jahrhundert nimmt der Roggenanbau in Dänemark und Südskandinavien deutlich zu. Aus dem Unkraut wurde das Brotgetreide des Mittelalters - und aus dem flachen [Gerstenfladen aus der Pfanne](/blog/wikinger-fladenbrot-rezept/) wurde über die Jahrhunderte der dunkle Laib, den Dänemark bis heute als rugbrød verehrt.
 
 Wer also ganz streng ist, backt für die frühe Wikingerzeit Gerstenfladen. Wer die späte Wikingerzeit auf den Tisch bringen will, die Zeit der großen Handelsorte und der ersten Städte, liegt mit einem dunklen Roggenbrot genau richtig.
 
@@ -45,7 +45,7 @@ Aus heutiger Sicht hat die Geschichte eine schöne Ironie: Ausgerechnet das grob
 | Brot war das wichtigste Grundnahrungsmittel | Brei aus Gerste und Hafer stand mindestens ebenso oft auf dem Tisch |
 | Sauerteig ist eine moderne Erfindung | Fermentieren konnten die Nordleute meisterhaft; ob sie Sauerteig gezielt führten, ist aber nicht sicher belegt |
 
-Mehr darüber, was sonst noch in Kessel und Vorratskammer landete, liest du in unserem großen Überblick zur [Ernährung der Wikinger](/blog/wikinger-ernaehrung-essen).
+Mehr darüber, was sonst noch in Kessel und Vorratskammer landete, liest du in unserem großen Überblick zur [Ernährung der Wikinger](/blog/wikinger-ernaehrung-essen/).
 
 ## Das Rezept: dunkles Roggenbrot nach Wikinger-Art
 
@@ -92,7 +92,7 @@ Für 1 Laib (Kastenform, ca. 25 cm):
 
 **Übrigens:** Dass Roggenbrot so lange frisch bleibt, liegt an den Schleimstoffen des Roggens, die Wasser binden. Genau diese Eigenschaft machte dunkles Brot später zum idealen Proviant für lange Winter und lange Reisen.
 
-Wenn dir dieser Laib gelingt, ist das erst der Anfang: In unserem Kochbuch **"Wikinger Festmahl - Das große Wikinger-Kochbuch"** findest du 141 Rezepte der nordischen Küche, vom Honigbrot über deftige Eintöpfe bis zum selbst angesetzten Met. [Zum Kochbuch](/kochbuch)
+Wenn dir dieser Laib gelingt, ist das erst der Anfang: In unserem Kochbuch **"Wikinger Festmahl - Das große Wikinger-Kochbuch"** findest du 141 Rezepte der nordischen Küche, vom Honigbrot über deftige Eintöpfe bis zum selbst angesetzten Met. [Zum Kochbuch](/kochbuch/)
 
 Ein dunkler Laib auf dem Brett, ein Messer, Butter und Honig daneben: Näher kommst du der Vorratskammer eines späten Wikingerhofs in einer modernen Küche kaum. Und während die Sagas von Königen und Schlachten erzählen, war es dieses stille, schwere Brot, das die langen Winter des Nordens tatsächlich erträglich machte. Backe es einmal, warte bis zum Morgen und schneide dann die erste Scheibe ab. Du wirst verstehen, warum der Norden dem Roggen bis heute treu ist.
 

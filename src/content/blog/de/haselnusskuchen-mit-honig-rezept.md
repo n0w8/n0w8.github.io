@@ -40,7 +40,7 @@ Die letzte Zeile ist keine Nebensache. Die Hasel lieferte dem Norden nicht nur N
 
 Rohrzucker war im wikingerzeitlichen Skandinavien schlicht nicht vorhanden. Er erreichte Nordeuropa erst Jahrhunderte später über den Mittelmeerhandel und blieb dann noch lange ein Apothekengut. Wer süßen wollte, hatte genau eine Option: Honig, gewonnen aus Bienenstöcken im südlichen Skandinavien oder aus wilden Völkern im Wald.
 
-Honig war entsprechend kostbar, und der größte Teil davon wanderte gar nicht in Speisen, sondern in den Gärbottich. Aus Honig entstand Met, das Prestigegetränk jeder Halle. Snorri Sturluson beschreibt in der Prosa-Edda die Ziege Heiðrún auf dem Dach Walhalls, aus deren Eutern der Met für die gefallenen Krieger fließt. Deutlicher kann man den Rang eines Getränks kaum markieren. Wie man Met heute zu Hause ansetzt, steht in unserem Rezept für [selbstgemachten Met](/blog/met-selber-machen).
+Honig war entsprechend kostbar, und der größte Teil davon wanderte gar nicht in Speisen, sondern in den Gärbottich. Aus Honig entstand Met, das Prestigegetränk jeder Halle. Snorri Sturluson beschreibt in der Prosa-Edda die Ziege Heiðrún auf dem Dach Walhalls, aus deren Eutern der Met für die gefallenen Krieger fließt. Deutlicher kann man den Rang eines Getränks kaum markieren. Wie man Met heute zu Hause ansetzt, steht in unserem Rezept für [selbstgemachten Met](/blog/met-selber-machen/).
 
 Für einen Kuchen bedeutet das: Ein großzügiger Schuss Honig war kein Alltag, sondern ein Fest. Wer heute 150 Gramm Honig in eine Rührschüssel gießt, leistet sich einen Luxus, für den ein Bauer der Wikingerzeit gutes Silber hingelegt hätte.
 
@@ -93,7 +93,7 @@ Außerdem: eine Rührschüssel, ein Schneebesen oder Handrührgerät und die gef
 - **Winterversion:** Eine Handvoll getrocknete Preiselbeeren oder Apfelwürfel im Teig ergänzen die Süße um eine feine Säure.
 - **Richtig servieren:** Ein Klecks Sauerrahm oder Skyr neben dem Stück setzt der Honigsüße eine feine Säure entgegen. Kalte Butter auf lauwarmem Kuchen funktioniert erstaunlich gut.
 
-Wenn dich diese Küche packt: In unserem Kochbuch **"Wikinger Festmahl - Das große Wikinger-Kochbuch"** warten 141 Rezepte des Nordens, von Fladenbrot über Festbraten bis zu Met und süßen Vorratsschätzen. [Zum Kochbuch](/kochbuch)
+Wenn dich diese Küche packt: In unserem Kochbuch **"Wikinger Festmahl - Das große Wikinger-Kochbuch"** warten 141 Rezepte des Nordens, von Fladenbrot über Festbraten bis zu Met und süßen Vorratsschätzen. [Zum Kochbuch](/kochbuch/)
 
 ## Warum dieser Haselnusskuchen mit Honig funktioniert
 
@@ -101,7 +101,7 @@ Unsere ehrliche Einschätzung nach mehreren Durchgängen: Dieser Kuchen ist deut
 
 Der zweite Grund ist der Geschmack. Zucker ist süß und sonst nichts. Honig bringt Blüten, Harz und eine leichte Säure mit, und diese Vielschichtigkeit trifft auf das gebratene, fast schokoladige Aroma gerösteter Haselnüsse. Was dabei entsteht, hat mehr Charakter als die meisten Kuchen aus dem Supermarktregal, und das ganz ohne Schokolade, Glasur oder Dekoration.
 
-Bleibt eine Einschränkung, die wir nicht verschweigen wollen: Dieser Kuchen ist schwer. Er ist kein luftiger Biskuit, sondern eine dichte, sättigende Angelegenheit. Ein Stück reicht. Wer mehr über den gesamten Speiseplan des Nordens wissen will, findet ihn in unserem Überblick zur [Ernährung der Wikinger](/blog/wikinger-ernaehrung-essen). Und wer am Ende des Sommers selbst durch den Wald geht und Haselnüsse sammelt, macht genau das, was die Menschen an der Schlei und in Dublin vor tausend Jahren auch getan haben. Nur der Ofen ist neu.
+Bleibt eine Einschränkung, die wir nicht verschweigen wollen: Dieser Kuchen ist schwer. Er ist kein luftiger Biskuit, sondern eine dichte, sättigende Angelegenheit. Ein Stück reicht. Wer mehr über den gesamten Speiseplan des Nordens wissen will, findet ihn in unserem Überblick zur [Ernährung der Wikinger](/blog/wikinger-ernaehrung-essen/). Und wer am Ende des Sommers selbst durch den Wald geht und Haselnüsse sammelt, macht genau das, was die Menschen an der Schlei und in Dublin vor tausend Jahren auch getan haben. Nur der Ofen ist neu.
 
 *Bildquellen: Carole Raddato (CC BY-SA 2.0), via Wikimedia Commons*
 

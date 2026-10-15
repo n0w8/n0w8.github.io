@@ -39,7 +39,7 @@ Das Grímnismál nennt drei Wurzeln, die den Baum tragen, und verankert ihn dami
 Spannender als die genaue Geographie ist, was an den Wurzeln liegt. Denn dort sammelt sich das Kostbarste, was diese Mythologie kennt: Wissen und Schicksal, gebunden an drei Brunnen.
 
 - Der **Urdbrunnen** (*Urðarbrunnr*), an dem die Götter täglich Rat halten. Hier wohnen die **Nornen** - Urd, Verdandi und Skuld -, die das Schicksal aller Wesen festlegen. Sie schöpfen Wasser und weißen Lehm aus dem Brunnen und begießen damit Tag für Tag den Baum, damit er nicht verdorrt.
-- Der **Mimirbrunnen** (*Mímisbrunnr*) bei den Riesen, in dem Weisheit und Verstand verborgen liegen. Für einen einzigen Trunk daraus gab Odin ein Auge her - wir haben die Geschichte in unserem Überblick über die [nordischen Götter](/blog/nordische-goetter) erzählt.
+- Der **Mimirbrunnen** (*Mímisbrunnr*) bei den Riesen, in dem Weisheit und Verstand verborgen liegen. Für einen einzigen Trunk daraus gab Odin ein Auge her - wir haben die Geschichte in unserem Überblick über die [nordischen Götter](/blog/nordische-goetter/) erzählt.
 - **Hvergelmir** in Niflheim, der brodelnde Urquell, aus dem alle Flüsse entspringen - und unter dem der Drache Níðhöggr haust.
 
 Man beachte die Pointe: Ausgerechnet die Götter besitzen das Schicksal nicht. Es liegt bei den Nornen, am Fuß des Baumes, und nicht einmal Odin kann daran rütteln. Die Ordnung der Welt hängt buchstäblich an der Gießkanne dreier Frauen.
@@ -82,7 +82,7 @@ Der Weltenbaum ist also zugleich Odins Opferstätte. Kosmische Achse und Galgen 
 
 ## Yggdrasil bei Ragnarök - und danach
 
-Was geschieht mit dem Baum, wenn die Welt endet? Die Völuspá gibt eine erstaunliche Antwort: Wenn [Ragnarök](/blog/ragnaroek) anbricht, wenn Heimdall ins Horn stößt und die Fesseln des Wolfes reißen, dann **zittert** die alte Esche - sie ächzt und bebt. Aber nirgends steht, dass sie fällt.
+Was geschieht mit dem Baum, wenn die Welt endet? Die Völuspá gibt eine erstaunliche Antwort: Wenn [Ragnarök](/blog/ragnaroek/) anbricht, wenn Heimdall ins Horn stößt und die Fesseln des Wolfes reißen, dann **zittert** die alte Esche - sie ächzt und bebt. Aber nirgends steht, dass sie fällt.
 
 Im Gegenteil. Das **Vafþrúðnismál**, ein weiteres Wissensgedicht der Edda, verrät, dass ein Menschenpaar den Weltenbrand überlebt: **Líf und Lífþrasir**, "Leben" und "der nach Leben Strebende", verborgen in "Hoddmímirs Holz" - nach verbreiteter Deutung nichts anderes als der Weltenbaum selbst. Vom Morgentau ernähren sie sich, und aus ihnen erwächst die neue Menschheit, wenn die grüne Erde wieder aus dem Meer steigt.
 

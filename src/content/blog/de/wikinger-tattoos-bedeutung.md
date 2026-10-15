@@ -57,7 +57,7 @@ Die eigentliche Enttäuschung wartet nicht bei der Frage, ob tätowiert wurde, s
 | Vegvisir | Huld-Handschrift, Island 1860 | Nein. Rund 800 Jahre nach der Wikingerzeit. |
 | Netz der Wyrd, Schicksalsnetz | Kein historischer Beleg, moderne Erfindung | Nein. |
 
-Zwei Zeilen dieser Tabelle sind der Grund, warum es diesen Artikel gibt. Der [Vegvisir](/blog/vegvisir-runen-kompass) taucht erstmals in einer isländischen Handschrift auf, die 1860 zusammengestellt wurde, also in einer Zeit, in der auf Island bereits Dampfschiffe verkehrten. Der [Valknut](/blog/valknut-symbol-bedeutung) dagegen ist echt wikingerzeitlich, steht auf Bildsteinen und in der Grabausstattung von Oseberg, aber seine Bedeutung ist bis heute Deutung, nicht Wissen. Das eine Zeichen ist alt und rätselhaft, das andere jung und gut dokumentiert. Wer beide nebeneinander als uralte Wikingersymbole verkauft, hat entweder nicht nachgesehen oder hofft, dass niemand nachsieht.
+Zwei Zeilen dieser Tabelle sind der Grund, warum es diesen Artikel gibt. Der [Vegvisir](/blog/vegvisir-runen-kompass/) taucht erstmals in einer isländischen Handschrift auf, die 1860 zusammengestellt wurde, also in einer Zeit, in der auf Island bereits Dampfschiffe verkehrten. Der [Valknut](/blog/valknut-symbol-bedeutung/) dagegen ist echt wikingerzeitlich, steht auf Bildsteinen und in der Grabausstattung von Oseberg, aber seine Bedeutung ist bis heute Deutung, nicht Wissen. Das eine Zeichen ist alt und rätselhaft, das andere jung und gut dokumentiert. Wer beide nebeneinander als uralte Wikingersymbole verkauft, hat entweder nicht nachgesehen oder hofft, dass niemand nachsieht.
 
 ## Runen auf der Haut: was die Edda tatsächlich sagt
 

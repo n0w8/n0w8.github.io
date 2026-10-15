@@ -28,7 +28,7 @@ Does that sound like a coherent biography? That's exactly the problem. It's too 
 
 The primary source for Ragnar's life is the **Ragnars saga loðbrókar**, an Icelandic saga likely composed in the 13th century - once again, several hundred years after the events it describes. A second key source is the **Gesta Danorum** by the Danish scholar **Saxo Grammaticus**, also written in the 13th century, a Latin history that blends Danish royal legend with genuine chronicle material.
 
-Both works present Ragnar as a real historical figure - but both are also, much like the [Vinland sagas](/en/blog/leif-erikson-america), the product of centuries of oral transmission, in which material from different men, times, and places can compress into a single, more satisfying story. Saxo and the Ragnars saga also disagree on major details - the chronology of Ragnar's marriages and campaigns among them - which would be unusual for two accounts describing the same real person.
+Both works present Ragnar as a real historical figure - but both are also, much like the [Vinland sagas](/en/blog/leif-erikson-america/), the product of centuries of oral transmission, in which material from different men, times, and places can compress into a single, more satisfying story. Saxo and the Ragnars saga also disagree on major details - the chronology of Ragnar's marriages and campaigns among them - which would be unusual for two accounts describing the same real person.
 
 Historians have long suspected that "Ragnar Lothbrok" may not have been a single individual at all, but a **legendary composite figure** - a name onto which oral tradition gradually attached the deeds of several different ninth-century Viking leaders. That wouldn't be unusual; heroic epics routinely fuse multiple real people into one larger-than-life character.
 
@@ -46,7 +46,7 @@ This scene is pure saga material: dramatic, symbolically loaded, and structured 
 
 This is where things get interesting. While Ragnar himself dissolves into saga fog, his supposed sons step abruptly into the clear light of real, contemporary record-keeping.
 
-The **Anglo-Saxon Chronicle**, one of the most reliable sources for early medieval English history, records the landing of a massive force in eastern England in **865 CE** - later dubbed by historians the **Great Heathen Army**. This was no ordinary raid of the kind England had known since the [Lindisfarne raid](/en/blog/lindisfarne-raid) of 793; it was a coordinated, multi-year invasion aimed explicitly at conquest, not just plunder.
+The **Anglo-Saxon Chronicle**, one of the most reliable sources for early medieval English history, records the landing of a massive force in eastern England in **865 CE** - later dubbed by historians the **Great Heathen Army**. This was no ordinary raid of the kind England had known since the [Lindisfarne raid](/en/blog/lindisfarne-raid/) of 793; it was a coordinated, multi-year invasion aimed explicitly at conquest, not just plunder.
 
 The Chronicle credits the army's leadership to several brothers, including:
 

@@ -37,4 +37,48 @@ Kein Tier hat den Speiseplan des Nordens so geprägt wie der Lachs. Er wurde ger
 
 ## Der Tipp vom Skalden
 
-Grober Senf und rustikale Brösel machen die Kruste kerniger - so schmeckt sie fast wie vom Feuerbrett. Wie die Nordmänner mit ihren Schiffen überhaupt bis Island und Grönland kamen, liest du in unserem Artikel über [das Langschiff](/blog/das-langschiff).
+Grober Senf und rustikale Brösel machen die Kruste kerniger - so schmeckt sie fast wie vom Feuerbrett. Wie die Nordmänner mit ihren Schiffen überhaupt bis Island und Grönland kamen, liest du in unserem Artikel über [das Langschiff](/blog/das-langschiff/).
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Lachs mit Honig-Senf-Kruste: Fang aus den Fjorden",
+  "description": "Ofenlachs mit knuspriger Honig-Senf-Kruste nach Wikinger-Art: schnelles Rezept in 30 Minuten, mit nur 5 Zutaten. Der Fisch der Fjorde, modern serviert.",
+  "image": "https://blog.nordwaldrecords.com/images/rezepte/recipe-honey-salmon-1.webp",
+  "author": {
+    "@type": "Organization",
+    "name": "Nordweg"
+  },
+  "datePublished": "2026-07-10",
+  "cookTime": "PT20M",
+  "recipeCategory": "Hauptgericht",
+  "recipeCuisine": "Nordisch",
+  "keywords": "Wikinger Rezept, Lachs, Fisch, Ofengericht, Honig",
+  "recipeIngredient": [
+    "600 g Lachsfilet",
+    "2 EL Honig",
+    "2 EL Senf (grob oder Dijon-Art)",
+    "2 EL Semmelbrösel",
+    "Salz, Pfeffer"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Das Filet mit Salz und Pfeffer würzen."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Honig, Senf und Brösel zu einer Paste verrühren und auf den Fisch streichen."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bei 180 °C etwa 20 Minuten backen."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Die Kruste soll goldbraun und knusprig sein."
+    }
+  ]
+}
+</script>

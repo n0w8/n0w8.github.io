@@ -59,7 +59,7 @@ Hör dir *Ættblóð* an, während du weiterliest:
 
 Wer die Namenlisten der Runensteine und der Landnámabók durchgeht, stößt auf ein Element häufiger als auf jedes andere: **Þór-**. Thorstein, Thorbjörn, Thorgeir, Thorgunna, Thordis, Thorkel - der Donnergott steckt in Dutzenden Namensformen für Männer wie Frauen. Das passt zum Befund der Archäologie, die Thorshämmer als häufigste Amulette der späten Wikingerzeit kennt: Thor war der Gott der einfachen Leute, der Bauern und Seefahrer, und genau diese Leute benannten ihre Kinder nach ihm.
 
-Andere Götter erscheinen subtiler. Der Fruchtbarkeitsgott Freyr verbirgt sich unter seinem alten Beinamen Ing in Namen wie Ingvar, Ingrid, Ingibjörg und Ingolf. Das Element *áss*, das allgemein einen Gott bezeichnet, steckt in Astrid und Asgeir. Und Namen wie Freydis stellen ihre Trägerin direkt unter den Schutz einer Gottheit. Wie eng diese Namenswelt mit der Götterwelt verwoben war, zeigt unser Überblick über die [nordischen Götter](/blog/nordische-goetter).
+Andere Götter erscheinen subtiler. Der Fruchtbarkeitsgott Freyr verbirgt sich unter seinem alten Beinamen Ing in Namen wie Ingvar, Ingrid, Ingibjörg und Ingolf. Das Element *áss*, das allgemein einen Gott bezeichnet, steckt in Astrid und Asgeir. Und Namen wie Freydis stellen ihre Trägerin direkt unter den Schutz einer Gottheit. Wie eng diese Namenswelt mit der Götterwelt verwoben war, zeigt unser Überblick über die [nordischen Götter](/blog/nordische-goetter/).
 
 Bemerkenswert ist, was nach der Christianisierung geschah: nämlich erstaunlich wenig. Die Thor-Namen verschwanden nicht, sie liefen einfach weiter, als hätte niemand dem Donnergott gekündigt. Noch Jahrhunderte später hießen brave christliche Isländer Þorsteinn und Þórdís. Ein Name war offenbar Familienerbe zuerst und Glaubensbekenntnis erst an zweiter Stelle.
 
@@ -79,7 +79,7 @@ Ein Beispiel von besonderer Wucht ist der Gripsholm-Stein Sö 179 aus Södermanl
 
 > Tola ließ diesen Stein errichten nach ihrem Sohn Harald, dem Bruder Ingvars. Wie Männer fuhren sie fern nach Gold und gaben im Osten dem Adler Speise. Sie starben südwärts in Serkland.
 
-In zwei Zeilen stecken drei Namen und ein ganzes Schicksal: eine Mutter namens Tola, ihr gefallener Sohn Harald und der Anführer Ingvar, nach dem noch rund zwei Dutzend weiterer Gedenksteine benannt sind. Auch die dänischen Jelling-Steine sind im Kern Namensdenkmäler: König Gorm setzte einen Stein für seine Frau Thyra, und Sohn Harald verewigte darauf gleich beide Eltern samt der eigenen Lebensleistung. Wer die Schriftzeichen hinter diesen Inschriften verstehen will, findet die Grundlagen in unserem Beitrag über die [Runen des älteren Futhark](/blog/runen-das-aeltere-futhark).
+In zwei Zeilen stecken drei Namen und ein ganzes Schicksal: eine Mutter namens Tola, ihr gefallener Sohn Harald und der Anführer Ingvar, nach dem noch rund zwei Dutzend weiterer Gedenksteine benannt sind. Auch die dänischen Jelling-Steine sind im Kern Namensdenkmäler: König Gorm setzte einen Stein für seine Frau Thyra, und Sohn Harald verewigte darauf gleich beide Eltern samt der eigenen Lebensleistung. Wer die Schriftzeichen hinter diesen Inschriften verstehen will, findet die Grundlagen in unserem Beitrag über die [Runen des älteren Futhark](/blog/runen-das-aeltere-futhark/).
 
 ## Wasserweihe und Namenserbe: Wie ein Kind zu seinem Namen kam
 

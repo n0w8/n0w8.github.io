@@ -37,7 +37,7 @@ Der Grund für all diese Methoden ist derselbe: Salz war in Skandinavien knapp u
 
 Dill lässt sich für den Norden tatsächlich belegen. Im Schiffsgrab von Oseberg, dendrochronologisch auf 834 datiert, fanden sich neben Äpfeln, Haselnüssen und Weizen auch Samen von Dill und Kresse. Die Pflanze gehörte also zum Vorrat einer wohlhabenden Haushaltung der Wikingerzeit. Das ist der Teil des Rezepts, der historisch sauber steht.
 
-Der Zucker ist es nicht. Rohrzucker blieb in Skandinavien bis weit in die Neuzeit ein Luxusgut, billig wurde er erst mit der Rübenzuckerindustrie des 19. Jahrhunderts. Das milde, süßlich-salzige Gravlax, wie wir es kennen, ist deshalb kein Wikingergericht, sondern eine moderne Verfeinerung einer sehr alten Idee. Unsere Einschätzung nach mehreren Durchgängen: Das macht das Rezept nicht weniger nordisch, man sollte es nur nicht als Fundbericht verkaufen. Wer dem historischen Verfahren näher kommen will, landet eher beim Rauch als beim Zucker. Wie das geht, steht in unserem Grundrezept zum [Heißräuchern von Forelle](/blog/forelle-heiss-raeuchern-rezept).
+Der Zucker ist es nicht. Rohrzucker blieb in Skandinavien bis weit in die Neuzeit ein Luxusgut, billig wurde er erst mit der Rübenzuckerindustrie des 19. Jahrhunderts. Das milde, süßlich-salzige Gravlax, wie wir es kennen, ist deshalb kein Wikingergericht, sondern eine moderne Verfeinerung einer sehr alten Idee. Unsere Einschätzung nach mehreren Durchgängen: Das macht das Rezept nicht weniger nordisch, man sollte es nur nicht als Fundbericht verkaufen. Wer dem historischen Verfahren näher kommen will, landet eher beim Rauch als beim Zucker. Wie das geht, steht in unserem Grundrezept zum [Heißräuchern von Forelle](/blog/forelle-heiss-raeuchern-rezept/).
 
 ![Gebeizte Lachsseite mit dichter Dillkruste, daneben hauchdünn aufgeschnittene Scheiben](/images/viking-gravlax-2.jpg)
 
@@ -102,11 +102,11 @@ Für etwa 8 Portionen:
 - **Rote Bete:** 200 g fein geriebene rohe Rote Bete unter die Beize mischen. Der Rand färbt sich tief purpur, der Geschmack wird erdiger.
 - **Ohne Zucker:** möglich, aber dann nur 24 bis 30 Stunden beizen. Ohne Zucker greift das Salz spürbar härter an.
 - **Anderer Fisch:** Saibling, Forelle und Makrele funktionieren identisch, brauchen wegen der geringeren Dicke aber nur 18 bis 24 Stunden.
-- **Würzen wie im Norden:** Wacholder, Fenchelsamen und Beifuß passen alle. Welche Kräuter im Norden überhaupt zur Verfügung standen, zeigt unser Überblick zu den [Kräutern und Gewürzen der Wikingerküche](/blog/wikinger-kraeuter-gewuerze-kueche).
+- **Würzen wie im Norden:** Wacholder, Fenchelsamen und Beifuß passen alle. Welche Kräuter im Norden überhaupt zur Verfügung standen, zeigt unser Überblick zu den [Kräutern und Gewürzen der Wikingerküche](/blog/wikinger-kraeuter-gewuerze-kueche/).
 - **Aufbewahren:** gut eingewickelt 5 bis 7 Tage im Kühlschrank. Angeschnitten mit der Schnittfläche nach unten lagern, dann trocknet sie nicht aus.
 - **Reste:** in Streifen geschnitten mit Skyr, Dill und Zitrone zu einem Aufstrich verrühren oder auf Roggenbrot mit Gurke servieren.
 
-Wenn dir diese Art zu kochen liegt: Das Rezept stammt aus unserem Kochbuch **Wikinger Festmahl**, in dem Fisch, Brot, Eintöpfe und Festtagsgerichte des Nordens zusammenkommen. [Zum Kochbuch](/kochbuch)
+Wenn dir diese Art zu kochen liegt: Das Rezept stammt aus unserem Kochbuch **Wikinger Festmahl**, in dem Fisch, Brot, Eintöpfe und Festtagsgerichte des Nordens zusammenkommen. [Zum Kochbuch](/kochbuch/)
 
 Gravlax selber machen ist am Ende ein Rezept, bei dem man fast nichts tut und trotzdem alles richtig machen kann. Salz, Zucker, ein Kraut und Zeit. Die Wikinger hätten den Zucker nicht gehabt und das Ergebnis vermutlich für reichlich zahm gehalten. Der Name aber, den sie dem Verfahren gaben, hat sie um fast tausend Jahre überlebt.
 

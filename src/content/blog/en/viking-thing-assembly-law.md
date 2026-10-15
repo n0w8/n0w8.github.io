@@ -16,7 +16,7 @@ draft: false
 
 A quarrel over grazing land, a killing in midwinter, a land sale gone bad. If you were wronged in the Viking Age there was nobody to report it to. No police, no prosecutor, no salaried judge, and in Iceland, for well over three centuries, not even a king. What there was instead was the assembly, and a body of Viking thing assembly law that specified in remarkable detail how a man was supposed to bring his grievance forward. So the real question is not whether the Norse were fair-minded. It is procedural: deadlines, witnesses, set phrases, and above all the awkward matter of who enforced a verdict once it had been handed down.
 
-This piece is about that machinery. If you want the bigger argument about whether the assembly counted as an early democracy and who was allowed to speak there at all, that sits in our fact check on the [Thing as a people's assembly](/en/blog/viking-thing-assembly). What follows starts where that debate ends: at the lawsuit.
+This piece is about that machinery. If you want the bigger argument about whether the assembly counted as an early democracy and who was allowed to speak there at all, that sits in our fact check on the [Thing as a people's assembly](/en/blog/viking-thing-assembly/). What follows starts where that debate ends: at the lawsuit.
 
 ## A Legal System With No Executive Branch
 
@@ -92,7 +92,7 @@ The map remembers the old courts too. Dingwall in the Scottish Highlands, Tingwa
 
 How the Vikings spoke law comes down to a single tension: an extraordinary amount of procedure paired with an extraordinary lack of power. They had summons deadlines, neighbour panels, tiers of jurisdiction, an appellate court deciding by majority, and a graded scale running from compensation through temporary banishment to total exclusion. What they lacked was anyone whose job it was to make the outcome happen.
 
-That such a system worked for three centuries is more striking than any clause within it. It worked because a judgment created public knowledge, and public knowledge governed hospitality, trade and marriage in [everyday Viking life](/en/blog/viking-daily-life). When a handful of great families bought up the chieftaincies during the Sturlung Age, the balance tipped, and between 1262 and 1264 Iceland submitted to the Norwegian crown. Not long after, the law book Jónsbók replaced the old Grágás.
+That such a system worked for three centuries is more striking than any clause within it. It worked because a judgment created public knowledge, and public knowledge governed hospitality, trade and marriage in [everyday Viking life](/en/blog/viking-daily-life/). When a handful of great families bought up the chieftaincies during the Sturlung Age, the balance tipped, and between 1262 and 1264 Iceland submitted to the Norwegian crown. Not long after, the law book Jónsbók replaced the old Grágás.
 
 What outlives all of it is an idea still audible in the names Althing, Storting and Folketing: law does not exist because someone is strong enough to impose it, but because a community sits down at regular intervals and says it out loud.
 

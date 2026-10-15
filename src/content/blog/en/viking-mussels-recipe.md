@@ -93,13 +93,13 @@ Serves 4 as a main course:
 ## Tips & Variations
 
 - **The broth is the dish.** Do not pour it away. Strained through a fine sieve it becomes the base of a fish soup the next day.
-- **Bread instead of cutlery.** Traditionally you eat mussels using an empty shell as tongs. A sturdy [Viking flatbread](/en/blog/viking-flatbread-recipe) to mop up the broth belongs on the table.
+- **Bread instead of cutlery.** Traditionally you eat mussels using an empty shell as tongs. A sturdy [Viking flatbread](/en/blog/viking-flatbread-recipe/) to mop up the broth belongs on the table.
 - **A smoky note.** A spoonful of flaked smoked fish in the broth shifts the dish towards winter cooking and sits well with the juniper.
 - **Without ale.** Water with a splash of apple cider gives a brighter, sharper broth, and historically that is arguably the likelier version.
 - **More green.** Wild garlic in spring or lovage in summer can replace the dill and push the pot in a more aromatic direction.
-- **Leftovers.** Shelled mussel meat keeps in its broth in the fridge for a day. Cold, with onion rings and a little vinegar, it makes a salad that takes no further work. For the wider picture of what sat on Norse tables, see our overview of the [Viking diet](/en/blog/viking-food-diet).
+- **Leftovers.** Shelled mussel meat keeps in its broth in the fridge for a day. Cold, with onion rings and a little vinegar, it makes a salad that takes no further work. For the wider picture of what sat on Norse tables, see our overview of the [Viking diet](/en/blog/viking-food-diet/).
 
-If this way of cooking appeals to you: mussels in broth is one of many preparations in our cookbook **Viking Feast**, which gathers the fish, breads, stews and feast-day dishes of the Norse kitchen. [See the cookbook](/en/cookbook)
+If this way of cooking appeals to you: mussels in broth is one of many preparations in our cookbook **Viking Feast**, which gathers the fish, breads, stews and feast-day dishes of the Norse kitchen. [See the cookbook](/en/cookbook/)
 
 In the end the dish is a reminder that the richest larder in the North was never a storehouse but the line where the water draws back twice a day. Anyone standing there with a basket did not go home hungry.
 

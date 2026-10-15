@@ -30,7 +30,7 @@ Dünn heißt in diesem Fall nicht schlecht. Ein dünnes Brett fängt einen Hieb 
 
 Hier klaffen Dichtung und Befund auf interessante Weise auseinander. In der skaldischen Dichtung heißt der Schild gern *lind*, also Linde, und Linde ist tatsächlich ein ideales Schildholz: leicht, zäh, splittert nicht in großen Stücken. Die erhaltenen Scheiben erzählen jedoch eine andere Geschichte. Die Gokstad-Schilde bestehen aus Nadelholz, das Trelleborg-Exemplar wurde vom dänischen Nationalmuseum als Tannenholz bestimmt. Andere Fragmente, etwa aus dem Hafenschlamm von Haithabu, zeigen ebenfalls Nadelhölzer und vereinzelt Laubholz.
 
-Die plausibelste Erklärung ist die unspektakulärste: Man nahm, was in der Nähe wuchs und sich gut spalten ließ. In Norwegen und Jütland war das Fichte, Kiefer oder Tanne, in waldärmeren Regionen notfalls alles, was gerade trocken lag. Der poetische Lindenschild gehört dagegen in dieselbe Kategorie wie das goldene Schwert des Helden: ein Bild, kein Materialnachweis. Wer die Waffen dazu kennenlernen will, findet im Artikel über die [Waffen der Wikinger](/blog/wikinger-waffen-axt-schwert) den passenden Überblick über Axt, Schwert und Speer.
+Die plausibelste Erklärung ist die unspektakulärste: Man nahm, was in der Nähe wuchs und sich gut spalten ließ. In Norwegen und Jütland war das Fichte, Kiefer oder Tanne, in waldärmeren Regionen notfalls alles, was gerade trocken lag. Der poetische Lindenschild gehört dagegen in dieselbe Kategorie wie das goldene Schwert des Helden: ein Bild, kein Materialnachweis. Wer die Waffen dazu kennenlernen will, findet im Artikel über die [Waffen der Wikinger](/blog/wikinger-waffen-axt-schwert/) den passenden Überblick über Axt, Schwert und Speer.
 
 Hör dir *Járn ok þrumr* an, während du weiterliest:
 
@@ -87,6 +87,6 @@ Unsere Einschätzung in der Redaktion: Der Schildwall der Wikingerzeit war vermu
 
 Der **Wikinger Schild Aufbau** ist ein Lehrstück darüber, wie Material, Handwerk und Kampfweise zusammenhängen. Ein Schild aus gespaltenen Brettern, einem Stück Rohhaut und einer Handvoll Nieten kostete wenig, war in Tagen gebaut und nach einer harten Schlacht Verbrauchsmaterial. Genau deshalb konnte sich praktisch jeder wehrfähige Mann einen leisten, während ein Schwert dem Vermögen eines kleinen Hofes entsprach.
 
-Wer verstehen will, wie aus diesen leichten Scheiben ganze Flotten und Heere wurden, findet im Artikel über das [Gokstad-Schiff](/blog/gokstad-schiff) den Kontext: dasselbe Grab, dieselbe Werkstattkultur, dieselbe nüchterne Logik aus Holz, Eisen und Erfahrung. Der Rundschild war kein Prunkstück, sondern das Gegenteil davon, und gerade das macht ihn zum ehrlichsten Ausrüstungsstück der Wikingerzeit.
+Wer verstehen will, wie aus diesen leichten Scheiben ganze Flotten und Heere wurden, findet im Artikel über das [Gokstad-Schiff](/blog/gokstad-schiff/) den Kontext: dasselbe Grab, dieselbe Werkstattkultur, dieselbe nüchterne Logik aus Holz, Eisen und Erfahrung. Der Rundschild war kein Prunkstück, sondern das Gegenteil davon, und gerade das macht ihn zum ehrlichsten Ausrüstungsstück der Wikingerzeit.
 
 *Bildquelle Titelbild: Paul Hermans (CC BY-SA 4.0), via Wikimedia Commons*

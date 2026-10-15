@@ -47,11 +47,11 @@ The categories bleed into one another in practice, and the texts are not perfect
 
 ## Freyja brings the craft to the Aesir
 
-The Ynglinga saga tells us where seidr came from, and the answer is not Asgard. It belonged to the **Vanir**, the second and older family of gods, the one associated with fertility, wealth and growing things. It was [Freyja](/en/blog/freyja-goddess) who brought the art among the Aesir once the two families had settled their war.
+The Ynglinga saga tells us where seidr came from, and the answer is not Asgard. It belonged to the **Vanir**, the second and older family of gods, the one associated with fertility, wealth and growing things. It was [Freyja](/en/blog/freyja-goddess/) who brought the art among the Aesir once the two families had settled their war.
 
 That is worth pausing over, because it is genuinely odd. The most powerful knowledge-technology in the Norse cosmos is an import. It does not originate with the warrior gods around Odin. It arrives from a sphere concerned with abundance and increase, and it arrives in a woman's hands.
 
-And [Odin](/en/blog/odin-allfather-wisdom) takes it up. The same saga describes him as a master of seidr, able to discern the fates of men and to bring misfortune, sickness and death, to strip a man of his wits or his strength. Anyone who knows the Odin material will not be startled. The eye in Mimir's well, the nine nights on the tree: this is a god who pays whatever a piece of knowledge costs. Seidr is one more such payment. The difference is that the currency this time is not his body but his standing.
+And [Odin](/en/blog/odin-allfather-wisdom/) takes it up. The same saga describes him as a master of seidr, able to discern the fates of men and to bring misfortune, sickness and death, to strip a man of his wits or his strength. Anyone who knows the Odin material will not be startled. The eye in Mimir's well, the nine nights on the tree: this is a god who pays whatever a piece of knowledge costs. Seidr is one more such payment. The difference is that the currency this time is not his body but his standing.
 
 Something from our own corner of the world suits this mood of fog, foreknowledge and cold omens rather well:
 

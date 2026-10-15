@@ -45,7 +45,7 @@ Belegt ist die Nessel dafür als Heil- und Nutzpflanze im Umfeld des Nordens. Im
 
 Unsere ehrliche Einschätzung aus der Redaktionsküche: Die Brennnesselsuppe ist das glaubwürdigste "Wikingergericht", das wir je gekocht haben. Nicht weil eine Saga sie nennt, sondern weil jede einzelne Zutat für sich sauber belegt ist. Gerste als Getreide, Butter und Sauermilch aus der Milchwirtschaft, Zwiebel und Lauch als Gartenpflanzen, der Kessel über dem Feuer als Kochtechnik. Man muss nichts erfinden, man muss nur zusammensetzen.
 
-Und man muss ein paar Dinge weglassen. Die Kartoffel kam erst Jahrhunderte später aus Amerika nach Europa und hat in dieser Suppe nichts verloren. Sahne aus dem Kühlregal ersetzen wir gedanklich durch Sauerrahm oder Skyr, denn genau das stand im Norden zur Verfügung. Gebunden wird nicht mit Weizenmehl, sondern mit Gerste, die ohnehin in jedem Haushalt lag. Wer die Suppe schwarz pfeffert, würzt modern. Historisch passender sind Kümmel, Thymian und ein Löffel Sauermilch, wie wir sie auch in unserem Überblick zu den [Kräutern und Gewürzen der Wikingerküche](/blog/wikinger-kraeuter-gewuerze-kueche) beschrieben haben.
+Und man muss ein paar Dinge weglassen. Die Kartoffel kam erst Jahrhunderte später aus Amerika nach Europa und hat in dieser Suppe nichts verloren. Sahne aus dem Kühlregal ersetzen wir gedanklich durch Sauerrahm oder Skyr, denn genau das stand im Norden zur Verfügung. Gebunden wird nicht mit Weizenmehl, sondern mit Gerste, die ohnehin in jedem Haushalt lag. Wer die Suppe schwarz pfeffert, würzt modern. Historisch passender sind Kümmel, Thymian und ein Löffel Sauermilch, wie wir sie auch in unserem Überblick zu den [Kräutern und Gewürzen der Wikingerküche](/blog/wikinger-kraeuter-gewuerze-kueche/) beschrieben haben.
 
 > **Der wichtigste Handgriff:** Nesseln kurz garen, nicht totkochen. Zwei bis drei Minuten reichen. Wer sie zwanzig Minuten mitsimmern lässt, bekommt eine graubraune, bittere Brühe statt dieses leuchtenden Grüns. Farbe ist hier kein Dekor, sondern die Kontrolllampe für den Geschmack.
 
@@ -74,7 +74,7 @@ Für 4 Portionen:
 4. **Nesseln blanchieren.** Die gewaschenen Blätter in die kochende Brühe geben und nur 2 bis 3 Minuten mitkochen. Sobald sie zusammenfallen und tiefgrün leuchten, ist der Punkt erreicht.
 5. **Pürieren.** Zwiebelbutter dazugeben und alles mit dem Stabmixer fein pürieren. Wer es rustikaler mag, püriert nur die Hälfte und lässt Textur im Topf.
 6. **Abrunden.** Vom Feuer nehmen, Sauerrahm oder Skyr einrühren und die letzte Butterflocke untermontieren. Ab hier nicht mehr kochen, sonst flockt die Milchsäure aus.
-7. **Servieren.** Mit Pfeffer abschmecken, je eine halbe Eihälfte in den Teller setzen und heiß servieren, am besten mit frischem [Fladenbrot nach Wikinger-Art](/blog/wikinger-fladenbrot-rezept).
+7. **Servieren.** Mit Pfeffer abschmecken, je eine halbe Eihälfte in den Teller setzen und heiß servieren, am besten mit frischem [Fladenbrot nach Wikinger-Art](/blog/wikinger-fladenbrot-rezept/).
 
 ## Tipps & Variationen
 
@@ -85,7 +85,7 @@ Für 4 Portionen:
 - **Mischen erlaubt:** Giersch, Bärlauch, Sauerampfer und junger Löwenzahn passen dazu. Sauerampfer bringt Säure und macht den Rahm fast überflüssig.
 - **Einfrieren:** Blanchierte, ausgedrückte Nesseln portionsweise einfrieren. Dann gibt es die Suppe auch im November.
 
-Dieses Rezept ist nur eine Kostprobe: In unserem Kochbuch **"Wikinger Festmahl"** warten 141 nordische Rezepte auf dich, vom Kesselgericht über Festtagsbraten bis zu Brot, Met und Wildkräuterküche. [Zum Kochbuch](/kochbuch)
+Dieses Rezept ist nur eine Kostprobe: In unserem Kochbuch **"Wikinger Festmahl"** warten 141 nordische Rezepte auf dich, vom Kesselgericht über Festtagsbraten bis zu Brot, Met und Wildkräuterküche. [Zum Kochbuch](/kochbuch/)
 
 ## Was auf dem Löffel bleibt
 

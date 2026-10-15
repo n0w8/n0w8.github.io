@@ -93,13 +93,13 @@ Für 4 Portionen als Hauptgericht:
 ## Tipps & Variationen
 
 - **Der Sud ist das Gericht.** Gießt den Sud nach dem Essen nicht weg. Durch ein feines Sieb gegossen ergibt er die Grundlage für eine Fischsuppe am nächsten Tag.
-- **Brot statt Besteck.** Klassisch isst man Muscheln mit einer leeren Schale als Zange. Dazu passt ein kräftiges [Wikinger-Fladenbrot](/blog/wikinger-fladenbrot-rezept), das den Sud aufnimmt.
+- **Brot statt Besteck.** Klassisch isst man Muscheln mit einer leeren Schale als Zange. Dazu passt ein kräftiges [Wikinger-Fladenbrot](/blog/wikinger-fladenbrot-rezept/), das den Sud aufnimmt.
 - **Räuchernote.** Ein Löffel zerpflücktes geräuchertes Fischfleisch im Sud verschiebt das Gericht in Richtung Winterküche und passt überraschend gut zum Wacholder.
 - **Ohne Bier.** Wasser mit einem kräftigen Schuss Apfelmost ergibt einen helleren, säuerlichen Sud. Historisch ist das sogar die naheliegendere Variante.
 - **Mehr Grün.** Bärlauch im Frühjahr oder Liebstöckel im Sommer ersetzen den Dill und bringen eine deutlich würzigere Richtung.
-- **Reste.** Ausgelöstes Muschelfleisch hält sich im Sud im Kühlschrank einen Tag. Kalt mit Zwiebelringen und etwas Essig ergibt es einen Salat, der ohne weitere Arbeit funktioniert. Was sonst auf nordischen Tischen stand, zeigt unser Überblick zur [Ernährung der Wikinger](/blog/wikinger-ernaehrung-essen).
+- **Reste.** Ausgelöstes Muschelfleisch hält sich im Sud im Kühlschrank einen Tag. Kalt mit Zwiebelringen und etwas Essig ergibt es einen Salat, der ohne weitere Arbeit funktioniert. Was sonst auf nordischen Tischen stand, zeigt unser Überblick zur [Ernährung der Wikinger](/blog/wikinger-ernaehrung-essen/).
 
-Wenn dir diese Art zu kochen gefällt: Muscheln im Sud sind eine von vielen Zubereitungen aus unserem Kochbuch **Wikinger Festmahl**, in dem Fisch, Brot, Eintöpfe und Festtagsgerichte der nordischen Küche zusammenkommen. [Zum Kochbuch](/kochbuch)
+Wenn dir diese Art zu kochen gefällt: Muscheln im Sud sind eine von vielen Zubereitungen aus unserem Kochbuch **Wikinger Festmahl**, in dem Fisch, Brot, Eintöpfe und Festtagsgerichte der nordischen Küche zusammenkommen. [Zum Kochbuch](/kochbuch/)
 
 Am Ende ist dieses Gericht eine Erinnerung daran, dass die reichste Speisekammer des Nordens kein Vorratshaus war, sondern die Linie, an der das Wasser zweimal am Tag zurückweicht. Wer dort stand und einen Korb hatte, ging nicht hungrig nach Hause.
 

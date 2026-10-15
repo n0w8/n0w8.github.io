@@ -20,7 +20,7 @@ Und anders als bei vielen "Original-Wikinger-Rezepten" aus dem Netz steckt hinte
 
 ## Was gewürzten Met von reinem Honigwein unterscheidet
 
-Reiner Met besteht aus drei Dingen: Honig, Wasser, Hefe. Wie das geht, haben wir im Grundrezept [Met selber machen](/blog/met-selber-machen) Schritt für Schritt aufgeschrieben. Gewürzter Met fügt eine vierte Kategorie hinzu, und die verändert alles.
+Reiner Met besteht aus drei Dingen: Honig, Wasser, Hefe. Wie das geht, haben wir im Grundrezept [Met selber machen](/blog/met-selber-machen/) Schritt für Schritt aufgeschrieben. Gewürzter Met fügt eine vierte Kategorie hinzu, und die verändert alles.
 
 Fachlich unterscheidet man zwei Wege. Ein **Melomel** ist Met mit Früchten, ein **Metheglin** ist Met mit Kräutern und Gewürzen. Unser Rezept geht bewusst beide Wege gleichzeitig, weil genau diese Mischung dem entspricht, was im Boden gefunden wurde. Beeren liefern Säure, Gerbstoffe und Farbe. Kräuter liefern Bitterkeit und ätherische Öle. Beides zusammen gibt dem Honig einen Gegenspieler.
 
@@ -55,7 +55,7 @@ Hopfen setzte sich im Norden erst im Hochmittelalter durch. Davor würzte man Bi
 
 Wacholder ist der zweite große Name. In Finnland läuft das Bauernbier Sahti bis heute durch ein Bett aus Wacholderzweigen, in norwegischen Bauernbrauereien war Wacholderwasser jahrhundertelang die Basis jedes Suds. Wacholderbeeren im Met sind also nichts Ausgefallenes, sondern etwas sehr Nordisches.
 
-Dazu kommen Mädesüß, dessen Blüten nach Honig und Mandel duften, und Schafgarbe. Beide gehören zum klassischen Grut-Repertoire. Was sonst noch in nordischen Töpfen landete, zeigt unser Artikel zu [Kräutern und Gewürzen der Wikingerküche](/blog/wikinger-kraeuter-gewuerze-kueche).
+Dazu kommen Mädesüß, dessen Blüten nach Honig und Mandel duften, und Schafgarbe. Beide gehören zum klassischen Grut-Repertoire. Was sonst noch in nordischen Töpfen landete, zeigt unser Artikel zu [Kräutern und Gewürzen der Wikingerküche](/blog/wikinger-kraeuter-gewuerze-kueche/).
 
 Ein Wort zur Vorsicht: Gagel enthält reichlich ätherische Öle, wird traditionell sparsam dosiert und gilt in der Schwangerschaft als nicht empfehlenswert. Wer unsicher ist, ersetzt ihn durch Mädesüß, das milder ist.
 
@@ -97,7 +97,7 @@ Dazu an Ausrüstung: ein Gärbehälter mit mindestens 6 Litern Volumen, ein Gär
 - **Fassnote ohne Fass.** Ein kleines Stück ungebeiztes Eichenholz aus dem Braubedarf gibt in der Reifephase eine Vanille- und Rauchnote, die zu Heidehonig hervorragend passt.
 - **Sicherheit zuerst.** Der fertige Met hat 10 bis 14 Prozent Alkohol. Nichts für Kinder, nichts für Schwangere, und Gagel gehört aus demselben Grund nicht in einen Ansatz, den Schwangere trinken sollen.
 
-Wenn dich diese Küche packt: In unserem Kochbuch **"Wikinger Festmahl - Das große Wikinger-Kochbuch"** warten 141 Rezepte des Nordens, von Fladenbrot über Festbraten bis zu weiteren Met-Varianten mit Beeren und Kräutern. [Zum Kochbuch](/kochbuch)
+Wenn dich diese Küche packt: In unserem Kochbuch **"Wikinger Festmahl - Das große Wikinger-Kochbuch"** warten 141 Rezepte des Nordens, von Fladenbrot über Festbraten bis zu weiteren Met-Varianten mit Beeren und Kräutern. [Zum Kochbuch](/kochbuch/)
 
 ## Gewürzter Met in der Praxis: unsere Einschätzung
 

@@ -31,7 +31,7 @@ Das Kettenhemd verdient dabei fast so viel Aufmerksamkeit wie der Helm selbst. R
 ![Die erhaltenen Fragmente des Kettenhemds aus dem Grab von Gjermundbu, montiert auf einer transparenten Trägerplatte im Museum](/images/gjermundbu-helmet-2.jpg)
 *Bildquelle: Wolfmann (CC BY-SA 4.0), via Wikimedia Commons*
 
-Wer sich für die übrige Bewaffnung dieser Epoche interessiert, findet in unserem Artikel über die [Waffen der Wikinger](/blog/wikinger-waffen-axt-schwert) einen ausführlichen Überblick darüber, womit ein Krieger wie der Herr von Gjermundbu in die Schlacht zog.
+Wer sich für die übrige Bewaffnung dieser Epoche interessiert, findet in unserem Artikel über die [Waffen der Wikinger](/blog/wikinger-waffen-axt-schwert/) einen ausführlichen Überblick darüber, womit ein Krieger wie der Herr von Gjermundbu in die Schlacht zog.
 
 ## Der Gjermundbu Helm im Detail: Bauweise eines Meisterstücks
 
@@ -89,7 +89,7 @@ Der Gjermundbu-Helm wird heute im **Kulturhistorisk Museum** (Historisches Museu
 
 Die Fundstelle selbst ist dagegen heute völlig unscheinbar: Wer den Hof Gjermundbu bei Haugsbygd besucht, findet Wiesen, Wald und Ackerland - kaum etwas erinnert daran, dass hier eines der berühmtesten Objekte der gesamten nordischen Archäologie über tausend Jahre im Boden lag.
 
-Wer sich dafür interessiert, wie außergewöhnliche Bestattungen der Wikingerzeit insgesamt aussahen, vom einfachen Brandgrab bis zum kompletten Schiff unter einem Hügel, findet mehr dazu in unserem Beitrag über [Wikinger-Bestattungen und Schiffsgräber](/blog/wikinger-bestattung-schiffsgrab).
+Wer sich dafür interessiert, wie außergewöhnliche Bestattungen der Wikingerzeit insgesamt aussahen, vom einfachen Brandgrab bis zum kompletten Schiff unter einem Hügel, findet mehr dazu in unserem Beitrag über [Wikinger-Bestattungen und Schiffsgräber](/blog/wikinger-bestattung-schiffsgrab/).
 
 ## Ein Stück Eisen als Gesicht einer Epoche
 

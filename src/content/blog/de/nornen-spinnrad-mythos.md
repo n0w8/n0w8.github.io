@@ -16,7 +16,7 @@ draft: false
 
 Such nach Bildern zu den Nornen, und du bekommst hundertmal dieselbe Szene: drei Frauen, ein Spinnrad, ein langer Faden, eine Schere. Buchcover, Tattoovorlagen, Albumhüllen, Rollenspiel-Illustrationen. Das Motiv ist so eingespielt, dass es wie eine Übersetzung aus der Edda wirkt. Nur beschreibt kein einziger mittelalterlicher Text diese Szene.
 
-Wer die Nornen wirklich sind, wo sie wohnen und was die Quellen ihnen zuschreiben, haben wir an anderer Stelle auseinandergenommen: in [Die Nornen: Die Schicksalsweberinnen des Nordens](/blog/nornen-schicksalsweberinnen). Dieser Artikel stellt eine andere Frage. Nicht "wer sind sie", sondern: Woher kommt das Bild, das jeder im Kopf hat? Wer hat es gebaut, wann, und warum ist es so schwer wieder loszuwerden?
+Wer die Nornen wirklich sind, wo sie wohnen und was die Quellen ihnen zuschreiben, haben wir an anderer Stelle auseinandergenommen: in [Die Nornen: Die Schicksalsweberinnen des Nordens](/blog/nornen-schicksalsweberinnen/). Dieser Artikel stellt eine andere Frage. Nicht "wer sind sie", sondern: Woher kommt das Bild, das jeder im Kopf hat? Wer hat es gebaut, wann, und warum ist es so schwer wieder loszuwerden?
 
 Die Antwort ist erfreulich konkret. Das populäre Nornenbild ist kein Missverständnis, sondern eine Montage aus vier Teilen, und jedes einzelne lässt sich datieren: ein technischer Anachronismus, ein griechisches Requisit, eine Verwechslung mit einer anderen Figurengruppe und eine Bühnenidee aus Bayreuth.
 
@@ -40,7 +40,7 @@ Warum das so bereitwillig geschah, hat mit dem Publikum jener Zeit zu tun. Die g
 
 Das dritte Element, das große Schicksalsgewebe, ist keine Erfindung. Es ist eine Verwechslung, und sie ist besonders lehrreich, weil die Quellen sie ein Stück weit selbst anlegen.
 
-Die berühmteste Webszene der nordischen Literatur steht im Darraðarljóð, einem älteren Gedicht, das die um 1280 aufgeschriebene Njáls saga überliefert. Dort steht ein Webstuhl, aufgezogen mit Gedärmen, beschwert mit abgeschlagenen Köpfen, geschlagen mit Pfeilen. An diesem Gerät arbeiten [Walküren](/blog/walkueren). Das Gedicht nennt sie beim Namen. Nornen kommen darin nicht vor.
+Die berühmteste Webszene der nordischen Literatur steht im Darraðarljóð, einem älteren Gedicht, das die um 1280 aufgeschriebene Njáls saga überliefert. Dort steht ein Webstuhl, aufgezogen mit Gedärmen, beschwert mit abgeschlagenen Köpfen, geschlagen mit Pfeilen. An diesem Gerät arbeiten [Walküren](/blog/walkueren/). Das Gedicht nennt sie beim Namen. Nornen kommen darin nicht vor.
 
 Dazu kommt eine echte Unschärfe: Skuld, die dritte der großen Nornen, taucht in der Völuspá wenige Strophen nach ihrem ersten Auftritt erneut auf, diesmal in einer Aufzählung von Walküren, die zum Ritt bereitstehen. Dieselbe Figur, zwei Zuständigkeiten. Genau an dieser Naht ist die moderne Vermischung eingedrungen.
 
@@ -73,7 +73,7 @@ Ganz ohne Fäden kommt die Überlieferung nicht aus, und genau deshalb konnte da
 
 Man muss nur die Verben lesen. Gedreht wird, festgebunden, verankert, über Himmelsrichtungen verteilt, und eine wirft einen Strang nach Norden und heißt ihn ewig halten. Das ist Seilerarbeit, kein feines Spinnen, schon gar keine Maschine. Vor allem wird nichts abgeschnitten. Die Schicksalsforscherin Karen Bek-Pedersen hat in ihrer Studie *The Norns in Old Norse Mythology* (2011) genau das herausgearbeitet: Die vertraute Spinn- und Webmetaphorik läuft den Quellen weit voraus.
 
-Das zweite nordische Werkzeug ist ohnehin kein textiles. Schicksal wird geritzt, in Holz, mit einer Klinge, in derselben Geste, mit der man eine [Rune](/blog/runen-das-aeltere-futhark) setzt. Wie dieser Handwerksbegriff von Schicksal funktioniert, steht in unserem [Nornen-Artikel](/blog/nornen-schicksalsweberinnen). Für die Bildgeschichte reicht ein Satz: Das Werkzeug der Nornen ist ein Messer, keine Schere.
+Das zweite nordische Werkzeug ist ohnehin kein textiles. Schicksal wird geritzt, in Holz, mit einer Klinge, in derselben Geste, mit der man eine [Rune](/blog/runen-das-aeltere-futhark/) setzt. Wie dieser Handwerksbegriff von Schicksal funktioniert, steht in unserem [Nornen-Artikel](/blog/nornen-schicksalsweberinnen/). Für die Bildgeschichte reicht ein Satz: Das Werkzeug der Nornen ist ein Messer, keine Schere.
 
 ## Was im Boden liegt
 
@@ -81,10 +81,10 @@ Archäologisch lässt sich keine einzige Norne nachweisen, das gehört zur Ehrli
 
 - **Spinnwirtel** aus Ton, Speckstein und Blei gehören zu den häufigsten Kleinfunden wikingerzeitlicher Siedlungen und Gräber.
 - **Webgewichte** aus gebranntem Ton belegen den Gewichtswebstuhl, der senkrecht an der Wand stand und in fast jedem größeren Haushalt zu finden war.
-- **Webbrettchen** für gemusterte Borten, unter anderem aus dem [Osebergschiff](/blog/oseberg-schiff) mit der Grablegung von 834, zeigen hochspezialisiertes Handwerk.
+- **Webbrettchen** für gemusterte Borten, unter anderem aus dem [Osebergschiff](/blog/oseberg-schiff/) mit der Grablegung von 834, zeigen hochspezialisiertes Handwerk.
 - **Textilwerkzeug in Frauengräbern** wurde so regelmäßig mitgegeben, dass es als Statusmarker gilt, vergleichbar mit Waffen in Männergräbern.
 
-Der Schluss daraus ist zurückhaltend zu ziehen, aber er erklärt viel. Textilarbeit war im Alltag der [nordischen Frauen](/blog/wikinger-frauen-rolle-alltag) allgegenwärtig und völlig unfeierlich. Der goldene Faden im Helgi-Lied ist deshalb keine Mystik, sondern ein Handgriff, den jeder Zuhörer kannte. Das romantische Nornenbild dreht genau das um: Es macht aus einer selbstverständlichen Arbeit ein Sakrament.
+Der Schluss daraus ist zurückhaltend zu ziehen, aber er erklärt viel. Textilarbeit war im Alltag der [nordischen Frauen](/blog/wikinger-frauen-rolle-alltag/) allgegenwärtig und völlig unfeierlich. Der goldene Faden im Helgi-Lied ist deshalb keine Mystik, sondern ein Handgriff, den jeder Zuhörer kannte. Das romantische Nornenbild dreht genau das um: Es macht aus einer selbstverständlichen Arbeit ein Sakrament.
 
 ## Bayreuth 1876: Wagner gibt ihnen ein Seil
 

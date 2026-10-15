@@ -42,7 +42,7 @@ Hör dir *Scar* an, während du weiterliest:
 
 Die Frauentracht der Wikingerzeit ist archäologisch sogar noch klarer zu fassen, und das liegt an einem Schmuckstück: der **Schalenfibel**. Diese ovalen, gewölbten Bronzefibeln wurden paarweise getragen und hielten die Träger eines wollenen Überkleides, des sogenannten **Trägerrocks** (oft als Hangerock oder smokkr bezeichnet), der über einem langen Leinenunterkleid saß. Weil an den Nadeln und Ösen der Fibeln winzige Stoff- und Schlaufenreste haften blieben, lässt sich der Aufbau dieser Tracht bis ins Detail nachvollziehen.
 
-Nirgendwo ist das besser dokumentiert als in **Birka**. In den über tausend ausgegrabenen Gräbern der schwedischen Handelsstadt fanden sich Schalenfibeln in Serie, dazu Seidenbänder und feinste Ziergeflechte aus Silberdraht. Schon die Textilforscherin Agnes Geijer, die die Birka-Stoffe in den 1930er Jahren analysierte, staunte über die Qualität der feinen Wollköper aus diesen Gräbern. Wie eng Mode, Handel und Stadtleben dort verflochten waren, zeigt unser Artikel über [Birka, Schwedens erste Stadt](/blog/birka-schwedens-erste-stadt).
+Nirgendwo ist das besser dokumentiert als in **Birka**. In den über tausend ausgegrabenen Gräbern der schwedischen Handelsstadt fanden sich Schalenfibeln in Serie, dazu Seidenbänder und feinste Ziergeflechte aus Silberdraht. Schon die Textilforscherin Agnes Geijer, die die Birka-Stoffe in den 1930er Jahren analysierte, staunte über die Qualität der feinen Wollköper aus diesen Gräbern. Wie eng Mode, Handel und Stadtleben dort verflochten waren, zeigt unser Artikel über [Birka, Schwedens erste Stadt](/blog/birka-schwedens-erste-stadt/).
 
 Zwischen den beiden Fibeln hingen Ketten aus Glas-, Bernstein- und manchmal Karneolperlen, oft ergänzt um praktische Anhänger: Schere, Nadeldose, Schlüssel. Eine dritte Fibel, häufig kleeblattförmig, verschloss darüber Schal oder Umhang. Verheiratete Frauen bedeckten das Haar wohl häufig mit Tüchern oder Hauben, und dass solche Hauben auch aus Seide sein konnten, beweist ein Fund aus dem York der Wikingerzeit.
 
@@ -81,7 +81,7 @@ Auffällig ist, wie sehr Handelsplätze diese Liste dominieren. Städte wie Birk
 
 ## Was vom grauen Norden übrig bleibt
 
-Am Ende bleibt vom Klischee des zottigen Barbaren wenig übrig. Die Menschen der Wikingerzeit kleideten sich farbig, pflegten ihre Erscheinung und investierten erstaunliche Mengen an Arbeit und Silber in ihr Äußeres. Das passt zu allem, was wir sonst über ihren [Alltag](/blog/wikinger-alltag-leben) wissen: eine Gesellschaft von Bauern, Händlern und Handwerkern, die auf Kämme, saubere Kleidung und sichtbaren Status großen Wert legte.
+Am Ende bleibt vom Klischee des zottigen Barbaren wenig übrig. Die Menschen der Wikingerzeit kleideten sich farbig, pflegten ihre Erscheinung und investierten erstaunliche Mengen an Arbeit und Silber in ihr Äußeres. Das passt zu allem, was wir sonst über ihren [Alltag](/blog/wikinger-alltag-leben/) wissen: eine Gesellschaft von Bauern, Händlern und Handwerkern, die auf Kämme, saubere Kleidung und sichtbaren Status großen Wert legte.
 
 Vielleicht ist genau das die eigentliche Lehre aus den Stofffetzen von Haithabu und den Fibeln von Birka: Eine Kultur, die Seide aus Byzanz an den Kragen näht, Perlen aus Indien um den Hals trägt und ihre Weltanschauung als silbernen Hammer auf der Brust zeigt, war alles Mögliche, nur nicht primitiv. Sie war vernetzt, statusbewusst und modischer, als es ihr die Nachwelt tausend Jahre lang zugestehen wollte.
 

@@ -48,7 +48,7 @@ And it is thoroughly missing. Not one recipe collection survives from the Viking
 
 Our honest editorial verdict after cooking it: this soup is far more interesting than its name suggests, and the whole thing hangs on one technique. Sweat the onion and leek briefly and you get a thin, slightly sharp broth. Give them half an hour in butter until they almost melt and you get a deep, nearly meaty sweetness without a gram of meat in the pot. That is what turns a lean dish into a good one, and a cauldron over an open hearth had all the time in the world for it.
 
-Several things have to go. The potato crossed the Atlantic centuries later and has no business here, even though nearly every modern leek soup leans on it for body. Carton cream becomes soured cream or skyr, because that is what a Norse household actually kept. The body comes from barley, the dominant grain of Viking Age Scandinavia. Pepper was reachable along the trade routes but expensive and rare; caraway, thyme and mustard seed sit much closer to everyday cooking, as we set out in our guide to [Viking herbs and seasonings](/en/blog/viking-herbs-spices-cooking).
+Several things have to go. The potato crossed the Atlantic centuries later and has no business here, even though nearly every modern leek soup leans on it for body. Carton cream becomes soured cream or skyr, because that is what a Norse household actually kept. The body comes from barley, the dominant grain of Viking Age Scandinavia. Pepper was reachable along the trade routes but expensive and rare; caraway, thyme and mustard seed sit much closer to everyday cooking, as we set out in our guide to [Viking herbs and seasonings](/en/blog/viking-herbs-spices-cooking/).
 
 > **The one technique that decides everything:** sweat the onion and leek over low heat, do not brown them. The moment you get roasted notes, the soup tastes of fried onion instead of what it should be, which is mild, sweet and buttery. Give it ten minutes longer with the lid half on.
 
@@ -74,7 +74,7 @@ Serves 4:
 3. **Add the barley.** Stir in the pearl barley and caraway, let them toast for a minute, then pour in the stock.
 4. **Simmer.** Drop in the thyme and let everything simmer gently for 25 to 30 minutes, until the barley is tender and the soup has thickened a little.
 5. **Finish.** Remove the thyme, take the pot off the heat and stir in the soured cream or skyr. Do not let it boil again or the dairy will split. Swirl in the last knob of butter.
-6. **Serve.** Scatter the sliced green leek tops over the top and serve hot, ideally with a thick slice of [Viking rye bread](/en/blog/viking-rye-bread-recipe).
+6. **Serve.** Scatter the sliced green leek tops over the top and serve hot, ideally with a thick slice of [Viking rye bread](/en/blog/viking-rye-bread-recipe/).
 
 ## Tips & Variations
 
@@ -85,7 +85,7 @@ Serves 4:
 - **Keeping it:** cooked without dairy the soup holds three days in the fridge and tastes rounder on day two. Stir the soured cream in only as you reheat.
 - **Thicker soup:** swap the pearl barley for 2 tbsp barley flour and toast it with the vegetables.
 
-This recipe is only a taste of what is coming: our cookbook **"Viking Feast"** holds 141 Nordic recipes, from cauldron dishes and feast-day roasts to bread, mead and wild-greens cooking. [See the cookbook](/en/cookbook)
+This recipe is only a taste of what is coming: our cookbook **"Viking Feast"** holds 141 Nordic recipes, from cauldron dishes and feast-day roasts to bread, mead and wild-greens cooking. [See the cookbook](/en/cookbook/)
 
 ## What Stays in the Pot
 

@@ -45,7 +45,7 @@ What we can document is the nettle as a useful and medicinal plant across the wi
 
 Our honest editorial take: nettle soup is the most defensible "Viking dish" we have ever cooked. Not because a saga names it, but because every single component is independently documented. Barley as the staple grain, butter and soured milk from a dairy-heavy economy, onion and leek as garden crops, and the cauldron over the hearth as the cooking method. Nothing has to be invented. It only has to be assembled.
 
-That also means leaving things out. Potatoes crossed the Atlantic centuries later and have no business here. Carton cream becomes soured cream or skyr, because that is what a Norse household actually had. The body comes from barley rather than wheat flour. Black pepper is a modern reflex; caraway, thyme and a spoonful of something sour sit far closer to the period, as we set out in our guide to [Viking herbs and seasonings](/en/blog/viking-herbs-spices-cooking).
+That also means leaving things out. Potatoes crossed the Atlantic centuries later and have no business here. Carton cream becomes soured cream or skyr, because that is what a Norse household actually had. The body comes from barley rather than wheat flour. Black pepper is a modern reflex; caraway, thyme and a spoonful of something sour sit far closer to the period, as we set out in our guide to [Viking herbs and seasonings](/en/blog/viking-herbs-spices-cooking/).
 
 > **The one technique that matters:** cook the nettles briefly, then stop. Two to three minutes is plenty. Simmer them for twenty and you get a grey-brown, bitter broth instead of that electric green. The colour is not decoration here. It is the warning light for flavour.
 
@@ -74,7 +74,7 @@ Serves 4:
 4. **Blanch the nettles.** Drop the washed leaves into the simmering stock and cook for just 2 to 3 minutes. The moment they collapse and turn deep green, they are done.
 5. **Blend.** Add the buttery onion and blitz smooth with a stick blender. For a rustic version, blend only half and leave the rest as texture.
 6. **Finish.** Take the pot off the heat, stir in the soured cream or skyr, and swirl in the last knob of butter. Do not let it boil again or the dairy will split.
-7. **Serve.** Season with pepper, set half a boiled egg in each bowl and serve hot, ideally with warm [Viking flatbread](/en/blog/viking-flatbread-recipe).
+7. **Serve.** Season with pepper, set half a boiled egg in each bowl and serve hot, ideally with warm [Viking flatbread](/en/blog/viking-flatbread-recipe/).
 
 ## Tips & Variations
 
@@ -85,7 +85,7 @@ Serves 4:
 - **Mix your greens:** ground elder, wild garlic, sorrel and young dandelion all belong. Sorrel adds acidity and makes the dairy almost unnecessary.
 - **Freeze ahead:** blanch, squeeze dry and freeze in portions. Then you can have this soup in November too.
 
-This recipe is only a taste of what is coming: our cookbook **"Viking Feast"** holds 141 Nordic recipes, from cauldron dishes and feast-day roasts to bread, mead and wild-greens cooking. [See the cookbook](/en/cookbook)
+This recipe is only a taste of what is coming: our cookbook **"Viking Feast"** holds 141 Nordic recipes, from cauldron dishes and feast-day roasts to bread, mead and wild-greens cooking. [See the cookbook](/en/cookbook/)
 
 ## What Stays on the Spoon
 

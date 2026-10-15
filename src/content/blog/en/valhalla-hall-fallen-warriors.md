@@ -32,7 +32,7 @@ The fullest description of the hall itself comes from **Grímnismál** ("The Say
 
 The hall's roof, the poem tells us, is made of golden **shields**, held up by **spears** for rafters, and the benches are strewn with breastplates. It's an architecture built entirely out of war gear - a building that looks as though it had been assembled straight from the battlefield. Picture it literally: not gold for gold's own sake, but weapons and armor arranged as construction material. The hall doesn't just contain war. It *is* war, cast into architecture.
 
-That number - 540 doors, each releasing 800 warriors at once - isn't poetic flourish. It tallies precisely the force Odin will lead against the wolf Fenrir on the day of [Ragnarök](/en/blog/ragnarok): 432,000 einherjar. Valhalla, strictly speaking, isn't a resting place in any ordinary sense. It's a barracks with an expiration date.
+That number - 540 doors, each releasing 800 warriors at once - isn't poetic flourish. It tallies precisely the force Odin will lead against the wolf Fenrir on the day of [Ragnarök](/en/blog/ragnarok/): 432,000 einherjar. Valhalla, strictly speaking, isn't a resting place in any ordinary sense. It's a barracks with an expiration date.
 
 It's also worth noting where Grímnismál places Valhalla: in **Glaðsheimr**, "the home of gladness," a district within Asgard itself. Snorri Sturluson picks up this detail in his Prose Edda and adds further touches the poem only implies - a wolf hangs before the western door, an eagle hovers above the roof. Even the smallest embellishments follow the same pattern: Valhalla is saturated with the symbols of war, right down to its façade.
 
@@ -44,7 +44,7 @@ Alongside the literary record sits the archaeological one. On Gotland's picture 
 
 ## Odin and the Choosing of the Slain
 
-Who actually decides who makes it into Valhalla? Here Odin himself enters the picture, alongside the **Valkyries** - those "choosers of the slain" who ride across the battlefield deciding who will die and who will be escorted to Valhalla. Their story, their names, and their role as the hall's cup-bearers we've told in full in our article on the [Valkyries](/en/blog/valkyries) - here it's enough to note that Valhalla is unthinkable without them. Odin doesn't make the selection alone; he depends on his messengers, riding through the chaos of battle and deciding, with a glance, whose time has come.
+Who actually decides who makes it into Valhalla? Here Odin himself enters the picture, alongside the **Valkyries** - those "choosers of the slain" who ride across the battlefield deciding who will die and who will be escorted to Valhalla. Their story, their names, and their role as the hall's cup-bearers we've told in full in our article on the [Valkyries](/en/blog/valkyries/) - here it's enough to note that Valhalla is unthinkable without them. Odin doesn't make the selection alone; he depends on his messengers, riding through the chaos of battle and deciding, with a glance, whose time has come.
 
 Why does the Allfather go to all this trouble? The answer lies in his wisdom - and his fear. Odin knows, through prophecy, that Ragnarök is coming, and that the gods will face a vast army of giants, monsters, and the dead of Helheim. So for as long as he can, he gathers the bravest of the fallen and arms them in Valhalla for that single day.
 
@@ -66,7 +66,7 @@ Even the daily deaths aren't incidental. Snorri makes a point of noting that eve
 
 This makes the real purpose of Valhalla clear, and it differs fundamentally from any Christian-influenced notion of heaven. Valhalla is not a place of eternal rest, not a reward for a virtuous life, not relief from the world's burdens. It is a rearmament facility.
 
-The einherjar's entire existence points toward a single future event: the day Heimdall sounds his horn, the monsters break free of their bonds, and Odin rides at the head of his assembled army into the last battle. Valhalla exists only because Ragnarök is coming. Without the prophecy of the world's end, there would be no reason to gather warriors in the first place - we tell the full story of that final battle, in which Odin himself falls, in our article on [Ragnarök](/en/blog/ragnarok).
+The einherjar's entire existence points toward a single future event: the day Heimdall sounds his horn, the monsters break free of their bonds, and Odin rides at the head of his assembled army into the last battle. Valhalla exists only because Ragnarök is coming. Without the prophecy of the world's end, there would be no reason to gather warriors in the first place - we tell the full story of that final battle, in which Odin himself falls, in our article on [Ragnarök](/en/blog/ragnarok/).
 
 It's a remarkably sober, almost military-logistical idea for a mythology to hold: even the afterlife of the bravest warriors serves, first and foremost, a strategic function.
 

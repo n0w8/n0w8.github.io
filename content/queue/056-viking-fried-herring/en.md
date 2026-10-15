@@ -20,7 +20,7 @@ Any decent fried herring recipe comes down to four things: flour, fat, heat, and
 
 Herring has one property that made it priceless to any society without refrigeration: it arrives in shoals, packed together in numbers a single net haul could lift out of the water. Sit on the right coast at the right time of year and within weeks you had enough protein to carry a settlement through half a winter. Better still, herring is oily. It delivered calories as well as protein, which matters enormously in a climate of long, dark winters.
 
-That is why the important places of the Viking North sat where the shoals ran. Hedeby, on the Schlei inlet in what is now northern Germany, was the largest trading town of the Norse world, built on a narrow arm of the Baltic the fish passed through. Excavations there have produced fish bone in vast quantities, and the picture it paints is not of a delicacy but of ordinary daily food. The wider story of how that town worked and why it vanished is in our piece on [Hedeby](/en/blog/hedeby-lost-trading-city).
+That is why the important places of the Viking North sat where the shoals ran. Hedeby, on the Schlei inlet in what is now northern Germany, was the largest trading town of the Norse world, built on a narrow arm of the Baltic the fish passed through. Excavations there have produced fish bone in vast quantities, and the picture it paints is not of a delicacy but of ordinary daily food. The wider story of how that town worked and why it vanished is in our piece on [Hedeby](/en/blog/hedeby-lost-trading-city/).
 
 The most interesting evidence comes from further west. In English towns the fish bone record flips sharply around the year 1000: freshwater species collapse, marine species surge. Archaeologists call this the *fish event horizon*, described by James Barrett and colleagues in *Antiquity* in 2004. Herring and cod become the backbone of an urban food supply that no longer depends on the local river. It is one of the rare dietary shifts you can pin to a date in the ground.
 
@@ -61,7 +61,7 @@ Plenty of claims circulate about herring and Norse cooking, and a recipe that le
 
 ## Three Things That Decide a Good Fried Herring
 
-**The flour.** Rye is not nostalgia here, it genuinely behaves differently. It develops far less gluten, pulls more surface moisture off the fish and browns earlier. You get a thin, almost sandy crust rather than a soggy coating. Rye's place as the everyday northern grain shows up in the bread too, and we have a [rye bread recipe](/en/blog/viking-rye-bread-recipe) built on the same logic.
+**The flour.** Rye is not nostalgia here, it genuinely behaves differently. It develops far less gluten, pulls more surface moisture off the fish and browns earlier. You get a thin, almost sandy crust rather than a soggy coating. Rye's place as the everyday northern grain shows up in the bread too, and we have a [rye bread recipe](/en/blog/viking-rye-bread-recipe/) built on the same logic.
 
 **The fat and the heat.** Butter on its own burns long before the fish is done, so this recipe starts with clarified butter and brings whole butter in only for the last ninety seconds. By then it browns to a nutty finish instead of turning black. The pan has to be properly hot before anything goes in. Lay fish into a lukewarm pan and the flour simply drinks the fat and welds itself to the base.
 
@@ -104,7 +104,7 @@ Serves 4:
 - **Reheating.** Fried herring goes tough when warmed through. Eat leftovers cold on rye bread with mustard.
 - **The pan.** A well-seasoned cast iron pan beats non-stick here, because it holds its heat when cold fish hits the surface.
 
-If this way of cooking appeals to you, the recipe is one of 141 in our cookbook **Viking Feast**, which gathers the fish, breads, stews and feast dishes of the North in one place. [See the cookbook](/en/cookbook)
+If this way of cooking appeals to you, the recipe is one of 141 in our cookbook **Viking Feast**, which gathers the fish, breads, stews and feast dishes of the North in one place. [See the cookbook](/en/cookbook/)
 
 Fried herring is a fairly exact portrait of what northern cooking is about. A cheap fish, a coarse flour, hot fat and a squeeze of acid, and out of that comes a dish that needs no apology. The Viking Age would not have made it quite like this, it is only fair to say so. But it would have recognised the fish and the grain.
 

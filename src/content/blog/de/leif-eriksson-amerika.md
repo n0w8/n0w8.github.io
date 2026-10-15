@@ -42,7 +42,7 @@ Was die Quellen übereinstimmend berichten: Leif Eriksson brach mit einer Mannsc
 - **Markland** ("Waldland") - wahrscheinlich die Küste Labradors, dicht bewaldet
 - **Vinland** ("Land der Weinreben" oder "Weideland") - der Name ist bis heute umstritten - wo die Mannschaft überwinterte
 
-Die Sagas beschreiben Vinland als mild, fruchtbar, mit Lachsen "größer als je zuvor gesehen" und angeblich wild wachsenden Trauben, die dem Land seinen Namen gegeben haben sollen. Diese Fahrt gelang nur, weil die Nordmänner über das passende Schiff verfügten - das flachgängige, seetüchtige [Langschiff](/blog/das-langschiff), das ebenso auf offener See wie in Küstennähe bestehen konnte.
+Die Sagas beschreiben Vinland als mild, fruchtbar, mit Lachsen "größer als je zuvor gesehen" und angeblich wild wachsenden Trauben, die dem Land seinen Namen gegeben haben sollen. Diese Fahrt gelang nur, weil die Nordmänner über das passende Schiff verfügten - das flachgängige, seetüchtige [Langschiff](/blog/das-langschiff/), das ebenso auf offener See wie in Küstennähe bestehen konnte.
 
 > Die Grœnlendinga saga berichtet sinngemäß, Leif habe das Land nach seinen drei markantesten Ressourcen benannt - Stein, Wald und Wein - und sei mit einer Schiffsladung Holz und Trauben zurück nach Grönland gesegelt, wo Bauholz stets Mangelware war.
 

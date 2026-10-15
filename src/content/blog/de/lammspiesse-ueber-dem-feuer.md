@@ -53,7 +53,7 @@ Offenes Feuer war im Norden trotzdem allgegenwärtig, nur anders eingesetzt, als
 | Wacholder, Dill, Senf, Bärlauch | Pflanzenreste aus Siedlungs- und Grabschichten | Die Marinade darf harzig und kräuterig sein |
 | Honig | Bienenhaltung und Metproduktion im Norden | Süße kam aus dem Honigtopf, nicht aus Zucker |
 
-Der praktische Schluss aus dieser Liste: Die Spieße gehören nicht in die Flamme, sondern über eine ruhige, mit weißer Asche überzogene Glut. Wer sie ins offene Feuer hält, bekommt außen Kohle und innen rohes Fleisch. Welche Kräuter im Norden nachweisbar sind und welche nicht, haben wir ausführlich in unserem Artikel über die [Kräuter und Gewürze der Wikinger](/blog/wikinger-kraeuter-gewuerze-kueche) aufgeschrieben.
+Der praktische Schluss aus dieser Liste: Die Spieße gehören nicht in die Flamme, sondern über eine ruhige, mit weißer Asche überzogene Glut. Wer sie ins offene Feuer hält, bekommt außen Kohle und innen rohes Fleisch. Welche Kräuter im Norden nachweisbar sind und welche nicht, haben wir ausführlich in unserem Artikel über die [Kräuter und Gewürze der Wikinger](/blog/wikinger-kraeuter-gewuerze-kueche/) aufgeschrieben.
 
 > **Wusstest du?** Das englische Wort *steak* stammt vom altnordischen **steik** für Braten, das zum Verb **steikja** gehört, "am Spieß rösten". Die Nordmänner haben das Wort also nach England gebracht, auch wenn ihr eigener Alltag deutlich mehr nach Kesselgericht aussah als nach Steak.
 
@@ -87,10 +87,10 @@ Für 4 Spieße, also 4 Portionen:
 - **Hammel statt Lamm:** Für den kräftigeren, ehrlicheren Geschmack Hammelfleisch nehmen und die Marinierzeit auf 8 bis 12 Stunden verlängern.
 - **Holzspieße:** Wer Metallspieße vermeiden will, wässert Holzspieße vorher mindestens 30 Minuten. Frische, geschälte Haselnusszweige funktionieren ebenfalls und riechen beim Garen hervorragend.
 - **Ohne Grill:** In einer sehr heißen gusseisernen Pfanne funktioniert das Rezept auch drinnen. Die Röstaromen kommen dann von der Pfanne statt vom Rauch, das Ergebnis ist trotzdem gut.
-- **Dazu passt:** Fladenbrot, Skyr mit Bärlauch oder geröstetes Wurzelgemüse. Wer lieber die klassische, im Kessel gegarte Variante desselben Fleisches probieren möchte, findet sie in unserem [Lamm-Eintopf mit Kräutern](/blog/lamm-eintopf-mit-kraeutern).
+- **Dazu passt:** Fladenbrot, Skyr mit Bärlauch oder geröstetes Wurzelgemüse. Wer lieber die klassische, im Kessel gegarte Variante desselben Fleisches probieren möchte, findet sie in unserem [Lamm-Eintopf mit Kräutern](/blog/lamm-eintopf-mit-kraeutern/).
 - **Reste:** Kalt abgezogene Spießstücke schmecken am nächsten Tag auf Brot ausgezeichnet, mit etwas Senf und Zwiebel.
 
-Wenn dich diese Verbindung aus Archäologie und Küche neugierig gemacht hat: Dieses Rezept ist nur ein Ausschnitt. In unserem Kochbuch **"Wikinger Festmahl"** stehen 141 Rezepte der nordischen Küche, von Fladenbrot über Eintöpfe bis zu Festtagsbraten, jeweils mit dem historischen Hintergrund dazu. [Zum Kochbuch](/kochbuch)
+Wenn dich diese Verbindung aus Archäologie und Küche neugierig gemacht hat: Dieses Rezept ist nur ein Ausschnitt. In unserem Kochbuch **"Wikinger Festmahl"** stehen 141 Rezepte der nordischen Küche, von Fladenbrot über Eintöpfe bis zu Festtagsbraten, jeweils mit dem historischen Hintergrund dazu. [Zum Kochbuch](/kochbuch/)
 
 Am Ende bleibt ein Gericht, das sich nicht als Rekonstruktion verkleiden muss. Schaf, Wacholder, Honig und Glut sind für den Norden gut belegt. Der Spieß in dieser Form ist unsere Zutat. Und genau so, mit klarer Trennung zwischen Beleg und Küchenidee, schmeckt Wikingerküche am besten: nach Rauch, Harz und einem Stück Weide im Nordatlantik.
 

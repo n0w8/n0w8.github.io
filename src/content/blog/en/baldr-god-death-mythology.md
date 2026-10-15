@@ -46,7 +46,7 @@ Put *Scar* on while you read the rest:
 
 ## The Death of Baldr: How a Blind God Became the Weapon
 
-What follows is the most famous piece of scheming in the whole tradition. [Loki](/en/blog/loki-trickster-god) takes the shape of a woman, calls on Frigg in her hall Fensalir, and asks casually what the gods are doing at the assembly. Frigg tells him about the oaths without hesitation. Asked whether truly everything had sworn, she names the exception and treats it as nothing.
+What follows is the most famous piece of scheming in the whole tradition. [Loki](/en/blog/loki-trickster-god/) takes the shape of a woman, calls on Frigg in her hall Fensalir, and asks casually what the gods are doing at the assembly. Frigg tells him about the oaths without hesitation. Asked whether truly everything had sworn, she names the exception and treats it as nothing.
 
 Loki leaves, cuts the mistletoe, and returns to the assembly. **Höðr** stands at the edge of the ring doing nothing, because he is blind. Loki asks why he alone will not honour his brother. Höðr answers that he cannot see where to aim and has no weapon. Loki puts the shaft in his hand and points him in the right direction.
 
@@ -97,7 +97,7 @@ What the gods do instead is telling. Odin fathers a son, **Vali**, on the giante
 
 ## The Return: The Only Comfort in Norse Myth
 
-The story does not end in the fire. The Völuspá describes how, after [Ragnarok](/en/blog/ragnarok), the earth rises green from the sea a second time and the surviving Aesir gather on the field of Idavoll, finding in the grass the golden gaming pieces they had lost in the old world. And there Baldr and Höðr come back together, victim and instrument, reconciled in a world where the old debt no longer applies.
+The story does not end in the fire. The Völuspá describes how, after [Ragnarok](/en/blog/ragnarok/), the earth rises green from the sea a second time and the surviving Aesir gather on the field of Idavoll, finding in the grass the golden gaming pieces they had lost in the old world. And there Baldr and Höðr come back together, victim and instrument, reconciled in a world where the old debt no longer applies.
 
 That is arguably the most grown-up ending in Norse mythology. The shining god does not return because someone rescued him, because grief was sufficient, or because vengeance restored the balance. He returns because the world that could not absorb his death had to end first. Read as a fairy tale about a good god and a wicked trickster, the story loses all of that. Read properly, it says that some losses cannot be repaired inside the order that produced them.
 

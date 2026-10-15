@@ -41,13 +41,13 @@ Genau dieser jahrhundertelange Übergang erklärt, warum sich in der heutigen We
 
 ## Was wirklich auf dem Tisch stand
 
-Archäologische Funde und schriftliche Quellen zusammen zeichnen ein Bild eines Festmahls, das sich deutlich vom kargen Wikinger-Alltagsessen abhob. Neben dem Schweinefleisch des Opferebers kamen vermutlich weitere Fleischgerichte auf den Tisch, dazu eingelegtes und geräuchertes Gemüse aus dem Wintervorrat, frisch gebackenes Brot und, sofern verfügbar, **Met** - der süße, aus Honig vergorene Festtagstrunk, dem wir bereits einen [eigenen Artikel](/blog/met-selber-machen) gewidmet haben.
+Archäologische Funde und schriftliche Quellen zusammen zeichnen ein Bild eines Festmahls, das sich deutlich vom kargen Wikinger-Alltagsessen abhob. Neben dem Schweinefleisch des Opferebers kamen vermutlich weitere Fleischgerichte auf den Tisch, dazu eingelegtes und geräuchertes Gemüse aus dem Wintervorrat, frisch gebackenes Brot und, sofern verfügbar, **Met** - der süße, aus Honig vergorene Festtagstrunk, dem wir bereits einen [eigenen Artikel](/blog/met-selber-machen/) gewidmet haben.
 
 Besonders zur Weihnachtszeit wurde zudem gebacken, was der Wintervorrat hergab: Getreide, Honig, getrocknete Früchte und Nüsse, die über den Sommer gesammelt und für genau solche Festtage aufgehoben wurden. Ein solches Festtagsbrot lässt sich mit ein paar Zutaten aus dem Supermarkt bis heute nachbacken - und genau darum soll es im Rezeptteil dieses Artikels gehen.
 
 ## Wikinger-Julbrot mit Nüssen und Trockenfrüchten
 
-Dieses Brot ist reicher als das tägliche [Fladenbrot](/blog/wikinger-fladenbrot-rezept) der Wikinger: gesüßt mit Honig, angereichert mit Nüssen und Trockenfrüchten aus dem Wintervorrat - genau die Art von besonderem Gebäck, die einem Festtag wie Jól angemessen war.
+Dieses Brot ist reicher als das tägliche [Fladenbrot](/blog/wikinger-fladenbrot-rezept/) der Wikinger: gesüßt mit Honig, angereichert mit Nüssen und Trockenfrüchten aus dem Wintervorrat - genau die Art von besonderem Gebäck, die einem Festtag wie Jól angemessen war.
 
 ## Zutaten
 
@@ -89,7 +89,7 @@ Dass ausgerechnet die dunkelste, kälteste Jahreszeit zum größten Fest des Jah
 
 Vieles von dem, was wir heute als "typisch weihnachtlich" empfinden, das Licht in der Dunkelheit, das gemeinsame Festmahl, die feierlichen Trinksprüche auf das neue Jahr, hat tiefe Wurzeln im nordischen Jólfest. Der sonargöltr-Eid mag längst Geschichte sein, aber ein frisch gebackenes, mit Honig und Nüssen verfeinertes Festtagsbrot lässt sich auch heute noch mit ganz ähnlicher Freude teilen wie vor über tausend Jahren in einer nordischen Langhaus-Halle.
 
-Wenn du noch tiefer in die nordische Küche eintauchen willst: Dieses Rezept ist eine Kostprobe aus unserer Sammlung. Im Kochbuch **"Wikinger Festmahl - Das große Wikinger-Kochbuch"** findest du 141 Rezepte der nordischen Küche - vom Festtagsbrot über deftige Eintöpfe bis zum passenden Met. [Zum Kochbuch](/kochbuch)
+Wenn du noch tiefer in die nordische Küche eintauchen willst: Dieses Rezept ist eine Kostprobe aus unserer Sammlung. Im Kochbuch **"Wikinger Festmahl - Das große Wikinger-Kochbuch"** findest du 141 Rezepte der nordischen Küche - vom Festtagsbrot über deftige Eintöpfe bis zum passenden Met. [Zum Kochbuch](/kochbuch/)
 
 <script type="application/ld+json">
 {

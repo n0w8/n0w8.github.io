@@ -23,7 +23,7 @@ const nav = [
   { href: catUrl('Mythologie', lang), label: t('nav.mythology') },
   { href: catUrl('Runen & Symbole', lang), label: t('nav.runes') },
   { href: catUrl('Rezepte', lang), label: t('nav.recipes') },
-  { href: lang === 'de' ? '/kochbuch' : '/en/cookbook', label: t('nav.cookbook') },
+  { href: lang === 'de' ? '/kochbuch/' : '/en/cookbook/', label: t('nav.cookbook') },
   { href: localizedPath('/artists', lang), label: t('nav.artists') },
 ];
 const path = Astro.url.pathname;

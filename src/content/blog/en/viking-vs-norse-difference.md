@@ -66,7 +66,7 @@ The time-frame row deserves a footnote of its own. The familiar span of 793 to 1
 
 There is no reliable percentage, and any source quoting one has estimated it. What we do have is settlement archaeology, and it points one way only: the Viking Age was overwhelmingly a farming society. The village at Vorbasse in Jutland, excavated over decades, shows substantial farmsteads with byres, workshops and storage buildings, shifting position across the landscape as generations passed. At Borg in the Lofoten Islands archaeologists uncovered a chieftain's longhouse roughly 83 metres long, now reconstructed as the Lofotr Viking Museum. Icelandic sites preserve whole farm complexes complete with storerooms and weaving sheds.
 
-None of that is about plunder. It is about manure, hay, dairying, iron smelting and textile work, the subject we went into at length in our piece on [everyday life in the Viking Age](/en/blog/viking-daily-life). The arithmetic matters here. A crew of thirty to forty men is thirty to forty pairs of hands removed from a district for an entire summer. A farm short of hands cuts less fodder, and a winter short of fodder costs livestock. Raiding was therefore not a lark but an investment decision that had to pay, which explains both why it stayed seasonal and why the same man could be a warrior one year and a farmer the next.
+None of that is about plunder. It is about manure, hay, dairying, iron smelting and textile work, the subject we went into at length in our piece on [everyday life in the Viking Age](/en/blog/viking-daily-life/). The arithmetic matters here. A crew of thirty to forty men is thirty to forty pairs of hands removed from a district for an entire summer. A farm short of hands cuts less fodder, and a winter short of fodder costs livestock. Raiding was therefore not a lark but an investment decision that had to pay, which explains both why it stayed seasonal and why the same man could be a warrior one year and a farmer the next.
 
 > A Northman could become a Viking and then stop. Nobody was a Viking in the strict sense for life, because the moment he beached the ship he was a farmer, a trader or a retainer again.
 
@@ -80,7 +80,7 @@ Collapsing Viking into Norse produces a cascade of smaller errors. These five tu
 - **Myth:** the Viking Age began from nothing in 793. **Fact:** trading places and naval warfare are archaeologically attested by around 750, at Staraya Ladoga and in the Salme graves.
 - **Myth:** Northmen and Normans are unrelated peoples. **Fact:** Norman is the same word filtered through French, naming the descendants of Norse settlers in Normandy.
 
-A sixth confusion runs on exactly the same error, mistaking a nineteenth-century picture for a ninth-century fact. We took that one apart in detail in our article on the [horned helmet](/en/blog/viking-horned-helmet-myth).
+A sixth confusion runs on exactly the same error, mistaking a nineteenth-century picture for a ninth-century fact. We took that one apart in detail in our article on the [horned helmet](/en/blog/viking-horned-helmet-myth/).
 
 ## How a Job Description Became a Nation
 

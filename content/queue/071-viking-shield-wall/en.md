@@ -70,6 +70,6 @@ Later Icelandic sagas, including parts of the Heimskringla, mention an attacking
 
 ## Why the Shield Wall Decided Most Battles
 
-The shield wall was not an elegant tactic, it was a brutally simple one. It demanded little individual skill but a great deal of nerve, discipline, and trust that the man to your left was covering your exposed side. Those qualities, not spectacular single combat, decided most battles of the Viking Age. For more on the specific weapons that equipped these formations, see our article on [Viking weapons](/en/blog/viking-weapons-axe-sword).
+The shield wall was not an elegant tactic, it was a brutally simple one. It demanded little individual skill but a great deal of nerve, discipline, and trust that the man to your left was covering your exposed side. Those qualities, not spectacular single combat, decided most battles of the Viking Age. For more on the specific weapons that equipped these formations, see our article on [Viking weapons](/en/blog/viking-weapons-axe-sword/).
 
 Our take after comparing the battle accounts: modern popular culture has turned the Viking Age into an era of wild lone fighters, full of duels and individual heroics. The sources paint a considerably more sober picture. Anyone who wanted to survive this period did not primarily practice the perfect sword stroke, they practiced disciplined standing in a line with no way out except victory or the collapse of the entire formation.

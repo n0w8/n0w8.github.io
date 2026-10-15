@@ -20,7 +20,7 @@ Hering braten verlangt kein großes Rezept und keine Spezialausrüstung: Mehl, F
 
 Der Hering hat eine Eigenschaft, die ihn für vorindustrielle Gesellschaften unbezahlbar machte: Er kommt in Schwärmen. Nicht einzeln, nicht verstreut, sondern in Mengen, die man mit einem einzigen Netzzug aus dem Wasser holen konnte. Wer an der richtigen Küste zur richtigen Jahreszeit saß, hatte binnen weniger Wochen so viel Eiweiß beisammen, wie eine Siedlung über den halben Winter brauchte. Dass dieser Fisch fett ist und damit Kalorien liefert statt nur Protein, machte ihn in einem Klima mit langen, dunklen Wintern noch wertvoller.
 
-Genau deshalb lagen die wichtigen Orte des Nordens dort, wo der Hering zog. Haithabu am Schlei, die größte Handelsstadt der nordischen Wikingerzeit, saß an einem schmalen Ostseearm, durch den die Schwärme kamen. Die Grabungen dort haben enorme Mengen an Fischknochen zutage gefördert, und sie zeigen eine Stadt, die Meeresfisch nicht als Delikatesse behandelte, sondern als Alltagskost. Wie dieser Handelsplatz überhaupt funktionierte und warum er wieder verschwand, haben wir in unserem Artikel über [Haithabu](/blog/haithabu-handelsstadt-wikinger) ausführlicher aufgeschrieben.
+Genau deshalb lagen die wichtigen Orte des Nordens dort, wo der Hering zog. Haithabu am Schlei, die größte Handelsstadt der nordischen Wikingerzeit, saß an einem schmalen Ostseearm, durch den die Schwärme kamen. Die Grabungen dort haben enorme Mengen an Fischknochen zutage gefördert, und sie zeigen eine Stadt, die Meeresfisch nicht als Delikatesse behandelte, sondern als Alltagskost. Wie dieser Handelsplatz überhaupt funktionierte und warum er wieder verschwand, haben wir in unserem Artikel über [Haithabu](/blog/haithabu-handelsstadt-wikinger/) ausführlicher aufgeschrieben.
 
 Spannend wird es, wenn man über Skandinavien hinausschaut. In englischen Städten lässt sich um das Jahr 1000 ein scharfer Bruch in den Fischknochenfunden nachweisen: Süßwasserfisch verliert, Meeresfisch gewinnt, und zwar schlagartig. Die Forschung nennt diesen Umschwung den *fish event horizon*, beschrieben von James Barrett und Kollegen in der Zeitschrift *Antiquity* (2004). Hering und Kabeljau werden darin zur Grundlage einer städtischen Versorgung, die über den eigenen Fluss hinausreicht. Es ist einer der wenigen Momente, in denen man eine Ernährungsumstellung archäologisch so präzise datieren kann.
 
@@ -63,7 +63,7 @@ Rund um Hering und Wikingerküche kursieren einige Behauptungen, die sich bei n�
 
 Wer Hering braten will, hat genau drei Stellschrauben. Sie entscheiden, ob der Fisch goldbraun aus der Pfanne kommt oder grau zerfällt.
 
-**Das Mehl.** Roggenmehl ist hier kein nostalgischer Kniff, sondern funktioniert anders als Weizenmehl. Es bindet weniger Gluten, zieht dafür mehr Oberflächenfeuchtigkeit und bräunt früher. Das Ergebnis ist eine dünne, sandige Kruste statt einer pappigen Panierschicht. Dass Roggen im Norden das Alltagsgetreide war, zeigt sich auch beim Brot, zu dem wir ein eigenes [Roggenbrot-Rezept](/blog/roggenbrot-rezept-wikinger) haben.
+**Das Mehl.** Roggenmehl ist hier kein nostalgischer Kniff, sondern funktioniert anders als Weizenmehl. Es bindet weniger Gluten, zieht dafür mehr Oberflächenfeuchtigkeit und bräunt früher. Das Ergebnis ist eine dünne, sandige Kruste statt einer pappigen Panierschicht. Dass Roggen im Norden das Alltagsgetreide war, zeigt sich auch beim Brot, zu dem wir ein eigenes [Roggenbrot-Rezept](/blog/roggenbrot-rezept-wikinger/) haben.
 
 **Das Fett und die Hitze.** Butter allein verbrennt, bevor der Fisch gar ist. Deshalb beginnt dieses Rezept mit Butterschmalz, das deutlich höher erhitzbar ist, und bekommt die Butter erst in den letzten anderthalb Minuten dazu. Dann bräunt sie nussig, statt schwarz zu werden. Die Pfanne muss vorher wirklich heiß sein. Legt man Fisch in eine lauwarme Pfanne, saugt sich das Mehl voll und klebt am Boden fest.
 
@@ -106,7 +106,7 @@ Für 4 Portionen:
 - **Aufwärmen.** Gebratener Hering wird beim Erwärmen zäh. Reste lieber kalt auf Roggenbrot mit etwas Senf essen, das ist ohnehin die ehrlichere Variante.
 - **Pfanne.** Eine gut eingebrannte Eisenpfanne ist jeder Beschichtung überlegen, weil sie die Hitze hält, wenn der kalte Fisch hineinkommt.
 
-Wenn dir diese Art zu kochen gefällt: Das Rezept ist eine von 141 Zubereitungen aus unserem Kochbuch **Wikinger Festmahl**, in dem Fisch, Brot, Eintöpfe und Festtagsgerichte des Nordens zusammenkommen. [Zum Kochbuch](/kochbuch)
+Wenn dir diese Art zu kochen gefällt: Das Rezept ist eine von 141 Zubereitungen aus unserem Kochbuch **Wikinger Festmahl**, in dem Fisch, Brot, Eintöpfe und Festtagsgerichte des Nordens zusammenkommen. [Zum Kochbuch](/kochbuch/)
 
 Am Ende ist der gebratene Hering ein ziemlich genaues Abbild dessen, was nordische Küche ausmacht. Ein billiger Fisch, ein grobes Mehl, heißes Fett und etwas Säure, und daraus wird ein Gericht, das keine Entschuldigung braucht. Die Wikingerzeit hätte es nicht genau so zubereitet, so ehrlich muss man sein. Aber den Fisch und das Getreide hätte sie wiedererkannt.
 

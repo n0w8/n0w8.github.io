@@ -45,7 +45,7 @@ Put *Voor Odin* on while you read the rest:
 
 ## Odin's children and the mothers nobody lists
 
-[Odin](/en/blog/odin-allfather-wisdom) is the hub of the chart, and he is a hub in a way that clearly embarrassed later Christian copyists. His children come from at least four different mothers, and only one of them is his wife.
+[Odin](/en/blog/odin-allfather-wisdom/) is the hub of the chart, and he is a hub in a way that clearly embarrassed later Christian copyists. His children come from at least four different mothers, and only one of them is his wife.
 
 With **Frigg**, daughter of Fjörgynn, he fathers **Baldr**, whose death in Snorri's telling starts the slide toward Ragnarok. Baldr marries **Nanna**, daughter of Nep, and their son **Forseti** presides over legal judgments in his hall Glitnir.
 
@@ -67,7 +67,7 @@ Freyr falls for the giant's daughter **Gerd** and gives away his sword to win he
 
 ## Loki and the branch that breaks the tree
 
-[Loki](/en/blog/loki-trickster-god) sits inside every chart of the gods and belongs in none of them. He is the son of the giant **Fárbauti** and of **Laufey**, he has two brothers named Býleistr and Helblindi, and he is tolerated in Asgard for exactly one reason: Odin once mixed blood with him. In *Lokasenna*, Loki reminds the Allfather of that oath at the precise moment it becomes inconvenient.
+[Loki](/en/blog/loki-trickster-god/) sits inside every chart of the gods and belongs in none of them. He is the son of the giant **Fárbauti** and of **Laufey**, he has two brothers named Býleistr and Helblindi, and he is tolerated in Asgard for exactly one reason: Odin once mixed blood with him. In *Lokasenna*, Loki reminds the Allfather of that oath at the precise moment it becomes inconvenient.
 
 His offspring form the most dangerous line in the system. With the giantess **Angrboda** he fathers three children, each of whom threatens a different part of the cosmos: the wolf **Fenrir**, the world serpent **Jörmungandr**, and **Hel**, who rules the dead. With his wife **Sigyn** he has two sons, Narfi and Váli, and the punishment the gods devise uses that kinship as its instrument. Váli is turned into a wolf and tears his brother apart, and Loki is bound to the rock with Narfi's entrails.
 

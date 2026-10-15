@@ -20,7 +20,7 @@ Dieser Artikel nimmt das Fahrzeug auseinander, zumindest im übertragenen Sinn: 
 
 ## 1. Warum der Oseberg-Wagen-Fund bis heute einzigartig ist
 
-Der Wagen stammt aus derselben Grabkammer wie das [Oseberg-Schiff](/blog/oseberg-schiff), das der Archäologe Gabriel Gustafson zwischen 1904 und 1905 auf dem Hof Lille Oseberg in Vestfold freilegte. Dendrochronologisch ist die Grabkammer auf **834 nach Christus** datiert, das Schiff selbst wurde rund vierzehn Jahre früher gebaut. Der Wagen dürfte in derselben Zeitspanne entstanden sein, auch wenn sich sein Baujahr nicht mit derselben Präzision festnageln lässt wie das des Schiffs.
+Der Wagen stammt aus derselben Grabkammer wie das [Oseberg-Schiff](/blog/oseberg-schiff/), das der Archäologe Gabriel Gustafson zwischen 1904 und 1905 auf dem Hof Lille Oseberg in Vestfold freilegte. Dendrochronologisch ist die Grabkammer auf **834 nach Christus** datiert, das Schiff selbst wurde rund vierzehn Jahre früher gebaut. Der Wagen dürfte in derselben Zeitspanne entstanden sein, auch wenn sich sein Baujahr nicht mit derselben Präzision festnageln lässt wie das des Schiffs.
 
 Entscheidend für seine Erhaltung war nicht die Sorgfalt der Wikinger, sondern schlichte Bodenchemie. Der Hügel bestand aus dichtem, blauem Ton, der Sauerstoff weitgehend fernhielt. Holz, Leder und Textilien, also genau die Materialien, die sonst innerhalb weniger Jahrzehnte spurlos verschwinden, überstanden hier über tausend Jahre. Ohne diesen Zufall wüssten wir vom Wagenbau der Wikingerzeit ungefähr so viel wie vom Klang ihrer Musik.
 
@@ -97,7 +97,7 @@ Hier lohnt eine nüchterne Trennung, weil im Netz beides munter vermischt wird.
 
 Der abnehmbare Kasten führt zu einem archäologisch spannenden Nebenstrang. Aus Dänemark und dem südlichen Ostseeraum sind aus dem 10. Jahrhundert sogenannte **Wagenkastengräber** bekannt: Bestattungen, bei denen der Körper einer wohlhabenden Frau nicht in einem Sarg, sondern im abgenommenen Kasten eines Wagens beigesetzt wurde. Der Kasten diente also zweimal, erst als Fahrzeugteil, dann als Behältnis für die Tote.
 
-Das rückt Oseberg in einen Zusammenhang. Die [Wikinger-Bestattung](/blog/wikinger-bestattung-schiffsgrab) im Norden arbeitete offenbar mit einer wiederkehrenden Vorstellung: Der Tod ist ein Ortswechsel, und ein Ortswechsel braucht ein Vehikel. Ob dieses Vehikel ein Schiff, ein Schlitten oder ein Wagen war, hing von Region, Jahreszeit, Vermögen und wohl auch von der Rolle der bestatteten Person ab.
+Das rückt Oseberg in einen Zusammenhang. Die [Wikinger-Bestattung](/blog/wikinger-bestattung-schiffsgrab/) im Norden arbeitete offenbar mit einer wiederkehrenden Vorstellung: Der Tod ist ein Ortswechsel, und ein Ortswechsel braucht ein Vehikel. Ob dieses Vehikel ein Schiff, ein Schlitten oder ein Wagen war, hing von Region, Jahreszeit, Vermögen und wohl auch von der Rolle der bestatteten Person ab.
 
 Bemerkenswert ist dabei die Geschlechterverteilung. Wagenkastengräber sind ganz überwiegend Frauengräber, und auch im Oseberg-Hügel lagen zwei Frauen. Ob daraus ein spezifischer Zusammenhang zwischen Wagensymbolik und weiblichen Kultrollen folgt, wird seriös diskutiert, ist aber nicht abschließend geklärt.
 

@@ -37,4 +37,48 @@ Zucker kannte der Norden nicht - wer süß backen wollte, brauchte Honig. Und ge
 
 ## Der Tipp vom Skalden
 
-Mit Roggenmehl wird der Kuchen dunkler und würziger - näher am Original. Noch warm mit etwas Butter bestreichen, dann glänzt er wie Bernstein. Und was die Wikinger sonst noch aus Honig machten, erfährst du in unserem Rezept für [selbstgemachten Met](/blog/met-selber-machen).
+Mit Roggenmehl wird der Kuchen dunkler und würziger - näher am Original. Noch warm mit etwas Butter bestreichen, dann glänzt er wie Bernstein. Und was die Wikinger sonst noch aus Honig machten, erfährst du in unserem Rezept für [selbstgemachten Met](/blog/met-selber-machen/).
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Wikinger-Honigkuchen: Süßes Gold aus dem Ofen",
+  "description": "Saftiger Honigkuchen nach Wikinger-Art: einfaches Rührkuchen-Rezept mit 5 Zutaten - Honig statt Zucker, wie im Norden vor 1000 Jahren.",
+  "image": "https://blog.nordwaldrecords.com/images/rezepte/recipe-honey-cake-1.webp",
+  "author": {
+    "@type": "Organization",
+    "name": "Nordweg"
+  },
+  "datePublished": "2026-07-10",
+  "cookTime": "PT35M",
+  "recipeCategory": "Hauptgericht",
+  "recipeCuisine": "Nordisch",
+  "keywords": "Wikinger Rezept, Honigkuchen, Backen, Honig, Kuchen",
+  "recipeIngredient": [
+    "200 g Mehl (Roggen oder Weizen)",
+    "100 g Honig",
+    "1 Ei",
+    "50 g Butter",
+    "1 TL Backpulver (moderne Zutat)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Honig, Ei und Butter verrühren."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Mehl und Backpulver dazugeben und zu einem Teig verarbeiten."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In eine Kastenform füllen und bei 180 °C ca. 35 Minuten backen."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Abkühlen lassen und servieren."
+    }
+  ]
+}
+</script>

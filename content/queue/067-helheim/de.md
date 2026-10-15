@@ -62,11 +62,11 @@ Die nordische Mythologie kannte keine einzige, einheitliche Vorstellung vom Jens
 | Rán | im Meer Ertrunkene (nach einigen Quellen) | die Meeresriesin Rán |
 | Hügelgrab | nach manchen Sagas blieb der Tote im eigenen Grabhügel wohnen | - |
 
-Unsere Einschätzung dazu, nach dem Vergleich der Quellen: Diese Aufteilung war weniger ein ausgeklügeltes theologisches System als eine Sammlung lokaler und literarischer Vorstellungen, die erst Snorri im 13. Jahrhundert zu einer Art Ordnung zusammenfasste. Für die Menschen der Wikingerzeit selbst dürfte Helheim schlicht die nüchterne, unspektakuläre Standarderwartung gewesen sein, über die man sich keine großen mythologischen Gedanken machte, solange man gesund war. Wer mehr über das andere, berühmtere Ziel wissen will, findet es in unserem Beitrag zu [Walhall und den gefallenen Kriegern](/blog/walhall-halle-gefallenen-krieger).
+Unsere Einschätzung dazu, nach dem Vergleich der Quellen: Diese Aufteilung war weniger ein ausgeklügeltes theologisches System als eine Sammlung lokaler und literarischer Vorstellungen, die erst Snorri im 13. Jahrhundert zu einer Art Ordnung zusammenfasste. Für die Menschen der Wikingerzeit selbst dürfte Helheim schlicht die nüchterne, unspektakuläre Standarderwartung gewesen sein, über die man sich keine großen mythologischen Gedanken machte, solange man gesund war. Wer mehr über das andere, berühmtere Ziel wissen will, findet es in unserem Beitrag zu [Walhall und den gefallenen Kriegern](/blog/walhall-halle-gefallenen-krieger/).
 
 ## Helheim und Ragnarök: das Ende des Totenreichs
 
-Helheim ist kein ewig stabiler Ort. Beim **Ragnarök**, dem Weltuntergang, bricht auch das Totenreich auf: Das Schiff **Naglfar**, gebaut aus den Nägeln der Toten, legt von dort ab, und der Hund Garm reißt sich von seiner Kette an Gnipahellir los. Selbst der Tod, so deutet es die Mythologie an, ist kein endgültiger Ruhezustand, sondern Teil eines Kreislaufs, der am Ende der Zeit wieder in Bewegung gerät. Mehr zu diesem Zusammenhang erklärt unser Artikel über [Ragnarök und den Untergang der Götter](/blog/ragnaroek).
+Helheim ist kein ewig stabiler Ort. Beim **Ragnarök**, dem Weltuntergang, bricht auch das Totenreich auf: Das Schiff **Naglfar**, gebaut aus den Nägeln der Toten, legt von dort ab, und der Hund Garm reißt sich von seiner Kette an Gnipahellir los. Selbst der Tod, so deutet es die Mythologie an, ist kein endgültiger Ruhezustand, sondern Teil eines Kreislaufs, der am Ende der Zeit wieder in Bewegung gerät. Mehr zu diesem Zusammenhang erklärt unser Artikel über [Ragnarök und den Untergang der Götter](/blog/ragnaroek/).
 
 ## Was Helheim über die nordische Weltsicht verrät
 

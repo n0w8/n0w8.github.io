@@ -32,9 +32,9 @@ const year = new Date().getFullYear();
           <li><a href={localizedPath('/blog', lang)}>{t('footer.allArticles')}</a></li>
           <li><a href={catUrl('Mythologie', lang)}>{t('nav.mythology')}</a></li>
           <li><a href={catUrl('Runen & Symbole', lang)}>{t('nav.runes')}</a></li>
-          <li><a href={lang === 'de' ? '/kochbuch' : '/en/cookbook'}>{lang === 'de' ? 'Das Kochbuch' : 'The Cookbook'}</a></li>
+          <li><a href={lang === 'de' ? '/kochbuch/' : '/en/cookbook/'}>{lang === 'de' ? 'Das Kochbuch' : 'The Cookbook'}</a></li>
           <li><a href={localizedPath('/artists', lang)}>{t('nav.artists')}</a></li>
-          <li><a href={lang === 'de' ? '/ueber-uns' : '/en/about'}>{lang === 'de' ? 'Über uns' : 'About us'}</a></li>
+          <li><a href={lang === 'de' ? '/ueber-uns/' : '/en/about/'}>{lang === 'de' ? 'Über uns' : 'About us'}</a></li>
         </ul>
       </div>
       <div>
@@ -51,7 +51,7 @@ const year = new Date().getFullYear();
 
     <div class="footer-base">
       <span class="footer-rune" aria-hidden="true">ᚾ ᛟ ᚱ ᛞ</span>
-      <p class="footer-copy text-dim">© {year} Nordweg · {t('footer.copy')} · <a href="/datenschutz">Datenschutz</a></p>
+      <p class="footer-copy text-dim">© {year} Nordweg · {t('footer.copy')} · <a href="/datenschutz/">Datenschutz</a></p>
     </div>
   </div>
 </footer>

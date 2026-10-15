@@ -24,7 +24,7 @@ We know surprisingly precisely what Viking bread looked like, thanks to a stroke
 
 Barley was the grain of the North. Wheat needs warmth and long summers - in cool Scandinavia it grew only in a few favored regions and remained a luxury. Barley, on the other hand, is undemanding, ripens quickly, and survives even a rough summer. Grinding it was hard manual labor: rotary querns made of stone were part of virtually every farm's equipment, and grit from the grinding stones inevitably ended up in the flour. Skeletal finds show the consequence - heavily worn teeth in almost every adult.
 
-Baking happened right at the hearth in the middle of the longhouse: on flat stone slabs, in the ashes, or in shallow long-handled iron pans of the kind found in several graves. Fresh flatbread was everyday food and travel provision in one - durable, nourishing, easy to stack. On board the [longships](/en/blog/the-longship), hard bread alongside dried fish was standard rations for long voyages.
+Baking happened right at the hearth in the middle of the longhouse: on flat stone slabs, in the ashes, or in shallow long-handled iron pans of the kind found in several graves. Fresh flatbread was everyday food and travel provision in one - durable, nourishing, easy to stack. On board the [longships](/en/blog/the-longship/), hard bread alongside dried fish was standard rations for long voyages.
 
 And who did all that baking? As far as we can tell, baking, like the whole household, was in the hands of the lady of the farm. She carried the keys to the storerooms on her belt - a sign of real power, because whoever controlled the provisions decided over life and death in a northern winter. Daily bread was women's work, and it was a never-ending task: with no way to preserve soft bread, baking happened practically every single day.
 
@@ -65,7 +65,7 @@ Plus: a heavy pan, ideally cast iron. It comes closest to the hot baking stone o
 - **Storing:** Packed airtight, the flatbreads keep for 2 to 3 days. Refreshed briefly in a hot pan, they taste like new.
 - **Flatbread too dry or crumbly?** Then the dough had too little water or the pan ran too long. Barley dough forgives a little extra moisture - better to start a touch sticky and add flour while rolling.
 
-If this recipe has whet your appetite: it is a small taste of our collection. The cookbook **"Viking Feast"** holds 141 recipes of the Norse kitchen - from honey bread and feast-day dishes to the matching mead. [See the cookbook](/en/cookbook)
+If this recipe has whet your appetite: it is a small taste of our collection. The cookbook **"Viking Feast"** holds 141 recipes of the Norse kitchen - from honey bread and feast-day dishes to the matching mead. [See the cookbook](/en/cookbook/)
 
 | Grain | Cultivation in the North | Typical use in the Viking Age |
 |---|---|---|
@@ -78,7 +78,7 @@ If this recipe has whet your appetite: it is a small taste of our collection. Th
 
 ## Bread That Connects
 
-A flatbread from the hot pan, some butter, honey, or a piece of cheese - culinarily, you can hardly get closer to daily life on a Norse farm a thousand years ago. While kings and [warriors](/en/blog/viking-berserkers) get the grand scenes in the sagas, it was this humble bread that actually kept the North alive. Bake it once yourself, and you will understand why it was given to the dead for their final journey.
+A flatbread from the hot pan, some butter, honey, or a piece of cheese - culinarily, you can hardly get closer to daily life on a Norse farm a thousand years ago. While kings and [warriors](/en/blog/viking-berserkers/) get the grand scenes in the sagas, it was this humble bread that actually kept the North alive. Bake it once yourself, and you will understand why it was given to the dead for their final journey.
 
 ![Thin Nordic flatbreads on wood](/images/wikinger-fladenbrot-wm.jpg)
 

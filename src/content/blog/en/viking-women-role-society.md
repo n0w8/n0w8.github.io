@@ -75,14 +75,14 @@ Burials are the most tempting and the most slippery evidence we have. A grave sh
 | Spindle whorls and loom weights | Extremely common in settlement layers, also as grave goods | Proves textile production as a continuous domestic activity. Does not prove that only women performed it. |
 | Glass and carnelian beads | Necklaces containing imported pieces | Proves the household was plugged into long-distance trade networks. Does not prove the buried woman travelled. |
 | Scales and weight sets | Rare, but attested | Proves involvement in weighing and payment. Does not prove a career as a long-distance merchant. |
-| Weapons | Very rare in graves with female skeletal evidence | Proves weapons in the burial context. Does not automatically prove a lived warrior role, as the argument around [shield maidens](/en/blog/viking-shield-maidens) shows. |
+| Weapons | Very rare in graves with female skeletal evidence | Proves weapons in the burial context. Does not automatically prove a lived warrior role, as the argument around [shield maidens](/en/blog/viking-shield-maidens/) shows. |
 | Textile tools in elite burials | Weaving swords, combs, implements | Proves that textile work carried prestige into the highest ranks. Does not prove the buried woman wove herself. |
 
 The purpose of that table is not to strip the finds of meaning but to keep each claim inside its own borders. Archaeology gives unusually hard evidence for dress, equipment and economic practice. For the inner life of social roles it gives indications, not proof.
 
 ## Oseberg and the View From Outside
 
-The richest ship burial known from the Viking Age lies in Norway, and it held two women. The burial chamber of the [Oseberg ship](/en/blog/oseberg-ship) is dated by dendrochronology to the year 834, an unusually precise anchor for a period where dating is often a matter of ranges. Among the goods placed inside were an elaborately carved wagon, sledges, animals, household equipment and a substantial quantity of textiles together with the tools to make them.
+The richest ship burial known from the Viking Age lies in Norway, and it held two women. The burial chamber of the [Oseberg ship](/en/blog/oseberg-ship/) is dated by dendrochronology to the year 834, an unusually precise anchor for a period where dating is often a matter of ranges. Among the goods placed inside were an elaborately carved wagon, sledges, animals, household equipment and a substantial quantity of textiles together with the tools to make them.
 
 Who those two women were remains unresolved. There are proposals and ongoing arguments about kinship, status and who was buried for whom, but no secure answer, and it should be left exactly there. What the find shows beyond dispute is that the most lavish burial of the age was made for two women, and that textile work had a place even at that level of display.
 

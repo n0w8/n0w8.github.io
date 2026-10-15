@@ -38,7 +38,7 @@ The sagas show how completely skyr belonged to everyday life. In Egil's Saga, th
 
 Archaeology backs up the stories with unusual precision. In the valley of Thjorsardalur in southern Iceland, an eruption of the volcano Hekla buried several farms under ash in 1104, among them a farmstead called Stong. When archaeologists excavated the site in 1939, they found a pantry beside the main hall with large vats sunk into the floor - generally interpreted as containers for skyr and for provisions preserved in soured whey. A Viking Age dairy cellar, sealed like a northern Pompeii.
 
-And here is the strangest turn in the whole story: mainland Scandinavia eventually forgot skyr altogether. Only Iceland kept making it, household by household, century after century, until the settlers' survival food resurfaced as a global trend product. If you want the wider picture of what actually landed on Norse tables, our guide to the [Viking diet](/en/blog/viking-food-diet) lays it all out.
+And here is the strangest turn in the whole story: mainland Scandinavia eventually forgot skyr altogether. Only Iceland kept making it, household by household, century after century, until the settlers' survival food resurfaced as a global trend product. If you want the wider picture of what actually landed on Norse tables, our guide to the [Viking diet](/en/blog/viking-food-diet/) lays it all out.
 
 > **Did you know?** The whey left over from skyr-making was nearly as important as the skyr itself. Fermented into sour "syra", it served as a drink, was mixed with water as a thirst-quencher during haymaking, and worked as a preservative in which meat and fish kept for months.
 
@@ -46,7 +46,7 @@ And here is the strangest turn in the whole story: mainland Scandinavia eventual
 
 First, the good news: a single cup of plain store-bought skyr is all the culture you need. It contains live bacteria that will seed your milk, exactly the way Icelandic farm wives stirred a remnant of the old batch into the new one for centuries. Check the label - it should say "plain" or "natural", and the ingredient list should name nothing but milk and cultures.
 
-Second, a kitchen thermometer. The cultures do their best work between 100 and 104 F (38 to 40 C), and they die above about 113 F (45 C). If you have ever tried [making mead at home](/en/blog/how-to-make-mead), you already know the rule: fermentation means giving tiny living things good working conditions and then leaving them alone.
+Second, a kitchen thermometer. The cultures do their best work between 100 and 104 F (38 to 40 C), and they die above about 113 F (45 C). If you have ever tried [making mead at home](/en/blog/how-to-make-mead/), you already know the rule: fermentation means giving tiny living things good working conditions and then leaving them alone.
 
 Optional, but traditional: a few drops of liquid rennet from a pharmacy or online shop. Rennet sets the skyr firmer and brings it closer to the Icelandic original. The recipe works without it - the result is simply softer, more like an extra-thick yogurt.
 
@@ -79,7 +79,7 @@ You will also need: a large pot, a kitchen thermometer, a fine sieve, a clean mu
 - **Didn't set?** The milk was probably still too hot when you added the starter and the cultures died. Next time, cool it stubbornly below 108 F (42 C) before inoculating.
 - **Too sour?** Shorten the ripening time and move the batch to the fridge earlier - cold stops the souring.
 
-If this recipe leaves you hungry for more, it is only a taste of the collection: our cookbook **"Viking Feast"** gathers 141 recipes of the Norse kitchen, from flatbread and feast-day roasts to mead. [See the cookbook](/en/cookbook)
+If this recipe leaves you hungry for more, it is only a taste of the collection: our cookbook **"Viking Feast"** gathers 141 recipes of the Norse kitchen, from flatbread and feast-day roasts to mead. [See the cookbook](/en/cookbook/)
 
 ## A Spoonful of the Viking Age
 

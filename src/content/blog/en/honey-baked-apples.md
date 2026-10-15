@@ -37,4 +37,51 @@ In Norse mythology, the goddess Idun guards the apples of youth - whoever eats t
 
 ## The Skald's Tip
 
-Tart apples keep the balance against the sweet honey - the sharper the apple, the better the result. Read the full story of Idun and the gods of Asgard in our article on the [Norse gods](/en/blog/norse-gods).
+Tart apples keep the balance against the sweet honey - the sharper the apple, the better the result. Read the full story of Idun and the gods of Asgard in our article on the [Norse gods](/en/blog/norse-gods/).
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Honey-Baked Apples: Idun's Sweet Secret",
+  "description": "Viking-style baked apples with honey, nuts and cinnamon: easy 25-minute dessert recipe - plus the story of the goddess Idun.",
+  "image": "https://blog.nordwaldrecords.com/images/rezepte/recipe-baked-apples-1.webp",
+  "author": {
+    "@type": "Organization",
+    "name": "Nordweg"
+  },
+  "datePublished": "2026-07-10",
+  "cookTime": "PT20M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "Nordic",
+  "keywords": "Viking Recipe, Baked Apples, Dessert, Apples, Honey",
+  "recipeIngredient": [
+    "4 tart apples (e.g. Boskoop or Granny Smith)",
+    "4 tsp honey",
+    "1 tsp cinnamon",
+    "1 handful of nuts or raisins (or both)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Core the apples."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Fill each apple with honey, nuts and/or raisins."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Sprinkle with cinnamon."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bake at 350°F (180°C) for about 20 minutes, until soft."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve warm - optionally with a little cream."
+    }
+  ]
+}
+</script>

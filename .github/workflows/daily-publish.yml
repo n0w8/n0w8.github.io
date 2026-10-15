@@ -86,6 +86,13 @@ jobs:
         if: env.SKIP != '1'
         run: npm rebuild sharp esbuild
 
+      # Meldet im Lauf-Protokoll, wenn ein Rezept ohne Recipe-Markup live geht.
+      # Bewusst OHNE --strict: ein fehlendes Markup darf die Veroeffentlichung
+      # nicht blockieren und keine Fehlermail ausloesen, es soll nur sichtbar sein.
+      - name: Rezept-Markup pruefen
+        if: env.SKIP != '1'
+        run: node scripts/check-recipes.mjs
+
       - name: Build
         if: env.SKIP != '1'
         run: npm run build

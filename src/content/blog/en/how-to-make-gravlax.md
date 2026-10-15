@@ -37,7 +37,7 @@ Behind every one of these techniques sits the same constraint: salt was scarce a
 
 Dill itself is well documented in the North. The Oseberg ship burial, dated by dendrochronology to 834, held seeds of dill and cress alongside apples, hazelnuts and wheat. It is the one part of this recipe that rests on solid archaeological ground.
 
-The sugar does not. Cane sugar stayed a luxury import in Scandinavia well into the modern period and only became cheap with the beet sugar industry of the nineteenth century. The mild, sweet-salty gravlax we know today is therefore a modern refinement of a very old idea, not a Viking dish. Our honest view after several batches: that takes nothing away from the recipe, it just means you should not sell it as an excavation report. To get closer to the historical method, follow the smoke rather than the sugar, as in our guide to [hot-smoking trout](/en/blog/hot-smoked-trout-viking-method).
+The sugar does not. Cane sugar stayed a luxury import in Scandinavia well into the modern period and only became cheap with the beet sugar industry of the nineteenth century. The mild, sweet-salty gravlax we know today is therefore a modern refinement of a very old idea, not a Viking dish. Our honest view after several batches: that takes nothing away from the recipe, it just means you should not sell it as an excavation report. To get closer to the historical method, follow the smoke rather than the sugar, as in our guide to [hot-smoking trout](/en/blog/hot-smoked-trout-viking-method/).
 
 ![A cured side of salmon under a thick crust of dill, next to paper-thin slices](/images/viking-gravlax-2.jpg)
 
@@ -102,11 +102,11 @@ Serves 8:
 - **Beetroot cure:** stir 7 oz (200 g) of grated raw beetroot into the cure. The rim turns deep purple and the flavour earthier.
 - **No sugar:** possible, but cut the curing time to 24 to 30 hours. Without it the salt bites noticeably harder.
 - **Other fish:** arctic char, trout and mackerel behave the same way, though their thinner fillets need only 18 to 24 hours.
-- **Seasoning like a Northerner:** juniper, fennel seed and mugwort all work. For what the Norse pantry held, see our overview of [herbs and spices in the Viking kitchen](/en/blog/viking-herbs-spices-cooking).
+- **Seasoning like a Northerner:** juniper, fennel seed and mugwort all work. For what the Norse pantry held, see our overview of [herbs and spices in the Viking kitchen](/en/blog/viking-herbs-spices-cooking/).
 - **Storage:** well wrapped, 5 to 7 days in the fridge. Once cut, store it cut side down so it does not dry out.
 - **Leftovers:** fold strips through skyr with dill and lemon for a spread, or serve on rye bread with cucumber.
 
-If this way of cooking appeals to you, the recipe comes from our cookbook **Viking Feast**, which gathers the fish, breads, stews and feast dishes of the North in one place. [See the cookbook](/en/cookbook)
+If this way of cooking appeals to you, the recipe comes from our cookbook **Viking Feast**, which gathers the fish, breads, stews and feast dishes of the North in one place. [See the cookbook](/en/cookbook/)
 
 Knowing how to make gravlax ultimately means knowing a recipe in which you do almost nothing and can still get everything right. Salt, sugar, one herb and time. The Vikings had no sugar and would probably have found the result tame. The name they gave the method, though, has outlived them by nearly a thousand years.
 

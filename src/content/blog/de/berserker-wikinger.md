@@ -30,7 +30,7 @@ Selbst der Name gibt Rätsel auf. **Berserkr** kann altnordisch zweierlei bedeut
 
 ## Haraldskvæði: der älteste Beleg
 
-Zum Glück gibt es eine Quelle, die deutlich näher am Geschehen liegt. Das Preislied **Haraldskvæði** (auch *Hrafnsmál*, "Rabenlied") wird dem norwegischen Skalden **Þorbjörn Hornklofi** zugeschrieben und entstand um 900, zu Lebzeiten König **Harald Schönhaars**. Es ist als Zwiegespräch angelegt: Ein Rabe, der den Schlachtfeldern folgt, erzählt einer Walküre vom Kriegsleben des Königs. Wer mehr über diese Totenwählerinnen wissen will, findet sie in unserem Artikel über die [Walküren](/blog/walkueren).
+Zum Glück gibt es eine Quelle, die deutlich näher am Geschehen liegt. Das Preislied **Haraldskvæði** (auch *Hrafnsmál*, "Rabenlied") wird dem norwegischen Skalden **Þorbjörn Hornklofi** zugeschrieben und entstand um 900, zu Lebzeiten König **Harald Schönhaars**. Es ist als Zwiegespräch angelegt: Ein Rabe, der den Schlachtfeldern folgt, erzählt einer Walküre vom Kriegsleben des Königs. Wer mehr über diese Totenwählerinnen wissen will, findet sie in unserem Artikel über die [Walküren](/blog/walkueren/).
 
 In diesem Gedicht tauchen die Berserker zum ersten Mal namentlich auf. Der Rabe berichtet von der Seeschlacht bei **Hafrsfjord** (traditionell um 872 datiert), mit der Harald seine Herrschaft über Norwegen festigte - und er beschreibt zwei Kriegergruppen an Bord des Königsschiffs:
 
@@ -45,7 +45,7 @@ Die Wolfspelze verdienen einen eigenen Blick, denn sie sind das erwähnte Gegens
 
 Erstaunlich ist, wie weit die Bildtradition zurückreicht. Auf den **Torslunda-Platten** von der schwedischen Insel Öland - Bronzemodel aus der Vendelzeit, also dem 6. bis 7. Jahrhundert und damit *vor* der eigentlichen Wikingerzeit - sieht man einen Waffentänzer mit Hörnerhelm neben einem Krieger im Wolfsfell mit gezogenem Schwert. Genau diese Platten zeigen wir oben im Titelbild. Viele Forscher deuten die Szene als kultischen Kriegertanz: ein Ritual, in dem sich der Kämpfer symbolisch in das Tier verwandelt.
 
-Damit sind wir bei **Odin**. Snorri nennt die Berserker ausdrücklich "Odins Männer", und die Verbindung liegt nahe: Odin ist der Gott der Ekstase, der Raserei, der entgrenzten Zustände - sein Name hängt mit dem altnordischen *óðr* zusammen, "rasend, inspiriert". Manche Religionswissenschaftler vermuten hinter Berserkern und Úlfheðnar deshalb kultische **Männerbünde**, deren Mitglieder durch Initiationsriten zu "Tierkriegern" wurden. Beweisen lässt sich das nicht, aber es würde erklären, warum die Tierverwandlung so hartnäckig an ihnen haftet. Wer die Welt dieses dunklen, wissenshungrigen Gottes besser verstehen will, findet ihn in unserem Überblick über die [nordischen Götter](/blog/nordische-goetter).
+Damit sind wir bei **Odin**. Snorri nennt die Berserker ausdrücklich "Odins Männer", und die Verbindung liegt nahe: Odin ist der Gott der Ekstase, der Raserei, der entgrenzten Zustände - sein Name hängt mit dem altnordischen *óðr* zusammen, "rasend, inspiriert". Manche Religionswissenschaftler vermuten hinter Berserkern und Úlfheðnar deshalb kultische **Männerbünde**, deren Mitglieder durch Initiationsriten zu "Tierkriegern" wurden. Beweisen lässt sich das nicht, aber es würde erklären, warum die Tierverwandlung so hartnäckig an ihnen haftet. Wer die Welt dieses dunklen, wissenshungrigen Gottes besser verstehen will, findet ihn in unserem Überblick über die [nordischen Götter](/blog/nordische-goetter/).
 
 ## Vom Elitekrieger zum Schurken der Sagas
 

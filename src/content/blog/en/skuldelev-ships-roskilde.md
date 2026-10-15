@@ -14,7 +14,7 @@ author: "The Nordweg Editorial Team"
 draft: false
 ---
 
-Ask anyone to picture a Viking vessel and you get the same answer: something long, low and dragon headed, bristling with axes. The **Skuldelev ships** at **Roskilde** took that single mental image and broke it into five pieces. What came out of the mud of Roskilde Fjord in 1962 was not a fleet of showpieces. It was five worn out, deliberately scuttled working hulls, and that is precisely why they matter. A burial vessel like the [Oseberg ship](/en/blog/oseberg-ship) tells you what an elite could afford. The Skuldelev wrecks tell you what people actually sailed, and between them they settle a question nobody had been able to answer cleanly before: was there ever such a thing as the Viking ship?
+Ask anyone to picture a Viking vessel and you get the same answer: something long, low and dragon headed, bristling with axes. The **Skuldelev ships** at **Roskilde** took that single mental image and broke it into five pieces. What came out of the mud of Roskilde Fjord in 1962 was not a fleet of showpieces. It was five worn out, deliberately scuttled working hulls, and that is precisely why they matter. A burial vessel like the [Oseberg ship](/en/blog/oseberg-ship/) tells you what an elite could afford. The Skuldelev wrecks tell you what people actually sailed, and between them they settle a question nobody had been able to answer cleanly before: was there ever such a thing as the Viking ship?
 
 ## A Barrier in the Peberrenden
 
@@ -84,7 +84,7 @@ One point of precision, though: growth rings prove where a tree stood, not where
 
 The originals are on display at the **Viking Ship Museum** (Vikingeskibsmuseet) in Roskilde, sitting on the shore of the very fjord that produced them. The museum does more than mount fragments. Its boatyard builds **seaworthy reconstructions** of the Skuldelev vessels using period tools and techniques, and those reconstructions are not parked behind glass. They are sailed.
 
-This is experimental archaeology in its purest form: you test a reconstruction by putting it in the water and seeing whether the water agrees. How much rowing does a hull of this shape demand? How does it behave on the wind? How wet does it get aboard? No excavation report answers questions like these; only the voyage does. The clinker built hull form under examination is the same principle that made [the longship](/en/blog/the-longship) so formidable.
+This is experimental archaeology in its purest form: you test a reconstruction by putting it in the water and seeing whether the water agrees. How much rowing does a hull of this shape demand? How does it behave on the wind? How wet does it get aboard? No excavation report answers questions like these; only the voyage does. The clinker built hull form under examination is the same principle that made [the longship](/en/blog/the-longship/) so formidable.
 
 The best known of these builds is the reconstruction of Skuldelev 2, named **Havhingsten fra Glendalough**, the Sea Stallion from Glendalough. During the 2000s she sailed from Roskilde to Dublin and home again, retracing the very link that the timber of the original implies. A reconstruction sailing the route of its own raw material is about as neat an illustration of find, laboratory and voyage locking together as this field is ever likely to get.
 

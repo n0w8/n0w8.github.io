@@ -75,14 +75,14 @@ Grabfunde sind die verlockendste und zugleich rutschigste Quelle. Ein Grab zeigt
 | Spinnwirtel und Webgewichte | Sehr häufig in Siedlungsschichten, auch als Beigabe | Belegt Textilproduktion im Haus als Dauertätigkeit. Belegt nicht, dass ausnahmslos Frauen daran arbeiteten. |
 | Perlen aus Glas und Halbedelstein | Ketten mit importierten Stücken | Belegt die Einbindung des Haushalts in Fernhandelsnetze. Belegt keine eigene Reise der Bestatteten. |
 | Waagen und Gewichtssätze | Selten, aber vorhanden | Belegt Beteiligung an Abwiege- und Zahlungsvorgängen. Belegt nicht den Beruf der Fernhändlerin. |
-| Waffen | Sehr selten in Gräbern mit weiblichem Befund | Belegt Waffen im Grabkontext. Belegt keine automatisch gelebte Kriegerinnenrolle, siehe die Debatte um [Schildmaiden](/blog/schildmaiden-wikinger-frauen). |
+| Waffen | Sehr selten in Gräbern mit weiblichem Befund | Belegt Waffen im Grabkontext. Belegt keine automatisch gelebte Kriegerinnenrolle, siehe die Debatte um [Schildmaiden](/blog/schildmaiden-wikinger-frauen/). |
 | Textilwerkzeug in Prunkgräbern | Webschwerter, Kämme, Gerät | Belegt die hohe Wertschätzung von Textilarbeit bis in die Oberschicht. Belegt nicht, dass die Bestattete selbst webte. |
 
 Der Punkt dieser Tabelle ist nicht, den Funden ihre Aussagekraft abzusprechen. Er ist, die Aussage sauber zu begrenzen. Die Archäologie liefert außergewöhnlich harte Belege für Tracht, Ausstattung und wirtschaftliche Praxis. Für innere Rollenbilder liefert sie Hinweise, keine Beweise.
 
 ## Oseberg und der fremde Blick von außen
 
-Die reichste bekannte Schiffsbestattung der Wikingerzeit liegt in Norwegen, und in ihr lagen zwei Frauen. Die Grabkammer des [Oseberg-Schiffs](/blog/oseberg-schiff) ist dendrochronologisch auf das Jahr 834 datiert, ein für die Wikingerforschung ungewöhnlich präziser Anker. Mitgegeben wurden unter anderem ein reich geschnitzter Wagen, Schlitten, Tiere, Haushaltsgerät und eine erhebliche Menge an Textilien samt zugehörigem Werkzeug.
+Die reichste bekannte Schiffsbestattung der Wikingerzeit liegt in Norwegen, und in ihr lagen zwei Frauen. Die Grabkammer des [Oseberg-Schiffs](/blog/oseberg-schiff/) ist dendrochronologisch auf das Jahr 834 datiert, ein für die Wikingerforschung ungewöhnlich präziser Anker. Mitgegeben wurden unter anderem ein reich geschnitzter Wagen, Schlitten, Tiere, Haushaltsgerät und eine erhebliche Menge an Textilien samt zugehörigem Werkzeug.
 
 Wer die beiden Frauen waren, ist bis heute ungeklärt. Es gibt Vorschläge, es gibt Diskussionen über Verwandtschaft, Status und darüber, wer für wen bestattet wurde, aber es gibt keine gesicherte Antwort. Genau so sollte man es stehen lassen. Was der Befund unstrittig zeigt, ist, dass die aufwendigste bekannte Bestattung dieser Epoche zwei Frauen galt und dass Textilarbeit selbst in dieser Ausstattung ihren Platz hatte.
 

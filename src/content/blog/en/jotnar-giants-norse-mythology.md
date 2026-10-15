@@ -44,7 +44,7 @@ It is worth sitting with what that means. The jotnar are not an external threat 
 
 Take the genealogies seriously and the two sides refuse to separate. Odin's mother **Bestla** is a jotunn, which makes the Allfather half of what he spends his career fighting. **Loki**, who lives in Asgard and swore blood-brotherhood with Odin, is the son of the jotunn **Farbauti**. **Skadi**, daughter of Thjazi, arrives in Asgard after her father's death and marries into the divine household. And in Skirnismal the Vanir god **Freyr** wants the jotunn **Gerd** so badly that he sends his servant Skirnir with threats and curses rather than an army.
 
-What strikes the Nordweg editorial team here is that none of these matches is told as a scandal. Not one verse suggests Freyr married beneath himself. The line between Aesir and jotnar is therefore political rather than biological: a quarrel about power, land and precedence, not about species. Once you see it that way, the conflicts read differently. Thrymskvida, where the jotunn Thrym steals Thor's hammer and demands Freyja as the price, stops being a monster story and becomes a hostile marriage negotiation between two parties who know each other perfectly well. [Loki's](/en/blog/loki-trickster-god) impossible position also makes far more sense once you stop treating him as a traitor inside Asgard and start treating him as what he was from birth: a being with two allegiances.
+What strikes the Nordweg editorial team here is that none of these matches is told as a scandal. Not one verse suggests Freyr married beneath himself. The line between Aesir and jotnar is therefore political rather than biological: a quarrel about power, land and precedence, not about species. Once you see it that way, the conflicts read differently. Thrymskvida, where the jotunn Thrym steals Thor's hammer and demands Freyja as the price, stops being a monster story and becomes a hostile marriage negotiation between two parties who know each other perfectly well. [Loki's](/en/blog/loki-trickster-god/) impossible position also makes far more sense once you stop treating him as a traitor inside Asgard and start treating him as what he was from birth: a being with two allegiances.
 
 Domsgard has a track that puts exactly this idea to music, the moment an older power stirs:
 
@@ -83,7 +83,7 @@ Only as they leave does the host explain what really happened. All of it was *sj
 
 You can read the whole thing as a comic set piece. It is also a demonstration of power of a very particular kind. A jotunn defeats the strongest god in the north without laying a finger on him, purely through staging, timing and an expert grasp of how perception can be manipulated. Anyone still describing these beings as slow-witted has skipped the chapter.
 
-At [Ragnarok](/en/blog/ragnarok) the jotnar finally stand united against the gods, and the relationship ends there. That battle has an article of its own and is not worth retelling here. The framing is what matters: the end of the world is the moment when the elder power takes back what was taken from it.
+At [Ragnarok](/en/blog/ragnarok/) the jotnar finally stand united against the gods, and the relationship ends there. That battle has an article of its own and is not worth retelling here. The framing is what matters: the end of the world is the moment when the elder power takes back what was taken from it.
 
 ## Conclusion: where the lumbering giant actually comes from
 

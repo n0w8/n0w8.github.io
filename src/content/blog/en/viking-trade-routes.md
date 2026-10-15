@@ -40,7 +40,7 @@ The eastern axis was the profitable one and the best documented. From the Baltic
 
 We know this from Arabic sources rather than Norse ones. **Ibn Khordadbeh**, a postmaster in Abbasid service, wrote in his Book of Roads and Kingdoms about Rus traders bringing beaver and fox pelts and swords down to the Caspian, paying their tithe there, and sometimes continuing by camel to the capital. Some eighty years later **Ibn Fadlan**, envoy of Caliph al-Muqtadir to the Volga Bulgars, recorded in 922 a camp of those same Rus: offerings laid before wooden posts with a blunt request for wealthy customers, and the cremation of a chieftain inside a ship. It is the closest thing to an eyewitness account of Norse merchants at work.
 
-What came back up the rivers was, above all, silver. The Samanid mints at Samarkand and al-Shash struck dirhams in enormous quantities, and a startling share ended up in Scandinavian soil. Gotland alone has produced roughly 700 silver hoards, more than any comparable region in Europe, and trading towns such as [Birka](/en/blog/birka-swedens-first-town) sat at the northern end of that chain.
+What came back up the rivers was, above all, silver. The Samanid mints at Samarkand and al-Shash struck dirhams in enormous quantities, and a startling share ended up in Scandinavian soil. Gotland alone has produced roughly 700 silver hoards, more than any comparable region in Europe, and trading towns such as [Birka](/en/blog/birka-swedens-first-town/) sat at the northern end of that chain.
 
 ## From the Varangians to the Greeks
 
@@ -93,7 +93,7 @@ None of it worked without a specialised hull. The workhorse of long-distance tra
 
 The far end of that road lies in Canada. **L'Anse aux Meadows**, on the northern tip of Newfoundland, was identified in 1960 by Helge Ingstad and the archaeologist Anne Stine Ingstad and excavated over the following years: eight turf buildings, a smithy with bog-iron slag, a Norse ring-headed pin. It has been a UNESCO World Heritage Site since 1978. In 2021 a research team anchored a date to the cosmic radiation event of 993 visible in tree rings, arriving at **1021** for wood felled and worked on the site.
 
-The most revealing find there is not a building but three butternuts. Butternut does not grow on Newfoundland; its nearest natural range lies well to the southwest, around the Gulf of St Lawrence. The Norse must therefore have sailed further than the settlement itself, which was probably less a colony than a base camp and repair yard. For the people behind those voyages, see our article on [Leif Erikson](/en/blog/leif-erikson-america). Commercially the west stayed a one-way street: Greenland shipped walrus ivory to Europe, confirmed by genetic work on walrus skulls from medieval workshops, and Vinland supplied timber. Neither ever supplied silver.
+The most revealing find there is not a building but three butternuts. Butternut does not grow on Newfoundland; its nearest natural range lies well to the southwest, around the Gulf of St Lawrence. The Norse must therefore have sailed further than the settlement itself, which was probably less a colony than a base camp and repair yard. For the people behind those voyages, see our article on [Leif Erikson](/en/blog/leif-erikson-america/). Commercially the west stayed a one-way street: Greenland shipped walrus ivory to Europe, confirmed by genetic work on walrus skulls from medieval workshops, and Vinland supplied timber. Neither ever supplied silver.
 
 ## Why the Silver Stopped, and What We Make of It
 

@@ -22,13 +22,13 @@ Dass die Menschen der Wikingerzeit Erbsen anbauten, ist keine Vermutung, sondern
 
 Für eine Welt ohne Kühlschrank war das Gold wert. Frisches Fleisch gab es vor allem rund um die Schlachtzeit im Herbst, Fisch je nach Fang und Küste. Die getrocknete Erbse dagegen wartete geduldig in der Vorratsgrube oder im Speicher, bis man sie brauchte. Dazu liefert sie reichlich Eiweiß - in einer Gesellschaft, in der Fleisch nicht jeden Tag im Topf landete, war sie so etwas wie das Arbeitstier unter den Lebensmitteln.
 
-Auch die Dichtung kennt diese einfache Kost. Das Eddalied Rígsþula, das die Stände der nordischen Gesellschaft durchwandert, tischt beim einfachen Volk einen schweren, kleiehaltigen Brotlaib und eine Schale Brühe auf. Genau in diese Welt gehört unsere Suppe: Was im Kessel über der Glut köchelte, war selten ein Braten und sehr oft ein Brei oder Eintopf aus dem, was Speicher und Garten hergaben. Wie diese Alltagsküche insgesamt aussah, haben wir im Artikel über die [Ernährung der Wikinger](/blog/wikinger-ernaehrung-essen) aufgeschrieben.
+Auch die Dichtung kennt diese einfache Kost. Das Eddalied Rígsþula, das die Stände der nordischen Gesellschaft durchwandert, tischt beim einfachen Volk einen schweren, kleiehaltigen Brotlaib und eine Schale Brühe auf. Genau in diese Welt gehört unsere Suppe: Was im Kessel über der Glut köchelte, war selten ein Braten und sehr oft ein Brei oder Eintopf aus dem, was Speicher und Garten hergaben. Wie diese Alltagsküche insgesamt aussah, haben wir im Artikel über die [Ernährung der Wikinger](/blog/wikinger-ernaehrung-essen/) aufgeschrieben.
 
 ## Warum Erbsensuppe das perfekte Wikinger Rezept ist
 
 Man kann es nüchtern betrachten: Ein Gericht aus lagerfähigen Zutaten, das in einem Topf gelingt, stundenlang ohne Aufsicht köcheln darf und am nächsten Tag besser schmeckt als am ersten - genau so kocht man, wenn das Feuer in der Mitte des Hauses ohnehin nie ausgeht. Der Kessel aus genietetem Eisen oder gedrechseltem Speckstein hing an einer Kette über der Feuerstelle, und die Suppe wartete, bis alle von Feld, Fjord oder Werkstatt zurück waren.
 
-Dazu kommt die Logik des Räucherfleischs. Um Fleisch haltbar zu machen, wurde es gepökelt, getrocknet oder in den Rauch unterm Dach gehängt. Ein Stück davon, mit Erbsen ausgekocht, würzt den ganzen Kessel - eine Technik, die sich bis heute in jeder guten Erbsensuppe gehalten hat. Unsere redaktionelle Einschätzung nach etlichen Testkochungen: Die Erbsensuppe ist das am meisten unterschätzte Gericht der nordischen Küche. Der berühmtere [Kesseleintopf Skause](/blog/wikinger-eintopf-skause) bekommt die Bühne, aber die Erbse hat den Norden vermutlich öfter satt gemacht als jedes Stück Fleisch.
+Dazu kommt die Logik des Räucherfleischs. Um Fleisch haltbar zu machen, wurde es gepökelt, getrocknet oder in den Rauch unterm Dach gehängt. Ein Stück davon, mit Erbsen ausgekocht, würzt den ganzen Kessel - eine Technik, die sich bis heute in jeder guten Erbsensuppe gehalten hat. Unsere redaktionelle Einschätzung nach etlichen Testkochungen: Die Erbsensuppe ist das am meisten unterschätzte Gericht der nordischen Küche. Der berühmtere [Kesseleintopf Skause](/blog/wikinger-eintopf-skause/) bekommt die Bühne, aber die Erbse hat den Norden vermutlich öfter satt gemacht als jedes Stück Fleisch.
 
 ## Von der Vorratsgrube zur Donnerstagssuppe
 
@@ -70,7 +70,7 @@ Für 4 bis 6 Portionen:
 4. **Gemüse zugeben.** Zwiebeln, Lauch, Möhren, Pastinake oder Steckrübe und den Thymian in den Topf geben. Weitere 30 bis 45 Minuten köcheln, bis die Erbsen zerfallen und die Suppe sämig wird.
 5. **Fleisch zerteilen.** Das Rauchfleisch herausheben, in mundgerechte Stücke schneiden oder zupfen und zurück in den Topf geben.
 6. **Abschmecken.** Mit Salz und Pfeffer abschmecken. Ist die Suppe zu dick, etwas Wasser zugeben; zu dünn, offen ein paar Minuten weiterköcheln lassen - sie bindet von allein.
-7. **Servieren.** Mit gehackter Petersilie oder Dill bestreuen und mit einem Klecks grobem Senf servieren. Dazu passt [Fladenbrot nach Wikinger-Art](/blog/wikinger-fladenbrot-rezept) direkt aus der Pfanne.
+7. **Servieren.** Mit gehackter Petersilie oder Dill bestreuen und mit einem Klecks grobem Senf servieren. Dazu passt [Fladenbrot nach Wikinger-Art](/blog/wikinger-fladenbrot-rezept/) direkt aus der Pfanne.
 
 ## Tipps & Variationen
 
@@ -84,7 +84,7 @@ Für 4 bis 6 Portionen:
 
 Wer die Suppe stilecht auftragen will, deckt den Tisch wie im Langhaus: eine gedrechselte Holzschale oder ein tiefer Steingutteller pro Person, dazu ein Holzlöffel und ein ordentlicher Kanten Brot. Gegessen wurde in der Wikingerzeit aus Schalen aus Holz oder Speckstein, die Löffel schnitzte man aus Holz, Horn oder Knochen. Ein Krug dünnes Bier oder Met dazu, und die Kulisse steht. Praktisch gedacht: Im schweren Topf bleibt die Suppe auf dem Tisch deutlich länger heiß als in flachen Tellern, also ruhig den ganzen Kessel in die Mitte stellen und jeden selbst schöpfen lassen. So wird aus dem einfachen Eintopf ein kleines Gemeinschaftsessen, und genau das war er im Norden auch: Alle löffelten aus demselben Kessel, vom Knecht bis zum Hausherrn.
 
-Wenn dir diese Art zu kochen liegt, wirst du in unserem Kochbuch **"Wikinger Festmahl - Das große Wikinger-Kochbuch"** fündig: 141 Rezepte aus der nordischen Küche, von Kesselgerichten über Brot bis Met. [Zum Kochbuch](/kochbuch)
+Wenn dir diese Art zu kochen liegt, wirst du in unserem Kochbuch **"Wikinger Festmahl - Das große Wikinger-Kochbuch"** fündig: 141 Rezepte aus der nordischen Küche, von Kesselgerichten über Brot bis Met. [Zum Kochbuch](/kochbuch/)
 
 ## Ein Löffel Norden
 

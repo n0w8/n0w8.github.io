@@ -38,7 +38,7 @@ Und dieser eine Winter setzt den Fund mitten in ein politisches Erdbeben. Es ist
 
 > König Harald ließ dieses Denkmal machen nach Gorm, seinem Vater, und nach Thyra, seiner Mutter. Jener Harald, der sich ganz Dänemark gewann, und Norwegen, und die Dänen zu Christen machte.
 
-Wer sich für diese Steine im Detail interessiert, findet sie ausführlich in unserem Artikel über die [Jelling-Steine](/blog/jelling-steine-daenemark). Für den Mann aus Mammen heißt das vor allem eines: Er starb nicht irgendwann in der Wikingerzeit, sondern in dem Jahrzehnt, in dem sich entschied, welche Religion und welche Königsmacht den dänischen Raum künftig prägen würden.
+Wer sich für diese Steine im Detail interessiert, findet sie ausführlich in unserem Artikel über die [Jelling-Steine](/blog/jelling-steine-daenemark/). Für den Mann aus Mammen heißt das vor allem eines: Er starb nicht irgendwann in der Wikingerzeit, sondern in dem Jahrzehnt, in dem sich entschied, welche Religion und welche Königsmacht den dänischen Raum künftig prägen würden.
 
 ## Die Axt selbst: Silber, das im Eisen sitzt
 
@@ -58,7 +58,7 @@ Der Reflex, ein reiches Waffengrab sofort als Kriegergrab zu lesen, ist verstän
 
 Die Textilien aus der Kammer gehören zu den bedeutendsten Stoffresten der gesamten nordeuropäischen Wikingerzeit. Seide musste über Handelswege aus dem Osten beschafft werden, Metallfäden und aufwendige Stickerei kosteten Wochen an Facharbeit, und feine Wollstoffe mit Pelzbesatz waren in einer Gesellschaft ohne industrielle Weberei ein Vermögen. Dazu kommen die beiden Wachskerzen. Kerzen dieser Art sind im heidnischen Grabritual des Nordens ungewöhnlich und werden üblicherweise als christliches Element gelesen, was exakt zu Haralds Jahrzehnt passt.
 
-Zusammengenommen ergibt das ein Bild, das mit dem Filmklischee wenig zu tun hat. Hier liegt kein Haudegen, sondern ein Mann aus dem unmittelbaren Umfeld der Königsmacht: jemand, der Zugang zu importierter Seide, zu Silber, zu Spezialhandwerkern und zu einem neuen, politisch aufgeladenen Bestattungsvokabular hatte. Wie stark Bewaffnung und sozialer Rang in dieser Zeit zusammenhingen, zeigt der Vergleich mit anderen Funden, den wir im Artikel über die [Waffen der Wikinger](/blog/wikinger-waffen-axt-schwert) ausführlicher ziehen.
+Zusammengenommen ergibt das ein Bild, das mit dem Filmklischee wenig zu tun hat. Hier liegt kein Haudegen, sondern ein Mann aus dem unmittelbaren Umfeld der Königsmacht: jemand, der Zugang zu importierter Seide, zu Silber, zu Spezialhandwerkern und zu einem neuen, politisch aufgeladenen Bestattungsvokabular hatte. Wie stark Bewaffnung und sozialer Rang in dieser Zeit zusammenhingen, zeigt der Vergleich mit anderen Funden, den wir im Artikel über die [Waffen der Wikinger](/blog/wikinger-waffen-axt-schwert/) ausführlicher ziehen.
 
 **Der Weg des Fundes im Überblick:**
 

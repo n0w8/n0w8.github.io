@@ -16,7 +16,7 @@ draft: false
 
 Ovens were a luxury on a Norse farm. Almost nobody had one, which is exactly why this Viking seeded flatbread recipe asks for none either. A hot stone slab, a heavy cast-iron pan, or a grill grate over glowing coals will do the whole job. What comes off the heat is not a risen loaf but a thin, seed-packed round that snaps when you break it, tastes deeply nutty, and keeps for weeks.
 
-If you already know our [pan-baked barley flatbread](/en/blog/viking-flatbread-recipe), this one changes a single thing: the seeds. Ground flax, cracked barley and toasted kernels turn the plainest everyday bread in the North into something worth eating on its own. And the idea is far less modern than it sounds.
+If you already know our [pan-baked barley flatbread](/en/blog/viking-flatbread-recipe/), this one changes a single thing: the seeds. Ground flax, cracked barley and toasted kernels turn the plainest everyday bread in the North into something worth eating on its own. And the idea is far less modern than it sounds.
 
 ## A Hearth, Not an Oven
 
@@ -49,7 +49,7 @@ One Old Norse poem shows how sharply bread could mark a household apart. The edd
 
 Here is our honest verdict from the test kitchen: flaxseed is the single most important ingredient in this recipe, and not for historical reasons. Ground flax swells into a gel that binds a low-gluten barley dough together. Skip it and the rounds crumble the moment you turn them. Include it and you get a texture that leaves supermarket crispbread far behind. If you cut one thing from the list, do not cut this.
 
-Curious what else went on the table beside the bread? Our overview of [the Viking diet](/en/blog/viking-food-diet) covers the rest of the meal.
+Curious what else went on the table beside the bread? Our overview of [the Viking diet](/en/blog/viking-food-diet/) covers the rest of the meal.
 
 ## Ingredients
 
@@ -87,7 +87,7 @@ You also need a surface that gets genuinely hot: a baking stone on the grill, a 
 - **Storage:** fully cooled and airtight, crisp seeded flatbreads keep for two weeks. Soft stacked ones last three days.
 - **Dough cracking as you roll?** Either it needs more water or the flax needed more time. Knead in a spoonful of warm water, wait five minutes, and it will behave.
 
-This recipe is one taste from a much bigger collection. Our cookbook **"Viking Feast"** gathers 141 Nordic recipes, from flatbreads and cauldron dishes to mead and sweet food cooked in the coals. [Visit the cookbook](/en/cookbook)
+This recipe is one taste from a much bigger collection. Our cookbook **"Viking Feast"** gathers 141 Nordic recipes, from flatbreads and cauldron dishes to mead and sweet food cooked in the coals. [Visit the cookbook](/en/cookbook/)
 
 ## The Bread That Survived the Winter
 

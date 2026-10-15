@@ -20,7 +20,7 @@ The honest answer is that we don't know for certain - and that uncertainty is ex
 
 ## What "shield-maiden" actually means
 
-First, a distinction that gets lost too often. A **shield-maiden** (Old Norse *skjaldmær*) is a mortal woman who fights as a warrior - not a supernatural being. That sets her apart from the **Valkyries**, Odin's fate-spirits who choose who dies on the battlefield without ever swinging a weapon themselves. If you want the mythological side of that story, our piece on the [Valkyries](/en/blog/valkyries) covers it in full - that article is about myth, this one is about a historical and literary figure of flesh and blood, or at least the claim of one.
+First, a distinction that gets lost too often. A **shield-maiden** (Old Norse *skjaldmær*) is a mortal woman who fights as a warrior - not a supernatural being. That sets her apart from the **Valkyries**, Odin's fate-spirits who choose who dies on the battlefield without ever swinging a weapon themselves. If you want the mythological side of that story, our piece on the [Valkyries](/en/blog/valkyries/) covers it in full - that article is about myth, this one is about a historical and literary figure of flesh and blood, or at least the claim of one.
 
 The line between the two blurs constantly in the sources themselves, which only adds to the confusion. Some poets use "shield-maiden" almost interchangeably with "valkyrie," while others clearly mean a flesh-and-blood fighter. That blurriness is itself the first clue to how complicated this subject gets.
 
@@ -72,7 +72,7 @@ The shield-maiden debate runs hot largely because it's rarely conducted as pure 
 
 Both extremes overreach. Claiming shield-maidens fought routinely in organized formations alongside men stretches the evidence well past its breaking point. But claiming no woman *ever* took up arms ignores Bj 581, Solør, and Skylitzes' testimony. The most honest position sits in between: individual women probably did fight, or at least were buried with full warrior's equipment - but there's no evidence of regular, socially institutionalized units of women, of the kind Saxo's 300 shield-maidens at Bråvalla describe. The mass phenomenon remains legend. The individual case is plausible.
 
-It's also worth considering how such women would have been armed. The Vikings' iconic longship carried warriors of both sexes across enormous distances - readers curious about the technology behind those voyages can find more in our article on the [Viking longship](/en/blog/the-longship). And a woman who genuinely fought as a shield-maiden almost certainly used the same weapons as her male contemporaries: a round shield, a spear, an axe, and, more rarely, the expensive sword - the very kind found in Bj 581.
+It's also worth considering how such women would have been armed. The Vikings' iconic longship carried warriors of both sexes across enormous distances - readers curious about the technology behind those voyages can find more in our article on the [Viking longship](/en/blog/the-longship/). And a woman who genuinely fought as a shield-maiden almost certainly used the same weapons as her male contemporaries: a round shield, a spear, an axe, and, more rarely, the expensive sword - the very kind found in Bj 581.
 
 ## Fiction, exaggeration, and the hard kernel of truth
 

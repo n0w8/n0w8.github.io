@@ -36,4 +36,44 @@ Not every day was a feast day. On ordinary evenings, Northern tables held whatev
 
 ## The Skald's Tip
 
-The darker the beer, the deeper the sauce - a malty dark lager or a smoky cellar beer gives the best colour. The barley in that beer was the same grain used for bread: our [barley flatbread](/en/blog/viking-flatbread-recipe) is the perfect side for dipping.
+The darker the beer, the deeper the sauce - a malty dark lager or a smoky cellar beer gives the best colour. The barley in that beer was the same grain used for bread: our [barley flatbread](/en/blog/viking-flatbread-recipe/) is the perfect side for dipping.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Chicken in Beer Sauce: Viking Weeknight Cooking",
+  "description": "Tender chicken braised in dark beer with mustard and thyme: an uncomplicated Viking recipe for busy evenings, ready in about an hour.",
+  "image": "https://blog.nordwaldrecords.com/images/rezepte/recipe-beer-chicken-1.webp",
+  "author": {
+    "@type": "Organization",
+    "name": "Nordweg"
+  },
+  "datePublished": "2026-07-10",
+  "cookTime": "PT60M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "Nordic",
+  "keywords": "Viking Recipe, Chicken, Beer, Braised",
+  "recipeIngredient": [
+    "1 whole chicken or 2 lbs chicken thighs (1 kg)",
+    "2 onions",
+    "1 ¼ cups dark beer (300 ml)",
+    "2 tbsp mustard",
+    "Salt, pepper, thyme"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Brown the chicken pieces in oil on all sides."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the onions and pour in the beer."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Stir in mustard and herbs, then simmer gently for 45 to 60 minutes until tender."
+    }
+  ]
+}
+</script>

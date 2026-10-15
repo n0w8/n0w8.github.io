@@ -77,7 +77,7 @@ The biggest surprise of recent research came not from the mounds but from the fl
 
 What the structure was for cannot be proved, but the obvious reading is a compelling one: a monumental approach, a processional avenue that funnelled every arrival between two ranks of towering timber before the halls and the mounds came into view.
 
-The hall terraces north of the present church fit the same picture. A building roughly fifty metres long has been identified there, a royal hall of the seventh century that eventually burned down. Taken together they read as a designed ensemble: approach, hall, mound, assembly ground. Gamla Uppsala was a political stage set, and stayed one for centuries. The contrast with its neighbour is instructive. While [Birka](/en/blog/birka-swedens-first-town) out in Lake Mälaren served as the economic hub of Svealand, Gamla Uppsala was its ritual and dynastic heart.
+The hall terraces north of the present church fit the same picture. A building roughly fifty metres long has been identified there, a royal hall of the seventh century that eventually burned down. Taken together they read as a designed ensemble: approach, hall, mound, assembly ground. Gamla Uppsala was a political stage set, and stayed one for centuries. The contrast with its neighbour is instructive. While [Birka](/en/blog/birka-swedens-first-town/) out in Lake Mälaren served as the economic hub of Svealand, Gamla Uppsala was its ritual and dynastic heart.
 
 The temple itself, however, stays maddeningly out of reach. In 1926 the archaeologist Sune Lindqvist exposed post holes beneath the church floor and read them as the remains of the very building Adam described. Later generations of researchers read the same features differently, as traces of an older wooden church or of a hall. The question has never been settled, and the only responsible thing is to say so plainly.
 
@@ -97,7 +97,7 @@ The jump from 1164 to 1273 is the telling one. Gamla Uppsala was not abandoned w
 
 ## Visiting Gamla Uppsala Today
 
-The mounds are open to anyone. A path crosses the meadow, climbing is permitted, and a few seconds on the crest explain the choice of site: the view runs far across the plain, and the plain looks back. Beside them stands the church, whose present form is only a fragment of the larger medieval building, and an on-site museum displays finds, reconstructions and the history of the excavations. For a closer look at how a high-status cremation of this kind may have unfolded, see our article on the [Viking ship burial](/en/blog/viking-burial-ship).
+The mounds are open to anyone. A path crosses the meadow, climbing is permitted, and a few seconds on the crest explain the choice of site: the view runs far across the plain, and the plain looks back. Beside them stands the church, whose present form is only a fragment of the larger medieval building, and an on-site museum displays finds, reconstructions and the history of the excavations. For a closer look at how a high-status cremation of this kind may have unfolded, see our article on the [Viking ship burial](/en/blog/viking-burial-ship/).
 
 One thread reaches the present day: the Disting market, still held in Uppsala every February, descends from a market and assembly tradition documented in the Middle Ages. Fifteen centuries on, the slot in the calendar has proved remarkably stubborn.
 

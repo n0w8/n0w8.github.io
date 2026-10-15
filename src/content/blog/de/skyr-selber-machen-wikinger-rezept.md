@@ -38,7 +38,7 @@ Wie fest Skyr zum Alltag gehörte, zeigen die isländischen Sagas. In der Egils 
 
 Auch die Archäologie liefert ein bemerkenswert konkretes Bild. Im Tal Thjorsardalur im Süden Islands begrub ein Ausbruch des Vulkans Hekla im Jahr 1104 mehrere Höfe unter Asche, darunter den Hof Stöng. Als Archäologen die Anlage 1939 freilegten, fanden sie neben dem Wohnraum einen Vorratsraum mit großen, in den Boden eingelassenen Fässern - nach gängiger Deutung Behälter für Skyr und in saurer Molke eingelegte Vorräte. Ein isländischer Milchkeller, konserviert wie in einem nordischen Pompeji.
 
-Das vielleicht Erstaunlichste an dieser Geschichte: Auf dem skandinavischen Festland geriet Skyr nach dem Mittelalter in Vergessenheit. Nur Island hielt an ihm fest, Generation um Generation, bis aus dem Vorratsessen der Siedler das Trendprodukt von heute wurde. Wer wissen will, was sonst noch auf nordischen Tischen stand, findet in unserem Überblick zur [Ernährung der Wikinger](/blog/wikinger-ernaehrung-essen) das große Bild.
+Das vielleicht Erstaunlichste an dieser Geschichte: Auf dem skandinavischen Festland geriet Skyr nach dem Mittelalter in Vergessenheit. Nur Island hielt an ihm fest, Generation um Generation, bis aus dem Vorratsessen der Siedler das Trendprodukt von heute wurde. Wer wissen will, was sonst noch auf nordischen Tischen stand, findet in unserem Überblick zur [Ernährung der Wikinger](/blog/wikinger-ernaehrung-essen/) das große Bild.
 
 > **Wusstest du?** Die beim Skyr anfallende Molke war im alten Island fast so wichtig wie der Skyr selbst. Vergoren zu saurer "Sýra" diente sie als Getränk, mit Wasser verdünnt als Durstlöscher bei der Heuernte - und als Konservierungsmittel, in dem Fleisch und Fisch monatelang haltbar blieben.
 
@@ -46,7 +46,7 @@ Das vielleicht Erstaunlichste an dieser Geschichte: Auf dem skandinavischen Fest
 
 Die gute Nachricht zuerst: Für den Anfang genügt ein Becher gekaufter Naturskyr. Er enthält lebende Kulturen, die deine Milch impfen - so wie isländische Bäuerinnen über Jahrhunderte jeweils einen Rest der alten Charge in die neue rührten. Achte beim Einkauf darauf, dass der Becher "Skyr natur" ohne Zusätze ist; die Zutatenliste sollte nur Milch und Kulturen nennen.
 
-Das zweite Werkzeug ist ein Küchenthermometer. Die Kulturen arbeiten am liebsten bei 38 bis 40 Grad; ab etwa 45 Grad sterben sie ab. Wer schon einmal [Met selber gemacht](/blog/met-selber-machen) hat, kennt das Prinzip: Fermentieren heißt, Kleinstlebewesen gute Arbeitsbedingungen zu schaffen und sich dann nicht einzumischen.
+Das zweite Werkzeug ist ein Küchenthermometer. Die Kulturen arbeiten am liebsten bei 38 bis 40 Grad; ab etwa 45 Grad sterben sie ab. Wer schon einmal [Met selber gemacht](/blog/met-selber-machen/) hat, kennt das Prinzip: Fermentieren heißt, Kleinstlebewesen gute Arbeitsbedingungen zu schaffen und sich dann nicht einzumischen.
 
 Optional, aber traditionell: ein paar Tropfen Lab aus der Apotheke oder dem Online-Handel. Lab macht den Skyr fester und näher am isländischen Original. Ohne Lab funktioniert das Rezept trotzdem - das Ergebnis ist dann etwas weicher, eher wie ein sehr dicker Joghurt.
 
@@ -79,7 +79,7 @@ Außerdem: ein großer Topf, ein Küchenthermometer, ein feines Sieb, ein sauber
 - **Skyr stockt nicht?** Meist war die Milch beim Einrühren zu heiß und die Kulturen sind abgestorben. Beim nächsten Versuch konsequent auf unter 42 Grad abkühlen lassen.
 - **Zu sauer geraten?** Reifezeit beim nächsten Mal verkürzen und die Masse früher in den Kühlschrank stellen - Kälte stoppt die Säuerung.
 
-Wenn dir dieses Rezept schmeckt, ist es erst der Anfang: In unserem Kochbuch **"Wikinger Festmahl - Das große Wikinger-Kochbuch"** findest du 141 Rezepte der nordischen Küche, vom Fladenbrot über Festbraten bis zum Met. [Zum Kochbuch](/kochbuch)
+Wenn dir dieses Rezept schmeckt, ist es erst der Anfang: In unserem Kochbuch **"Wikinger Festmahl - Das große Wikinger-Kochbuch"** findest du 141 Rezepte der nordischen Küche, vom Fladenbrot über Festbraten bis zum Met. [Zum Kochbuch](/kochbuch/)
 
 ## Ein Löffel Wikingerzeit
 

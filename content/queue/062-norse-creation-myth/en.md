@@ -32,7 +32,7 @@ Where meltwater met that warmth, the drops quickened. It is a strikingly physica
 
 ## Ymir, Audhumla and the Logic of the Thaw
 
-The first being is **Ymir**, called **Aurgelmir** in Vafþrúðnismál. He is the ancestor of the rime giants, the *hrímþursar*, and he reproduces in a way Snorri reports almost apologetically: as Ymir sleeps, a man and a woman grow from beneath his left arm, while his two feet beget a six-headed son between them. From that line descend the [jötnar](/en/blog/jotnar-giants-norse-mythology), the older power the gods will never be rid of.
+The first being is **Ymir**, called **Aurgelmir** in Vafþrúðnismál. He is the ancestor of the rime giants, the *hrímþursar*, and he reproduces in a way Snorri reports almost apologetically: as Ymir sleeps, a man and a woman grow from beneath his left arm, while his two feet beget a six-headed son between them. From that line descend the [jötnar](/en/blog/jotnar-giants-norse-mythology/), the older power the gods will never be rid of.
 
 Out of the same melting rime comes the cow **Audhumla**. She feeds Ymir from four rivers of milk and feeds herself by licking salty blocks of ice. On the first day hair appears beneath her tongue, on the second a head, on the third a whole man: **Búri**. His son **Borr** marries **Bestla**, daughter of the giant Bölþorn, and their three sons are **Odin**, **Vili** and **Vé**.
 
@@ -63,7 +63,7 @@ Two entries in that list are easy to skim past. The dwarfs, first of all, begin 
 
 ## Fencing the Middle: Midgard and a Clock Already Running
 
-From Ymir's lashes the gods raise a wall and enclose **Midgard**, literally the "middle enclosure". The word describes a legal condition rather than a geographical centre: inside the fence there is law and settlement, outside begins what belongs to the giants. The same logic organises the whole Norse cosmos, up to and including [Yggdrasil](/en/blog/yggdrasil-world-tree), the ash that binds the levels together.
+From Ymir's lashes the gods raise a wall and enclose **Midgard**, literally the "middle enclosure". The word describes a legal condition rather than a geographical centre: inside the fence there is law and settlement, outside begins what belongs to the giants. The same logic organises the whole Norse cosmos, up to and including [Yggdrasil](/en/blog/yggdrasil-world-tree/), the ash that binds the levels together.
 
 Only then is time installed. Sparks from Muspelheim are fixed in the sky and given fixed courses. **Sól** and **Máni**, sun and moon, are the children of **Mundilfæri** according to both Gylfaginning and Vafþrúðnismál, and they do not travel willingly. The wolves **Sköll** and **Hati** run behind them and will catch them at Ragnarok. **Nótt**, the night, and her son **Dagr**, the day, receive horses and chariots of their own.
 

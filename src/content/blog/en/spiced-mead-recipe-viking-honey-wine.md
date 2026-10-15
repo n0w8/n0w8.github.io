@@ -20,7 +20,7 @@ Unlike most "authentic Viking recipes" online, this one rests on published resea
 
 ## What a Spiced Mead Recipe Adds to Plain Honey Wine
 
-Plain mead needs three things: honey, water, yeast - we covered that version in our guide on [how to make mead](/en/blog/how-to-make-mead). A spiced mead adds a fourth category, and it changes everything.
+Plain mead needs three things: honey, water, yeast - we covered that version in our guide on [how to make mead](/en/blog/how-to-make-mead/). A spiced mead adds a fourth category, and it changes everything.
 
 Brewers split the field into two families. A **melomel** is mead made with fruit, a **metheglin** is mead made with herbs and spices. This recipe does both at once, because that combination is what the archaeology shows. Berries bring acid, tannin and colour, herbs bitterness and aromatic oils. Together they give the honey an opponent.
 
@@ -55,7 +55,7 @@ Hops only took over northern brewing in the High Middle Ages. Before that, ale a
 
 Juniper is the other great name. In Finland, the farmhouse ale sahti is still filtered through a bed of juniper twigs, and Norwegian farm breweries built every mash on juniper infusion for centuries. Juniper berries in mead are about as Nordic as brewing gets.
 
-Then meadowsweet, whose blossom smells of honey and almond, and yarrow. Both belong to the classic gruit repertoire. For what else went into northern pots, see our piece on [Viking herbs and spices](/en/blog/viking-herbs-spices-cooking).
+Then meadowsweet, whose blossom smells of honey and almond, and yarrow. Both belong to the classic gruit repertoire. For what else went into northern pots, see our piece on [Viking herbs and spices](/en/blog/viking-herbs-spices-cooking/).
 
 One caution: bog myrtle is rich in essential oils, has always been dosed sparingly and is not considered advisable during pregnancy. If in doubt, swap it for meadowsweet, which is milder.
 
@@ -97,7 +97,7 @@ Equipment: a 6-litre fermenter, bung and airlock, siphon tubing, a fine sieve or
 - **Barrel character without a barrel.** A small piece of untreated oak from a brewing supplier adds vanilla and smoke during ageing, which suits heather honey well.
 - **Safety first.** The finished mead lands at 10 to 14 percent alcohol. Not for children, not during pregnancy, and bog myrtle is off the list for the same reason.
 
-If this kitchen appeals to you, our cookbook **"Viking Feast - The Great Viking Cookbook"** holds 141 recipes from the North, from flatbread and feast roasts to more mead variations. [See the cookbook](/en/cookbook)
+If this kitchen appeals to you, our cookbook **"Viking Feast - The Great Viking Cookbook"** holds 141 recipes from the North, from flatbread and feast roasts to more mead variations. [See the cookbook](/en/cookbook/)
 
 ## Spiced Mead in Practice: Our Verdict
 

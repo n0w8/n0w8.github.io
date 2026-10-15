@@ -16,7 +16,7 @@ draft: false
 
 Ein einäugiger Wanderer im weiten Hut, zwei Raben auf den Schultern, ein Speer in der Hand: So stellen wir uns **Odin**, den **Allvater** der nordischen Mythologie, meist vor. Doch dieses Bild zeigt nur die Oberfläche einer der rätselhaftesten Gottheiten, die je erdacht wurden. Odin ist nicht einfach der König der Götter. Er ist ein Gott, der bereit war, sich selbst zu verstümmeln, zu opfern und zu quälen - für nichts als Wissen.
 
-In unserem [Überblick über die nordischen Götter](/blog/nordische-goetter) haben wir Odin bereits kurz vorgestellt. Hier gehen wir seiner Besessenheit auf den Grund: seinem verlorenen Auge, seiner Selbstkreuzigung am Weltenbaum, seinen Raben, seinen vielen Namen - und der Frage, warum ein Gott, der die Zukunft kennt, trotzdem in den sicheren Untergang marschiert.
+In unserem [Überblick über die nordischen Götter](/blog/nordische-goetter/) haben wir Odin bereits kurz vorgestellt. Hier gehen wir seiner Besessenheit auf den Grund: seinem verlorenen Auge, seiner Selbstkreuzigung am Weltenbaum, seinen Raben, seinen vielen Namen - und der Frage, warum ein Gott, der die Zukunft kennt, trotzdem in den sicheren Untergang marschiert.
 
 ## Woher wir von Odin wissen
 
@@ -26,7 +26,7 @@ Zentral für Odin ist vor allem das **Hávamál** ("Die Rede des Hohen"), ein Ge
 
 ## Das Auge in Mimirs Brunnen
 
-Die erste große Opfergeschichte über Odin dreht sich um ein einziges Auge. Am Fuß des Weltenbaums Yggdrasil liegt, so berichtet die Edda, der **Brunnen Mimirs**, in dem Weisheit und Verstand verborgen sind - wir haben ihn bereits in unserem Artikel über [Yggdrasil](/blog/yggdrasil-weltenbaum) erwähnt. Mimir, der Hüter des Brunnens, trinkt täglich daraus und ist dadurch von unermesslicher Klugheit.
+Die erste große Opfergeschichte über Odin dreht sich um ein einziges Auge. Am Fuß des Weltenbaums Yggdrasil liegt, so berichtet die Edda, der **Brunnen Mimirs**, in dem Weisheit und Verstand verborgen sind - wir haben ihn bereits in unserem Artikel über [Yggdrasil](/blog/yggdrasil-weltenbaum/) erwähnt. Mimir, der Hüter des Brunnens, trinkt täglich daraus und ist dadurch von unermesslicher Klugheit.
 
 Odin will ebenfalls trinken. Doch Mimir verlangt einen Preis: ein Auge. Odin zögert nicht lange und wirft es ins Wasser. Snorri berichtet diese Episode nüchtern, fast beiläufig - doch die Wucht der Geste bleibt: Der mächtigste aller Götter ist bereit, einen Teil seines Körpers, seiner Wahrnehmung der Welt, dauerhaft herzugeben, nur um klüger zu werden. Das einäugige Aussehen, mit dem Odin in praktisch jeder späteren Darstellung erscheint, ist also keine Nebensächlichkeit, sondern der sichtbare Beweis seines wichtigsten Charakterzugs: der grenzenlose Wissensdurst.
 
@@ -52,7 +52,7 @@ Zu seinen Füßen liegen zwei Wölfe, **Geri** und **Freki** (beide Namen bedeut
 
 Odins Speer **Gungnir**, geschmiedet von denselben Zwergen-Söhnen Ivaldis, die auch Freyrs Schiff Skidbladnir fertigten, trifft laut Snorri jedes Ziel, das er anvisiert. Wenn Odin ihn über ein Heer wirft, weiht er die Kämpfenden dem Tod - eine Praxis, die historische Krieger der Wikingerzeit dem Vernehmen nach rituell nachahmten, indem sie zu Schlachtbeginn einen Speer über die Feindesreihen warfen.
 
-In seiner Halle **Walhall** ("Halle der Gefallenen") versammelt Odin die **Einherjer**, im Kampf gefallene Krieger, die von den **Walküren** ausgewählt und dorthin geleitet werden. Dort kämpfen sie täglich gegeneinander, sterben und erstehen jeden Abend zum Festmahl neu auf - eine Art ewiges Training. Der Grund dafür ist keine Freundlichkeit, sondern Kalkül: Odin baut eine Armee für die letzte Schlacht, denn er kennt, wie die Völuspá enthüllt, das Ende der Welt. Bei [Ragnarök](/blog/ragnaroek) wird er selbst an der Spitze der Einherjer in die Schlacht ziehen - und vom Wolf Fenrir verschlungen werden.
+In seiner Halle **Walhall** ("Halle der Gefallenen") versammelt Odin die **Einherjer**, im Kampf gefallene Krieger, die von den **Walküren** ausgewählt und dorthin geleitet werden. Dort kämpfen sie täglich gegeneinander, sterben und erstehen jeden Abend zum Festmahl neu auf - eine Art ewiges Training. Der Grund dafür ist keine Freundlichkeit, sondern Kalkül: Odin baut eine Armee für die letzte Schlacht, denn er kennt, wie die Völuspá enthüllt, das Ende der Welt. Bei [Ragnarök](/blog/ragnaroek/) wird er selbst an der Spitze der Einherjer in die Schlacht ziehen - und vom Wolf Fenrir verschlungen werden.
 
 Interessant ist dabei, dass Walhall nicht das einzige Totenreich für gefallene Krieger ist. Wie wir im Überblick über die nordischen Götter bereits angedeutet haben, teilt sich Odin die Gefallenen mit der Göttin Freyja: Eine Hälfte geht nach Walhall, die andere in Freyjas Halle Fólkvangr. Snorri erklärt nicht, nach welchem Prinzip diese Aufteilung erfolgt, doch die bloße Existenz zweier Anwärter auf die tapfersten Toten zeigt, welchen Stellenwert der ehrenhafte Tod in der Schlacht für die nordische Vorstellungswelt besaß.
 

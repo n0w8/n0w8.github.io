@@ -22,7 +22,7 @@ First the part that gets confused most often: Ulfberht is not a type of sword. I
 
 The weapons themselves look like other swords of their generation. Double-edged, usually around 90 centimetres long, with a broad fuller running down the centre that saves weight without killing the stiffness. The hilts, by contrast, are all over the place. In the typology the Norwegian archaeologist Jan Petersen published in 1919 for the Viking swords of Norway, Ulfberht finds turn up across several different hilt forms. That sounds like a footnote. It is actually the key to the whole phenomenon.
 
-It means blade and hilt did not come from the same workshop. The blade was the traded commodity; the hilt was fitted locally, often decades later, in whatever style the region favoured. A buyer was paying for steel. Everything else he had made at home. Why that made a finished sword so expensive, and why swords appear far less often in graves than axes or spears, is something we unpack in our overview of [Viking weapons](/en/blog/viking-weapons-axe-sword).
+It means blade and hilt did not come from the same workshop. The blade was the traded commodity; the hilt was fitted locally, often decades later, in whatever style the region favoured. A buyer was paying for steel. Everything else he had made at home. Why that made a finished sword so expensive, and why swords appear far less often in graves than axes or spears, is something we unpack in our overview of [Viking weapons](/en/blog/viking-weapons-axe-sword/).
 
 The name itself is continental Germanic rather than Norse, built from the elements for wolf and bright, like dozens of Frankish names of the period. The fact that the inscription appears across roughly two centuries argues strongly against a single smith. A workshop or a family in Frankish territory, passing the name down the way a later business passes down a company name, fits the evidence far better.
 
@@ -64,7 +64,7 @@ A blade made from that material genuinely outperforms an ordinary bloomery blade
 
 If the material came from the east, there has to be a road. There is one, and the archaeology for it is solid.
 
-Running down the Russian river systems, the Volga route tied Scandinavia to the realm of the Volga Bulgars and, across the Caspian, to the Islamic world. What came back was above all silver: hundreds of thousands of Arabic dirhams lie in northern European hoards, nowhere more densely than on Gotland. That ingots of crucible steel travelled west along the same channels is a reasonable inference, not a proven fact. Just how dense that network was is the subject of our piece on the [Viking trade routes](/en/blog/viking-trade-routes).
+Running down the Russian river systems, the Volga route tied Scandinavia to the realm of the Volga Bulgars and, across the Caspian, to the Islamic world. What came back was above all silver: hundreds of thousands of Arabic dirhams lie in northern European hoards, nowhere more densely than on Gotland. That ingots of crucible steel travelled west along the same channels is a reasonable inference, not a proven fact. Just how dense that network was is the subject of our piece on the [Viking trade routes](/en/blog/viking-trade-routes/).
 
 One find makes the connection unusually vivid. The Historical Museum in Kazan holds an Ulfberht blade, one of several recovered in Volga Bulgar territory: a Frankish branded blade thousands of kilometres east of where it was made, in the very region the raw material may have come from.
 

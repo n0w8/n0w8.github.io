@@ -30,7 +30,7 @@ No, if anything the opposite is closer to the truth: the **axe** was the primary
 
 The most striking archaeological showcase of just how sophisticated this weapon class could get is the so-called **Mammen axe**, unearthed in 1868 from a richly furnished grave near Mammen in Denmark, dated to roughly 970/971 CE. The axe carries elaborate silver inlay in a decorative style that gave its name to an entire art-historical period, the Mammen style. It proves that axes, too, could be prestige objects of the highest order - not merely cheap makeshift arms. At the same time, the vast number of plain, undecorated axe heads recovered from graves across Scandinavia confirms that most of these weapons were purely functional: forged for everyday farm work, pressed into service in battle when needed.
 
-Readers interested in the most famous wielders of this weapon class might look into the [Viking berserkers](/en/blog/viking-berserkers), whose fearsome reputation is inseparable from the image of the heavy battle axe - even if the reality behind that legend is more complicated than the sagas suggest.
+Readers interested in the most famous wielders of this weapon class might look into the [Viking berserkers](/en/blog/viking-berserkers/), whose fearsome reputation is inseparable from the image of the heavy battle axe - even if the reality behind that legend is more complicated than the sagas suggest.
 
 ## Were Ulfberht swords magically superior?
 
@@ -73,6 +73,6 @@ That flattening suits video games well, since balance considerations push most t
 
 The archaeological record - from the silver inlay of the Mammen axe, through the metallurgical precision of the Ulfberht blades, to the light shield construction recovered at Gokstad - paints a picture that's more complex and, frankly, more interesting than any film cliché. **Viking weapons** were never a uniform loadout. They formed a carefully calibrated system of tools, status symbols, and imported high technology, shaped by trade routes running as far as Baghdad, by Norwegian forges, and by a society where you could read a surprising amount about a man simply by looking at what hung from his belt.
 
-Next time a Viking charges across the screen swinging a gleaming two-handed sword, it's worth asking whether that man could actually have afforded one - or whether, in historical reality, he'd more likely have been standing there with a plain axe that had split firewood the day before. Readers curious about the ships that carried these warriors to foreign shores in the first place can find more in the article on [the longship](/en/blog/the-longship).
+Next time a Viking charges across the screen swinging a gleaming two-handed sword, it's worth asking whether that man could actually have afforded one - or whether, in historical reality, he'd more likely have been standing there with a plain axe that had split firewood the day before. Readers curious about the ships that carried these warriors to foreign shores in the first place can find more in the article on [the longship](/en/blog/the-longship/).
 
 *Image: Unknown author (Public domain), via Wikimedia Commons*

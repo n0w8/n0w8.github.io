@@ -22,7 +22,7 @@ In 9th century Scandinavia, sugar simply did not exist. If you wanted sweetness,
 
 That scarcity is what made honey special. A drizzle over berries or a milk dish was not an everyday habit; it was a small celebration. Anyone who casually loops honey over their breakfast today is enjoying a luxury that would have cost a Viking Age farmer real silver.
 
-The other sweetness of the North grew free of charge. Raspberries, blackberries, bilberries, elderberries and sloes lined the forest edges and moors, and in August and September they came in ridiculous abundance. In a diet built on grain, fish and meat, they also delivered vitamins the body badly needed before winter - our overview of the [Viking diet](/en/blog/viking-food-diet) shows where they fit in the bigger picture.
+The other sweetness of the North grew free of charge. Raspberries, blackberries, bilberries, elderberries and sloes lined the forest edges and moors, and in August and September they came in ridiculous abundance. In a diet built on grain, fish and meat, they also delivered vitamins the body badly needed before winter - our overview of the [Viking diet](/en/blog/viking-food-diet/) shows where they fit in the bigger picture.
 
 ## The Berry Evidence: What Archaeologists Actually Found
 
@@ -81,9 +81,9 @@ You will also need a small saucepan, a whisk and four bowls - wood or stoneware 
 - **Winter version:** Frozen berries work beautifully and can go into the pan straight from the freezer; just simmer 2 to 3 minutes longer.
 - **No skyr available:** Greek yogurt or quark with a squeeze of lemon juice comes closest to skyr's tart character.
 - **A wilder edge:** A handful of elderberries or a few crushed juniper berries in the compote push the flavour even closer to a Viking Age forest edge.
-- **Prefer it warm from the oven:** Our [honey-baked apples](/en/blog/honey-baked-apples) are this recipe's cosy sister dish.
+- **Prefer it warm from the oven:** Our [honey-baked apples](/en/blog/honey-baked-apples/) are this recipe's cosy sister dish.
 
-If this kind of cooking speaks to you, our cookbook **"Viking Feast"** holds 141 recipes of the North - flatbreads, feast roasts, mead and the sweet treasures of the storeroom. [See the cookbook](/en/cookbook)
+If this kind of cooking speaks to you, our cookbook **"Viking Feast"** holds 141 recipes of the North - flatbreads, feast roasts, mead and the sweet treasures of the storeroom. [See the cookbook](/en/cookbook/)
 
 ## A Spoonful of Late Summer
 

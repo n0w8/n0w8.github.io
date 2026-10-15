@@ -36,7 +36,7 @@ One especially well known context is the **Oseberg burial** in Norway. Alongside
 
 The written sources barely help. The Icelandic sagas describe feasts, ale and arguments across the table, but stay nearly silent on seasoning. Be sceptical of any article painting a detailed Viking spice cupboard: no source supports that. Seeds, pollen and plant fragments are what we actually have.
 
-Kitchen and medicine were not cleanly separated here either: the same plants that went into the pot served as household remedies. For the wider context, see our overview of the [Viking diet](/en/blog/viking-food-diet).
+Kitchen and medicine were not cleanly separated here either: the same plants that went into the pot served as household remedies. For the wider context, see our overview of the [Viking diet](/en/blog/viking-food-diet/).
 
 ![Flowering dill with yellow umbels](/images/viking-herbs-2.jpg)
 
@@ -60,7 +60,7 @@ So what about the classics? Pepper and cinnamon were known in the North. Viking 
 
 But everything arriving that way was luxury. A pouch of pepper carried a value no farm would waste on a weekday meal. Such imports belonged to the people who wore silk and silver, and they turned up at feasts, not in the daily porridge. Recreate Viking cooking with them and you are recreating an aristocratic table, not an ordinary one.
 
-You do not need them anyway. Juniper, dill, mustard and caraway carry a dish on their own, and they are superb with a warm [Viking flatbread](/en/blog/viking-flatbread-recipe) from the pan. The recipe below is a modern kitchen version, not a surviving original from the Viking Age, because no such thing exists. What is old about it are the plants and the principle.
+You do not need them anyway. Juniper, dill, mustard and caraway carry a dish on their own, and they are superb with a warm [Viking flatbread](/en/blog/viking-flatbread-recipe/) from the pan. The recipe below is a modern kitchen version, not a surviving original from the Viking Age, because no such thing exists. What is old about it are the plants and the principle.
 
 ## Ingredients
 
@@ -94,7 +94,7 @@ You will also need a mortar and pestle and a clean, bone-dry screw-top jar. On r
 - **Coarse grilling salt:** Crack everything briefly and keep the grind rougher. Scattered over meat off the grill at the last second, it is a small revelation.
 - **Clumped?** Residual moisture got in, usually off a damp spoon. Spread the blend out for another 10 minutes at 50 C, cool it, break it up and refill the jar. Only ever use a dry spoon.
 
-If this has given you an appetite for more of the northern kitchen, it comes from the same workshop as our collection. The cookbook **"Viking Feast - The Great Viking Cookbook"** gathers 141 recipes, from stews and breads to roasts and the drinks that belong with them. [To the cookbook](/en/cookbook)
+If this has given you an appetite for more of the northern kitchen, it comes from the same workshop as our collection. The cookbook **"Viking Feast - The Great Viking Cookbook"** gathers 141 recipes, from stews and breads to roasts and the drinks that belong with them. [To the cookbook](/en/cookbook/)
 
 ## A Jar of the North on Your Shelf
 

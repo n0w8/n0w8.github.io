@@ -16,7 +16,7 @@ draft: false
 
 A one-eyed wanderer in a broad-brimmed hat, two ravens perched on his shoulders, a spear in hand: this is how most of us picture **Odin**, the **Allfather** of Norse mythology. But that image only skims the surface of one of the strangest gods ever conceived. Odin is not simply the king of the gods. He is a god who was willing to maim himself, sacrifice himself, and torment himself - all for the sake of knowledge.
 
-We already gave Odin a brief introduction in our [overview of the Norse gods](/en/blog/norse-gods). Here we dig into what actually drove him: his missing eye, his self-crucifixion on the world tree, his ravens, his many names - and the question of why a god who knows the future still marches straight into his own destruction.
+We already gave Odin a brief introduction in our [overview of the Norse gods](/en/blog/norse-gods/). Here we dig into what actually drove him: his missing eye, his self-crucifixion on the world tree, his ravens, his many names - and the question of why a god who knows the future still marches straight into his own destruction.
 
 ## How We Know About Odin
 
@@ -26,7 +26,7 @@ Central to Odin is the **Hávamál** ("The Sayings of the High One"), a poem of 
 
 ## The Eye in Mímir's Well
 
-The first great sacrifice story about Odin centers on a single eye. At the foot of the world tree Yggdrasil, the Edda tells us, lies **Mímir's Well**, in which wisdom and understanding lie hidden - we already mentioned it in our article on [Yggdrasil](/en/blog/yggdrasil-world-tree). Mímir, the well's guardian, drinks from it daily and is, as a result, immeasurably wise.
+The first great sacrifice story about Odin centers on a single eye. At the foot of the world tree Yggdrasil, the Edda tells us, lies **Mímir's Well**, in which wisdom and understanding lie hidden - we already mentioned it in our article on [Yggdrasil](/en/blog/yggdrasil-world-tree/). Mímir, the well's guardian, drinks from it daily and is, as a result, immeasurably wise.
 
 Odin wants to drink from it too. But Mímir demands a price: an eye. Odin does not hesitate long, and casts it into the water. Snorri reports the episode almost matter-of-factly - yet the weight of the gesture remains. The most powerful of all gods is willing to permanently give up part of his body, part of how he perceives the world, simply to become wiser. The one-eyed appearance in which Odin turns up in practically every later depiction is therefore no minor detail - it is visible proof of his defining trait: an unbounded thirst for knowledge.
 
@@ -52,7 +52,7 @@ At his feet lie two wolves, **Geri** and **Freki** (both names roughly mean "the
 
 Odin's spear **Gungnir**, forged by the same sons of the dwarf Ivaldi who also built Freyr's ship Skidbladnir, never misses whatever target it is aimed at, according to Snorri. When Odin hurls it over an army, he consecrates the fighters to death - a practice that Viking-age warriors reportedly imitated in ritual, throwing a spear over the enemy's ranks before battle began.
 
-In his hall **Valhalla** ("hall of the slain"), Odin gathers the **einherjar**, warriors fallen in battle, chosen and escorted there by the **valkyries**. There they fight one another daily, die, and rise again each evening for the feast - a kind of eternal training. The reason is not kindness but calculation: Odin is building an army for the final battle, because he already knows, as the Völuspá reveals, how the world will end. At [Ragnarök](/en/blog/ragnarok), he himself will ride at the head of the einherjar into battle - and be swallowed by the wolf Fenrir.
+In his hall **Valhalla** ("hall of the slain"), Odin gathers the **einherjar**, warriors fallen in battle, chosen and escorted there by the **valkyries**. There they fight one another daily, die, and rise again each evening for the feast - a kind of eternal training. The reason is not kindness but calculation: Odin is building an army for the final battle, because he already knows, as the Völuspá reveals, how the world will end. At [Ragnarök](/en/blog/ragnarok/), he himself will ride at the head of the einherjar into battle - and be swallowed by the wolf Fenrir.
 
 Worth noting here is that Valhalla is not the only afterlife reserved for fallen warriors. As we touched on in our overview of the Norse gods, Odin shares the fallen with the goddess Freyja: half go to Valhalla, the other half to Freyja's hall, Fólkvangr. Snorri never explains the principle behind this division, but the mere existence of two claimants for the bravest of the dead says a great deal about how highly the Norse world prized an honorable death in battle.
 

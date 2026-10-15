@@ -103,7 +103,7 @@ Der Norden kannte keinen Zucker. Wer etwas süßen wollte, hatte Honig, getrockn
 
 Die Beeren dagegen kosteten nichts außer Zeit. Heidelbeere, Preiselbeere, Moltebeere und Krähenbeere wuchsen in Mengen, und ihre Säure ist der eigentliche Grund, warum diese Kombination funktioniert: Der Gerstenteig schmeckt erdig und nussig, der Honig bringt Süße, und erst die Beeren setzen den Kontrapunkt, der das Ganze leicht macht. Wer die Beeren weglässt, bekommt ein schweres Frühstück. Wer sie dazugibt, bekommt ein Dessert.
 
-Eine Verwandtschaft ist dabei unübersehbar. Dieselben drei Elemente - Getreide, Honig, Beeren - tragen auch die [Gerstengrütze mit Honig](/blog/wikinger-gerstengruetze-mit-honig), nur dass dort der Topf arbeitet und hier die Pfanne. Wie ungesäuerter Gerstenteig ganz ohne Eier und Milch auskommt, zeigt unser [Wikinger-Fladenbrot](/blog/wikinger-fladenbrot-rezept).
+Eine Verwandtschaft ist dabei unübersehbar. Dieselben drei Elemente - Getreide, Honig, Beeren - tragen auch die [Gerstengrütze mit Honig](/blog/wikinger-gerstengruetze-mit-honig/), nur dass dort der Topf arbeitet und hier die Pfanne. Wie ungesäuerter Gerstenteig ganz ohne Eier und Milch auskommt, zeigt unser [Wikinger-Fladenbrot](/blog/wikinger-fladenbrot-rezept/).
 
 ## Tipps & Variationen
 
@@ -114,7 +114,7 @@ Eine Verwandtschaft ist dabei unübersehbar. Dieselben drei Elemente - Getreide,
 - **Auf dem Feuer:** In einer gusseisernen Pfanne über dem Lagerfeuer funktioniert das Rezept unverändert, nur muss die Pfanne an den Rand der Glut, nicht in die Mitte.
 - **Aufbewahren:** Ausgekühlt halten sich die Fladen 2 Tage im Kühlschrank. Kurz in der trockenen Pfanne aufwärmen, nicht in der Mikrowelle, sonst werden sie gummiartig.
 
-Wenn dir diese Art zu kochen gefällt: Das Rezept passt in dieselbe Reihe wie die Brote, Breie und Festtagsgerichte aus unserem Kochbuch **Wikinger Festmahl**, das die nordische Küche von der Alltagskost bis zum Gelage versammelt. [Zum Kochbuch](/kochbuch)
+Wenn dir diese Art zu kochen gefällt: Das Rezept passt in dieselbe Reihe wie die Brote, Breie und Festtagsgerichte aus unserem Kochbuch **Wikinger Festmahl**, das die nordische Küche von der Alltagskost bis zum Gelage versammelt. [Zum Kochbuch](/kochbuch/)
 
 Am Ende ist dieses Gericht genau das, was gute Alltagsküche immer war: wenige Zutaten, eine heiße Platte und etwas Süßes obendrauf, das es nur im Sommer gab. Dass dafür kein Fundbericht existiert, macht es nicht schlechter. Es macht nur die Geschichte dazu ehrlicher.
 

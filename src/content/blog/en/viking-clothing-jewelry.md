@@ -40,7 +40,7 @@ Listen to *Scar* while you read on:
 
 Women's dress is, if anything, better understood than men's, and the credit goes to a piece of jewelry. The **oval brooch** - a domed, often gilded bronze brooch worn in matched pairs - held up the shoulder straps of a wool overdress known as the **apron dress** (smokkr in Old Norse), worn over a long linen underdress. Because tiny loops and scraps of fabric corroded onto the brooch pins, archaeologists can reconstruct the whole layered outfit from the metalwork alone.
 
-The richest evidence comes from **Birka**, where more than a thousand excavated graves produced oval brooches in industrial quantities, alongside silk bands and delicate ornaments of coiled silver wire. Agnes Geijer, who analyzed the Birka textiles in the 1930s, was struck by the sheer quality of the fine wool twills in those graves - fabric to rival anything in contemporary Europe. For the bigger picture of how trade and town life made such finery possible, see our article on [Birka, Sweden's first town](/en/blog/birka-swedens-first-town).
+The richest evidence comes from **Birka**, where more than a thousand excavated graves produced oval brooches in industrial quantities, alongside silk bands and delicate ornaments of coiled silver wire. Agnes Geijer, who analyzed the Birka textiles in the 1930s, was struck by the sheer quality of the fine wool twills in those graves - fabric to rival anything in contemporary Europe. For the bigger picture of how trade and town life made such finery possible, see our article on [Birka, Sweden's first town](/en/blog/birka-swedens-first-town/).
 
 Between the two brooches hung strings of beads - glass, amber, sometimes imported carnelian or rock crystal - often joined by useful pendants: scissors, a needle case, keys. A third brooch, frequently trefoil-shaped, closed a shawl or caftan above. Married women likely covered their hair with kerchiefs or caps, and a silk cap from Viking Age York shows that even this modest accessory could be made of the most expensive fabric in the known world.
 
@@ -76,7 +76,7 @@ In our editorial view, textiles are the most underrated finds in all of Viking a
 
 ## Why the Wardrobe Matters
 
-Strip away the costume-department clichés and a consistent picture remains. The people of the Viking Age dressed in color, groomed carefully, and invested startling amounts of labor and silver in how they looked - which fits everything else we know about their [daily life](/en/blog/viking-daily-life) as farmers, traders, and craftspeople with combs in their belts and keys at their hips.
+Strip away the costume-department clichés and a consistent picture remains. The people of the Viking Age dressed in color, groomed carefully, and invested startling amounts of labor and silver in how they looked - which fits everything else we know about their [daily life](/en/blog/viking-daily-life/) as farmers, traders, and craftspeople with combs in their belts and keys at their hips.
 
 A culture that sews Byzantine silk onto its collars, strings carnelian from the East around its neck, and answers the missionary's cross with a defiant silver hammer was many things. Primitive was never one of them. The Vikings understood something we like to think we invented: you are, to a very useful degree, what you wear.
 

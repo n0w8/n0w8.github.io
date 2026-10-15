@@ -38,7 +38,7 @@ Hör dir *Midgard* an, während du weiterliest:
 
 ## Begegnung eins: Die Katze in Utgard
 
-Die erste Konfrontation zwischen [Thor, dem Donnergott](/blog/thor-donnergott-mjoelnir), und der Schlange ist zugleich die einzige, die Thor nicht als solche erkennt. Snorri erzählt in der Gylfaginning von Thors Reise zur Burg des Riesenkönigs **Útgarða-Loki**, wo der Gott zu einer Reihe scheinbar harmloser Wettkämpfe herausgefordert wird.
+Die erste Konfrontation zwischen [Thor, dem Donnergott](/blog/thor-donnergott-mjoelnir/), und der Schlange ist zugleich die einzige, die Thor nicht als solche erkennt. Snorri erzählt in der Gylfaginning von Thors Reise zur Burg des Riesenkönigs **Útgarða-Loki**, wo der Gott zu einer Reihe scheinbar harmloser Wettkämpfe herausgefordert wird.
 
 Einer davon besteht darin, eine graue Hauskatze vom Boden zu heben. Thor packt zu, zerrt mit aller Kraft und schafft es gerade, eine einzige Pfote vom Boden zu lösen. Der Riesenkönig erklärt das Ganze erst danach: Die Katze war Jörmungandr, durch Blendwerk verkleinert, und Thor hatte in diesem Moment beinahe die Weltschlange aus dem Meer gehoben. Útgarða-Loki gibt offen zu, dass ihm dabei angst und bange wurde.
 
@@ -73,7 +73,7 @@ Das Bemerkenswerte an dieser Liste ist die geografische Streuung. Schweden, Dän
 
 ## Begegnung drei: Ragnarök und die neun Schritte
 
-Die dritte Begegnung ist die endgültige. Bei [Ragnarök](/blog/ragnaroek) lässt Jörmungandr den eigenen Schwanz los und windet sich an Land. Die Völuspá beschreibt, wie das Meer über die Küsten steigt, weil der Körper der Schlange sich in Bewegung setzt, und wie die Luft sich mit Gift füllt.
+Die dritte Begegnung ist die endgültige. Bei [Ragnarök](/blog/ragnaroek/) lässt Jörmungandr den eigenen Schwanz los und windet sich an Land. Die Völuspá beschreibt, wie das Meer über die Küsten steigt, weil der Körper der Schlange sich in Bewegung setzt, und wie die Luft sich mit Gift füllt.
 
 Thor und Jörmungandr treffen zum letzten Mal aufeinander, und diesmal gibt es keinen Riesen, der die Schnur kappt. Thor erschlägt die Schlange mit Mjölnir. Dann geht er neun Schritte und fällt tot um, vergiftet vom Atem des sterbenden Ungeheuers.
 

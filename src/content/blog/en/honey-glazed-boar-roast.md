@@ -41,6 +41,57 @@ Whenever the sagas describe a feast, a roast steams at the centre of the table. 
 
 ## The Skald's Tip
 
-For the full longhouse experience, deglaze with [homemade mead](/en/blog/how-to-make-mead) instead of red wine - the sauce gains a subtle honeyed depth. Serve with fresh [barley flatbread](/en/blog/viking-flatbread-recipe) so not a drop goes to waste.
+For the full longhouse experience, deglaze with [homemade mead](/en/blog/how-to-make-mead/) instead of red wine - the sauce gains a subtle honeyed depth. Serve with fresh [barley flatbread](/en/blog/viking-flatbread-recipe/) so not a drop goes to waste.
 
-Why was the boar sacred in the North? The boar Sæhrímnir was eaten in Valhalla every single night, only to return whole the next day - read more in our article on the [Norse gods](/en/blog/norse-gods).
+Why was the boar sacred in the North? The boar Sæhrímnir was eaten in Valhalla every single night, only to return whole the next day - read more in our article on the [Norse gods](/en/blog/norse-gods/).
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Honey-Glazed Wild Boar Roast: The Viking Feast Classic",
+  "description": "Succulent wild boar roast with a honey-mustard glaze, Viking style: easy step-by-step recipe with a mead tip and a fun fact from the Norse world.",
+  "image": "https://blog.nordwaldrecords.com/images/rezepte/recipe-boar-roast-1.webp",
+  "author": {
+    "@type": "Organization",
+    "name": "Nordweg"
+  },
+  "datePublished": "2026-07-10",
+  "cookTime": "PT3H",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "Nordic",
+  "keywords": "Viking Recipe, Wild Boar, Roast, Feast, Honey",
+  "recipeIngredient": [
+    "3 lbs wild boar leg (1.5 kg, substitute pork if needed)",
+    "3 tbsp honey",
+    "3 tbsp mustard",
+    "2 tbsp oil",
+    "3 onions, roughly chopped",
+    "3 carrots, cut into chunks",
+    "1 cup red wine or mead (250 ml)",
+    "Salt, pepper, thyme, rosemary"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Rub the meat with oil, salt and pepper."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Sear on all sides in a roasting pan, then remove."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add onions and carrots, sauté briefly, deglaze with wine or mead."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Return the meat, add the herbs, cover and braise at 325°F (160°C) for 2.5 to 3 hours."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Mix honey and mustard, glaze the roast 20 minutes before it is done and caramelize under the broiler."
+    }
+  ]
+}
+</script>

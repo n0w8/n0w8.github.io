@@ -18,7 +18,7 @@ Wer sich die Halle eines nordischen Häuptlings vorstellt, sieht meist Met in Tr
 
 ## Bier war Alltag, Met war Fest: was der Norden wirklich trank
 
-Gerste war das wichtigste Getreide Skandinaviens. Sie wächst dort, wo Weizen aufgibt: auf kurzen Sommern, sauren Böden, in Küstennähe. Was nicht als Brei oder Fladenbrot auf den Tisch kam, wanderte in den Braukessel. Das Wikinger-Bier war deshalb kein Luxus, sondern Grundnahrungsmittel und Getränk in einem - kalorienreich, haltbarer als Wasser und für alle da, vom Knecht bis zum Jarl. Met dagegen brauchte Honig in Mengen, und Honig war teuer. Wer Met ausschenkte, zeigte Rang. Wie dieses Prestigegetränk entsteht, beschreiben wir Schritt für Schritt im Artikel [Met selber machen](/blog/met-selber-machen).
+Gerste war das wichtigste Getreide Skandinaviens. Sie wächst dort, wo Weizen aufgibt: auf kurzen Sommern, sauren Böden, in Küstennähe. Was nicht als Brei oder Fladenbrot auf den Tisch kam, wanderte in den Braukessel. Das Wikinger-Bier war deshalb kein Luxus, sondern Grundnahrungsmittel und Getränk in einem - kalorienreich, haltbarer als Wasser und für alle da, vom Knecht bis zum Jarl. Met dagegen brauchte Honig in Mengen, und Honig war teuer. Wer Met ausschenkte, zeigte Rang. Wie dieses Prestigegetränk entsteht, beschreiben wir Schritt für Schritt im Artikel [Met selber machen](/blog/met-selber-machen/).
 
 Dass Bier im Norden allgegenwärtig war, steht nicht nur zwischen den Zeilen. Die norwegischen Rechtssammlungen des Hochmittelalters, allen voran das Gulathing-Gesetz, verpflichteten die Bauernhöfe ausdrücklich dazu, zum Julfest Bier zu brauen und es zu segnen - eine christlich überformte Regel, die eine deutlich ältere Praxis konserviert. Wer das Julbier ausfallen ließ, machte sich strafbar. Ein Getränk, das in Gesetzestexte wandert, ist kein Randphänomen.
 
@@ -89,9 +89,9 @@ Wacholderzweige sammelst du am besten selbst, aus ungespritzten Beständen und i
 - **Räuchernote:** Ersetze 300 g des hellen Malzes durch Rauchmalz. Das kommt dem Bier näher, das über offenem Feuer und in rauchgeschwängerten Langhäusern entstand.
 - **Ohne Gagel und ohne Hopfen:** Ein Teelöffel zerstoßene Wacholderbeeren plus etwas Beifuß im Kochen ergibt eine kräuterherbe Variante. Vorsicht mit der Menge, Beifuß wird schnell bitter.
 - **Sicherheit zuerst:** Niemals mehr Zucker zum Nachgären zugeben als angegeben. Zu viel Restzucker sprengt Flaschen, und das ist kein romantisches Wikinger-Erlebnis.
-- **Passend dazu:** Was sonst auf den Tisch kam, während der Krug kreiste, zeigt unser Überblick zur [Ernährung der Wikinger](/blog/wikinger-ernaehrung-essen).
+- **Passend dazu:** Was sonst auf den Tisch kam, während der Krug kreiste, zeigt unser Überblick zur [Ernährung der Wikinger](/blog/wikinger-ernaehrung-essen/).
 
-Wenn dich diese Küche packt: In unserem Kochbuch **"Wikinger Festmahl - Das große Wikinger-Kochbuch"** warten 141 Rezepte des Nordens, von Fladenbrot über Festbraten bis zu Met und Vorratsschätzen. [Zum Kochbuch](/kochbuch)
+Wenn dich diese Küche packt: In unserem Kochbuch **"Wikinger Festmahl - Das große Wikinger-Kochbuch"** warten 141 Rezepte des Nordens, von Fladenbrot über Festbraten bis zu Met und Vorratsschätzen. [Zum Kochbuch](/kochbuch/)
 
 ## Ein Schluck Norden: unser Urteil
 

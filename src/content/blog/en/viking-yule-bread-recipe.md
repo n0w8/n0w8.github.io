@@ -35,7 +35,7 @@ The same source also describes the ceremonial toasts raised in sequence during t
 
 ## What Was Really on the Table
 
-Archaeological finds and written sources together paint a picture of a feast that stood in sharp contrast to the sparse everyday Viking diet. Alongside the pork from the sacrificial boar, other meat dishes likely made it to the table too, along with pickled and smoked vegetables from the winter stores, freshly baked bread, and, where available, **mead** - the sweet, honey-fermented festive drink we've already covered in [its own article](/en/blog/how-to-make-mead).
+Archaeological finds and written sources together paint a picture of a feast that stood in sharp contrast to the sparse everyday Viking diet. Alongside the pork from the sacrificial boar, other meat dishes likely made it to the table too, along with pickled and smoked vegetables from the winter stores, freshly baked bread, and, where available, **mead** - the sweet, honey-fermented festive drink we've already covered in [its own article](/en/blog/how-to-make-mead/).
 
 Baking was also a big part of the season, using whatever the winter stores allowed: grain, honey, dried fruit, and nuts, gathered over the summer and set aside specifically for occasions like this. A festive bread of that kind can still be baked today with a handful of supermarket ingredients - which is exactly what the recipe section of this article is about.
 
@@ -51,7 +51,7 @@ That the darkest, coldest season of the year became the biggest festival actuall
 
 ## Viking Yule Bread With Nuts and Dried Fruit
 
-This bread is richer than the everyday [flatbread](/en/blog/viking-flatbread-recipe) Vikings ate day to day: sweetened with honey, enriched with nuts and dried fruit from the winter stores - exactly the kind of special baking a feast like Jól called for.
+This bread is richer than the everyday [flatbread](/en/blog/viking-flatbread-recipe/) Vikings ate day to day: sweetened with honey, enriched with nuts and dried fruit from the winter stores - exactly the kind of special baking a feast like Jól called for.
 
 ## Ingredients
 
@@ -89,7 +89,7 @@ For 1 loaf (about 8 slices):
 
 A lot of what feels "typically Christmassy" today - light in the darkness, a shared feast with family, ceremonial toasts to the new year - has deep roots in the Norse Jól festival. The sonargöltr oath may be long gone, but a freshly baked loaf of honey-and-nut bread can still be shared with much the same joy today as it was over a thousand years ago in a Norse longhouse hall.
 
-If you want to dive deeper into Norse cuisine: this recipe is just a taste from our full collection. In the cookbook **"Viking Feast"** you'll find 141 recipes from Norse cuisine - from festive breads to hearty stews to the mead to go with them. [Get the cookbook](/en/cookbook)
+If you want to dive deeper into Norse cuisine: this recipe is just a taste from our full collection. In the cookbook **"Viking Feast"** you'll find 141 recipes from Norse cuisine - from festive breads to hearty stews to the mead to go with them. [Get the cookbook](/en/cookbook/)
 
 <script type="application/ld+json">
 {

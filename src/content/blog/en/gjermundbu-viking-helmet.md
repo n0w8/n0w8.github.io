@@ -31,7 +31,7 @@ The mail shirt deserves almost as much attention as the helmet itself. Ring mail
 ![The surviving fragments of the Gjermundbu mail shirt, mounted on a transparent backing in the museum display](/images/gjermundbu-helmet-2.jpg)
 *Image credit: Wolfmann (CC BY-SA 4.0), via Wikimedia Commons*
 
-If you want the bigger picture of what a warrior like the lord of Gjermundbu carried into battle, our article on [Viking weapons](/en/blog/viking-weapons-axe-sword) covers axes, swords and shields in depth.
+If you want the bigger picture of what a warrior like the lord of Gjermundbu carried into battle, our article on [Viking weapons](/en/blog/viking-weapons-axe-sword/) covers axes, swords and shields in depth.
 
 ## The Gjermundbu Viking Helmet in Detail
 
@@ -85,7 +85,7 @@ The Gjermundbu helmet is kept at the **Museum of Cultural History** (Kulturhisto
 ![The Gjermundbu helmet in its display case in the VIKINGR exhibition at the Museum of Cultural History in Oslo, close-up from below](/images/gjermundbu-helmet-3.jpg)
 *Image credit: Wolfmann (CC BY-SA 4.0), via Wikimedia Commons*
 
-And if you are curious how exceptional Viking Age burials could get, from simple cremations to entire ships sealed beneath mounds, our piece on [Viking ship burials](/en/blog/viking-burial-ship) follows that road into the afterlife.
+And if you are curious how exceptional Viking Age burials could get, from simple cremations to entire ships sealed beneath mounds, our piece on [Viking ship burials](/en/blog/viking-burial-ship/) follows that road into the afterlife.
 
 ## A Piece of Iron as the Face of an Era
 

@@ -52,7 +52,7 @@ Three woods have earned their place in Northern smokehouses:
 
 - **Alder** is the Scandinavian standard. It burns gently, tastes mildly sweet, and suits every fish you are likely to put in front of it.
 - **Beech** is stronger and colours the skin darker. Reach for it when you want something assertive.
-- **Juniper** is not a base wood but a finishing touch. A few dry sprigs or a handful of berries on the coals add the resinous, almost peppery note that defines traditional Nordic smoking. For how wide that repertoire really was, see our guide to [herbs and spices in the Viking kitchen](/en/blog/viking-herbs-spices-cooking).
+- **Juniper** is not a base wood but a finishing touch. A few dry sprigs or a handful of berries on the coals add the resinous, almost peppery note that defines traditional Nordic smoking. For how wide that repertoire really was, see our guide to [herbs and spices in the Viking kitchen](/en/blog/viking-herbs-spices-cooking/).
 
 Avoid conifers such as spruce and pine. Their resin settles as a bitter film and the fish tastes of turpentine rather than woodland.
 
@@ -111,10 +111,10 @@ Serves 4:
 - **Herbs in the brine:** A few sprigs of thyme or mugwort add an earthy note against the juniper.
 - **No smoker?** In a kettle grill, bank the coals to one side, set a pan of water beside them, and put the fish on the cool side. The dry chips go in a perforated foil tray at the edge of the coals.
 - **As a warm main course:** Flake the fish coarsely and plate it with boiled potatoes, cucumber slices with dill, snap peas and a creamy mushroom sauce. That is exactly what the photo above shows, made with hot-smoked salmon rather than trout.
-- **Storage:** Hot-smoked fish keeps 3 to 4 days refrigerated. Flaked, it is excellent scattered over the dishes in our guide to [the Viking diet](/en/blog/viking-food-diet).
+- **Storage:** Hot-smoked fish keeps 3 to 4 days refrigerated. Flaked, it is excellent scattered over the dishes in our guide to [the Viking diet](/en/blog/viking-food-diet/).
 - **Leftovers:** Flake the cold fish, fold it through skyr with dill and a squeeze of lemon, and you have a spread for flatbread.
 
-If this craft appeals to you, the recipe is one of 141 in our cookbook **Viking Feast**, which brings together the fish, breads, stews and feast dishes of the Norse kitchen. [See the cookbook](/en/cookbook)
+If this craft appeals to you, the recipe is one of 141 in our cookbook **Viking Feast**, which brings together the fish, breads, stews and feast dishes of the Norse kitchen. [See the cookbook](/en/cookbook/)
 
 Smoking is one of the most honest techniques in cooking. There is no batter to hide behind, nothing to rescue a fish that was handled carelessly. Just salt, smoke, time, and a result that tastes exactly as good as the care you put in.
 

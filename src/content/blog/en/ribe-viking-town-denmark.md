@@ -30,7 +30,7 @@ For its first decades Ribe was probably not a place where anyone lived year roun
 
 Pinning down when that changed was the aim of the Northern Emporium project, run in 2017 and 2018 by Aarhus University together with the Museum of Southwest Jutland and directed by the archaeologist Søren M. Sindbæk. The team excavated a small area in the middle of modern Ribe at unusually fine stratigraphic resolution. Their result: activity thickens through the eighth century, and towards its end the seasonal gaps disappear. Ribe becomes permanently occupied, and at the same time the volume of imported goods climbs sharply.
 
-That finding matters well beyond local history. It indicates that long-distance exchange in the North did not take off because of the raids. The causality runs the other way. A dense trading network already existed, and the raids happened against that backdrop, using its ships, its routes and its knowledge of foreign coastlines. Ribe stands at the head of a sequence of such places that later included [Hedeby](/en/blog/hedeby-lost-trading-city) on the Schlei.
+That finding matters well beyond local history. It indicates that long-distance exchange in the North did not take off because of the raids. The causality runs the other way. A dense trading network already existed, and the raids happened against that backdrop, using its ships, its routes and its knowledge of foreign coastlines. Ribe stands at the head of a sequence of such places that later included [Hedeby](/en/blog/hedeby-lost-trading-city/) on the Schlei.
 
 Put on *Scar* while you read on, a hymn that carries the harsher side of this world:
 
@@ -57,7 +57,7 @@ A market of this size eventually needs something smaller than a silver ingot. Ri
 
 The imagery is less telling than the quantity. These coins turn up in the Ribe excavations in substantial numbers as stray finds trodden into the market surface, which is to say as lost pocket money. People only lose small change if they are using small change. That points to frequent, low-value transactions between many parties rather than occasional bulk exchanges between a handful of chieftains. Folding balances and sets of weights fill in the rest of the picture, since silver was also reckoned by weight rather than by face value.
 
-Compared with [Birka](/en/blog/birka-swedens-first-town) in Sweden, whose heyday came later and whose silver arrived largely from the east, Ribe faces the other way: towards Frisia, the Frankish empire and the British Isles. Both towns belong to the same system. They simply plug into opposite ends of it.
+Compared with [Birka](/en/blog/birka-swedens-first-town/) in Sweden, whose heyday came later and whose silver arrived largely from the east, Ribe faces the other way: towards Frisia, the Frankish empire and the British Isles. Both towns belong to the same system. They simply plug into opposite ends of it.
 
 ## Odin on a Skull, a Church on the River
 

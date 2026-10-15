@@ -32,7 +32,7 @@ In der Mitte, wo das Schmelzwasser des Eises auf die Wärme Muspelheims trifft, 
 
 ## Ymir und Audhumla: Leben aus Reif und Salz
 
-Das erste Wesen heißt **Ymir**, in Vafþrúðnismál trägt er zusätzlich den Namen **Aurgelmir**. Er ist der Urvater der Reifriesen, der *hrímþursar*, und seine Fortpflanzung ist so fremdartig, dass Snorri sie fast entschuldigend berichtet: Während Ymir schläft, wächst ihm unter dem linken Arm ein Paar, Mann und Frau, und seine Füße zeugen miteinander einen sechsköpfigen Sohn. Von diesem Geschlecht stammen die [Jötnar](/blog/joetnar-riesen-nordische-mythologie) ab, jene ältere Macht, mit der die Götter später ununterbrochen zu tun haben.
+Das erste Wesen heißt **Ymir**, in Vafþrúðnismál trägt er zusätzlich den Namen **Aurgelmir**. Er ist der Urvater der Reifriesen, der *hrímþursar*, und seine Fortpflanzung ist so fremdartig, dass Snorri sie fast entschuldigend berichtet: Während Ymir schläft, wächst ihm unter dem linken Arm ein Paar, Mann und Frau, und seine Füße zeugen miteinander einen sechsköpfigen Sohn. Von diesem Geschlecht stammen die [Jötnar](/blog/joetnar-riesen-nordische-mythologie/) ab, jene ältere Macht, mit der die Götter später ununterbrochen zu tun haben.
 
 Gleichzeitig entsteht aus dem tauenden Reif die Kuh **Audhumla**. Sie ernährt Ymir mit vier Milchströmen und sich selbst, indem sie an salzigen Eisblöcken leckt. Am ersten Tag erscheint unter ihrer Zunge menschliches Haar, am zweiten ein Kopf, am dritten ein ganzer Mann: **Búri**. Dessen Sohn **Borr** heiratet **Bestla**, die Tochter des Jötunn Bölþorn, und aus dieser Ehe gehen drei Söhne hervor: **Odin**, **Vili** und **Vé**.
 
@@ -63,7 +63,7 @@ Zwei Punkte in dieser Liste sind leicht zu überlesen. Erstens: Die Zwerge entst
 
 ## Midgard und die Ordnung der Zeit
 
-Aus den Wimpern Ymirs ziehen die Götter einen Wall und umfrieden damit **Midgard**, wörtlich den "mittleren Hof". Der Name beschreibt kein Zentrum im romantischen Sinn, sondern eine Rechtslage: Innerhalb des Zauns gilt Ordnung, außerhalb beginnt das, was den Jötnar gehört. Dieselbe Logik trägt die gesamte Raumvorstellung der Wikingerzeit, bis hinauf zu [Yggdrasil](/blog/yggdrasil-weltenbaum), der Weltenesche, die die Ebenen zusammenhält.
+Aus den Wimpern Ymirs ziehen die Götter einen Wall und umfrieden damit **Midgard**, wörtlich den "mittleren Hof". Der Name beschreibt kein Zentrum im romantischen Sinn, sondern eine Rechtslage: Innerhalb des Zauns gilt Ordnung, außerhalb beginnt das, was den Jötnar gehört. Dieselbe Logik trägt die gesamte Raumvorstellung der Wikingerzeit, bis hinauf zu [Yggdrasil](/blog/yggdrasil-weltenbaum/), der Weltenesche, die die Ebenen zusammenhält.
 
 Dass dieser Zaun kein bloß poetisches Bild ist, zeigt die Sprache selbst. Das zweite Namensglied *garðr* bedeutet schlicht Zaun, Hof und umfriedetes Land, und genau dieselbe Unterscheidung ordnet den Alltag auf einem nordischen Gehöft: *innangarðs* ist, was innerhalb der Einfriedung liegt und unter dem Recht des Hofes steht, *útangarðs* alles jenseits davon. Die Kosmologie überträgt damit eine Grenze, die jeder Bauer täglich vor Augen hatte, auf den Bau der Welt. Das Gegenstück zu Midgard heißt folgerichtig **Útgarðr**, der "Außenhof", und ist das Land der Jötnar. Dass auch das Altenglische *middangeard* und das Gotische *midjungards* kennen, spricht dafür, dass diese Vorstellung deutlich älter ist als die Edda, die sie uns überliefert.
 

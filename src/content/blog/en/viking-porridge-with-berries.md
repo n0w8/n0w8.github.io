@@ -37,4 +37,48 @@ Before a day in the fields, on board or in the shield wall, a pot of porridge st
 
 ## The Skald's Tip
 
-Fresh berries in summer, preserved ones in winter - the Norse knew both. A handful of chopped nuts on top turns this into a warrior's breakfast. And if you like it sweet, try our [honey-baked apples](/en/blog/honey-baked-apples) for dessert.
+Fresh berries in summer, preserved ones in winter - the Norse knew both. A handful of chopped nuts on top turns this into a warrior's breakfast. And if you like it sweet, try our [honey-baked apples](/en/blog/honey-baked-apples/) for dessert.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Viking Oat Porridge with Berries: Breakfast of the Norsemen",
+  "description": "Creamy oat porridge with honey and wild berries, Viking style: a healthy 10-minute breakfast recipe with just 5 ingredients.",
+  "image": "https://blog.nordwaldrecords.com/images/rezepte/recipe-porridge-1.webp",
+  "author": {
+    "@type": "Organization",
+    "name": "Nordweg"
+  },
+  "datePublished": "2026-07-10",
+  "cookTime": "PT7M",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "Nordic",
+  "keywords": "Viking Recipe, Porridge, Breakfast, Berries, Oats",
+  "recipeIngredient": [
+    "2 cups rolled oats (200 g)",
+    "2 cups milk or water (500 ml)",
+    "1 pinch of salt",
+    "2 tbsp honey",
+    "3.5 oz berries (e.g. blueberries, raspberries)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Bring the oats to a boil in milk or water."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Reduce to low heat and let simmer for 5 to 7 minutes until thick and creamy."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Sweeten with honey and stir in the berries."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve hot."
+    }
+  ]
+}
+</script>

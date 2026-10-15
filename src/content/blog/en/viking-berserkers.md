@@ -30,7 +30,7 @@ Even the name poses a riddle. In Old Norse, **berserkr** can mean two things: "b
 
 ## Haraldskvæði: The Oldest Evidence
 
-Fortunately there is one source that stands much closer to the events. The praise poem **Haraldskvæði** (also *Hrafnsmál*, the "raven song") is attributed to the Norwegian skald **Þorbjörn Hornklofi** and was composed around 900, within the lifetime of King **Harald Fairhair**. It is framed as a dialogue: a raven that follows the battlefields tells a Valkyrie about the king's life of war. If you want to know more about those choosers of the slain, you will find them in our article on the [Valkyries](/en/blog/valkyries).
+Fortunately there is one source that stands much closer to the events. The praise poem **Haraldskvæði** (also *Hrafnsmál*, the "raven song") is attributed to the Norwegian skald **Þorbjörn Hornklofi** and was composed around 900, within the lifetime of King **Harald Fairhair**. It is framed as a dialogue: a raven that follows the battlefields tells a Valkyrie about the king's life of war. If you want to know more about those choosers of the slain, you will find them in our article on the [Valkyries](/en/blog/valkyries/).
 
 It is in this poem that berserkers appear by name for the very first time. The raven tells of the sea battle of **Hafrsfjord** (traditionally dated around 872), by which Harald secured his rule over Norway-and it describes two groups of warriors aboard the king's ship:
 
@@ -45,7 +45,7 @@ The wolf-coats deserve a closer look, for they are the counterpart to the "bear-
 
 What astonishes is how far back the visual tradition reaches. On the **Torslunda plates** from the Swedish island of Öland-bronze dies from the Vendel era, the 6th to 7th centuries, and thus from *before* the Viking Age proper-we see a weapon dancer in a horned helmet beside a warrior in a wolfskin with drawn sword. Those very plates appear in the hero image above. Many researchers read the scene as a cultic war dance: a ritual in which the fighter symbolically transforms into the beast.
 
-Which brings us to **Odin**. Snorri explicitly calls the berserkers "Odin's men", and the connection is a natural one: Odin is the god of ecstasy, of frenzy, of boundary-crossing states-his very name is related to the Old Norse *óðr*, "raging, inspired". Some historians of religion therefore suspect that berserkers and úlfheðnar belonged to cultic **warrior brotherhoods** whose members became "animal warriors" through rites of initiation. It cannot be proven, but it would explain why the idea of animal transformation clings to them so stubbornly. If you want to understand the world of that dark, knowledge-hungry god, you will find him in our overview of the [Norse gods](/en/blog/norse-gods).
+Which brings us to **Odin**. Snorri explicitly calls the berserkers "Odin's men", and the connection is a natural one: Odin is the god of ecstasy, of frenzy, of boundary-crossing states-his very name is related to the Old Norse *óðr*, "raging, inspired". Some historians of religion therefore suspect that berserkers and úlfheðnar belonged to cultic **warrior brotherhoods** whose members became "animal warriors" through rites of initiation. It cannot be proven, but it would explain why the idea of animal transformation clings to them so stubbornly. If you want to understand the world of that dark, knowledge-hungry god, you will find him in our overview of the [Norse gods](/en/blog/norse-gods/).
 
 ## From Elite Warrior to Saga Villain
 

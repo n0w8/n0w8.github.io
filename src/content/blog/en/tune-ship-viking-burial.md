@@ -30,8 +30,8 @@ The recovered timbers went to Christiania and spent decades in makeshift storage
 |---|---|
 | c. 900 | The ship is built from oak and buried in the mound soon afterwards |
 | 1867 | Oluf Rygh excavates the mound, Norway's first Viking ship dig |
-| 1880 | The [Gokstad ship](/en/blog/gokstad-ship) is found and methods change for good |
-| 1904/05 | The [Oseberg ship](/en/blog/oseberg-ship) is excavated, the richest find of all |
+| 1880 | The [Gokstad ship](/en/blog/gokstad-ship/) is found and methods change for good |
+| 1904/05 | The [Oseberg ship](/en/blog/oseberg-ship/) is excavated, the richest find of all |
 | 1932 | The Tune ship is installed in the Viking Ship House on Bygdøy |
 | 2016 | The surviving hull is fully documented in a 3D scan |
 | from 2021 | A new museum rises around the ships, the old hall closes to visitors |

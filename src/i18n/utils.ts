@@ -22,9 +22,18 @@ export function localizeCategory(category: string, lang: Lang): string {
 
 /** Pfad für eine Sprache erzeugen: ('/blog', 'en') → '/en/blog'. */
 export function localizedPath(path: string, lang: Lang): string {
-  const clean = path.startsWith('/') ? path : `/${path}`;
+  let clean = path.startsWith('/') ? path : `/${path}`;
+  // Immer MIT abschliessendem Schraegstrich (15.10.2026).
+  // Vorher lieferte diese Funktion /blog, /artists, /en/blog usw. - und der
+  // Webserver beantwortete JEDEN dieser Links mit einer 301-Weiterleitung auf
+  // dieselbe Adresse mit Schraegstrich. Das betraf die gesamte Navigation:
+  // Kopfzeile, Fusszeile, Breadcrumbs und jeden Artikel-Link. In der Search
+  // Console stehen deshalb 62 Seiten unter "Seite mit Weiterleitung".
+  // Dateien (z. B. /rss.xml) bleiben unberuehrt.
+  const istDatei = /\.[a-z0-9]{2,5}$/i.test(clean);
+  if (!istDatei && !clean.endsWith('/')) clean += '/';
   if (lang === defaultLang) return clean;
-  return `/en${clean === '/' ? '' : clean}`;
+  return `/en${clean === '/' ? '/' : clean}`;
 }
 
 /** Slug ohne Sprach-Präfix: 'de/das-langschiff' → 'das-langschiff'. */
@@ -42,7 +51,16 @@ export async function getPostsByLang(lang: Lang): Promise<CollectionEntry<'blog'
 
 /** URL zum Artikel (ohne Sprach-Ordner im Slug). */
 export function postUrl(entry: CollectionEntry<'blog'>, lang: Lang): string {
-  return localizedPath(`/blog/${stripLangFromSlug(entry.slug)}`, lang);
+  // Der abschliessende Schraegstrich MUSS mit (ergaenzt 15.10.2026).
+  // Ohne ihn zeigte JEDER interne Artikel-Link auf /blog/<slug>, der Webserver
+  // antwortete darauf mit einer 301-Weiterleitung auf /blog/<slug>/ - und erst
+  // die lieferte die Seite. Canonical und Sitemap nannten durchgaengig die
+  // Variante MIT Schraegstrich. Folgen, in der Search Console sichtbar:
+  // 62 Seiten unter "Seite mit Weiterleitung", jeder Klick ein unnoetiger
+  // Umweg, und Google verbrennt Crawl-Zeit auf Adressen, die es gar nicht
+  // indexieren will. Zusaetzlich trug die Weiterleitung auf diesem Webspace
+  // den Port im Ziel (...nordwaldrecords.com:443/...).
+  return localizedPath(`/blog/${stripLangFromSlug(entry.slug)}/`, lang);
 }
 
 /** Datum in der jeweiligen Sprache formatieren. */

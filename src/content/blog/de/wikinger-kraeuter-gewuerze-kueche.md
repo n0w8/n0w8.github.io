@@ -36,7 +36,7 @@ Ein besonders bekannter Fundkomplex ist die **Oseberg-Bestattung** in Norwegen. 
 
 Was uns dagegen kaum weiterhilft, ist die Literatur. Die Isländersagas erzählen von Gastmählern, von Bier, von Streit am Tisch - über Gewürze schweigen sie fast vollständig. Hier lohnt Skepsis gegenüber allen Texten, die dir ein detailliertes Wikinger-Gewürzregal ausmalen: Diese Detailtiefe gibt keine Quelle her. Was wir haben, sind Samen, Pollen und Pflanzenreste, und die reichen für ein grobes, aber ehrliches Bild.
 
-Noch ein Punkt: Küche und Heilkunde waren im Norden nicht sauber getrennt. Dieselben Pflanzen, die im Topf landeten, dienten auch als Hausmittel. Das war keine Magie, sondern der normale Umgang mit dem, was vor der Tür wuchs. Den größeren Zusammenhang findest du in unserem Überblick zur [Ernährung der Wikinger](/blog/wikinger-ernaehrung-essen).
+Noch ein Punkt: Küche und Heilkunde waren im Norden nicht sauber getrennt. Dieselben Pflanzen, die im Topf landeten, dienten auch als Hausmittel. Das war keine Magie, sondern der normale Umgang mit dem, was vor der Tür wuchs. Den größeren Zusammenhang findest du in unserem Überblick zur [Ernährung der Wikinger](/blog/wikinger-ernaehrung-essen/).
 
 ![Blühender Dill mit gelben Blütendolden](/images/viking-herbs-2.jpg)
 
@@ -60,7 +60,7 @@ Und die klassischen Gewürze? Pfeffer und Zimt kannte man im Norden durchaus. Di
 
 Nur: Was auf diesem Weg nach Norden kam, war Luxus. Ein Beutel Pfeffer hatte einen Wert, den kein Hof für ein Alltagsessen verpulvert hätte. Solche Importe gehörten denen, die auch Seide und Silberschmuck trugen, und sie tauchten bei Festen auf, nicht im täglichen Brei. Wer die Wikingerküche mit Importgewürzen nachbaut, baut streng genommen ein Herrschaftsessen nach.
 
-Für ein ehrliches Nord-Aroma brauchst du diese Importe gar nicht. Wacholder, Dill, Senf und Kümmel tragen ein Gericht vollkommen allein - und sie passen hervorragend zu einem warmen [Wikinger-Fladenbrot](/blog/wikinger-fladenbrot-rezept) aus der Pfanne.
+Für ein ehrliches Nord-Aroma brauchst du diese Importe gar nicht. Wacholder, Dill, Senf und Kümmel tragen ein Gericht vollkommen allein - und sie passen hervorragend zu einem warmen [Wikinger-Fladenbrot](/blog/wikinger-fladenbrot-rezept/) aus der Pfanne.
 
 Das folgende Rezept ist genau das: eine moderne Küchenumsetzung mit nordischen Zutaten. Es ist kein überliefertes Originalrezept aus der Wikingerzeit, denn ein solches gibt es schlicht nicht. Was daran alt ist, sind die Pflanzen und das Prinzip.
 
@@ -99,7 +99,7 @@ Zum Verhältnis, falls du selbst variieren willst: Rechne grob mit vier Teilen S
 - **Richtig lagern:** Immer trockene Löffel benutzen. Ein einziger feuchter Löffel macht aus dem Glas einen Klumpen.
 - **Klumpt es trotzdem?** Dann war Restfeuchte im Spiel. Die Mischung noch einmal 10 Minuten bei 50 °C ausbreiten, abkühlen lassen, aufbrechen und neu abfüllen.
 
-Wenn dir dieses Rezept Lust auf mehr nordische Küche gemacht hat: Es stammt aus derselben Werkstatt wie unsere Sammlung. Im Kochbuch **"Wikinger Festmahl - Das große Wikinger-Kochbuch"** stehen 141 Rezepte, vom Eintopf über Brot und Braten bis zu den passenden Getränken. [Zum Kochbuch](/kochbuch)
+Wenn dir dieses Rezept Lust auf mehr nordische Küche gemacht hat: Es stammt aus derselben Werkstatt wie unsere Sammlung. Im Kochbuch **"Wikinger Festmahl - Das große Wikinger-Kochbuch"** stehen 141 Rezepte, vom Eintopf über Brot und Braten bis zu den passenden Getränken. [Zum Kochbuch](/kochbuch/)
 
 ## Ein Glas Norden im Regal
 

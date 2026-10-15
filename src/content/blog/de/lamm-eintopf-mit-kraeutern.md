@@ -40,4 +40,54 @@ Ein Topf, ein Feuer, Zeit - mehr brauchte die Küche des Nordens nicht. Dieser L
 
 ## Der Tipp vom Skalden
 
-Der Eintopf schmeckt am zweiten Tag noch besser - die Wikinger ließen den Kessel ohnehin selten ganz leer werden. Dazu passt [Fladenbrot aus Gerste](/blog/wikinger-fladenbrot-rezept) zum Tunken. Und wer wissen will, wie ein ganzes Festmahl im Kessel entsteht, findet hier unseren großen [Wikinger-Eintopf](/blog/wikinger-eintopf-skause).
+Der Eintopf schmeckt am zweiten Tag noch besser - die Wikinger ließen den Kessel ohnehin selten ganz leer werden. Dazu passt [Fladenbrot aus Gerste](/blog/wikinger-fladenbrot-rezept/) zum Tunken. Und wer wissen will, wie ein ganzes Festmahl im Kessel entsteht, findet hier unseren großen [Wikinger-Eintopf](/blog/wikinger-eintopf-skause/).
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Wikinger Lamm-Eintopf mit Kräutern: Deftig wie im Langhaus",
+  "description": "Herzhafter Lamm-Eintopf nach Wikinger-Art: einfaches Rezept mit Wurzelgemüse, frischen Kräutern und langer, sanfter Garzeit. Perfekt für kalte Tage.",
+  "image": "https://blog.nordwaldrecords.com/images/rezepte/recipe-lamb-stew-1.webp",
+  "author": {
+    "@type": "Organization",
+    "name": "Nordweg"
+  },
+  "cookTime": "PT2H",
+  "datePublished": "2026-07-10",
+  "recipeCategory": "Hauptgericht",
+  "recipeCuisine": "Nordisch",
+  "keywords": "Wikinger Rezept, Eintopf, Lamm, Deftige Küche",
+  "recipeIngredient": [
+    "800 g Lammfleisch, gewürfelt",
+    "4 Karotten",
+    "3 Kartoffeln",
+    "2 Zwiebeln",
+    "1 Stange Lauch",
+    "1 Bund Petersilie und Thymian",
+    "1,5 Liter Brühe"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Lammwürfel in einem großen Topf kräftig anbraten."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Zwiebeln und Lauch zugeben und kurz mitdünsten."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Karotten und Kartoffeln würfeln und in den Topf geben."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Mit Brühe aufgießen und 1,5 bis 2 Stunden sanft köcheln lassen."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Vor dem Servieren die frischen Kräuter unterrühren."
+    }
+  ]
+}
+</script>

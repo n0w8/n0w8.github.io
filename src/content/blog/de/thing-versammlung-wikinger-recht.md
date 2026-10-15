@@ -16,7 +16,7 @@ draft: false
 
 Ein Streit um Weideland, ein Totschlag im Winter, ein geplatzter Handel: Wer in der Wikingerzeit ein Unrecht erlitt, konnte nirgendwo Anzeige erstatten. Es gab keine Polizei, keinen Staatsanwalt, keinen bezahlten Richter und in Island über dreihundert Jahre lang nicht einmal einen König. Es gab die Thing-Versammlung, und es gab ein Recht, das mit erstaunlicher Genauigkeit vorschrieb, wie ein Wikinger seinen Fall vorzubringen hatte. Wie die Wikinger Recht sprachen, ist deshalb weniger eine Frage nach Gesinnung als nach Verfahren: nach Fristen, Zeugen, Formeln und vor allem nach der Frage, wer ein Urteil hinterher eigentlich durchsetzte.
 
-Dieser Artikel schaut auf genau diese Mechanik. Wer wissen will, ob das Thing eine frühe Demokratie war und wer dort überhaupt mitreden durfte, findet die Antworten in unserem Faktencheck zur [Volksversammlung der Wikinger](/blog/thing-volksversammlung-wikinger). Hier geht es um das, was danach kam: den Prozess.
+Dieser Artikel schaut auf genau diese Mechanik. Wer wissen will, ob das Thing eine frühe Demokratie war und wer dort überhaupt mitreden durfte, findet die Antworten in unserem Faktencheck zur [Volksversammlung der Wikinger](/blog/thing-volksversammlung-wikinger/). Hier geht es um das, was danach kam: den Prozess.
 
 ## Kein König, kein Vollzug: worauf das nordische Recht aufgebaut war
 
@@ -92,7 +92,7 @@ Auch die Landkarte erinnert an die alten Gerichtsplätze. Dingwall in den schott
 
 Wie die Wikinger Recht sprachen, lässt sich in einem Satz zusammenfassen: mit außerordentlich viel Verfahren und außerordentlich wenig Macht. Sie hatten Ladungsfristen, Nachbarkollegien, Instanzenzüge, eine Berufungsinstanz mit Mehrheitsentscheid und ein Strafensystem, das zwischen Buße, befristeter Verbannung und totaler Ächtung abstufte. Was ihnen fehlte, war jemand, der das Ergebnis durchsetzte.
 
-Dass dieses System über drei Jahrhunderte funktionierte, ist bemerkenswerter als jedes Detail seiner Paragraphen. Es funktionierte, weil ein Urteil Öffentlichkeit schuf und Öffentlichkeit im [Alltag der Wikinger](/blog/wikinger-alltag-leben) über Gastrecht, Handel und Heirat entschied. Als in der Sturlungenzeit wenige Großfamilien die Godenämter aufkauften, kippte diese Balance, und 1262 bis 1264 unterstellte sich Island der norwegischen Krone. Wenig später ersetzte das Gesetzbuch Jónsbók die alte Grágás.
+Dass dieses System über drei Jahrhunderte funktionierte, ist bemerkenswerter als jedes Detail seiner Paragraphen. Es funktionierte, weil ein Urteil Öffentlichkeit schuf und Öffentlichkeit im [Alltag der Wikinger](/blog/wikinger-alltag-leben/) über Gastrecht, Handel und Heirat entschied. Als in der Sturlungenzeit wenige Großfamilien die Godenämter aufkauften, kippte diese Balance, und 1262 bis 1264 unterstellte sich Island der norwegischen Krone. Wenig später ersetzte das Gesetzbuch Jónsbók die alte Grágás.
 
 Was bleibt, ist ein Gedanke, der die Wikingerzeit überlebt hat und in den Namen Althing, Storting und Folketing bis heute steckt: Recht entsteht nicht dadurch, dass jemand die Macht hat, es durchzusetzen, sondern dadurch, dass eine Gemeinschaft sich regelmäßig hinsetzt und es laut ausspricht.
 

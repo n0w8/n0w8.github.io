@@ -37,4 +37,51 @@ In der nordischen Mythologie hütet die Göttin Idun die Äpfel der Jugend - wer
 
 ## Der Tipp vom Skalden
 
-Säuerliche Äpfel halten die Balance zum süßen Honig - je herber der Apfel, desto besser das Ergebnis. Die ganze Geschichte von Idun und den Göttern von Asgard liest du in unserem Artikel über die [nordischen Götter](/blog/nordische-goetter).
+Säuerliche Äpfel halten die Balance zum süßen Honig - je herber der Apfel, desto besser das Ergebnis. Die ganze Geschichte von Idun und den Göttern von Asgard liest du in unserem Artikel über die [nordischen Götter](/blog/nordische-goetter/).
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Gebackene Äpfel mit Honig: Iduns süßes Geheimnis",
+  "description": "Bratäpfel mit Honig, Nüssen und Zimt nach Wikinger-Art: einfaches Dessert-Rezept in 25 Minuten - und die Geschichte der Göttin Idun dazu.",
+  "image": "https://blog.nordwaldrecords.com/images/rezepte/recipe-baked-apples-1.webp",
+  "author": {
+    "@type": "Organization",
+    "name": "Nordweg"
+  },
+  "datePublished": "2026-07-10",
+  "cookTime": "PT20M",
+  "recipeCategory": "Hauptgericht",
+  "recipeCuisine": "Nordisch",
+  "keywords": "Wikinger Rezept, Bratapfel, Dessert, Äpfel, Honig",
+  "recipeIngredient": [
+    "4 Äpfel (säuerlich, z. B. Boskoop)",
+    "4 TL Honig",
+    "1 TL Zimt",
+    "1 Handvoll Nüsse oder Rosinen"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Die Äpfel aushöhlen."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Mit Honig, Nüssen und Rosinen füllen."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Mit Zimt bestreuen."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bei 180 °C ca. 20 Minuten backen."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Warm servieren, nach Belieben mit etwas Sahne."
+    }
+  ]
+}
+</script>

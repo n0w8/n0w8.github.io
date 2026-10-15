@@ -30,7 +30,7 @@ Der Speiseplan der Wikinger war deutlich grüner, als das Klischee vom fleischbe
 | Pastinake | - | Alte europäische Kulturwurzel, lange vor der Kartoffel der süße Sattmacher |
 | Möhre | - | Damals blass: weiße und gelbe Sorten, keine orangen |
 
-**Mythos:** Wikinger knabberten orange Möhren. **Fakt:** Die orange Möhre ist eine Züchtung aus den Niederlanden des 16. und 17. Jahrhunderts. Wer es historisch mag, greift zu weißen oder gelben Sorten - geschmacklich sind sie ohnehin die interessanteren. Und die Kartoffel? Kam erst Jahrhunderte nach [der Wikingerzeit](/blog/wikinger-ernaehrung-essen) aus Amerika nach Europa und hat auf einem Wikingertisch nichts verloren.
+**Mythos:** Wikinger knabberten orange Möhren. **Fakt:** Die orange Möhre ist eine Züchtung aus den Niederlanden des 16. und 17. Jahrhunderts. Wer es historisch mag, greift zu weißen oder gelben Sorten - geschmacklich sind sie ohnehin die interessanteren. Und die Kartoffel? Kam erst Jahrhunderte nach [der Wikingerzeit](/blog/wikinger-ernaehrung-essen/) aus Amerika nach Europa und hat auf einem Wikingertisch nichts verloren.
 
 Mindestens so wichtig wie der Anbau war die Lagerung. Wurzelgemüse übersteht den Winter in einer einfachen Erdgrube, mit Stroh und Erde abgedeckt, viele Monate lang - und eingetiefte Vorratsgruben und Grubenhäuser, in denen kühl und dunkel gelagert werden konnte, sind auf Siedlungsplätzen der Wikingerzeit vielfach ausgegraben worden. Was im Oktober in der Grube lag, entschied mit darüber, wie gut ein Hof den März erlebte. Rübe, Zwiebel und Kohl waren damit buchstäblich überlebenswichtig, lange bevor irgendjemand über Geschmack nachdachte.
 
@@ -80,11 +80,11 @@ Für 4 Portionen als Beilage oder 2 bis 3 als Hauptgericht:
 
 - **Die echte Glut-Variante:** Rüben und Zwiebeln ungeschält direkt in die heiße Asche eines heruntergebrannten Feuers legen und je nach Größe 30 bis 45 Minuten garen, gelegentlich drehen. Die verkohlte Außenschicht wird abgezogen, das Innere mit Butter und Salz gegessen. So nah kommt man dem Langhaus-Geschmack ohne Zeitmaschine nicht wieder.
 - **Historisch streng:** Weiße oder gelbe Möhren statt oranger verwenden, Honig weglassen und nur mit Salz und Kümmel würzen - näher am 10. Jahrhundert geht es kaum.
-- **Als Hauptgericht:** Mit gerösteten Haselnüssen und gebratenem Speck bestreuen oder zum deftigen [Wikinger-Eintopf Skause](/blog/wikinger-eintopf-skause) servieren.
+- **Als Hauptgericht:** Mit gerösteten Haselnüssen und gebratenem Speck bestreuen oder zum deftigen [Wikinger-Eintopf Skause](/blog/wikinger-eintopf-skause/) servieren.
 - **Reste verwerten:** Übrig gebliebenes Röstgemüse am nächsten Tag mit Brühe aufkochen und pürieren - fertig ist eine rauchige Wintersuppe.
 - **Süßer Ausklang:** Die Glut konnte übrigens auch Nachtisch: Bratäpfel mit Honig funktionierten nach demselben Prinzip.
 
-Dieses Rezept ist nur eine Kostprobe: In unserem Kochbuch **"Wikinger Festmahl"** warten 141 nordische Rezepte auf dich - vom Kesselgericht über Festtagsbraten bis zu Brot, Met und süßer Glut-Küche. [Zum Kochbuch](/kochbuch)
+Dieses Rezept ist nur eine Kostprobe: In unserem Kochbuch **"Wikinger Festmahl"** warten 141 nordische Rezepte auf dich - vom Kesselgericht über Festtagsbraten bis zu Brot, Met und süßer Glut-Küche. [Zum Kochbuch](/kochbuch/)
 
 ## Das leise Fundament des Nordens
 

@@ -59,7 +59,7 @@ Listen to *Ættblóð* while you read on:
 
 Run your finger down any list of runestone names and one element keeps surfacing: **Þór-**. Thorstein, Thorbjörn, Thorgeir, Thorkel, Thordis, Thorgunna - the thunder god appears in dozens of male and female name forms, more than any other deity. That fits neatly with the archaeology, which counts Thor's hammer pendants among the most common amulets of the late Viking Age. Thor was the god of farmers and sailors, of ordinary households, and ordinary households named their children after him.
 
-Other gods travelled incognito. Freyr, the fertility god, hides behind his older title Ing in names like Ingvar, Ingrid, Ingibjörg and Ingolf. The element *áss*, meaning simply a god, sits inside Astrid and Asgeir. A name like Freydis placed a girl under a deity's direct protection from her first day of life. For the wider cast behind these names, see our guide to the [Norse gods](/en/blog/norse-gods).
+Other gods travelled incognito. Freyr, the fertility god, hides behind his older title Ing in names like Ingvar, Ingrid, Ingibjörg and Ingolf. The element *áss*, meaning simply a god, sits inside Astrid and Asgeir. A name like Freydis placed a girl under a deity's direct protection from her first day of life. For the wider cast behind these names, see our guide to the [Norse gods](/en/blog/norse-gods/).
 
 What happened to all this god-naming when Christianity arrived is the quietly funny part: almost nothing. Icelanders and Scandinavians kept baptizing children called Þorsteinn and Þórdís for centuries, apparently untroubled by the pagan god embedded in the first syllable. Family tradition, it turns out, beat theology every time.
 
@@ -81,7 +81,7 @@ The Gripsholm stone in Södermanland, catalogued as Sö 179 and one of the so-ca
 
 > Tola had this stone raised in memory of her son Harald, Ingvar's brother. Like men they travelled far for gold and in the east gave food to the eagle. They died southward in Serkland.
 
-Three names, one catastrophe, and a mother's grief, cut into granite with poetry worthy of a court skald. Denmark's royal Jelling stones work the same way: Gorm raised a stone naming his wife Thyra, and their son Harald answered with a larger one naming both parents and his own achievements. If you want to read the writing system behind these monuments, start with our introduction to the [Elder Futhark runes](/en/blog/elder-futhark-runes).
+Three names, one catastrophe, and a mother's grief, cut into granite with poetry worthy of a court skald. Denmark's royal Jelling stones work the same way: Gorm raised a stone naming his wife Thyra, and their son Harald answered with a larger one naming both parents and his own achievements. If you want to read the writing system behind these monuments, start with our introduction to the [Elder Futhark runes](/en/blog/elder-futhark-runes/).
 
 ## Water, ancestors, and the name reborn
 

@@ -30,7 +30,7 @@ Forget the image of Norsemen living on meat and mead alone. The everyday table l
 | Parsnip | - | An old European staple, delivering sweetness centuries before the potato arrived |
 | Carrot | - | Pale in those days: white and yellow types, never orange |
 
-**Myth:** Vikings crunched on orange carrots. **Fact:** The orange carrot is a Dutch breeding success of the 16th and 17th centuries. Viking-age carrots were white or yellow, and honestly the pale heirloom varieties still taste more interesting today. As for potatoes, tomatoes and peppers - all of them reached Europe from the Americas centuries after the last longship was hauled ashore. You can read more about what actually filled Norse bowls in our guide to the [Viking diet](/en/blog/viking-food-diet).
+**Myth:** Vikings crunched on orange carrots. **Fact:** The orange carrot is a Dutch breeding success of the 16th and 17th centuries. Viking-age carrots were white or yellow, and honestly the pale heirloom varieties still taste more interesting today. As for potatoes, tomatoes and peppers - all of them reached Europe from the Americas centuries after the last longship was hauled ashore. You can read more about what actually filled Norse bowls in our guide to the [Viking diet](/en/blog/viking-food-diet/).
 
 ## Laukr: The Onion That Worked Magic and Medicine
 
@@ -76,11 +76,11 @@ Serves 4 as a side, or 2 to 3 as a main:
 
 - **The real ember version:** Bury unpeeled turnips and onions in the hot ashes of a burned-down fire and cook for 30 to 45 minutes depending on size, turning now and then. Peel away the charred skin and eat the insides with butter and salt. No oven trick comes closer to the longhouse.
 - **Strictly historical:** Use white or yellow carrots alongside the turnips, skip the honey and season with nothing but salt and caraway - about as close to the 10th century as a modern kitchen gets.
-- **Make it a main:** Scatter with toasted hazelnuts and crispy bacon, or serve alongside our hearty [Viking stew skause](/en/blog/viking-stew-skause).
+- **Make it a main:** Scatter with toasted hazelnuts and crispy bacon, or serve alongside our hearty [Viking stew skause](/en/blog/viking-stew-skause/).
 - **Second life for leftovers:** Simmer leftover roasted roots in stock the next day and blend into a smoky winter soup.
 - **Sweet ending:** The embers handled dessert too - apples baked with honey work on exactly the same principle.
 
-This dish is just a taste of what the northern kitchen can do: our cookbook **Viking Feast** holds 141 Nordic recipes, from cauldron classics and feast-day roasts to bread, mead and more cooking straight from the fire. [See the cookbook](/en/cookbook)
+This dish is just a taste of what the northern kitchen can do: our cookbook **Viking Feast** holds 141 Nordic recipes, from cauldron classics and feast-day roasts to bread, mead and more cooking straight from the fire. [See the cookbook](/en/cookbook/)
 
 ## The Quiet Foundation of the North
 

@@ -54,7 +54,7 @@ The Viking Age left no cookbooks, and any recipe claiming otherwise is marketing
 
 Our honest verdict after several runs in the test kitchen: the two failures that ruin venison are heat and impatience. Meat that boils rather than murmurs turns dry and stringy, and that damage is permanent; more liquid will not bring it back. The second trap is acid at the start. A spoonful of vinegar or a handful of berries stirred in at the end lifts the pot and cuts the richness, while the same amount simmered from the beginning leaves the meat grey and flat.
 
-If you prefer your game in one piece, try our [honey-glazed boar roast](/en/blog/honey-glazed-boar-roast). And for how little the everyday Norse table resembled the feasts on television, see our overview of [what the Vikings actually ate](/en/blog/viking-food-diet).
+If you prefer your game in one piece, try our [honey-glazed boar roast](/en/blog/honey-glazed-boar-roast/). And for how little the everyday Norse table resembled the feasts on television, see our overview of [what the Vikings actually ate](/en/blog/viking-food-diet/).
 
 ## Ingredients
 
@@ -96,7 +96,7 @@ Serves 4 generously:
 - **Day two:** this venison stew is better the next day. Cool it, chill it, reheat it slowly and wake it up with a fresh splash of vinegar.
 - **Strictly historical:** stock instead of bottled beer, and cracked barley groats in place of pearl barley.
 
-If this kind of cooking speaks to you, our cookbook **"Viking Feast"** holds 141 recipes of the North, from flatbread and cauldron dishes to feast roasts, mead and the sweet treasures of the storeroom. [See the cookbook](/en/cookbook)
+If this kind of cooking speaks to you, our cookbook **"Viking Feast"** holds 141 recipes of the North, from flatbread and cauldron dishes to feast roasts, mead and the sweet treasures of the storeroom. [See the cookbook](/en/cookbook/)
 
 ## Why Game Tasted Different in the North
 

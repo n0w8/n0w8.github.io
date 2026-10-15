@@ -24,7 +24,7 @@ Anyone picturing chests of neatly matched coins will be disappointed by the real
 
 It is the hacksilver that tells you the most. A chopped arm-ring is not damaged jewellery, it is a unit of payment. Across much of the Norse world silver counted by weight and purity rather than face value, so a buyer cut off as much as the price demanded. That makes a hoard less a jewel box than a stock of raw material, and plenty of them look exactly like that.
 
-The origin of the coins reveals how far the trade networks stretched. Tens of thousands of Islamic silver coins are documented from Scandinavian finds alone, struck in workshops from Baghdad to Samarkand and carried north along the river routes of eastern Europe. The trading town of [Birka](/en/blog/birka-swedens-first-town) in Sweden's Lake Mälaren shows what that traffic looked like on the ground, with the same dirhams turning up in its graves and occupation layers.
+The origin of the coins reveals how far the trade networks stretched. Tens of thousands of Islamic silver coins are documented from Scandinavian finds alone, struck in workshops from Baghdad to Samarkand and carried north along the river routes of eastern Europe. The trading town of [Birka](/en/blog/birka-swedens-first-town/) in Sweden's Lake Mälaren shows what that traffic looked like on the ground, with the same dirhams turning up in its graves and occupation layers.
 
 ## The Great Hoards Compared
 
@@ -80,7 +80,7 @@ The test marks are just as revealing. A great many coins and ingots from the hoa
 ![Decorated silver arm-rings from Viking Age hoards displayed at Gotlands Museum Fornsalen in Visby](/images/viking-silver-hoards-3.jpg)
 *Image credit: Wolfgang Sauber (CC BY-SA 3.0), via Wikimedia Commons*
 
-Out of this bullion economy grew regional hybrids. In the Scottish isles of the tenth and eleventh centuries, arm-rings circulated at remarkably consistent weights, a phenomenon scholars call ring-money: ornament that doubled as a predictable unit of payment. Where a strong kingship minted its own coin and enforced its circulation, hacksilver gradually faded out. The story of [Danegeld](/en/blog/danegeld-vikings-tribute), in which England handed over minted silver to Norse armies on an industrial scale, marks exactly that transition.
+Out of this bullion economy grew regional hybrids. In the Scottish isles of the tenth and eleventh centuries, arm-rings circulated at remarkably consistent weights, a phenomenon scholars call ring-money: ornament that doubled as a predictable unit of payment. Where a strong kingship minted its own coin and enforced its circulation, hacksilver gradually faded out. The story of [Danegeld](/en/blog/danegeld-vikings-tribute/), in which England handed over minted silver to Norse armies on an industrial scale, marks exactly that transition.
 
 ## Myth Versus Evidence
 

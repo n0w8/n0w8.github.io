@@ -56,7 +56,7 @@ A frontier wall reads as a defensive work, and with the Danevirke that is only h
 
 The reason is logistics. A merchant moving goods from the Baltic to the North Sea could sail the whole Jutland peninsula, round Skagen and through the Skagerrak, a long haul and a nasty one in poor weather. Or he could run up the Schlei to Hedeby, unload, and have the cargo carried the short distance overland to the Treene at Hollingstedt, from where the Eider opened onto the North Sea. That shortcut was worth a great deal, and it only worked because somebody controlled the isthmus. Controlling the isthmus is precisely what the Danevirke does.
 
-That turns the wall into something other than a barricade. It channels movement. Where a single gate stands open, every ox cart goes through it, and whoever holds the gate can count, inspect and charge. A thirty kilometre earthwork will not stop a determined army indefinitely, and everyone involved knew it. What it does is force traffic into predictable paths, and predictability is the precondition of rule. The commercial half of the story is in our article on [Hedeby](/en/blog/hedeby-lost-trading-city).
+That turns the wall into something other than a barricade. It channels movement. Where a single gate stands open, every ox cart goes through it, and whoever holds the gate can count, inspect and charge. A thirty kilometre earthwork will not stop a determined army indefinitely, and everyone involved knew it. What it does is force traffic into predictable paths, and predictability is the precondition of rule. The commercial half of the story is in our article on [Hedeby](/en/blog/hedeby-lost-trading-city/).
 
 Our editorial team would argue this is the genuinely underrated thing about the site. It gets narrated as a military bulwark because that makes the better story. The sober reading is different: an emerging kingdom built a customs barrier on a national scale and accepted that it could be overrun in an emergency. That is not a contradiction, it is arithmetic. The wall works every day of the year. The attack comes perhaps once in a generation.
 
@@ -65,7 +65,7 @@ Our editorial team would argue this is the genuinely underrated thing about the 
 Few monuments in the North are as thoroughly grown over with legend as this one. Danish tradition has attributed the Danevirke since the Middle Ages to Queen Thyra, wife of Gorm the Old and mother of Harald Bluetooth. She appears in Saxo Grammaticus as the one who threw up the wall against the south, and she carries the byname Danebod, roughly Denmark's adornment. On the smaller of the two Jelling runestones, Gorm does name his wife with a formula pointing in that direction. It is worth separating the legend from the evidence.
 
 **Myth:** Queen Thyra built the Danevirke.
-**Fact:** The earliest rampart phases are more than two centuries older than her lifetime. The attribution converted an honorific on a runestone into a building programme. The stones are covered in our article on the [Jelling stones](/en/blog/jelling-stones-denmark).
+**Fact:** The earliest rampart phases are more than two centuries older than her lifetime. The attribution converted an honorific on a runestone into a building programme. The stones are covered in our article on the [Jelling stones](/en/blog/jelling-stones-denmark/).
 
 **Myth:** It was the Viking wall against Charlemagne.
 **Fact:** The expansion of 808 really was aimed at the Frankish empire, but the barrier had stood for decades. It is a permanent institution, not a reaction to one enemy.
@@ -79,7 +79,7 @@ The saga literature knows the site too. Snorri Sturluson mentions the Danavirki 
 
 In the 12th century the rampart acquired a crown that changed its character. Under King Valdemar the Great a wall of fired brick was raised along the main rampart, several kilometres long and several metres high. It counts among the earliest monumental brick structures anywhere in the North, and stretches of it still lie exposed in the field.
 
-The leap is larger than it looks. Earth and timber are materials any sizeable community can move. Brick presupposes a chain: winning clay, forming it, drying it, firing it, hauling it, laying it. That means kilns, specialists and a patron who keeps paying for years. Running a brick wall across kilometres of countryside advertises administrative capacity as much as military strength, which puts Valdemar's Wall in the same family as the Danish [ring fortresses](/en/blog/viking-ring-fortresses-trelleborg) two centuries earlier.
+The leap is larger than it looks. Earth and timber are materials any sizeable community can move. Brick presupposes a chain: winning clay, forming it, drying it, firing it, hauling it, laying it. That means kilns, specialists and a patron who keeps paying for years. Running a brick wall across kilometres of countryside advertises administrative capacity as much as military strength, which puts Valdemar's Wall in the same family as the Danish [ring fortresses](/en/blog/viking-ring-fortresses-trelleborg/) two centuries earlier.
 
 ![View from the semicircular rampart of the Danevirke across the Haddeby Noor towards Hedeby](/images/danevirke-3.jpg)
 

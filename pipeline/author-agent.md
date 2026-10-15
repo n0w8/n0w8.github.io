@@ -66,3 +66,34 @@ Dadurch aendert sich, wie Tags vergeben werden muessen:
 
 Ausserdem gilt weiterhin und wird beim Veroeffentlichen jetzt technisch
 erzwungen: **keine langen Striche** in sichtbaren Texten, nur "-".
+
+## Nachtrag 15.10.2026: Interne Links IMMER mit Schraegstrich am Ende
+
+Jeder interne Link muss auf einen abschliessenden Schraegstrich enden:
+
+- RICHTIG: `[Das Langschiff](/blog/das-langschiff/)`
+- FALSCH:  `[Das Langschiff](/blog/das-langschiff)`
+
+Grund (am 15.10.2026 nachgemessen): Ohne Schraegstrich antwortet der Webserver
+mit einer 301-Weiterleitung auf dieselbe Adresse MIT Schraegstrich. Canonical
+und Sitemap nennen immer die Variante mit Schraegstrich. Es waren 550 solcher
+Links in den Artikeln, und in der Google Search Console standen deshalb 62
+Seiten unter "Seite mit Weiterleitung". Jeder Klick lief einen Umweg, und Google
+verbrauchte Crawl-Zeit fuer Adressen, die es gar nicht aufnehmen will.
+
+Bildpfade (`/images/...jpg`) bleiben unveraendert, die haben eine Dateiendung.
+
+## Nachtrag 15.10.2026: Rezepte OHNE Recipe-Markup gehen nicht mehr durch
+
+Bei 14 von 66 Rezepten fehlte das schema.org/Recipe-JSON-LD komplett, darunter
+ausgerechnet die meistbesuchte Seite des ganzen Blogs. Ohne diesen Block erkennt
+Google die Seite nicht als Rezept: keine Sterne, keine Zubereitungszeit, kein
+Vorschaubild in der Suche.
+
+Jeder Artikel der Kategorie "Rezepte" braucht daher zwingend einen
+`<script type="application/ld+json">`-Block mit `"@type": "Recipe"` und
+mindestens `name`, `image` (volle Adresse), `recipeIngredient` und
+`recipeInstructions` als `HowToStep`-Objekte. Zeiten (`prepTime`, `cookTime`)
+nur eintragen, wenn sie auch im Artikeltext stehen - nie schaetzen.
+
+Pruefen mit: `node scripts/check-recipes.mjs`

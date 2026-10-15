@@ -28,7 +28,7 @@ In der *Skáldskaparmál*, Snorris Handbuch für Dichter, steht, wie man Tyr ums
 
 ## Die Fesselung Fenrirs: Wie der Gott Tyr seine Hand verlor
 
-Die eine große Erzählung steht im *Gylfaginning*, und sie liest sich wie ein Rechtsfall. Die Asen hatten [Fenrir](/blog/fenrir-wolf-mythologie), den Wolfssohn Lokis, in Asgard aufgezogen, weil sie ihn dort kontrollieren wollten. Nur Tyr wagte es, ihm das Futter zu bringen. Als das Tier schneller wuchs als erwartet und die Weissagungen eindeutig wurden, beschlossen die Götter, es zu binden.
+Die eine große Erzählung steht im *Gylfaginning*, und sie liest sich wie ein Rechtsfall. Die Asen hatten [Fenrir](/blog/fenrir-wolf-mythologie/), den Wolfssohn Lokis, in Asgard aufgezogen, weil sie ihn dort kontrollieren wollten. Nur Tyr wagte es, ihm das Futter zu bringen. Als das Tier schneller wuchs als erwartet und die Weissagungen eindeutig wurden, beschlossen die Götter, es zu binden.
 
 Zweimal versuchten sie es offen. Die Fessel **Lœðingr** zerriss der Wolf beim ersten Strecken, die doppelt so starke **Drómi** beim zweiten. Snorri hält fest, dass daraus Redewendungen wurden: sich aus Lœðingr lösen, aus Drómi schlagen, gesagt von jedem, der sich mit Gewalt aus einer Lage befreit. Die Götter hatten dem Wolf zweimal bewiesen, dass er stärker war als ihre beste Arbeit.
 
@@ -91,7 +91,7 @@ Georges Dumézil hat Tyr in seiner Theorie der drei Funktionen neben Odin gestel
 
 Unsere Lesart geht einen Schritt weiter, und sie ist unbequemer. Tyrs Hand ist kein Mutsbeweis, sondern eine Sicherheit für eine Lüge. Die Götter wussten, dass sie Fenrir nicht wieder losbinden würden, als sie die Bedingung annahmen. Damit ist der Vertrag von Anfang an ein geplanter Betrug, und ausgerechnet der Gott, der für Eid und Verfahren zuständig ist, ist derjenige, der ihn beglaubigt und bezahlt. Der Wolf ist in dieser Szene der einzige, der sich an die Abmachung hält.
 
-Das passt zu dem, was wir aus dem [Thing](/blog/thing-versammlung-wikinger-recht) über nordisches Rechtsdenken wissen: Recht war dort kein moralischer Zustand, sondern ein Verfahren mit Preis. Die Edda erzählt hier nicht von einem Helden, sondern von einer Ordnung, die nur bestehen bleibt, weil jemand bereit ist, für ihren Bruch persönlich zu haften. Dass Tyr danach im Mythos fast verschwindet, wirkt wie die logische Fortsetzung: Ein Gott, dessen Autorität auf dem Wort beruht, hat nach dieser Nacht nicht mehr viel zu sagen.
+Das passt zu dem, was wir aus dem [Thing](/blog/thing-versammlung-wikinger-recht/) über nordisches Rechtsdenken wissen: Recht war dort kein moralischer Zustand, sondern ein Verfahren mit Preis. Die Edda erzählt hier nicht von einem Helden, sondern von einer Ordnung, die nur bestehen bleibt, weil jemand bereit ist, für ihren Bruch persönlich zu haften. Dass Tyr danach im Mythos fast verschwindet, wirkt wie die logische Fortsetzung: Ein Gott, dessen Autorität auf dem Wort beruht, hat nach dieser Nacht nicht mehr viel zu sagen.
 
 **Mythos gegen Fakt, kurz sortiert:**
 

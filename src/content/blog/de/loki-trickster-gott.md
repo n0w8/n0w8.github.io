@@ -34,7 +34,7 @@ Wer die nordischen Götter kennt, kennt meist auch die Namen von Lokis Nachkomme
 - **Jörmungand**, die Weltenschlange, die Odin ins Meer wirft, wo sie wächst, bis sie die ganze Welt umschließt und sich in den eigenen Schwanz beißt.
 - **Hel**, die er zur Herrscherin über die Totenwelt der nicht im Kampf Gefallenen macht - halb lebendig, halb verwest im Antlitz, wie Snorri sie beschreibt.
 
-Die Prosa-Edda ist an dieser Stelle unmissverständlich: Die Götter fürchten diese drei, weil Prophezeiungen ihnen großes Unheil zuschreiben. Genau jene Furcht sät die Saat, die bei Ragnarök aufgeht, denn Fenrir und Jörmungand kehren als Feinde der Götter zurück - die eigentliche Geschichte ihres Endes erzählen wir in unserem Artikel über [Ragnarök](/blog/ragnaroek).
+Die Prosa-Edda ist an dieser Stelle unmissverständlich: Die Götter fürchten diese drei, weil Prophezeiungen ihnen großes Unheil zuschreiben. Genau jene Furcht sät die Saat, die bei Ragnarök aufgeht, denn Fenrir und Jörmungand kehren als Feinde der Götter zurück - die eigentliche Geschichte ihres Endes erzählen wir in unserem Artikel über [Ragnarök](/blog/ragnaroek/).
 
 ## Sleipnir: Wie Loki zur Mutter eines Pferdes wurde
 
@@ -62,7 +62,7 @@ Das Gedicht liest sich streckenweise wie ein Skandal-Protokoll, doch dahinter st
 
 ## Baldrs Tod: Der Bruch, der nicht mehr zu kitten ist
 
-Der eigentliche Wendepunkt in Lokis Geschichte ist der Tod des Gottes **Baldr**. Wie genau es dazu kam - die Mistel, der blinde Gott Höðr, die list, mit der Loki das einzig ungeschworene Ding der Welt in ein tödliches Geschoss verwandelte - haben wir ausführlich in unserem Artikel über [Ragnarök](/blog/ragnaroek) erzählt, denn Baldrs Tod ist zugleich der Auftakt zum Weltuntergang.
+Der eigentliche Wendepunkt in Lokis Geschichte ist der Tod des Gottes **Baldr**. Wie genau es dazu kam - die Mistel, der blinde Gott Höðr, die list, mit der Loki das einzig ungeschworene Ding der Welt in ein tödliches Geschoss verwandelte - haben wir ausführlich in unserem Artikel über [Ragnarök](/blog/ragnaroek/) erzählt, denn Baldrs Tod ist zugleich der Auftakt zum Weltuntergang.
 
 Wichtig für Lokis eigene Geschichte ist vor allem die Folge: Nach Baldrs Tod ist der Bruch zwischen Loki und den übrigen Göttern endgültig. Es ist der Moment, in dem aus dem geduldeten Unruhestifter ein Feind wird.
 

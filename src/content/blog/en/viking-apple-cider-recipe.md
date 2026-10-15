@@ -22,7 +22,7 @@ You get two things here: a working recipe a complete beginner can follow, and an
 
 Apples were not an exotic import in Scandinavia. The wild crab apple, *Malus sylvestris*, grows naturally from southern Denmark into the woods of southern Sweden. It is small, hard and properly sour, and it keeps turning up wherever archaeologists dig:
 
-- **The Oseberg ship burial, Norway (buried 834):** alongside the two women and the famous carved grave goods lay a wooden bucket of wild apples, preserved by the blue clay of the mound. Provisions for a journey that was never meant to end. We tell the full story of the find in our piece on the [Oseberg ship](/en/blog/oseberg-ship).
+- **The Oseberg ship burial, Norway (buried 834):** alongside the two women and the famous carved grave goods lay a wooden bucket of wild apples, preserved by the blue clay of the mound. Provisions for a journey that was never meant to end. We tell the full story of the find in our piece on the [Oseberg ship](/en/blog/oseberg-ship/).
 - **Hedeby, on the Danish-German border:** the waterlogged layers of the trading town preserved plant remains including apples, sloes, hazelnuts and berries. Fruit belonged to ordinary life there, not only to the feast.
 - **Egtved, Denmark (Bronze Age, around 1370 BC):** the National Museum of Denmark identified residues of a fermented drink made from wheat, honey, cranberries and bog myrtle in the bark bucket found with the burial. Northern Europeans were fermenting fruit and grain two thousand years before the Viking Age began.
 - **Capitulare de villis, Frankish empire (around 800):** Charlemagne's estate regulations list workers producing *sicera*, fermented fruit drinks, among the required staff of a royal manor. Cider was an established craft just south of the Danish border.
@@ -81,13 +81,13 @@ One note: depending on the starting sugar, the finished cider lands around 5 to 
 - **A white film on top?** A thin dull skin is normally harmless film yeast: skim it and rack immediately. Fuzzy, coloured mould means pour it away and work cleaner next time.
 - **Serving.** Cool but not ice cold, in pottery or heavy glass. Cider against smoked fish, dark bread and hard cheese is one of the great cheap pleasures of autumn.
 
-By the way: this is only the starting point. Our cookbook **"Viking Feast - The Great Viking Cookbook"** collects 141 recipes from the world of the Norsemen, from roasts and stews to more drinks built on honey, fruit and grain. [Visit the cookbook](/en/cookbook)
+By the way: this is only the starting point. Our cookbook **"Viking Feast - The Great Viking Cookbook"** collects 141 recipes from the world of the Norsemen, from roasts and stews to more drinks built on honey, fruit and grain. [Visit the cookbook](/en/cookbook/)
 
 ## A Viking Apple Cider Recipe Without the Alcohol
 
 Not everyone wants to wait six weeks or serve alcohol. For sweet, unfermented cider, leave the yeast out. Press the juice, strain it through fine cloth, heat it to 172°F (78°C) and hold it there for 20 minutes. Do not let it boil, or it tastes of stewed fruit. Bottle it hot, seal immediately and stand the bottles upside down to cool. In a cellar it keeps a year and still tastes of the tree it came from.
 
-If you like the fermented route but prefer honey to fruit as your sugar, our guide to [making mead](/en/blog/how-to-make-mead) uses exactly the same principle with a different starting point. The two drinks sit very happily on the same table.
+If you like the fermented route but prefer honey to fruit as your sugar, our guide to [making mead](/en/blog/how-to-make-mead/) uses exactly the same principle with a different starting point. The two drinks sit very happily on the same table.
 
 ## The Drink After Harvest
 

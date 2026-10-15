@@ -103,7 +103,7 @@ The Norse world had no sugar. Sweetness meant honey, dried fruit and berries, an
 
 Berries cost nothing but time. Bilberry, lingonberry, cloudberry and crowberry grew in quantity, and their acidity is the real reason this combination works. The barley tastes earthy, the honey supplies sweetness, and only the berries give the sharp note that keeps the plate from feeling heavy. Leave them off and you have a stodgy breakfast. Add them and you have a dessert.
 
-The family resemblance to other Northern dishes is obvious. The same three elements carry our [Viking barley porridge](/en/blog/viking-barley-porridge), except that there the work happens in a pot rather than a pan. For the leaner, unleavened cousin that needs neither eggs nor milk, see our [Viking flatbread](/en/blog/viking-flatbread-recipe).
+The family resemblance to other Northern dishes is obvious. The same three elements carry our [Viking barley porridge](/en/blog/viking-barley-porridge/), except that there the work happens in a pot rather than a pan. For the leaner, unleavened cousin that needs neither eggs nor milk, see our [Viking flatbread](/en/blog/viking-flatbread-recipe/).
 
 ## Tips & Variations
 
@@ -114,7 +114,7 @@ The family resemblance to other Northern dishes is obvious. The same three eleme
 - **Over a fire:** A cast-iron pan over a campfire works unchanged, as long as it sits at the edge of the embers, not the middle.
 - **Storage:** Cooled, the cakes keep 2 days in the fridge. Warm them in a dry pan, never a microwave.
 
-If this way of cooking appeals to you, the recipe sits in the same family as the breads, porridges and feast dishes in our cookbook **Viking Feast**, which gathers the Norse kitchen from everyday fare to the drinking hall. [See the cookbook](/en/cookbook)
+If this way of cooking appeals to you, the recipe sits in the same family as the breads, porridges and feast dishes in our cookbook **Viking Feast**, which gathers the Norse kitchen from everyday fare to the drinking hall. [See the cookbook](/en/cookbook/)
 
 In the end this is what good everyday cooking has always been: a handful of ingredients, a hot surface and something sweet on top that existed only for part of the year. That no excavation report backs it up does not make the dish worse. It only makes the story honest.
 

@@ -65,7 +65,7 @@ That assessment holds up against the outcome: despite decades of payments, the s
 
 From the perspective of the Viking armies, the logic of Danegeld makes a great deal more sense. For leaders like Sweyn Forkbeard, who was himself the king of Denmark, these campaigns offered a way to accumulate silver, reward followers, and consolidate his own power base - silver that circulated through extensive trade networks and, as coin hoards from the Viking Age attest, sometimes traveled back to Scandinavia and beyond. Unlike a classic raid, which yields immediate but limited plunder, Danegeld offered something far more valuable: a repeatable revenue stream. Why sack one village when an entire kingdom can be shaken down again and again?
 
-That logic connects directly to the [Viking longship](/en/blog/the-longship), which made these campaigns logistically possible in the first place. The ability to move large forces to the English coast and back quickly was the technical precondition that let threat-and-withdraw work as a repeatable tactic at all. Without the mobility of Viking fleets, England would never have faced a recurring threat serious enough to make payment look like the sensible option.
+That logic connects directly to the [Viking longship](/en/blog/the-longship/), which made these campaigns logistically possible in the first place. The ability to move large forces to the English coast and back quickly was the technical precondition that let threat-and-withdraw work as a repeatable tactic at all. Without the mobility of Viking fleets, England would never have faced a recurring threat serious enough to make payment look like the sensible option.
 
 ## The Legacy: Why "Danegeld" Is Still a Warning Today
 

@@ -30,7 +30,7 @@ In den ersten Jahrzehnten war Ribe wohl kein Ort mit dauerhafter Bevölkerung, s
 
 Wie und wann daraus eine echte Stadt wurde, hat ein Grabungsprojekt der Universität Aarhus gemeinsam mit den Sydvestjyske Museer deutlich genauer fassen können. Unter dem Namen Northern Emporium wurde 2017 und 2018 mitten in Ribe eine Fläche mit außergewöhnlich feiner Schichtauflösung untersucht, geleitet von dem Archäologen Søren M. Sindbæk. Das Ergebnis: Im Lauf des 8. Jahrhunderts verdichtet sich der Betrieb, und gegen Ende des Jahrhunderts reißen die saisonalen Pausen ab. Ribe wird ganzjährig bewohnt, und zugleich steigt die Menge importierter Güter spürbar an.
 
-Dieser Befund ist mehr als eine Fußnote zur Stadtgeschichte. Er zeigt, dass der Fernhandel im Norden nicht erst mit den Raubzügen Fahrt aufnahm, sondern dass umgekehrt ein bereits dichtes Handelsnetz den Hintergrund bildete, vor dem die Raubzüge überhaupt erst möglich wurden. Ribe steht damit am Anfang einer Reihe von Handelsplätzen, zu der später auch [Haithabu](/blog/haithabu-handelsstadt-wikinger) an der Schlei gehörte.
+Dieser Befund ist mehr als eine Fußnote zur Stadtgeschichte. Er zeigt, dass der Fernhandel im Norden nicht erst mit den Raubzügen Fahrt aufnahm, sondern dass umgekehrt ein bereits dichtes Handelsnetz den Hintergrund bildete, vor dem die Raubzüge überhaupt erst möglich wurden. Ribe steht damit am Anfang einer Reihe von Handelsplätzen, zu der später auch [Haithabu](/blog/haithabu-handelsstadt-wikinger/) an der Schlei gehörte.
 
 Höre *Scar*, während du weiterliest, eine Hymne, die die raue Seite dieser Welt einfängt:
 
@@ -57,7 +57,7 @@ Ein Markt dieser Größe braucht irgendwann etwas Kleineres als Silberbarren. In
 
 Interessant ist weniger das Motiv als die Menge. Diese Münzen tauchen in den Ribe-Grabungen in großer Zahl auf, und zwar als Streufunde im Marktboden, also als verlorenes Alltagsgeld. Wer Kleingeld verliert, benutzt Kleingeld. Das spricht für regelmäßige, kleinteilige Geschäfte zwischen vielen Beteiligten und nicht für gelegentliche Großtauschgeschäfte zwischen wenigen Fürsten. Ergänzt wird das Bild durch Klappwaagen und Gewichtssätze, mit denen Silber nach Gewicht statt nach Nennwert verrechnet wurde.
 
-Im Vergleich zu [Birka](/blog/birka-schwedens-erste-stadt) im schwedischen Mälarsee, dessen Blütezeit später liegt und dessen Silber vor allem aus dem Osten kam, blickt Ribe nach Westen und Süden: nach Friesland, ins Frankenreich und auf die Britischen Inseln. Beide Orte gehören zum selben System, bedienen aber unterschiedliche Enden davon.
+Im Vergleich zu [Birka](/blog/birka-schwedens-erste-stadt/) im schwedischen Mälarsee, dessen Blütezeit später liegt und dessen Silber vor allem aus dem Osten kam, blickt Ribe nach Westen und Süden: nach Friesland, ins Frankenreich und auf die Britischen Inseln. Beide Orte gehören zum selben System, bedienen aber unterschiedliche Enden davon.
 
 ## Ein Schädel mit Runen und die erste Kirche des Nordens
 

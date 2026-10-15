@@ -57,7 +57,7 @@ The real disappointment is not the question of whether anyone was tattooed. It i
 | Vegvisir | Huld manuscript, Iceland, 1860 | No. Some 800 years after the Viking Age. |
 | Web of Wyrd, net of fate | No historical attestation, a modern invention | No. |
 
-Two rows in that table are the reason this article exists. The [Vegvisir](/en/blog/vegvisir-viking-compass) first appears in an Icelandic manuscript compiled in 1860, by which point steamships were calling at Reykjavik. The [Valknut](/en/blog/valknut-symbol-meaning), by contrast, is properly Viking Age, cut into picture stones and carved into the Oseberg grave goods, yet what it meant remains interpretation rather than knowledge. One sign is old and unreadable, the other recent and well documented. Selling both as ancient Norse wisdom means either nobody checked or somebody hoped you would not.
+Two rows in that table are the reason this article exists. The [Vegvisir](/en/blog/vegvisir-viking-compass/) first appears in an Icelandic manuscript compiled in 1860, by which point steamships were calling at Reykjavik. The [Valknut](/en/blog/valknut-symbol-meaning/), by contrast, is properly Viking Age, cut into picture stones and carved into the Oseberg grave goods, yet what it meant remains interpretation rather than knowledge. One sign is old and unreadable, the other recent and well documented. Selling both as ancient Norse wisdom means either nobody checked or somebody hoped you would not.
 
 ## Runes on Skin: What the Edda Actually Says
 

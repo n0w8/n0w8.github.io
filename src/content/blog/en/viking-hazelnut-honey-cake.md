@@ -40,7 +40,7 @@ That last row matters more than it looks. Hazel did not only feed the North, it 
 
 Cane sugar simply did not exist in Viking Age Scandinavia. It reached northern Europe centuries later through Mediterranean trade, and even then it spent a long time behind the apothecary's counter. If you wanted something sweet, you wanted honey, taken either from kept hives in the south of Scandinavia or from wild colonies in the woods.
 
-Honey was therefore expensive, and most of it never made it into food at all. It went into the fermenting vat, because honey meant mead, and mead was the drink of status in every hall worth the name. Snorri Sturluson describes the goat Heiðrún on the roof of Valhalla, mead flowing from her udders for the fallen warriors below. You do not attach that kind of imagery to an everyday beverage. If you fancy brewing it, we walk through the process in our guide to [making mead at home](/en/blog/how-to-make-mead).
+Honey was therefore expensive, and most of it never made it into food at all. It went into the fermenting vat, because honey meant mead, and mead was the drink of status in every hall worth the name. Snorri Sturluson describes the goat Heiðrún on the roof of Valhalla, mead flowing from her udders for the fallen warriors below. You do not attach that kind of imagery to an everyday beverage. If you fancy brewing it, we walk through the process in our guide to [making mead at home](/en/blog/how-to-make-mead/).
 
 For a cake, that has one consequence. Pouring 150 grams of honey into a mixing bowl would have been genuine extravagance in the ninth century. Do it today and you are treating yourself to something a Norse farmer would have paid silver for.
 
@@ -93,7 +93,7 @@ You will also want a mixing bowl, a whisk or hand mixer, and a greased tin. Scat
 - **A winter version.** A handful of dried lingonberries or diced apple folded through the batter adds a welcome sharpness against all that honey.
 - **Serve it right.** A spoonful of soured cream or skyr alongside cuts through all that honey. Cold butter on a still warm slice works surprisingly well too.
 
-If this kind of cooking speaks to you, our cookbook **"Viking Feast"** holds 141 recipes of the North, from flatbreads and feast roasts to mead and the sweet treasures of the storeroom. [See the cookbook](/en/cookbook)
+If this kind of cooking speaks to you, our cookbook **"Viking Feast"** holds 141 recipes of the North, from flatbreads and feast roasts to mead and the sweet treasures of the storeroom. [See the cookbook](/en/cookbook/)
 
 ## Why This Cake Works
 
@@ -101,7 +101,7 @@ Our honest verdict, after several rounds of testing: this cake is considerably b
 
 The second reason is flavour. Sugar is sweet and nothing else. Honey carries flowers, resin and a faint acidity, and that complexity meets the roasted, almost chocolatey note of toasted hazelnuts head on. What comes out of the tin has more character than most supermarket cakes manage with icing and decoration combined.
 
-One caveat we will not hide: this is a heavy cake. Not an airy sponge but a dense, filling, thoroughly serious slab, and one slice is genuinely enough. For the wider picture of what people in the North actually ate, our overview of the [Viking diet](/en/blog/viking-food-diet) covers the whole table. And if you spend an afternoon this September gathering hazelnuts yourself, you are doing precisely what people on the Schlei and in Dublin did a thousand years ago. Only the oven is new.
+One caveat we will not hide: this is a heavy cake. Not an airy sponge but a dense, filling, thoroughly serious slab, and one slice is genuinely enough. For the wider picture of what people in the North actually ate, our overview of the [Viking diet](/en/blog/viking-food-diet/) covers the whole table. And if you spend an afternoon this September gathering hazelnuts yourself, you are doing precisely what people on the Schlei and in Dublin did a thousand years ago. Only the oven is new.
 
 *Image credits: Carole Raddato (CC BY-SA 2.0), via Wikimedia Commons*
 

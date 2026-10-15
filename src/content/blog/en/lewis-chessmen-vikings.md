@@ -43,7 +43,7 @@ The tallest kings stand around ten centimetres, and no two figures are alike. Ev
 
 ## The rooks that bite their shields
 
-The undisputed celebrities of the hoard are a handful of rooks. Most of these warders stand stiffly with sword and shield, but a few roll their eyes and sink their teeth into the rim of their own shield. Any medieval Norse audience would have recognised the reference instantly. Snorri Sturluson's Ynglinga saga describes the warriors of Odin who fought without armour, howled like wolves and bit their shields - the [berserkers](/en/blog/viking-berserkers) of legend.
+The undisputed celebrities of the hoard are a handful of rooks. Most of these warders stand stiffly with sword and shield, but a few roll their eyes and sink their teeth into the rim of their own shield. Any medieval Norse audience would have recognised the reference instantly. Snorri Sturluson's Ynglinga saga describes the warriors of Odin who fought without armour, howled like wolves and bit their shields - the [berserkers](/en/blog/viking-berserkers/) of legend.
 
 ![Shield-biting berserker warder from the Lewis chessmen against a black background](/images/lewis-chessmen-2.jpg)
 *Image credit: National Museums Scotland (CC BY-SA 4.0), via Wikimedia Commons*
@@ -58,7 +58,7 @@ Fittingly, there is a song for exactly these pieces. Listen to *Berserkir Bróð
 
 Strictly speaking, the Lewis chessmen are not Viking Age artifacts. The standard dating puts them between roughly 1150 and 1200, about a century after Stamford Bridge, the battle usually chosen as the era's full stop. Yet everything about them runs on Viking infrastructure. Norse settlers had colonised the Hebrides in the 9th century, and in the 12th century the islands still belonged to the Kingdom of the Isles under Norwegian overlordship; they only passed to Scotland with the Treaty of Perth in 1266. Place names across Lewis carry Norse roots to this day, and the shipping route from Trondheim down through the Hebrides to Dublin was a direct inheritance of Viking seafaring.
 
-Gaming culture tells the same story. For centuries, Scandinavians had played **hnefatafl**, a strategy game in which a king and his bodyguard fight their way out from the centre of the board. Tafl pieces turn up again and again in Viking Age graves, as much a part of [daily life in the Norse world](/en/blog/viking-daily-life) as combs and cooking pots. So when chess arrived from the East along the trade routes, it did not land in a vacuum. It reached a society that already treated board games as markers of status, patience and strategic wit. The Lewis chessmen capture that handover moment perfectly: a brand-new game, cast with the personnel of the old northern world.
+Gaming culture tells the same story. For centuries, Scandinavians had played **hnefatafl**, a strategy game in which a king and his bodyguard fight their way out from the centre of the board. Tafl pieces turn up again and again in Viking Age graves, as much a part of [daily life in the Norse world](/en/blog/viking-daily-life/) as combs and cooking pots. So when chess arrived from the East along the trade routes, it did not land in a vacuum. It reached a society that already treated board games as markers of status, patience and strategic wit. The Lewis chessmen capture that handover moment perfectly: a brand-new game, cast with the personnel of the old northern world.
 
 ## Made in Trondheim? The workshop question
 

@@ -16,7 +16,7 @@ draft: false
 
 A crack of thunder over the fjords, and Viking-age farmers knew at once: **Thor**, the Norse **thunder god**, was on the move. No other figure in Norse mythology was as present in everyday life as he was. While Odin ruled over kings and poets, Thor belonged to ordinary people - the farmer hoping for rain, the sailor riding out a storm. Behind the popular image of the bearded muscle-god, though, sits a far richer character, preserved in poems that are well over eight hundred years old.
 
-We already introduced Thor briefly in our [overview of the Norse gods](/en/blog/norse-gods). Here we go deeper: how was his hammer actually made? What adventures did he survive? And why did half of Scandinavia wear his symbol around its neck?
+We already introduced Thor briefly in our [overview of the Norse gods](/en/blog/norse-gods/). Here we go deeper: how was his hammer actually made? What adventures did he survive? And why did half of Scandinavia wear his symbol around its neck?
 
 ## How We Know About Thor
 
@@ -52,7 +52,7 @@ Things turn more serious in the **Hymiskviða**. Thor accompanies the giant **Hy
 
 Out at sea, Thor casts his line - and what takes the hook is none other than **Jörmungandr**, the **World Serpent**, whose coils encircle the entire earth. Thor hauls with such force that his feet punch through the bottom of the boat and brace against the seabed itself. For one suspended moment, god and monster stare each other in the eye - Snorri describes venom spraying from the serpent's jaws.
 
-Thor raises his hammer for the killing blow. But the terrified Hymir, in a panic, cuts the fishing line, and Jörmungandr slips back into the deep. The myths agree that the two will only meet again at **Ragnarök** - this time with fatal results for both, as we describe in our article on [Ragnarök](/en/blog/ragnarok).
+Thor raises his hammer for the killing blow. But the terrified Hymir, in a panic, cuts the fishing line, and Jörmungandr slips back into the deep. The myths agree that the two will only meet again at **Ragnarök** - this time with fatal results for both, as we describe in our article on [Ragnarök](/en/blog/ragnarok/).
 
 > Paraphrased from the Hymiskviða: Thor hauled the serpent up with such force that the earth itself trembled, while venom dripped from its gaping jaws.
 

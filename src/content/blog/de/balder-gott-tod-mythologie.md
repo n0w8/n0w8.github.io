@@ -46,7 +46,7 @@ Hör dir *Scar* an, während du weiterliest:
 
 ## Der Tod Balders: Wie ein blinder Gott zum Werkzeug wurde
 
-Was folgt, ist die berühmteste Intrige der nordischen Mythologie. [Loki](/blog/loki-trickster-gott) nimmt Frauengestalt an, sucht Frigg in ihrer Halle Fensalir auf und fragt beiläufig, was die Götter da auf dem Thing eigentlich treiben. Frigg erzählt bereitwillig von den Eiden. Auf die Nachfrage, ob wirklich alles geschworen habe, nennt sie die Ausnahme und hält sie für belanglos.
+Was folgt, ist die berühmteste Intrige der nordischen Mythologie. [Loki](/blog/loki-trickster-gott/) nimmt Frauengestalt an, sucht Frigg in ihrer Halle Fensalir auf und fragt beiläufig, was die Götter da auf dem Thing eigentlich treiben. Frigg erzählt bereitwillig von den Eiden. Auf die Nachfrage, ob wirklich alles geschworen habe, nennt sie die Ausnahme und hält sie für belanglos.
 
 Loki geht, bricht die Mistel und kehrt zum Thing zurück. Dort steht **Höðr** am Rand des Kreises, allein und untätig, weil er blind ist. Loki spricht ihn an: Warum er Balder nicht ehre wie alle anderen. Höðr antwortet, er sehe nicht, wohin er zielen solle, und habe zudem keine Waffe. Loki drückt ihm den Zweig in die Hand und weist ihm die Richtung.
 
@@ -97,7 +97,7 @@ Was die Götter stattdessen tun, ist bezeichnend. Odin zeugt mit der Riesin Rind
 
 ## Balders Wiederkehr: Der einzige Trost im Norden
 
-Die Geschichte endet nicht im Feuer. Die Völuspá beschreibt, wie nach [Ragnarök](/blog/ragnaroek) die Erde ein zweites Mal grün aus dem Meer steigt und die überlebenden Asen sich auf dem Idafeld versammeln. Dort finden sie im Gras die goldenen Spielsteine wieder, die sie in der alten Welt verloren hatten. Und dorthin kehren Balder und Höðr gemeinsam zurück, Opfer und Werkzeug, versöhnt in einer Welt, in der die alte Schuld keine Rolle mehr spielt.
+Die Geschichte endet nicht im Feuer. Die Völuspá beschreibt, wie nach [Ragnarök](/blog/ragnaroek/) die Erde ein zweites Mal grün aus dem Meer steigt und die überlebenden Asen sich auf dem Idafeld versammeln. Dort finden sie im Gras die goldenen Spielsteine wieder, die sie in der alten Welt verloren hatten. Und dorthin kehren Balder und Höðr gemeinsam zurück, Opfer und Werkzeug, versöhnt in einer Welt, in der die alte Schuld keine Rolle mehr spielt.
 
 Das ist die vielleicht erwachsenste Pointe der gesamten nordischen Mythologie. Der strahlende Gott kommt nicht zurück, weil jemand ihn rettet, weil Trauer genügt oder weil Rache Gerechtigkeit herstellt. Er kommt zurück, weil die Welt, die seinen Tod nicht verkraften konnte, vorher untergehen musste. Wer Balders Geschichte als Märchen vom guten Gott und dem bösen Trickster liest, verpasst genau das. Sie handelt davon, dass manche Verluste sich innerhalb der bestehenden Ordnung nicht heilen lassen, und dass die Wikingerzeit ehrlich genug war, das so zu erzählen.
 

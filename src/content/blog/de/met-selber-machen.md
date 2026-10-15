@@ -20,7 +20,7 @@ In diesem Artikel bekommst du beides: die Geschichte hinter dem legendären Göt
 
 ## Der Trank der Götter und Skalden
 
-Kein anderes Getränk ist so eng mit der nordischen Mythologie verwoben wie der Met. Die berühmteste Geschichte erzählt die Prosa-Edda des isländischen Gelehrten Snorri Sturluson: Aus dem Blut des weisen Kvasir brauten zwei Zwerge den **Skaldenmet** - wer davon trinkt, wird zum Dichter. Der Trank fiel später dem Riesen Suttung in die Hände, der ihn tief im Berg von seiner Tochter Gunnlöd bewachen ließ. Odin selbst bohrte sich durch den Fels, verbrachte drei Nächte bei Gunnlöd und stahl den gesamten Vorrat in drei gewaltigen Schlucken, bevor er in Adlergestalt nach Asgard floh. Seither gilt Met als Ursprung aller Dichtkunst. Die ganze Geschichte des listigen Göttervaters findest du in unserem Porträt über [Odin, den Allvater](/blog/odin-allvater-weisheit).
+Kein anderes Getränk ist so eng mit der nordischen Mythologie verwoben wie der Met. Die berühmteste Geschichte erzählt die Prosa-Edda des isländischen Gelehrten Snorri Sturluson: Aus dem Blut des weisen Kvasir brauten zwei Zwerge den **Skaldenmet** - wer davon trinkt, wird zum Dichter. Der Trank fiel später dem Riesen Suttung in die Hände, der ihn tief im Berg von seiner Tochter Gunnlöd bewachen ließ. Odin selbst bohrte sich durch den Fels, verbrachte drei Nächte bei Gunnlöd und stahl den gesamten Vorrat in drei gewaltigen Schlucken, bevor er in Adlergestalt nach Asgard floh. Seither gilt Met als Ursprung aller Dichtkunst. Die ganze Geschichte des listigen Göttervaters findest du in unserem Porträt über [Odin, den Allvater](/blog/odin-allvater-weisheit/).
 
 Auch jenseits der Mythen war Met etwas Besonderes. Honig war im Norden knapp und teuer - Bienen fühlen sich in Skandinavien nur bedingt wohl, und ein großer Teil des Honigs wurde importiert oder mühsam von Wildbienen gesammelt. Alltagsgetränk war deshalb das deutlich günstigere Gerstenbier. Met dagegen war den großen Anlässen vorbehalten: Hochzeiten, Blóts, Gastmähler in der Halle des Jarls. Wer seinen Gästen Met einschenkte, zeigte Wohlstand.
 
@@ -69,7 +69,7 @@ Dazu an Ausrüstung: ein Gärbehälter mit mindestens 6 Litern Volumen (Glasball
 
 Das berühmte Methorn hat übrigens einen unterschätzten Vorteil: Man kann es nicht abstellen. Wer ein gefülltes Horn bekam, musste trinken oder weiterreichen - und genau darum ging es. Beim feierlichen Umtrunk, den die Sagas beschreiben, wanderte das Horn durch die ganze Halle, und mit jedem Umlauf wurde ein Trinkspruch ausgebracht: auf die Götter, auf gefallene Freunde, auf gegebene Schwüre. Wenn du deinen ersten selbstgemachten Met im Freundeskreis öffnest, probiere es einmal genauso. Ein Trinkspruch pro Runde, jeder kommt dran - du wirst überrascht sein, wie schnell aus einem Getränk ein Abend voller Geschichten wird.
 
-Übrigens: Dieses Grundrezept ist nur eine Kostprobe. In unserem Kochbuch **"Wikinger Festmahl - Das große Wikinger-Kochbuch"** warten 141 Rezepte aus der Welt der Nordmänner auf dich - von Festtagsbraten über Eintöpfe bis zu weiteren Met-Varianten mit Beeren und Kräutern. [Zum Kochbuch](/kochbuch)
+Übrigens: Dieses Grundrezept ist nur eine Kostprobe. In unserem Kochbuch **"Wikinger Festmahl - Das große Wikinger-Kochbuch"** warten 141 Rezepte aus der Welt der Nordmänner auf dich - von Festtagsbraten über Eintöpfe bis zu weiteren Met-Varianten mit Beeren und Kräutern. [Zum Kochbuch](/kochbuch/)
 
 | | Met | Bier | Wein |
 |---|---|---|---|
@@ -82,7 +82,7 @@ Das berühmte Methorn hat übrigens einen unterschätzten Vorteil: Man kann es n
 
 ## Ein Trank, der Geschichten macht
 
-Wenn dein erster eigener Met nach ein paar Monaten im Glas funkelt, trinkst du ein Stück Kulturgeschichte: denselben Trank, der in Walhall aus Hörnern floss, den Odin für die Dichtkunst stahl und der in den Hallen der Jarle zu Ehren der [nordischen Götter](/blog/nordische-goetter) erhoben wurde. Skål - und denk daran: Die besten Geschichten schreibt man nach dem ersten Horn, nicht nach dem fünften.
+Wenn dein erster eigener Met nach ein paar Monaten im Glas funkelt, trinkst du ein Stück Kulturgeschichte: denselben Trank, der in Walhall aus Hörnern floss, den Odin für die Dichtkunst stahl und der in den Hallen der Jarle zu Ehren der [nordischen Götter](/blog/nordische-goetter/) erhoben wurde. Skål - und denk daran: Die besten Geschichten schreibt man nach dem ersten Horn, nicht nach dem fünften.
 
 ![Verkostung verschiedener Met-Sorten auf einem Holzbrett](/images/met-honigwein-wm.jpg)
 

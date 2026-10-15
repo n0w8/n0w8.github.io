@@ -24,7 +24,7 @@ Wer bei "Schatz" an Kisten voller gleichförmiger Münzen denkt, wird von den ec
 
 Genau dieses Hacksilber verrät am meisten. Ein zerhackter Armring ist kein beschädigter Schmuck, sondern eine Zahlungseinheit. In weiten Teilen der wikingerzeitlichen Welt galt Silber nicht nach Nennwert, sondern nach Gewicht und Feingehalt. Wer bezahlen wollte, trennte vom Ring ab, was der Preis verlangte. Der Wikinger-Silberschatz war damit weniger eine Schatulle als ein Warenlager, und viele Horte sehen genau so aus: kein Prunk, sondern Rohstoff in Zwischengrößen.
 
-Die Herkunft der Münzen macht sichtbar, wie weit die Handelsnetze reichten. Zehntausende islamische Silbermünzen sind allein aus skandinavischen Funden dokumentiert, geprägt in Werkstätten von Bagdad bis Samarkand und über die russischen Flusswege nach Norden gelangt. Wie dieser Fernhandel im Alltag funktionierte, zeigt der Handelsplatz [Birka](/blog/birka-schwedens-erste-stadt) im Mälarsee besonders deutlich, wo dieselben Dirham in Gräbern und Kulturschichten auftauchen.
+Die Herkunft der Münzen macht sichtbar, wie weit die Handelsnetze reichten. Zehntausende islamische Silbermünzen sind allein aus skandinavischen Funden dokumentiert, geprägt in Werkstätten von Bagdad bis Samarkand und über die russischen Flusswege nach Norden gelangt. Wie dieser Fernhandel im Alltag funktionierte, zeigt der Handelsplatz [Birka](/blog/birka-schwedens-erste-stadt/) im Mälarsee besonders deutlich, wo dieselben Dirham in Gräbern und Kulturschichten auftauchen.
 
 ## Die großen Horte: eine Fundliste zum Vergleich
 
@@ -80,7 +80,7 @@ Ebenso aufschlussreich sind die Prüfspuren. Sehr viele Münzen und Barren aus d
 ![Verzierte Silberarmringe aus wikingerzeitlichen Horten in der Ausstellung des Gotlands Museum Fornsalen in Visby](/images/viking-silver-hoards-3.jpg)
 *Bildquelle: Wolfgang Sauber (CC BY-SA 3.0), via Wikimedia Commons*
 
-Aus diesem Gewichtssilber entwickelten sich regionale Zwischenformen. Auf den schottischen Inseln kursierten im 10. und 11. Jahrhundert Armringe mit auffällig gleichmäßigem Gewicht, die die Forschung als Ringgeld bezeichnet: Schmuck, der zugleich als kalkulierbare Zahlungseinheit funktionierte. Wo dagegen ein starkes Königtum eigene Münzen prägte und ihren Umlauf durchsetzte, verschwand das Hacksilber allmählich. Genau diesen Übergang macht die Geschichte des [Danegeld](/blog/danegeld-wikinger-tribut) sichtbar, bei dem England gemünztes Silber in großem Stil an nordische Heere abgab.
+Aus diesem Gewichtssilber entwickelten sich regionale Zwischenformen. Auf den schottischen Inseln kursierten im 10. und 11. Jahrhundert Armringe mit auffällig gleichmäßigem Gewicht, die die Forschung als Ringgeld bezeichnet: Schmuck, der zugleich als kalkulierbare Zahlungseinheit funktionierte. Wo dagegen ein starkes Königtum eigene Münzen prägte und ihren Umlauf durchsetzte, verschwand das Hacksilber allmählich. Genau diesen Übergang macht die Geschichte des [Danegeld](/blog/danegeld-wikinger-tribut/) sichtbar, bei dem England gemünztes Silber in großem Stil an nordische Heere abgab.
 
 ## Mythos gegen Fakt: was der Boden wirklich hergibt
 
