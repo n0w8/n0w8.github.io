@@ -1,7 +1,7 @@
 ---
 title: "Viking Venison Stew Recipe: Game, Roots and Juniper in One Pot"
 description: "A Viking venison stew recipe: lean game, roots and juniper braised slowly in one heavy pot, plus honest Norse hunting history and practical kitchen advice."
-pubDate: 2026-01-01
+pubDate: 2026-10-16
 category: "Rezepte"
 tags: ["Viking Recipe", "Venison", "Game Meat", "Stew", "Juniper"]
 heroImage: "/images/viking-venison-stew.jpg"
@@ -112,7 +112,7 @@ A pot of venison was not an ordinary evening in the Viking-age North. It meant s
   "description": "A Viking-style venison stew: lean game braised for two hours with carrots, swede, barley and juniper, finished with honey, berries and vinegar.",
   "image": "https://blog.nordwaldrecords.com/images/viking-venison-stew.jpg",
   "author": { "@type": "Organization", "name": "Nordweg" },
-  "datePublished": "2026-01-01",
+  "datePublished": "2026-10-16",
   "prepTime": "PT25M",
   "cookTime": "PT2H",
   "totalTime": "PT2H25M",

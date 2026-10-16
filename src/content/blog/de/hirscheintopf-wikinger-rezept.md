@@ -1,7 +1,7 @@
 ---
 title: "Hirscheintopf nach Wikinger-Art: das Rezept mit Wild, Wurzeln und Wacholder"
 description: "Hirscheintopf Rezept nach Wikinger-Art: mageres Wildfleisch, Wurzelgemüse und Wacholder im Topf geschmort, dazu belegte Fakten zur Jagd im hohen Norden."
-pubDate: 2026-01-01
+pubDate: 2026-10-16
 category: "Rezepte"
 tags: ["Wikinger Rezept", "Hirsch", "Wild", "Eintopf", "Wacholder"]
 heroImage: "/images/viking-venison-stew.jpg"
@@ -112,7 +112,7 @@ Ein Hirscheintopf war im wikingerzeitlichen Norden kein Alltag, sondern ein Eins
   "description": "Hirscheintopf nach Wikinger-Art: mageres Wildfleisch mit Möhren, Steckrübe, Gerste und Wacholder zwei Stunden lang im schweren Topf geschmort.",
   "image": "https://blog.nordwaldrecords.com/images/viking-venison-stew.jpg",
   "author": { "@type": "Organization", "name": "Nordweg" },
-  "datePublished": "2026-01-01",
+  "datePublished": "2026-10-16",
   "prepTime": "PT25M",
   "cookTime": "PT2H",
   "totalTime": "PT2H25M",
