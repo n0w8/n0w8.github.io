@@ -1575,7 +1575,8 @@
       "keyword_en": "lindholm hoje",
       "title_de": "Lindholm Hoeje: Das Graeberfeld der Schiffssetzungen",
       "title_en": "Lindholm Hoje: The Burial Ground of Stone Ships",
-      "imagePolicy": "real-photo"
+      "imagePolicy": "real-photo",
+      "note": "Cloud-Backup 2026-10-16: DE/EN bereits fertig geschrieben und recherchiert, liegt in content/pending-images/lindholm-hoje/. Blockiert NUR am Hero-Bild (Sandbox-Netzwerk-Policy verweigerte Wikimedia-Zugriff). Vor Neuschreiben bitte dort pruefen und nur das Bild ergaenzen."
     },
     {
       "translationKey": "ladby-ship",
@@ -1586,7 +1587,8 @@
       "keyword_en": "ladby ship",
       "title_de": "Das Ladby-Schiff: Daenemarks einziges Schiffsgrab",
       "title_en": "The Ladby Ship: Denmark's Only Viking Ship Burial",
-      "imagePolicy": "real-photo"
+      "imagePolicy": "real-photo",
+      "note": "Cloud-Backup 2026-10-16: DE/EN bereits fertig geschrieben und recherchiert, liegt in content/pending-images/ladby-ship/. Blockiert NUR am Hero-Bild (Sandbox-Netzwerk-Policy verweigerte Wikimedia-Zugriff). Konkreter Bildkandidat bereits identifiziert: 'Ladbyskibet.jpg' (Malene Thyssen, CC BY-SA), via Wikimedia Commons. Vor Neuschreiben bitte dort pruefen und nur das Bild ergaenzen."
     },
     {
       "translationKey": "kaupang",
@@ -1597,7 +1599,8 @@
       "keyword_en": "kaupang viking town",
       "title_de": "Kaupang: Norwegens erste Stadt der Wikingerzeit",
       "title_en": "Kaupang: Norway's First Viking Age Town",
-      "imagePolicy": "real-photo"
+      "imagePolicy": "real-photo",
+      "note": "Cloud-Backup 2026-10-16: DE/EN bereits fertig geschrieben und recherchiert, liegt in content/pending-images/kaupang/. Blockiert NUR am Hero-Bild (Sandbox-Netzwerk-Policy verweigerte Wikimedia-Zugriff). Vor Neuschreiben bitte dort pruefen und nur das Bild ergaenzen."
     },
     {
       "translationKey": "hoen-hoard",
@@ -1608,7 +1611,8 @@
       "keyword_en": "hoen hoard",
       "title_de": "Der Hoen-Schatz: Norwegens groesster Goldfund",
       "title_en": "The Hoen Hoard: Norway's Largest Viking Gold Find",
-      "imagePolicy": "real-photo"
+      "imagePolicy": "real-photo",
+      "note": "Cloud-Backup 2026-10-16: DE/EN bereits fertig geschrieben und recherchiert, liegt in content/pending-images/hoen-hoard/. Blockiert NUR am Hero-Bild (Sandbox-Netzwerk-Policy verweigerte Wikimedia-Zugriff). Vor Neuschreiben bitte dort pruefen und nur das Bild ergaenzen."
     },
     {
       "translationKey": "sigtuna",
@@ -1619,18 +1623,22 @@
       "keyword_en": "sigtuna viking town",
       "title_de": "Sigtuna: Koenigsstadt am Maelaren",
       "title_en": "Sigtuna: The Royal Town on Lake Malaren",
-      "imagePolicy": "real-photo"
+      "imagePolicy": "real-photo",
+      "note": "Cloud-Backup 2026-10-16: DE/EN bereits fertig geschrieben und recherchiert, liegt in content/pending-images/sigtuna/. Blockiert NUR am Hero-Bild (Sandbox-Netzwerk-Policy verweigerte Wikimedia-Zugriff). Vor Neuschreiben bitte dort pruefen und nur das Bild ergaenzen."
     },
     {
       "translationKey": "piraeus-lion",
-      "status": "todo",
+      "status": "done",
       "category": "Runen & Symbole",
       "artistKey": "domsgard",
       "keyword_de": "piräus löwe runen",
       "keyword_en": "piraeus lion runes",
       "title_de": "Der Piraeus-Loewe: Runen auf einer antiken Statue",
       "title_en": "The Piraeus Lion: Viking Runes on an Ancient Statue",
-      "imagePolicy": "real-photo"
+      "imagePolicy": "real-photo",
+      "queuedDate": "2026-10-16",
+      "slug_de": "piraeus-loewe-runen-statue",
+      "slug_en": "piraeus-lion-viking-runes"
     },
     {
       "translationKey": "viking-longhouse",
