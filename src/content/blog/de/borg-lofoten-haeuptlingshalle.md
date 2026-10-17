@@ -1,7 +1,7 @@
 ---
 title: "Borg auf den Lofoten: die größte Häuptlingshalle der Wikingerzeit"
 description: "Die Häuptlingshalle von Borg auf den Lofoten war mit 83 Metern das größte Langhaus des Nordens. Die Funde, die Grabung und was die Rekonstruktion verschweigt."
-pubDate: 2026-01-01
+pubDate: 2026-10-17
 category: "Geschichte"
 tags: ["Borg", "Lofoten", "Langhaus", "Häuptlingshalle", "Archäologie", "Wikingerzeit"]
 heroImage: "/images/borg-lofoten-chieftain-hall.jpg"

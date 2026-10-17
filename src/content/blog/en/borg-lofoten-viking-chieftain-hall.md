@@ -1,7 +1,7 @@
 ---
 title: "Borg in Lofoten: Inside the Largest Viking Chieftain Hall Ever Found"
 description: "The Viking chieftain hall at Borg in Lofoten ran 83 metres from gable to gable, the longest ever excavated. The finds, the dig, and what the rebuild invents."
-pubDate: 2026-01-01
+pubDate: 2026-10-17
 category: "Geschichte"
 tags: ["Borg", "Lofoten", "Longhouse", "Chieftain Hall", "Archaeology", "Viking Age"]
 heroImage: "/images/borg-lofoten-chieftain-hall.jpg"
