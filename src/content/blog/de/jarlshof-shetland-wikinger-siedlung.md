@@ -1,7 +1,7 @@
 ---
 title: "Jarlshof auf Shetland: Wikinger-Siedlung am Rand der Welt"
 description: "Jarlshof auf Shetland stapelt 4.000 Jahre Siedlung an einem Ort. Was die Langhäuser der Nordmänner wirklich verraten und warum der Name erfunden wurde."
-pubDate: 2026-01-01
+pubDate: 2026-10-18
 category: "Geschichte"
 tags: ["Jarlshof", "Shetland", "Archäologie", "Langhaus", "Norn", "Wikingerzeit"]
 heroImage: "/images/jarlshof-shetland.jpg"

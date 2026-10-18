@@ -1,7 +1,7 @@
 ---
 title: "Jarlshof in Shetland: A Viking Settlement at the Edge of the World"
 description: "Jarlshof Shetland Viking longhouses sit on 4,000 years of building. What the excavation really proves, and why the famous name was invented by a novelist."
-pubDate: 2026-01-01
+pubDate: 2026-10-18
 category: "Geschichte"
 tags: ["Jarlshof", "Shetland", "Archaeology", "Longhouse", "Norn", "Viking Age"]
 heroImage: "/images/jarlshof-shetland.jpg"
