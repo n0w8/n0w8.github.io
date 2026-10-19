@@ -1,7 +1,7 @@
 ---
 title: "Jorvik: Wie die Wikinger York prägten - die Coppergate-Funde"
 description: "Jorvik war das York der Wikinger. Was die Coppergate-Funde über Handwerk, Handel und Alltag verraten - und warum der Coppergate-Helm kein Wikingerhelm ist."
-pubDate: 2026-01-01
+pubDate: 2026-10-19
 category: "Geschichte"
 tags: ["Jorvik", "York", "Coppergate", "Archäologie", "Wikingerzeit", "England"]
 heroImage: "/images/jorvik-coppergate.jpg"

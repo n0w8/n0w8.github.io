@@ -1,7 +1,7 @@
 ---
 title: "Jorvik: How the Vikings Shaped York - The Coppergate Finds"
 description: "Jorvik was Viking York. What the Coppergate finds reveal about crafts, trade and daily life - and why the famous Coppergate helmet is not a Viking helmet."
-pubDate: 2026-01-01
+pubDate: 2026-10-19
 category: "Geschichte"
 tags: ["Jorvik", "York", "Coppergate", "Archaeology", "Viking Age", "England"]
 heroImage: "/images/jorvik-coppergate.jpg"
