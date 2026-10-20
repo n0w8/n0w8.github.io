@@ -1,7 +1,7 @@
 ---
 title: "Heimdall: The Norse God Who Guards the Rainbow Bridge"
 description: "Heimdall, the Norse god guarding Bifröst: what the Eddas, Snorri and the Húsdrápa really prove about the Gjallarhorn, his nine mothers and golden teeth."
-pubDate: 2026-01-01
+pubDate: 2026-10-20
 category: "Mythologie"
 tags: ["Heimdall", "Bifröst", "Gjallarhorn", "Norse Mythology", "Edda", "Loki"]
 heroImage: "/images/heimdall.jpg"

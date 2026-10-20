@@ -1,7 +1,7 @@
 ---
 title: "Heimdall: Der Wächter der Regenbogenbrücke"
 description: "Heimdall, der Wächter an der Bifröst: Was Edda, Snorri und die Húsdrápa über Gjallarhorn, neun Mütter und goldene Zähne wirklich belegen - und was nicht."
-pubDate: 2026-01-01
+pubDate: 2026-10-20
 category: "Mythologie"
 tags: ["Heimdall", "Bifröst", "Gjallarhorn", "Nordische Mythologie", "Edda", "Loki"]
 heroImage: "/images/heimdall.jpg"
