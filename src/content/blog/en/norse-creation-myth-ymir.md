@@ -1,7 +1,7 @@
 ---
 title: "The Norse Creation Myth: Ymir, Ginnungagap and the First Humans"
 description: "The Norse creation myth in full: Ginnungagap, the giant Ymir, the cow Audhumla and the first humans Ask and Embla, as the Eddas and Snorri actually tell it."
-pubDate: 2026-01-01
+pubDate: 2026-10-21
 category: "Mythologie"
 tags: ["Ymir", "Ginnungagap", "Norse Mythology", "Poetic Edda", "Ask and Embla", "Audhumla"]
 heroImage: "/images/norse-creation-myth.jpg"

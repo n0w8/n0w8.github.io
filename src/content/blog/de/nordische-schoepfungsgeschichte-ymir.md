@@ -1,7 +1,7 @@
 ---
 title: "Die nordische Schöpfungsgeschichte: Ymir, Ginnungagap und die ersten Menschen"
 description: "Nordische Schöpfungsgeschichte: Ginnungagap, der Urriese Ymir, die Kuh Audhumla und die ersten Menschen Ask und Embla - was Edda und Snorri wirklich sagen."
-pubDate: 2026-01-01
+pubDate: 2026-10-21
 category: "Mythologie"
 tags: ["Ymir", "Ginnungagap", "Nordische Mythologie", "Edda", "Ask und Embla", "Audhumla"]
 heroImage: "/images/norse-creation-myth.jpg"
