@@ -1,7 +1,7 @@
 ---
 title: "Hnefatafl: Das Brettspiel der Wikinger und seine Regeln"
 description: "Hnefatafl war das Brettspiel der Wikinger: Ein König flieht, die doppelte Übermacht jagt ihn. Die Regeln, die echten Funde und warum Schach es verdrängte."
-pubDate: 2026-01-01
+pubDate: 2026-10-22
 category: "Alltag & Kultur"
 tags: ["Hnefatafl", "Wikinger Brettspiel", "Tafl", "Tablut", "Birka", "Baldursheimur"]
 heroImage: "/images/hnefatafl.jpg"

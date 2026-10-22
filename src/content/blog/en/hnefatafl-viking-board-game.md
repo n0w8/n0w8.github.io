@@ -1,7 +1,7 @@
 ---
 title: "Hnefatafl: The Viking Board Game and Its Rules"
 description: "Hnefatafl, the Viking board game: one king runs, twice his number hunt him down. The rules, the real grave finds and why chess eventually pushed it aside."
-pubDate: 2026-01-01
+pubDate: 2026-10-22
 category: "Alltag & Kultur"
 tags: ["Hnefatafl", "Viking Board Game", "Tafl", "Tablut", "Birka", "Baldursheimur"]
 heroImage: "/images/hnefatafl.jpg"
