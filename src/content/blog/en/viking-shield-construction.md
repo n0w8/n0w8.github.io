@@ -1,7 +1,7 @@
 ---
 title: "Viking Shield Construction: Materials, Build and the Shield Wall"
 description: "Viking shield construction explained: which wood, which boss, what weight, and what the Gokstad and Trelleborg finds really tell us about the shield wall."
-pubDate: 2026-01-01
+pubDate: 2026-10-23
 category: "Krieger & Schlachten"
 tags: ["Viking Shield", "Shield Wall", "Shield Boss", "Gokstad", "Trelleborg", "Viking Age"]
 heroImage: "/images/viking-shield-construction.jpg"

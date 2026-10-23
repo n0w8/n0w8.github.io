@@ -1,7 +1,7 @@
 ---
 title: "Wikinger Schild Aufbau: Material, Bauweise und Schildwall"
 description: "Wikinger Schild Aufbau im Faktencheck: welches Holz, welcher Buckel, welches Gewicht und was die Funde von Gokstad und Trelleborg über den Schildwall verraten."
-pubDate: 2026-01-01
+pubDate: 2026-10-23
 category: "Krieger & Schlachten"
 tags: ["Wikinger Schild", "Schildwall", "Schildbuckel", "Gokstad", "Trelleborg", "Wikingerzeit"]
 heroImage: "/images/viking-shield-construction.jpg"
