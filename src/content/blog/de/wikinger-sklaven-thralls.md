@@ -1,7 +1,7 @@
 ---
 title: "Thralls: Wikinger-Sklaven und der Handel mit Menschen"
 description: "Wikinger-Sklaven: Wer die Thralls wirklich waren, wie der Handel mit Menschen von Dublin bis Bagdad lief und was Gesetze, Sagas und Gräber über sie verraten."
-pubDate: 2026-01-01
+pubDate: 2026-10-24
 category: "Alltag & Kultur"
 tags: ["Thralls", "Wikinger Sklaven", "Sklaverei", "Rígsþula", "Menschenhandel", "Gulathing"]
 heroImage: "/images/viking-thralls.jpg"

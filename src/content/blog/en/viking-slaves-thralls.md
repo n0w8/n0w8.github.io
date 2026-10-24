@@ -1,7 +1,7 @@
 ---
 title: "Thralls: Viking Slaves and the Trade in People"
 description: "Viking slaves: who the thralls really were, how the trade in people ran from Dublin to Baghdad, and what the law codes, sagas and graves reveal about them."
-pubDate: 2026-01-01
+pubDate: 2026-10-24
 category: "Alltag & Kultur"
 tags: ["Thralls", "Viking Slaves", "Slavery", "Rígsþula", "Slave Trade", "Gulathing"]
 heroImage: "/images/viking-thralls.jpg"
