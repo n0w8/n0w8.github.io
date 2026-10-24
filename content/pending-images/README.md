@@ -23,6 +23,18 @@ intern dieselbe Commons-API und scheitert deshalb ebenfalls.
 -> `commons.wikimedia.org` und `upload.wikimedia.org` zu den Allowed Domains hinzufuegen
 (oder Netzwerkzugriff grosszuegiger stellen).
 
+**Erneut bestaetigt am 2026-10-24** (Cloud-Backup-Lauf, Queue-Stand 8/60): Block besteht
+weiterhin unveraendert. Getestet per curl gegen `commons.wikimedia.org`, `upload.wikimedia.org`,
+`commons.m.wikimedia.org`, `en.wikipedia.org` und `api.wikimedia.org` - jedes Mal 403
+"connect_rejected" am Egress-Proxy. Zum Vergleich: `github.com` liefert im selben Lauf ein
+normales `200 Connection Established`, d.h. der Proxy selbst funktioniert, nur Wikimedia ist
+per Policy gesperrt. Es wurde daher bewusst KEIN neuer Artikel in `content/queue/` oder hier
+abgelegt (die 5 bestehenden Entwuerfe unten sind inhaltlich unveraendert) und auch kein
+Ersatzbild (KI-generiert oder von einer anderen Quelle als Wikimedia Commons) verwendet, da
+das ausdruecklich nicht erlaubt ist. Ohne eine Anpassung der Allowed Domains bleibt dieser
+Weg fuer JEDES Thema mit `imagePolicy: real-photo` blockiert, nicht nur fuer die 5 hier
+gelisteten.
+
 ## Wie man einen Eintrag fertigstellt
 
 Sobald Netzwerkzugriff besteht:
