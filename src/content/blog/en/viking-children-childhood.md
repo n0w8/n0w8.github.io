@@ -1,7 +1,7 @@
 ---
 title: "Childhood Among the Vikings: Toys, Work and Growing Up"
 description: "Viking children and childhood: what toy finds, graves and sagas reveal about play, farm work, fosterage and the age at which a Norse child became an adult."
-pubDate: 2026-01-01
+pubDate: 2026-10-25
 category: "Alltag & Kultur"
 tags: ["Viking Children", "Childhood", "Toys", "Upbringing", "Fosterage", "Norse Society"]
 heroImage: "/images/viking-children.jpg"

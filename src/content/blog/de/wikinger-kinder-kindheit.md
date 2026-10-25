@@ -1,7 +1,7 @@
 ---
 title: "Kindheit bei den Wikingern: Spielzeug, Arbeit und Erwachsenwerden"
 description: "Kindheit bei den Wikingern: Was Spielzeugfunde, Gräber und Sagas über Arbeit, Pflegekinder und das Erwachsenwerden der Wikinger-Kinder wirklich verraten."
-pubDate: 2026-01-01
+pubDate: 2026-10-25
 category: "Alltag & Kultur"
 tags: ["Wikinger Kinder", "Kindheit", "Spielzeug", "Pflegekinder", "Erziehung", "Nordische Gesellschaft"]
 heroImage: "/images/viking-children.jpg"
