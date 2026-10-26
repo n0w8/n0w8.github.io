@@ -1,7 +1,7 @@
 ---
 title: "Helheim: Das Totenreich der nordischen Mythologie"
 description: "Helheim einfach erklärt: Wer ist Hel, wie kommt man nach Helheim, und warum war das Totenreich der Wikinger kein Ort der Strafe, sondern des Alters und der Krankheit."
-pubDate: 2026-01-01
+pubDate: 2026-10-26
 category: "Mythologie"
 tags: ["Helheim", "Hel", "Nordische Mythologie", "Ragnarök", "Edda", "Nordische Götter"]
 heroImage: "/images/helheim.jpg"

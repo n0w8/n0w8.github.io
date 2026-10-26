@@ -1,7 +1,7 @@
 ---
 title: "Helheim: The Norse Underworld Explained"
 description: "Helheim explained: who is Hel, what did the journey to the Norse underworld involve, and why was it a place of exhaustion rather than punishment."
-pubDate: 2026-01-01
+pubDate: 2026-10-26
 category: "Mythologie"
 tags: ["Helheim", "Hel", "Norse Mythology", "Ragnarok", "Edda", "Norse Gods"]
 heroImage: "/images/helheim.jpg"
