@@ -35,6 +35,16 @@ das ausdruecklich nicht erlaubt ist. Ohne eine Anpassung der Allowed Domains ble
 Weg fuer JEDES Thema mit `imagePolicy: real-photo` blockiert, nicht nur fuer die 5 hier
 gelisteten.
 
+**Erneut bestaetigt am 2026-10-26** (Cloud-Backup-Lauf, Queue-Stand 6/60, also unter dem
+20er-Schwellenwert und unter der High-Priority-Schwelle von 10): Block besteht unveraendert.
+Getestet per curl gegen `commons.wikimedia.org` (403 "connect_rejected" am Egress-Proxy) und
+gegen `ntfy.sh` (ebenfalls 403 "connect_rejected" - selbst der Push-Benachrichtigungskanal
+dieses Agenten ist aktuell gesperrt). `__agentproxy/status` zeigt den Host explizit unter
+`recentRelayFailures`. Es wurden auch dieses Mal weder neue Artikel noch Ersatzbilder erzeugt;
+die 5 fertigen Entwuerfe unten sind inhaltlich unveraendert. Die Netzwerk-Policy muss in den
+Environment-Einstellungen angepasst werden (Allowed Domains: commons.wikimedia.org,
+upload.wikimedia.org), sonst bleibt dieser Weg bei jedem weiteren Lauf blockiert.
+
 ## Wie man einen Eintrag fertigstellt
 
 Sobald Netzwerkzugriff besteht:
