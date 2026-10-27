@@ -45,6 +45,15 @@ die 5 fertigen Entwuerfe unten sind inhaltlich unveraendert. Die Netzwerk-Policy
 Environment-Einstellungen angepasst werden (Allowed Domains: commons.wikimedia.org,
 upload.wikimedia.org), sonst bleibt dieser Weg bei jedem weiteren Lauf blockiert.
 
+**Erneut bestaetigt am 2026-10-27** (Cloud-Backup-Lauf, Queue-Stand 5/60, damit erstmals
+unter der High-Priority-Schwelle von 10): Block besteht weiterhin unveraendert. Getestet per
+curl gegen `commons.wikimedia.org` (403 "connect_rejected" am Egress-Proxy, bestaetigt auch
+durch `__agentproxy/status` unter `recentRelayFailures`) und gegen `upload.wikimedia.org`
+(ebenfalls 403). Auch der ntfy.sh-Benachrichtigungskanal ist weiterhin gesperrt (403). Es
+wurden daher erneut weder neue Artikel noch Ersatzbilder erzeugt; die 5 fertigen Entwuerfe
+unten sind inhaltlich unveraendert. Die Vorratskammer sinkt bei jedem Lauf weiter, ohne dass
+der Cloud-Backup-Agent sie fuellen kann, solange die Allowed Domains nicht angepasst werden.
+
 ## Wie man einen Eintrag fertigstellt
 
 Sobald Netzwerkzugriff besteht:
