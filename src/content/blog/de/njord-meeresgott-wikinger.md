@@ -1,7 +1,7 @@
 ---
 title: "Njord: Der nordische Gott des Meeres und der Seefahrt"
 description: "Njord war der wichtigste Gott der Seefahrer: Vater von Freyr und Freyja, Geisel aus dem Krieg der Götter und Ehemann in der unglücklichsten Ehe der nordischen Mythologie."
-pubDate: 2026-01-01
+pubDate: 2026-10-27
 category: "Mythologie"
 tags: ["Njord", "Vanir", "Nordische Mythologie", "Nordische Götter", "Skadi", "Seefahrt"]
 heroImage: "/images/njord.jpg"

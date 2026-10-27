@@ -1,7 +1,7 @@
 ---
 title: "Njord: The Norse God of the Sea and Seafaring"
 description: "Njord was the god every Viking sailor actually needed: father of Freyr and Freyja, a hostage from the war between gods, and husband in mythology's most mismatched marriage."
-pubDate: 2026-01-01
+pubDate: 2026-10-27
 category: "Mythologie"
 tags: ["Njord", "Vanir", "Norse Mythology", "Norse Gods", "Skadi", "Seafaring"]
 heroImage: "/images/njord.jpg"
