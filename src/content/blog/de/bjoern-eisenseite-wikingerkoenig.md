@@ -1,7 +1,7 @@
 ---
 title: "Björn Eisenseite: Wikingerkönig zwischen Saga und Geschichte"
 description: "Björn Eisenseite gilt als Sohn Ragnar Lodbroks und Stammvater schwedischer Könige. Was Sagas, fränkische Chroniken und die TV-Serie Vikings wirklich über ihn sagen."
-pubDate: 2026-01-01
+pubDate: 2026-10-28
 category: "Geschichte"
 tags: ["Björn Eisenseite", "Ragnar Lodbrok", "Wikingerzeit", "Sagas", "Wikingerkönige", "Mittelmeer-Raubzug"]
 heroImage: "/images/bjorn-ironside.jpg"

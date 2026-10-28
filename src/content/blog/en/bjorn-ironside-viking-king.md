@@ -1,7 +1,7 @@
 ---
 title: "Bjorn Ironside: Viking King Between Saga and History"
 description: "Bjorn Ironside is remembered as Ragnar Lothbrok's son and ancestor of Swedish kings. What the sagas, Frankish chronicles, and the TV series Vikings actually say about him."
-pubDate: 2026-01-01
+pubDate: 2026-10-28
 category: "Geschichte"
 tags: ["Bjorn Ironside", "Ragnar Lothbrok", "Viking Age", "Sagas", "Viking Kings", "Mediterranean Raid"]
 heroImage: "/images/bjorn-ironside.jpg"
