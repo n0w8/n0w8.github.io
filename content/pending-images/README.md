@@ -54,6 +54,19 @@ wurden daher erneut weder neue Artikel noch Ersatzbilder erzeugt; die 5 fertigen
 unten sind inhaltlich unveraendert. Die Vorratskammer sinkt bei jedem Lauf weiter, ohne dass
 der Cloud-Backup-Agent sie fuellen kann, solange die Allowed Domains nicht angepasst werden.
 
+**Erneut bestaetigt am 2026-10-28** (Cloud-Backup-Lauf, Queue-Stand 5/60, unter der
+High-Priority-Schwelle von 10, unveraendert seit dem letzten Lauf): Block besteht weiterhin.
+Getestet per curl gegen `commons.wikimedia.org` (403 "connect_rejected" am Egress-Proxy,
+bestaetigt per `__agentproxy/status` unter `recentRelayFailures`) und gegen `ntfy.sh`
+(ebenfalls 403 "connect_rejected" - auch der Push-Kanal dieses Agenten bleibt gesperrt,
+daher konnte keine ntfy-Meldung versendet werden). Es wurden erneut weder neue Artikel noch
+Ersatzbilder erzeugt; die 5 fertigen Entwuerfe unten sind inhaltlich unveraendert. Dies ist
+der fuenfte aufeinanderfolgende Lauf (16., 24., 26., 27., 28.10.2026) mit identischem Befund.
+Ohne eine Anpassung der Allowed Domains (commons.wikimedia.org, upload.wikimedia.org,
+ntfy.sh) in den Environment-Einstellungen bleibt die Vorratskammer bei jedem weiteren
+Cloud-Backup-Lauf unveraendert bei 5/60, da dieser Agent gemaess Vorgabe ausschliesslich
+echte Wikimedia-Fotos verwenden darf und keine Ersatzquelle nutzen darf.
+
 ## Wie man einen Eintrag fertigstellt
 
 Sobald Netzwerkzugriff besteht:
