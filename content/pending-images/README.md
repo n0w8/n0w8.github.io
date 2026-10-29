@@ -67,6 +67,24 @@ ntfy.sh) in den Environment-Einstellungen bleibt die Vorratskammer bei jedem wei
 Cloud-Backup-Lauf unveraendert bei 5/60, da dieser Agent gemaess Vorgabe ausschliesslich
 echte Wikimedia-Fotos verwenden darf und keine Ersatzquelle nutzen darf.
 
+**Erneut bestaetigt am 2026-10-29** (Cloud-Backup-Lauf, Queue-Stand 4/60, unter der
+High-Priority-Schwelle von 10, weiter gesunken seit dem letzten Lauf durch den
+zwischenzeitlichen Auto-Publish): Block besteht unveraendert. Getestet per curl gegen
+`commons.wikimedia.org` und `upload.wikimedia.org` (beide 403 "connect_rejected" am
+Egress-Proxy) und gegen `ntfy.sh` (ebenfalls 403 "connect_rejected" - der Push-Kanal
+dieses Agenten bleibt gesperrt, daher wieder keine ntfy-Meldung moeglich). Alle drei
+Hosts stehen auch in `__agentproxy/status` unter `recentRelayFailures`, der Proxy selbst
+antwortet normal auf andere Hosts. Es wurden erneut weder neue Artikel noch Ersatzbilder
+erzeugt; die 5 fertigen Entwuerfe unten sind inhaltlich unveraendert. Dies ist der sechste
+aufeinanderfolgende Lauf (16., 24., 26., 27., 28., 29.10.2026) mit identischem Befund.
+Da der eigene Benachrichtigungskanal (ntfy.sh) seit mehreren Laeufen ebenfalls blockiert
+ist, kann dieser Agent den fallenden Vorrat nicht mehr selbst melden - das macht an seiner
+Stelle diesmal eine direkte Claude-Code-Benachrichtigung an den Nutzer. Ohne eine Anpassung
+der Allowed Domains (commons.wikimedia.org, upload.wikimedia.org, ntfy.sh) in den
+Environment-Einstellungen bleibt die Vorratskammer bei jedem weiteren Cloud-Backup-Lauf
+blockiert, da dieser Agent gemaess Vorgabe ausschliesslich echte Wikimedia-Fotos verwenden
+darf und keine Ersatzquelle nutzen darf.
+
 ## Wie man einen Eintrag fertigstellt
 
 Sobald Netzwerkzugriff besteht:
