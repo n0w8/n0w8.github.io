@@ -1,7 +1,7 @@
 ---
 title: "The Viking Longhouse: Life Under One Roof"
 description: "The Viking longhouse was home, barn, and workshop all at once. How it was built, who lived inside, and what excavations in Iceland, Denmark, and Norway reveal."
-pubDate: 2026-01-01
+pubDate: 2026-10-29
 category: "Alltag & Kultur"
 tags: ["Longhouse", "Viking Daily Life", "Hedeby", "Archaeology", "Viking Age", "Iceland"]
 heroImage: "/images/viking-longhouse.jpg"

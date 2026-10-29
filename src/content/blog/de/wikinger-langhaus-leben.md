@@ -1,7 +1,7 @@
 ---
 title: "Das Wikinger-Langhaus: Leben unter einem Dach"
 description: "Das Wikinger-Langhaus war Wohnhaus, Stall und Werkstatt zugleich. Wie es gebaut wurde, wer darin wohnte und was Ausgrabungen in Island, Dänemark und Norwegen zeigen."
-pubDate: 2026-01-01
+pubDate: 2026-10-29
 category: "Alltag & Kultur"
 tags: ["Langhaus", "Wikinger Alltag", "Haithabu", "Archäologie", "Wikingerzeit", "Island"]
 heroImage: "/images/viking-longhouse.jpg"
