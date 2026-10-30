@@ -1,7 +1,7 @@
 ---
 title: "Der Schildwall: Wie Wikinger in der Schlacht kämpften"
 description: "Der Schildwall war die wichtigste Kampfformation der Wikingerzeit. Wie die Taktik funktionierte, welche Waffen sie brauchte und was Maldon, Hastings und Stamford Bridge zeigen."
-pubDate: 2026-01-01
+pubDate: 2026-10-30
 category: "Krieger & Schlachten"
 tags: ["Schildwall", "Rundschild", "Stamford Bridge", "Krieger", "Wikinger Waffen", "Wikingerzeit"]
 heroImage: "/images/viking-shield-wall.jpg"

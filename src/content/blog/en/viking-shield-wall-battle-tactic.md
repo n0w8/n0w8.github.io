@@ -1,7 +1,7 @@
 ---
 title: "The Viking Shield Wall: How Vikings Fought in Battle"
 description: "The shield wall was the defining battle formation of the Viking Age. How the tactic worked, what weapons it required, and what Maldon, Hastings, and Stamford Bridge reveal."
-pubDate: 2026-01-01
+pubDate: 2026-10-30
 category: "Krieger & Schlachten"
 tags: ["Shield Wall", "Round Shield", "Stamford Bridge", "Warriors", "Viking Weapons", "Viking Age"]
 heroImage: "/images/viking-shield-wall.jpg"
