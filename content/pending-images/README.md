@@ -85,6 +85,21 @@ Environment-Einstellungen bleibt die Vorratskammer bei jedem weiteren Cloud-Back
 blockiert, da dieser Agent gemaess Vorgabe ausschliesslich echte Wikimedia-Fotos verwenden
 darf und keine Ersatzquelle nutzen darf.
 
+**Erneut bestaetigt am 2026-10-30** (Cloud-Backup-Lauf, Queue-Stand 3/60, damit weiter
+gesunken und weit unter der High-Priority-Schwelle von 10): Block besteht unveraendert.
+Getestet per curl gegen `commons.wikimedia.org` und `upload.wikimedia.org` (beide
+"CONNECT tunnel failed, response 403") sowie gegen `ntfy.sh` (ebenfalls 403). Alle drei
+Hosts stehen auch in `__agentproxy/status` unter `recentRelayFailures` mit der Meldung
+"gateway answered 403 to CONNECT (policy denial or upstream failure)"; andere Hosts wie
+`github.com` funktionieren im selben Lauf normal, der Proxy selbst ist also intakt, nur
+diese drei Hosts sind per Policy gesperrt. Es wurden daher erneut weder neue Artikel noch
+Ersatzbilder erzeugt; die 5 fertigen Entwuerfe unten sind inhaltlich unveraendert. Dies ist
+der siebte aufeinanderfolgende Lauf (16., 24., 26., 27., 28., 29., 30.10.2026) mit
+identischem Befund. Da `ntfy.sh` weiterhin gesperrt ist, erfolgt die Nutzerbenachrichtigung
+erneut direkt per Claude-Code-Push statt per ntfy. Ohne eine Anpassung der Allowed Domains
+(commons.wikimedia.org, upload.wikimedia.org, ntfy.sh) in den Environment-Einstellungen
+bleibt die Vorratskammer bei jedem weiteren Cloud-Backup-Lauf blockiert.
+
 ## Wie man einen Eintrag fertigstellt
 
 Sobald Netzwerkzugriff besteht:
