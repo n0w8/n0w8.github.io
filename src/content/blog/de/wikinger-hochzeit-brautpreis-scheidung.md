@@ -1,7 +1,7 @@
 ---
 title: "Hochzeit bei den Wikingern: Brautpreis, Feier und Scheidung"
 description: "Wikinger-Hochzeiten waren Verträge zwischen Familien, mit Brautpreis, Mitgift und klaren Rechten für Frauen. Was Grágás, Sagas und Þrymskviða über Ehe im Norden verraten."
-pubDate: 2026-01-01
+pubDate: 2026-10-31
 category: "Alltag & Kultur"
 tags: ["Wikinger Hochzeit", "Wikingerfrauen", "Alltag", "Grágás", "Scheidung", "Nordische Gesellschaft"]
 heroImage: "/images/viking-marriage.jpg"

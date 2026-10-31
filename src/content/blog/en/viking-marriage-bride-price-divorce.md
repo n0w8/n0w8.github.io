@@ -1,7 +1,7 @@
 ---
 title: "Viking Marriage: Bride Price, Feast and Divorce"
 description: "Viking marriages were contracts between families, with a bride price, a dowry, and real legal rights for women. What Gragas, the sagas, and Thrymskvida reveal about Norse marriage."
-pubDate: 2026-01-01
+pubDate: 2026-10-31
 category: "Alltag & Kultur"
 tags: ["Viking Marriage", "Viking Women", "Daily Life", "Gragas", "Divorce", "Norse Society"]
 heroImage: "/images/viking-marriage.jpg"
