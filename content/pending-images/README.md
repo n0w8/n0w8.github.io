@@ -100,6 +100,23 @@ erneut direkt per Claude-Code-Push statt per ntfy. Ohne eine Anpassung der Allow
 (commons.wikimedia.org, upload.wikimedia.org, ntfy.sh) in den Environment-Einstellungen
 bleibt die Vorratskammer bei jedem weiteren Cloud-Backup-Lauf blockiert.
 
+**Erneut bestaetigt am 2026-11-01** (Cloud-Backup-Lauf, Queue-Stand 1/60, damit praktisch
+leer und weit unter der High-Priority-Schwelle von 10): Block besteht unveraendert. Getestet
+per curl gegen `commons.wikimedia.org`, `upload.wikimedia.org`, `commons.m.wikimedia.org`,
+`en.wikipedia.org` und `www.wikidata.org` (alle "CONNECT tunnel failed, response 403") sowie
+gegen `ntfy.sh` (ebenfalls 403). Alle sechs Hosts stehen auch in `__agentproxy/status` unter
+`recentRelayFailures` mit der Meldung "gateway answered 403 to CONNECT (policy denial or
+upstream failure)". Es wurden daher erneut weder neue Artikel noch Ersatzbilder erzeugt; die
+5 fertigen Entwuerfe unten sind inhaltlich unveraendert. Dies ist der achte aufeinanderfolgende
+Lauf (16., 24., 26., 27., 28., 29., 30.10., 01.11.2026) mit identischem Befund, und die Queue
+ist seit dem ersten Befund (8/60 am 24.10.) kontinuierlich auf jetzt 1/60 gefallen, ohne dass
+dieser Agent sie je auffuellen konnte. Da `ntfy.sh` weiterhin gesperrt ist, erfolgt die
+Nutzerbenachrichtigung erneut direkt per Claude-Code-Push statt per ntfy. Ohne eine Anpassung
+der Allowed Domains (commons.wikimedia.org, upload.wikimedia.org, ntfy.sh) in den
+Environment-Einstellungen bleibt die Vorratskammer bei jedem weiteren Cloud-Backup-Lauf
+blockiert - und laeuft, sobald der lokale Autopilot ebenfalls pausiert, in absehbarer Zeit
+komplett leer.
+
 ## Wie man einen Eintrag fertigstellt
 
 Sobald Netzwerkzugriff besteht:
