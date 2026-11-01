@@ -1,7 +1,7 @@
 ---
 title: "Der Piräus-Löwe: Runen auf einer antiken Statue"
 description: "Der Piräus-Löwe trägt skandinavische Runen aus der Wikingerzeit, wurde 1687 als Kriegsbeute nach Venedig verschleppt und gibt Runologen bis heute Rätsel auf."
-pubDate: 2026-01-01
+pubDate: 2026-11-01
 category: "Runen & Symbole"
 tags: ["Runen", "Piräus-Löwe", "Warägergarde", "Byzanz", "Venedig", "Wikingerzeit"]
 heroImage: "/images/piraeus-lion.jpg"

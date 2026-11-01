@@ -1,7 +1,7 @@
 ---
 title: "The Piraeus Lion: Viking Runes on an Ancient Statue"
 description: "The Piraeus Lion carries weathered Viking Age runes, was looted to Venice in 1687 by Francesco Morosini, and remains runology's most debated inscription."
-pubDate: 2026-01-01
+pubDate: 2026-11-01
 category: "Runen & Symbole"
 tags: ["Runes", "Piraeus Lion", "Varangian Guard", "Byzantium", "Venice", "Viking Age"]
 heroImage: "/images/piraeus-lion.jpg"
