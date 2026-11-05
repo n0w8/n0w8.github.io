@@ -158,6 +158,19 @@ erneut direkt per Claude-Code-Push statt per ntfy. Ohne eine Anpassung der Allow
 (commons.wikimedia.org, upload.wikimedia.org, ntfy.sh) in den Environment-Einstellungen kann
 dieser Agent die Vorratskammer bei keinem weiteren Lauf fuellen.
 
+**Erneut bestaetigt am 2026-11-05** (Cloud-Backup-Lauf, Queue-Stand weiterhin **0/60**, vierter
+Lauf in Folge bei komplett leerer Vorratskammer): Block besteht unveraendert. Getestet per curl
+gegen `commons.wikimedia.org` ("CONNECT tunnel failed, response 403") und gegen `ntfy.sh`
+(ebenfalls "CONNECT tunnel failed, response 403"). Beide Hosts stehen auch in
+`__agentproxy/status` unter `recentRelayFailures` mit der Meldung "gateway answered 403 to
+CONNECT (policy denial or upstream failure)". Es wurden daher erneut weder neue Artikel noch
+Ersatzbilder erzeugt; die 5 fertigen Entwuerfe unten sind inhaltlich unveraendert. Dies ist der
+zwoelfte aufeinanderfolgende Lauf (16., 24., 26., 27., 28., 29., 30.10., 01., 02., 03., 04.,
+05.11.2026) mit identischem Befund. Da `ntfy.sh` weiterhin gesperrt ist, erfolgt die
+Nutzerbenachrichtigung erneut direkt per Claude-Code-Push statt per ntfy. Ohne eine Anpassung
+der Allowed Domains (commons.wikimedia.org, upload.wikimedia.org, ntfy.sh) in den
+Environment-Einstellungen kann dieser Agent die Vorratskammer bei keinem weiteren Lauf fuellen.
+
 ## Wie man einen Eintrag fertigstellt
 
 Sobald Netzwerkzugriff besteht:
