@@ -171,6 +171,27 @@ Nutzerbenachrichtigung erneut direkt per Claude-Code-Push statt per ntfy. Ohne e
 der Allowed Domains (commons.wikimedia.org, upload.wikimedia.org, ntfy.sh) in den
 Environment-Einstellungen kann dieser Agent die Vorratskammer bei keinem weiteren Lauf fuellen.
 
+**Erneut bestaetigt am 2026-11-07** (Cloud-Backup-Lauf, Queue-Stand weiterhin **0/60**, fuenfter
+Lauf in Folge bei komplett leerer Vorratskammer): Block besteht unveraendert. Getestet per curl
+gegen `commons.wikimedia.org` ("CONNECT tunnel failed, response 403") und gegen `ntfy.sh`
+(ebenfalls "CONNECT tunnel failed, response 403"). Beide Hosts stehen auch in
+`__agentproxy/status` unter `recentRelayFailures` mit der Meldung "gateway answered 403 to
+CONNECT (policy denial or upstream failure)"; `github.com` antwortet im selben Lauf normal
+(HTTP 400 auf GET /, also eine echte GitHub-Antwort, kein Proxy-Block), der Proxy selbst ist
+also intakt, nur diese zwei Hosts sind per Policy gesperrt. Dieser Lauf hat zusaetzlich versucht,
+die Allowed Domains direkt per `update_environment` (commons.wikimedia.org, upload.wikimedia.org,
+ntfy.sh) zu erweitern - der Versuch wurde serverseitig abgelehnt, weil diese Aenderung eine
+Nutzer-Freigabe braucht und bei einem automatisierten, unbeobachteten Scheduled-Lauf niemand
+anwesend ist, der sie erteilen kann. Es wurden daher erneut weder neue Artikel noch Ersatzbilder
+erzeugt; die 5 fertigen Entwuerfe unten sind inhaltlich unveraendert. Dies ist der dreizehnte
+aufeinanderfolgende Lauf (16., 24., 26., 27., 28., 29., 30.10., 01., 02., 03., 04., 05., 07.11.2026)
+mit identischem Befund. Da `ntfy.sh` weiterhin gesperrt ist, erfolgt die Nutzerbenachrichtigung
+erneut direkt per Claude-Code-Push statt per ntfy. Die Allowed-Domains-Aenderung kann nur ein
+Mensch freigeben: entweder durch einen manuell gestarteten ("Run now") Lauf dieser Routine, bei
+dem die Freigabe-Aufforderung live beantwortet werden kann, oder direkt in den
+Environment-Einstellungen (Allowed Domains: commons.wikimedia.org, upload.wikimedia.org,
+ntfy.sh). Ohne das bleibt die Vorratskammer bei 0/60.
+
 ## Wie man einen Eintrag fertigstellt
 
 Sobald Netzwerkzugriff besteht:
