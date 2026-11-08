@@ -192,6 +192,26 @@ dem die Freigabe-Aufforderung live beantwortet werden kann, oder direkt in den
 Environment-Einstellungen (Allowed Domains: commons.wikimedia.org, upload.wikimedia.org,
 ntfy.sh). Ohne das bleibt die Vorratskammer bei 0/60.
 
+**Erneut bestaetigt am 2026-11-08** (Cloud-Backup-Lauf, Queue-Stand weiterhin **0/60**, sechster
+Lauf in Folge bei komplett leerer Vorratskammer): Block besteht unveraendert. Getestet per curl
+gegen `commons.wikimedia.org`, `upload.wikimedia.org` und `ntfy.sh` (alle drei "CONNECT tunnel
+failed, response 403"). Alle drei Hosts stehen auch in `__agentproxy/status` unter
+`recentRelayFailures` mit der Meldung "gateway answered 403 to CONNECT (policy denial or
+upstream failure)"; `github.com` antwortet im selben Lauf normal (HTTP 400 auf GET /, also eine
+echte GitHub-Antwort, kein Proxy-Block), der Proxy selbst ist also intakt, nur diese drei Hosts
+sind per Policy gesperrt. Dieser Agent hat bewusst auf einen erneuten `update_environment`-Versuch
+verzichtet: der letzte Lauf (07.11.) hat das schon einmal versucht und wurde serverseitig
+abgelehnt, weil die Freigabe nur ein Mensch live erteilen kann - ein automatisierter,
+unbeobachteter Scheduled-Lauf hat niemanden, der sie erteilt, ein erneuter Versuch haette also
+nur denselben Fehlschlag wiederholt. Es wurden daher erneut weder neue Artikel noch Ersatzbilder
+erzeugt; die 5 fertigen Entwuerfe unten sind inhaltlich unveraendert. Dies ist der vierzehnte
+aufeinanderfolgende Lauf (16., 24., 26., 27., 28., 29., 30.10., 01., 02., 03., 04., 05., 07.,
+08.11.2026) mit identischem Befund. Da `ntfy.sh` weiterhin gesperrt ist, erfolgt die
+Nutzerbenachrichtigung erneut direkt per Claude-Code-Push statt per ntfy. Die
+Allowed-Domains-Aenderung kann nur ein Mensch freigeben, am einfachsten direkt in den
+Environment-Einstellungen (Allowed Domains: commons.wikimedia.org, upload.wikimedia.org,
+ntfy.sh), unabhaengig von einem Agenten-Lauf.
+
 ## Wie man einen Eintrag fertigstellt
 
 Sobald Netzwerkzugriff besteht:
