@@ -212,6 +212,29 @@ Allowed-Domains-Aenderung kann nur ein Mensch freigeben, am einfachsten direkt i
 Environment-Einstellungen (Allowed Domains: commons.wikimedia.org, upload.wikimedia.org,
 ntfy.sh), unabhaengig von einem Agenten-Lauf.
 
+**Erneut bestaetigt am 2026-11-09** (Cloud-Backup-Lauf, Queue-Stand weiterhin **0/60**, siebter
+Lauf in Folge bei komplett leerer Vorratskammer): Block besteht unveraendert. Getestet per curl
+gegen `commons.wikimedia.org`, `upload.wikimedia.org` und `ntfy.sh` (alle drei "CONNECT tunnel
+failed, response 403"), bestaetigt durch `__agentproxy/status` unter `recentRelayFailures` mit
+der Meldung "gateway answered 403 to CONNECT (policy denial or upstream failure)" fuer genau
+diese drei Hosts; `github.com` antwortet im selben Lauf normal (HTTP 400 auf GET /), der Proxy
+selbst ist also intakt. Wie am 08.11. wurde bewusst auf einen erneuten `update_environment`-Versuch
+verzichtet, da der Lauf vom 07.11. bereits gezeigt hat, dass diese Freigabe nur ein Mensch live
+erteilen kann und ein unbeobachteter Scheduled-Lauf das nicht ausloesen kann. Es wurden daher
+erneut weder neue Artikel noch Ersatzbilder erzeugt; die 5 fertigen Entwuerfe unten sind
+inhaltlich unveraendert. Dies ist der sechzehnte aufeinanderfolgende Lauf (16., 24., 26., 27.,
+28., 29., 30.10., 01., 02., 03., 04., 05., 07., 08., 09.11.2026) mit identischem Befund.
+Zusaetzlich geprueft: Die Git-Historie zeigt seit dem 15.10.2026 keinen einzigen Commit mehr vom
+lokalen "nordweg-autopilot" selbst (nur noch "Auto-publish: daily article from queue" und die
+"Cloud-Backup"-Bestaetigungen dieses Agenten) - der lokale Vorrats-Agent scheint also seit ueber
+drei Wochen keine neuen Artikel mehr erzeugt zu haben, waehrend der taegliche Auto-Publish die
+Queue in derselben Zeit von 60 auf 0 geleert hat. Da `ntfy.sh` weiterhin gesperrt ist, erfolgt die
+Nutzerbenachrichtigung erneut direkt per Claude-Code-Push statt per ntfy, dieses Mal mit
+ausdruecklichem Hinweis auf den vermutlich inaktiven lokalen Autopilot zusaetzlich zur
+Netzwerksperre. Ohne eine Anpassung der Allowed Domains (commons.wikimedia.org,
+upload.wikimedia.org, ntfy.sh) in den Environment-Einstellungen UND eine Pruefung, warum der
+lokale Autopilot pausiert, bleibt die Vorratskammer bei 0/60.
+
 ## Wie man einen Eintrag fertigstellt
 
 Sobald Netzwerkzugriff besteht:
