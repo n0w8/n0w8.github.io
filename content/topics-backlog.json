@@ -1580,7 +1580,7 @@
     },
     {
       "translationKey": "ladby-ship",
-      "status": "todo",
+      "status": "done",
       "category": "Geschichte",
       "artistKey": "domsgard",
       "keyword_de": "ladby schiff",
@@ -1588,7 +1588,9 @@
       "title_de": "Das Ladby-Schiff: Daenemarks einziges Schiffsgrab",
       "title_en": "The Ladby Ship: Denmark's Only Viking Ship Burial",
       "imagePolicy": "real-photo",
-      "note": "Cloud-Backup 2026-10-16: DE/EN bereits fertig geschrieben und recherchiert, liegt in content/pending-images/ladby-ship/. Blockiert NUR am Hero-Bild (Sandbox-Netzwerk-Policy verweigerte Wikimedia-Zugriff). Konkreter Bildkandidat bereits identifiziert: 'Ladbyskibet.jpg' (Malene Thyssen, CC BY-SA), via Wikimedia Commons. Vor Neuschreiben bitte dort pruefen und nur das Bild ergaenzen."
+      "queuedDate": "2026-11-09",
+      "slug_de": "ladby-schiff",
+      "slug_en": "ladby-ship"
     },
     {
       "translationKey": "kaupang",

@@ -259,3 +259,10 @@ und den Backlog-Eintrag in `content/topics-backlog.json` auf `status: "done"` se
 
 Jeder Ordner enthaelt `de.md`, `en.md` und `slugs.json`, alle bereits selbst-geprueft
 (Wortzahl, Frontmatter, interne Links, keine langen Striche, Musik-Embed).
+
+## Nachtrag 09.11.2026 (lokaler Autopilot-Lauf)
+
+Vom lokalen PC aus ist Wikimedia erreichbar (die Sperre betrifft nur die Cloud-Sandbox). `ladby-ship`
+wurde mit echten Fotos fertiggestellt, faktisch korrigiert und nach `content/queue/074-ladby-ship/`
+verschoben. Hinweis: Die Entwuerfe hier enthielten trotz "selbst-geprueft" sachliche Fehler (z. B. "in
+der Antike gepluendert"), also vor dem Einreihen immer gegen Quellen pruefen.
