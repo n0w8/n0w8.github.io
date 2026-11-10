@@ -1,12 +1,13 @@
 ---
-title: "Wikinger-Hygiene: Was Geweihkämme und gefeilte Zähne verraten"
-description: "Wikinger-Hygiene ohne Mythos: wie Verbundkämme aus Geweih entstanden, warum der Samstag laugardagr hieß und was die Kloaken von Jorvik wirklich hergeben."
+title: "Wikinger-Hygiene: Samstagsbad, Kamm und trotzdem Läuse"
+description: "Waren Wikinger sauber? Tägliches Waschen, Bad am Samstag, Kämme und Ohrlöffel, aber auch Läuse und Würmer: was Funde und Quellen wirklich belegen."
 pubDate: 2026-10-13
+updatedDate: 2026-11-10
 category: "Alltag & Kultur"
 tags: ["Wikinger Hygiene", "Körperpflege", "Kamm", "Haithabu", "Jorvik", "Alltag"]
 heroImage: "/images/viking-hygiene.jpg"
 heroImageAlt: "Verzierter wikingerzeitlicher Verbundkamm mit Eisennieten auf schwarzem Museumsstoff"
-readingTime: 9
+readingTime: 11
 translationKey: "viking-hygiene"
 artistKey: "eldruna"
 trackTitle: "Scar - Viking Battle Hymn"
@@ -14,11 +15,26 @@ author: "Die Nordweg-Redaktion"
 draft: false
 ---
 
-Wer in Haithabu gräbt, stößt irgendwann auf eine Schicht, die aussieht wie der Boden einer Schreinerei: Späne, Abschnitte, Sägestaub. Nur ist das Material kein Holz, sondern Geweih. Diese Abfallberge sind der härteste Beleg zum Thema **Wikinger-Hygiene**, den die Archäologie zu bieten hat. Sie zeigen nicht, dass sich ein Häuptling einen schönen Kamm leisten konnte. Sie zeigen, dass im Norden Leute davon lebten, Kämme in Serie herzustellen, und dass es dafür über Generationen genug Käufer gab.
+Die **Wikinger-Hygiene** war besser als ihr Ruf: Augenzeugen beschreiben tägliches Waschen von Gesicht und Haar, der Samstag hieß altnordisch *laugardagr*, Badetag, und doch belegen die Abfallschichten von York Läuse und Darmwürmer. Sauber nach heutigem Maßstab waren die Nordleute also nicht, gepflegt nach dem Maßstab ihrer Zeit dagegen sehr.
 
-Dieser Artikel geht deshalb nicht noch einmal der Frage nach, ob sich die Wikinger wuschen. Das taten sie, und unser Überblick zum [Alltag der Wikinger](/blog/wikinger-alltag-leben/) führt das übliche Pflege-Set aus Kamm, Pinzette, Ohrlöffel und Rasiermesser samt dem wöchentlichen Waschtag bereits vor. Hier geht es um die Schicht darunter: um das Handwerk hinter dem Gerät, um die Sprachgeschichte des Waschtags, um die Grenzen der Badehaus-These und um den unbequemen Befund aus den Abfallgruben von York.
+Wer in Haithabu gräbt, stößt irgendwann auf eine Schicht, die aussieht wie der Boden einer Schreinerei: Späne, Abschnitte, Sägestaub. Nur ist das Material kein Holz, sondern Geweih. Diese Abfallberge sind der härteste Beleg zur Körperpflege im Norden, den die Archäologie zu bieten hat. Sie zeigen nicht, dass sich ein Häuptling einen schönen Kamm leisten konnte. Sie zeigen, dass im Norden Leute davon lebten, Kämme in Serie herzustellen, und dass es dafür über Generationen genug Käufer gab.
 
-## Wikinger-Hygiene beginnt in der Werkstatt, nicht im Grab
+Dieser Artikel beantwortet zuerst die beiden häufigsten Fragen: ob die Wikinger sauber waren und wie oft sie badeten. Unser Überblick zum [Alltag der Wikinger](/blog/wikinger-alltag-leben/) stellt das übliche Pflege-Set aus Kamm, Pinzette, Ohrlöffel und Rasiermesser samt dem wöchentlichen Waschtag ebenfalls vor. Danach geht es um die Schicht darunter: um das Handwerk hinter dem Gerät, um die Sprachgeschichte des Waschtags, um die Grenzen der Badehaus-These und um den unbequemen Befund aus den Abfallgruben von York.
+
+## Waren Wikinger sauber? Und wie oft badeten sie?
+
+Die Quellen ergeben einen klaren Rhythmus aus täglicher Wäsche und wöchentlichem Bad. Keine davon ist ein neutrales Protokoll, aber sie stammen aus verschiedenen Richtungen und passen erstaunlich gut zusammen.
+
+| Was | Wie oft | Quelle |
+|---|---|---|
+| Hände, Gesicht und Haar waschen, Haar kämmen | täglich, morgens aus einem gemeinsamen Becken | Ibn Fadlan über die Rus an der Wolga, 921/922 |
+| Haar kämmen | täglich | Chronik, die John of Wallingford zugeschrieben wird |
+| Baden, Kleidung wechseln | wöchentlich am Samstag, häufiger Kleiderwechsel | dieselbe Chronik; altnordisch *laugardagr*, Badetag |
+| Wasser und Handtuch für den Gast | bei jeder Bewirtung, als Pflicht des Gastgebers | Hávamál, Strophe 4 |
+
+Dazu kommt das Werkzeug. Zu den typischen Pflegegeräten gehörten neben dem Kamm, der auch gegen Läuse und Nissen half, Pinzetten, Zahnstocher und **Ohrlöffel**, kleine Löffelchen zum Entfernen von Ohrenschmalz. Gerade Ohrlöffel aus Bronze gehören zu den häufigen Kleinfunden wikingerzeitlicher Fundplätze, auch in England. Sauber nach heutigem Verständnis macht all das noch niemanden, wie der Abschnitt zu Coppergate weiter unten zeigt. Aber es zeigt eine Gesellschaft, die Körperpflege als feste tägliche Aufgabe behandelte.
+
+## Wikinger-Kämme aus Geweih: Hygiene beginnt in der Werkstatt
 
 Geweih ist kein beliebiges Material. Es besteht aus einer dichten Außenschicht und einem porösen Kern, und seine Fasern machen es elastisch genug, um feine Zähne auszuhalten, ohne auszusplittern. Knochen ist spröder. Er bricht beim Sägen eher aus und hält dem täglichen Zug durchs Haar schlechter stand. Dass die Kammmacher der Wikingerzeit fast immer Geweih wählten, ist deshalb keine Geschmacksfrage, sondern eine Materialentscheidung von Leuten, die ihr Handwerk kannten. Neben dem Rothirsch lieferten in nördlicheren Regionen auch Elch und Rentier den Rohstoff.
 
@@ -48,7 +64,7 @@ Hör dir *Scar* an, während du weiterliest:
 
 <iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/44mwMKOsN9I" title="Eldruna - Scar (Viking Battle Hymn)" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 
-## Laugardagr: die Sprachgeschichte des nordischen Waschtags
+## Laugardagr: warum der Samstag im Norden Badetag heißt
 
 Der altnordische Name des Samstags lautet **laugardagr**, zusammengesetzt aus *laug* und *dagr*. *Dagr* ist der Tag. *Laug* bezeichnet das Bad und das warme Waschwasser und ist mit dem deutschen Wort Lauge verwandt. Wörtlich heißt der Wochentag also Badetag.
 
@@ -74,17 +90,19 @@ Hier wird die Beweislage dünn, und das sollte man offen sagen. Ein gemauertes B
 
 Dasselbe gilt für die oft wiederholte Behauptung, nordische Männer hätten Haar und Bart mit scharfer Lauge gebleicht. Das altnordische Wort für Seife, *sápa*, existiert, und Plinius der Ältere beschreibt in seiner *Naturalis Historia* eine germanisch-gallische Seife, mit der Haare gefärbt wurden. Plinius schrieb allerdings im ersten Jahrhundert über andere Leute. Wir führen das Bleichen deshalb als plausible Annahme, nicht als Befund.
 
-## Was Fremde über die Nordmänner schrieben
+## John of Wallingford und das Samstagsbad: was Fremde über die Nordmänner schrieben
 
 Die englische Chronik, die **John of Wallingford** zugeschrieben wird, beschwert sich über die Dänen im Land: Sie kämmten täglich ihr Haar, badeten jeden Samstag, wechselten häufig die Kleidung und hätten damit den englischen Frauen den Kopf verdreht. Gemeint war das als Vorwurf gegen Eindringlinge. Übrig bleibt eine Beschreibung von Routine, aufgeschrieben von jemandem, der nicht den geringsten Grund hatte, die Nordleute zu loben. Genau das macht die Stelle wertvoll: Lob aus feindlicher Feder wiegt schwerer als Eigenwerbung.
+
+Zwei Einschränkungen gehören allerdings dazu. Die Chronik stammt nach heutigem Stand nicht von John selbst, sondern von einem unbekannten Mönch des 13. Jahrhunderts, also aus großem zeitlichem Abstand. Und die Stelle steht unmittelbar vor dem Bericht über das Massaker, das König Æthelred am 13. November 1002 an den Dänen in England anordnete. Das Samstagsbad steht also im Zusammenhang einer Anklage, nicht eines Kompliments.
 
 Aus Haithabu selbst kommt eine zweite Stimme. **Ibrahim ibn Yaqub al-Tartuschi**, ein Reisender aus Al-Andalus, besuchte die Handelsstadt um 965 und notierte unter anderem ein künstliches Augen-Make-up, das dort von Männern wie Frauen benutzt worden sei. Körperpflege war im Norden also nicht nur Reinigung, sondern auch Gestaltung. Wer mehr über diesen Umschlagplatz wissen will, findet ihn im Porträt von [Haithabu](/blog/haithabu-handelsstadt-wikinger/).
 
 Die dritte und bekannteste Quelle, der Bericht des arabischen Gesandten Ahmad ibn Fadlan von der Wolga, ist im [Alltags-Artikel](/blog/wikinger-alltag-leben/) bereits eingeordnet: Er kritisierte nicht fehlendes Waschen, sondern das geteilte Wasserbecken.
 
-## Coppergate: Läuse, Würmer und gefeilte Zähne
+## Hatten Wikinger Läuse? Coppergate, Würmer und gefeilte Zähne
 
-Jorvik, das wikingerzeitliche York, liefert die Gegenprobe. In den feuchten, sauerstoffarmen Schichten von **Coppergate** blieb organisches Material erhalten, das anderswo längst vergangen wäre: Läuse, Flöhe, Nissen zwischen Kammzähnen. Berühmt wurde ein 1972 geborgener menschlicher Kotstein vom Gelände der Lloyds Bank, in dem sich Eier von Peitschenwürmern und Spulwürmern nachweisen ließen. Dieselbe Person konnte einen fein verzierten Kamm am Gürtel tragen und Darmparasiten im Bauch.
+[Jorvik](/blog/jorvik-york-wikinger-coppergate/), das wikingerzeitliche York, liefert die Gegenprobe. In den feuchten, sauerstoffarmen Schichten von **Coppergate** blieb organisches Material erhalten, das anderswo längst vergangen wäre: Läuse, Flöhe, Nissen zwischen Kammzähnen. Berühmt wurde ein 1972 geborgener menschlicher Kotstein vom Gelände der Lloyds Bank, in dem sich Eier von Peitschenwürmern und Spulwürmern nachweisen ließen. Dieselbe Person konnte einen fein verzierten Kamm am Gürtel tragen und Darmparasiten im Bauch.
 
 Das ist kein Widerspruch zur Kammproduktion, sondern ihre Erklärung. Gegen Läuse half im zehnten Jahrhundert genau ein Gerät, und es ist dasselbe, das in den Gräbern liegt: ein feinzahniger Kamm, geduldig und oft benutzt. Die Werkstätten von Haithabu bedienten keinen Schönheitsmarkt im modernen Sinn, sondern ein konkretes, dauerhaftes und sehr juckendes Problem. Wasser kam aus Bach, Brunnen oder Fjord und wurde im Kessel über dem Herdfeuer erhitzt, im Winter lebte das Vieh mit im Haus, Stroh und Felle ließen sich nicht auskochen. Unter diesen Bedingungen war der Kamm keine Eitelkeit, sondern die wirksamste verfügbare Technik.
 
@@ -101,6 +119,28 @@ Die Zähne der Toten erzählen zwei Geschichten gleichzeitig. Die erste ist unfr
 | Blondbleichen mit Lauge ist bewiesen | Unklar. Plausibel, aber ohne harten wikingerzeitlichen Beleg |
 | Gefeilte Zähne waren Zahnpflege | Falsch. Körpermodifikation, 2005 von Arcini erstmals systematisch beschrieben |
 | Badehäuser sind für die Wikingerzeit gesichert | Teilweise. Die bekannteste Anlage, Snorralaug, ist hochmittelalterlich |
+
+## Häufige Fragen
+
+### Waren Wikinger sauber?
+
+Für ihre Zeit ja, nach heutigem Maßstab nein. Kämme, Pinzetten und Ohrlöffel sind häufige Funde, und Augenzeugen beschreiben tägliches Waschen und Kämmen. Gleichzeitig belegen die Schichten von Coppergate in York Läuse, Flöhe und Darmparasiten.
+
+### Wie oft badeten die Wikinger?
+
+Gesicht, Hände und Haar wurden nach dem Bericht des Ibn Fadlan täglich gewaschen. Ein gründliches Bad gab es wöchentlich am Samstag, dem *laugardagr* oder Badetag, wie der Wochentagsname und die englische Wallingford-Chronik nahelegen. Wasser wurde dafür im Kessel über dem Herdfeuer erhitzt.
+
+### Welche Pflegegeräte hatten die Wikinger?
+
+Das wichtigste Gerät war der Verbundkamm aus Geweih, oft mit groben und feinen Zähnen gegen Knoten und Nissen. Dazu kamen Pinzetten, Zahnstocher und Ohrlöffel aus Bronze oder Silber. Viele dieser Dinge wurden am Gürtel getragen und landeten später als Beigabe im Grab.
+
+### Was schrieb John of Wallingford über die Wikinger?
+
+Die ihm zugeschriebene Chronik behauptet, die Dänen in England hätten täglich ihr Haar gekämmt, jeden Samstag gebadet und oft die Kleidung gewechselt und so englische Frauen verführt. Geschrieben hat sie ein unbekannter Mönch im 13. Jahrhundert, und gemeint war die Stelle als Vorwurf. Dass ausgerechnet ein Gegner die Pflege der Dänen hervorhebt, macht sie trotz des großen zeitlichen Abstands interessant.
+
+### Hatten Wikinger Läuse?
+
+Ja. In den feuchten Schichten von Coppergate haben sich Läuse, Flöhe und Nissen erhalten, und ein menschlicher Kotstein aus York enthielt Eier von Peitschen- und Spulwürmern. Der feinzahnige Kamm war die wichtigste Waffe gegen dieses Problem.
 
 ## Unsere Einschätzung: Pflege war zuerst ein Handwerk
 

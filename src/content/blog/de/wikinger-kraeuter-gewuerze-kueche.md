@@ -32,7 +32,7 @@ Meiner Einschätzung nach wird dieser Punkt in der Populärkultur regelmäßig a
 
 Der zweite Teil der Antwort steckt im Boden. Archäobotanik, also die Auswertung von Pflanzenresten und Samen aus Siedlungs- und Grabschichten, hat für den nordischen Raum eine ganze Reihe von Würzpflanzen nachgewiesen. Regelmäßig genannt werden **Dill**, **Senf**, **Meerrettich**, **Kümmel**, **Wacholder** und **Koriander**, dazu Wildpflanzen wie **Beifuß** und **Bärlauch**, die niemand anbauen musste, weil sie ohnehin am Waldrand und an der Bachböschung standen.
 
-Ein besonders bekannter Fundkomplex ist die **Oseberg-Bestattung** in Norwegen. In dem Schiffsgrab lagen neben Holz, Textilien und Gerät auch Pflanzenreste, darunter Kresse und Kümmel. Solche Funde sagen uns nicht, wie ein konkretes Gericht geschmeckt hat. Sie sagen uns aber sehr deutlich, dass diese Pflanzen im Alltag präsent waren und mitgenommen wurden.
+Ein besonders bekannter Fundkomplex ist die **Oseberg-Bestattung** in Norwegen. In dem Schiffsgrab lagen neben Holz, Textilien und Gerät auch Samen von Kultur- und Gartenpflanzen, die der Botaniker Jens Holmboe in den 1920er-Jahren untersuchte. Solche Funde sagen uns nicht, wie ein konkretes Gericht geschmeckt hat. Sie sagen uns aber sehr deutlich, dass diese Pflanzen im Alltag präsent waren und mitgenommen wurden.
 
 Was uns dagegen kaum weiterhilft, ist die Literatur. Die Isländersagas erzählen von Gastmählern, von Bier, von Streit am Tisch - über Gewürze schweigen sie fast vollständig. Hier lohnt Skepsis gegenüber allen Texten, die dir ein detailliertes Wikinger-Gewürzregal ausmalen: Diese Detailtiefe gibt keine Quelle her. Was wir haben, sind Samen, Pollen und Pflanzenreste, und die reichen für ein grobes, aber ehrliches Bild.
 
@@ -47,12 +47,12 @@ Noch ein Punkt: Küche und Heilkunde waren im Norden nicht sauber getrennt. Dies
 | Dill | Pflanzen- und Samenreste aus Siedlungsschichten | frisch, leicht anisartig | Fisch, Kräutersalz, Sauerrahm |
 | Senf | Samenfunde in Siedlungskontexten | scharf, beim Rösten nussig | Kräutersalz, Beize, Braten |
 | Meerrettich | Pflanzenreste aus nordischen Fundschichten | brennende Schärfe, süßlicher Nachklang | frisch gerieben zu Fisch und Rind |
-| Kümmel | Samenfunde, unter anderem in der Oseberg-Bestattung | erdig, warm | Kohl, Brot, Käse, Kräutersalz |
+| Kümmel | Samenfunde in nordischen Kontexten | erdig, warm | Kohl, Brot, Käse, Kräutersalz |
 | Wacholder | Beeren und Holz an nordischen Fundplätzen | harzig, waldig, leicht bitter | Wild, Sauerkraut, Kräutersalz |
 | Koriander | Samenfunde in Siedlungs- und Handelsplatzschichten | zitrusartig, warm | Kräutersalz, Brot, Wurzelgemüse |
 | Beifuß | Wildpflanze, Reste an Siedlungsplätzen | herb bis bitter, stark aromatisch | sehr sparsam zu fettem Braten |
 | Bärlauch | Wildpflanze, Reste in Siedlungskontexten | knoblauchartig, mild | Butter, Quark, Frühlingssalz |
-| Kresse | Samen in der Oseberg-Bestattung | scharf, pfeffrig | frisch über Ei, Brot und Suppe |
+| Kresse | Samenfunde in nordischen Kontexten | scharf, pfeffrig | frisch über Ei, Brot und Suppe |
 
 ## Pfeffer, Zimt und der lange Weg nach Norden
 

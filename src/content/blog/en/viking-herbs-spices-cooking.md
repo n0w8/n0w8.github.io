@@ -1,12 +1,13 @@
 ---
-title: "How Did Vikings Season Their Food? Herbs and Spices of the North"
-description: "Viking herbs and spices in real Norse cooking: salt, dill, juniper and mustard, what the finds really show, plus a recipe for Nordic herb salt with juniper."
+title: "What Spices Did Vikings Use? 9 Herbs and a Recipe"
+description: "What spices did Vikings use? Salt, dill, mustard, caraway, juniper and wild herbs, what the finds say about pepper, plus a 30-minute Nordic herb salt."
 pubDate: 2026-08-31
+updatedDate: 2026-11-10
 category: "Rezepte"
 tags: ["Herbs", "Spices", "Viking Kitchen", "Herb Salt", "Recipes"]
 heroImage: "/images/viking-herbs.jpg"
 heroImageAlt: "Ripe blue juniper berries on a branch against a blurred forest background"
-readingTime: 7
+readingTime: 9
 translationKey: "viking-herbs"
 artistKey: "eldruna"
 trackTitle: "Eldruna - Drunken Viking"
@@ -14,7 +15,16 @@ author: "The Nordweg Editorial Team"
 draft: false
 ---
 
+**Viking herbs and spices** were mostly home-grown or gathered: dill, mustard, caraway, juniper, cress and coriander, plus wild thyme, angelica and ramsons, with hard-won salt as the most precious seasoning of all. Pepper and cinnamon, by contrast, have left no confirmed trace in Viking Age finds. The details, the evidence and a recipe for a Nordic herb salt follow below.
+
 There is a stubborn picture in most people's heads: the North ate grey. Boiled meat, thin porridge, a pinch of salt on a lucky day. Sieve through what archaeologists pull from Norse settlement layers and that picture falls apart. Viking herbs and spices existed, and cooking in the North had flavour, just not the flavours in our spice rack today. It seasoned differently, not less.
+
+**At a glance**
+
+- **Everyday seasonings:** salt, dill, mustard, caraway, juniper, cress, coriander
+- **Gathered wild:** thyme, yarrow, angelica, bog myrtle, ramsons, mugwort
+- **Unproven luxuries:** pepper and cinnamon, no confirmed Viking Age find
+- **Recipe below:** Nordic herb salt, 1 jar (about 125 g), 30 minutes, keeps about 6 months
 
 And it leaned hard on one thing we now take for granted: salt. At the end of this article you will find a recipe built around exactly that, a Nordic herb salt with juniper and dill, twenty minutes of work for a jar that lasts months.
 
@@ -32,7 +42,7 @@ The Nordweg editorial team keeps noticing how thoroughly popular culture inverts
 
 The second half of the answer comes out of the soil. Archaeobotany, the study of seeds and plant remains from settlement and burial layers, has identified a set of flavouring plants across the Norse world. The names that recur are **dill**, **mustard**, **horseradish**, **caraway**, **juniper** and **coriander**, plus wild **mugwort** and **ramsons** (wild garlic), which nobody had to cultivate because they grew along the wood edge anyway.
 
-One especially well known context is the **Oseberg burial** in Norway. Alongside timber, textiles and equipment, the ship grave held plant remains, among them cress and caraway. Such finds never tell us how a dish tasted, but they do tell us these plants were part of daily life and worth taking along.
+One especially well known context is the **Oseberg burial** in Norway. Alongside timber, textiles and equipment, the ship grave held seeds of cultivated and garden plants, which the botanist Jens Holmboe examined in the 1920s. Such finds never tell us how a dish tasted, but they do tell us these plants were part of daily life and worth taking along.
 
 The written sources barely help. The Icelandic sagas describe feasts, ale and arguments across the table, but stay nearly silent on seasoning. Be sceptical of any article painting a detailed Viking spice cupboard: no source supports that. Seeds, pollen and plant fragments are what we actually have.
 
@@ -47,18 +57,18 @@ Kitchen and medicine were not cleanly separated here either: the same plants tha
 | Dill | plant and seed remains from settlement layers | fresh, faintly aniseed | fish, herb salt, sour cream |
 | Mustard | seed finds in settlement contexts | sharp, nutty once toasted | herb salt, cures, roasts |
 | Horseradish | plant remains from Norse layers | burning heat, sweet finish | freshly grated over fish and beef |
-| Caraway | seed finds, including the Oseberg burial | earthy, warm | cabbage, bread, cheese, herb salt |
+| Caraway | seed finds in Norse contexts | earthy, warm | cabbage, bread, cheese, herb salt |
 | Juniper | berries and wood at Norse sites | resinous, woodland, slightly bitter | game, sauerkraut, herb salt |
 | Coriander | seed finds in settlement and trading-site layers | citrus, warm | herb salt, bread, root vegetables |
 | Mugwort | wild plant, remains at settlement sites | bitter, strongly aromatic | very sparingly with fatty roasts |
 | Ramsons | wild plant, remains in settlement contexts | garlicky but mild | butter, curd cheese, spring salt |
-| Cress | seeds in the Oseberg burial | sharp, peppery | fresh over eggs, bread and soup |
+| Cress | seed finds in Norse contexts | sharp, peppery | fresh over eggs, bread and soup |
 
 ## Pepper, Cinnamon and the Long Road North
 
-So what about the classics? Pepper and cinnamon were known in the North. Viking Age trade routes ran a long way, down the Russian rivers to Byzantium and into the Islamic world, and silver and silk were not the only cargo. Spices travelled too.
+So what about the classics? Viking Age trade routes ran a long way, down the Russian rivers to Byzantium and into the Islamic world, so pepper or cinnamon could in principle have travelled north alongside the silver and silk. The ground has not confirmed it, though. A 2023 study of *Gribshunden*, a Danish royal ship that sank in 1495 with its spice stores on board, notes that exotic spices in medieval Scandinavia had been known mainly from sparse written references, and the only earlier peppercorns it cites come from 13th-century Turku and a 15th-century latrine in Næstved. Both lie well after the Viking Age.
 
-But everything arriving that way was luxury. A pouch of pepper carried a value no farm would waste on a weekday meal. Such imports belonged to the people who wore silk and silver, and they turned up at feasts, not in the daily porridge. Recreate Viking cooking with them and you are recreating an aristocratic table, not an ordinary one.
+If anything of the kind did arrive, it was luxury. A pouch of pepper would have carried a value no farm would waste on a weekday meal. Such imports belonged to the people who wore silk and silver, and they would have turned up at feasts, not in the daily porridge. Recreate Viking cooking with them and you are recreating an aristocratic table at best, not an ordinary one.
 
 You do not need them anyway. Juniper, dill, mustard and caraway carry a dish on their own, and they are superb with a warm [Viking flatbread](/en/blog/viking-flatbread-recipe/) from the pan. The recipe below is a modern kitchen version, not a surviving original from the Viking Age, because no such thing exists. What is old about it are the plants and the principle.
 
@@ -88,11 +98,37 @@ You will also need a mortar and pestle and a clean, bone-dry screw-top jar. On r
 
 ## Tips & Variations
 
-- **Turn it into herb butter:** Beat 250 g soft butter with 2 heaped tsp of the herb salt, 1 tbsp chopped dill and 4 crushed juniper berries. Roll it in cling film and chill at least 2 hours. It keeps a week in the fridge, three months frozen. On fish, on lamb, or melting into warm flatbread, it is hard to beat.
+- **Turn it into herb butter:** Beat 250 g soft butter with 2 heaped tsp of the herb salt, 1 tbsp chopped dill and 4 crushed juniper berries. Roll it in cling film and chill at least 2 hours. It keeps a week in the fridge, three months frozen. On fish, on lamb, or melting into warm flatbread, it is hard to beat. If you want to churn the butter itself from cream first, our [Viking herb butter recipe](/en/blog/viking-herb-butter-recipe/) walks you through it.
 - **Using fresh herbs:** Swap the dried dill for 20 g fresh dill, but mix it into the salt first and dry the batch at 50 C for 60 to 90 minutes. Skip that and the jar will clump and eventually mould.
 - **Horseradish version:** Stir in 1 tsp horseradish powder after grinding. Freshly grated horseradish has no place in a storage jar, so add that just before serving.
 - **Coarse grilling salt:** Crack everything briefly and keep the grind rougher. Scattered over meat off the grill at the last second, it is a small revelation.
 - **Clumped?** Residual moisture got in, usually off a damp spoon. Spread the blend out for another 10 minutes at 50 C, cool it, break it up and refill the jar. Only ever use a dry spoon.
+
+## FAQ
+
+### What spices did the Vikings use?
+
+Mostly plants they could grow or gather themselves. The finds discussed above point to dill, mustard, caraway, juniper, cress and coriander, and the Viking Ship Museum in Roskilde adds thyme, yarrow, angelica and bog myrtle gathered from the wild, plus onions, garlic and leeks from the garden. Salt was the most valuable seasoning of all.
+
+### Did Vikings use salt?
+
+Yes, but sparingly, because it was expensive to get. It was made by boiling down seawater or the brine from burnt seaweed, or imported from the Baltic region. That cost is the reason so much northern food was dried, smoked or soured instead of salted.
+
+### Did the Vikings have pepper?
+
+There is no confirmed archaeological find of pepper from the Viking Age North. The earliest peppercorns from medieval Scandinavia cited in the 2023 *Gribshunden* study come from 13th-century Turku, more than a century after the Viking Age ended. Pepper may still have reached the North now and then along the eastern trade routes, but if so it was a rare luxury, not an everyday spice.
+
+### Did Vikings use garlic and onions?
+
+Yes. The Viking Ship Museum in Roskilde lists onions, garlic and leeks among the vegetables grown in Viking Age gardens, and ramsons, the wild garlic of the woods, grew without any help at all. Norway's early provincial laws even protected enclosed gardens growing angelica, onions and cabbage against theft and damage.
+
+### How did Vikings sweeten their food?
+
+With honey. It was the only sweetener available in the North at the time, used both in food and in mead. Sugar as we know it played no part in Viking cooking.
+
+### What herbs did Vikings put in their beer?
+
+Hops and bog myrtle, also called sweet gale. According to the Viking Ship Museum in Roskilde, beer was brewed from barley and flavoured with both, and the museum places it at special occasions and in wealthier homes rather than on the everyday table.
 
 If this has given you an appetite for more of the northern kitchen, it comes from the same workshop as our collection. The cookbook **"Viking Feast - The Great Viking Cookbook"** gathers 141 recipes, from stews and breads to roasts and the drinks that belong with them. [To the cookbook](/en/cookbook/)
 
@@ -100,7 +136,7 @@ If this has given you an appetite for more of the northern kitchen, it comes fro
 
 The honest answer to how Vikings seasoned their food: with whatever grew outside the door, and with salt they had worked hard to make. No cinnamon, no peppercorn rack, but juniper from the woods, dill from the garden, mustard from their own fields.
 
-That is why this herb salt works. It does not pretend to be a thousand years old. It takes the plants genuinely in use back then into a kitchen with an oven and a screw-top jar. Scatter it over fried fish and somebody on the Oslofjord a thousand years ago would have recognised the flavour at once.
+That is why this herb salt works. It does not pretend to be a thousand years old. It takes the plants genuinely in use back then into a kitchen with an oven and a screw-top jar. Scatter it over [fried herring](/en/blog/fried-herring-recipe-viking/) and somebody on the Oslofjord a thousand years ago would have recognised the flavour at once.
 
 <script type="application/ld+json">
 {

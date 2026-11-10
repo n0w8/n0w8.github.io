@@ -33,8 +33,8 @@ This is where kitchen romance meets archaeology. We know a surprising amount abo
 | Leek and ramsons (*geirlaukr*) | saga texts, place names, common wild plant | seasoning, wound care |
 | Dill | seed finds across northern European settlement layers | fish and dairy seasoning |
 | Coriander | seeds in Viking Age trading contexts, including York | seasoning, partly imported |
-| Mustard | seed finds, among them the Oseberg ship | sharp seasoning, paste |
-| Garden cress (*Lepidium sativum*) | seeds from the Oseberg ship burial (buried 834) | fresh pepperiness |
+| Mustard | seed finds in Norse contexts | sharp seasoning, paste |
+| Garden cress (*Lepidium sativum*) | seed finds in Norse contexts | fresh pepperiness |
 | Angelica (*hvönn*) | protected as a garden crop in the Norwegian Gulathing law | vegetable, seasoning, medicine |
 | Juniper | native across northern Europe, frequent in settlement debris | smoking and seasoning meat |
 | Wild thyme | native to Scandinavia, no firm archaeological find | probably seasoning |

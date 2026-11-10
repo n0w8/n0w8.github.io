@@ -33,8 +33,8 @@ Hier trennt sich Küchenromantik von Archäologie. Wir wissen erstaunlich genau,
 | Lauch und Bärlauch (*geirlaukr*) | Sagatexte, Ortsnamen, weit verbreitete Wildpflanze | Würze, Heilkunde |
 | Dill | Samenfunde in nordeuropäischen Siedlungsschichten | Würze für Fisch und Milchprodukte |
 | Koriander | Samen im wikingerzeitlichen Handelsmilieu, u. a. York | Würze, teils Importware |
-| Senf | Samenfunde, unter anderem im Oseberg-Schiff | scharfe Würze, Paste |
-| Gartenkresse (*Lepidium sativum*) | Samen im Oseberg-Schiffsgrab (bestattet 834) | frische Schärfe |
+| Senf | Samenfunde in nordischen Kontexten | scharfe Würze, Paste |
+| Gartenkresse (*Lepidium sativum*) | Samenfunde in nordischen Kontexten | frische Schärfe |
 | Engelwurz (*hvönn*) | im norwegischen Gulathing-Recht als Gartenpflanze geschützt | Gemüse, Würze, Heilpflanze |
 | Wacholder | in ganz Nordeuropa heimisch, häufig in Siedlungsresten | Räuchern, Würzen von Fleisch |
 | Wilder Thymian | heimisch in Skandinavien, kein eindeutiger Fundnachweis | vermutlich Würze |

@@ -16,7 +16,7 @@ draft: false
 
 Draw the **Norse gods family tree** on paper and something strange happens. The boxes fill up quickly, the lines start crossing, and within three generations you are drawing arrows to the giants, the very creatures the gods spend the whole mythology fighting. That is not a mistake in the diagram. It is the mythology.
 
-The Aesir are not a sealed dynasty. They are a mixed household built out of marriages into enemy families, hostages traded after a war, and at least one adopted outsider who turns out to be the father of the monsters that will end the world. Odin is half giant on his mother's side. So is Thor, on his. Once you stop expecting a tidy royal lineage, the whole structure makes far more sense.
+The Aesir are not a sealed dynasty. They are a mixed household built out of marriages into enemy families, hostages traded after a war, and at least one adopted outsider who turns out to be the father of the monsters that will end the world. Odin is half giant on his mother's side. So is Thor, on his. Once you stop expecting a tidy royal lineage, the whole structure makes far more sense. If you want to meet the individual gods and their roles first, start with our [guide to the Norse gods](/en/blog/norse-gods/).
 
 ## Where the Norse gods family tree actually comes from
 

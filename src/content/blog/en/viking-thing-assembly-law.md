@@ -1,7 +1,8 @@
 ---
-title: "The Thing Assembly: How Viking Law Was Actually Spoken"
-description: "Viking thing assembly law explained: how a case reached court, what fines, outlawry and confiscation meant, and why one procedural slip could sink a whole suit."
+title: "Viking Law: Fines, Outlawry and the Thing Trial"
+description: "Viking law explained: how a case reached the thing, what fines, outlawry and confiscation meant, and why one procedural slip could sink a whole lawsuit."
 pubDate: 2026-09-22
+updatedDate: 2026-11-10
 category: "Alltag & Kultur"
 tags: ["Thing Assembly", "Viking Law", "Grágás", "Althing", "Outlawry", "Lawspeaker"]
 heroImage: "/images/viking-thing-assembly.jpg"
@@ -13,6 +14,8 @@ trackTitle: "Domsgard - Víkingr (Full Album)"
 author: "The Nordweg Editorial Team"
 draft: false
 ---
+
+**Viking law** had no police and no prosecutor: whoever was wronged had to bring the case to the thing in person, and whoever lost paid a fine or was outlawed, which in Iceland at its harshest (skóggangr, full outlawry) meant anyone could kill him without penalty.
 
 A quarrel over grazing land, a killing in midwinter, a land sale gone bad. If you were wronged in the Viking Age there was nobody to report it to. No police, no prosecutor, no salaried judge, and in Iceland, for well over three centuries, not even a king. What there was instead was the assembly, and a body of Viking thing assembly law that specified in remarkable detail how a man was supposed to bring his grievance forward. So the real question is not whether the Norse were fair-minded. It is procedural: deadlines, witnesses, set phrases, and above all the awkward matter of who enforced a verdict once it had been handed down.
 

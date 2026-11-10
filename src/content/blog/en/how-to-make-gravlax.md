@@ -35,7 +35,7 @@ Behind every one of these techniques sits the same constraint: salt was scarce a
 | Burying (fermenting) | earth, little salt, time | soft, sour, very pungent | one winter |
 | Curing (modern gravlax) | salt, sugar, dill, cold | firm, mild, sliceable paper-thin | 5 to 7 days |
 
-Dill itself is well documented in the North. The Oseberg ship burial, dated by dendrochronology to 834, held seeds of dill and cress alongside apples, hazelnuts and wheat. It is the one part of this recipe that rests on solid archaeological ground.
+Dill calls for some honesty. The Oseberg ship burial, dated by dendrochronology to 834, did contain seeds of cultivated and garden plants, studied by the botanist Jens Holmboe in the 1920s, but we could not trace a clearly published Viking Age find of dill. Pairing dill with cured salmon is above all a tradition of later centuries.
 
 The sugar does not. Cane sugar stayed a luxury import in Scandinavia well into the modern period and only became cheap with the beet sugar industry of the nineteenth century. The mild, sweet-salty gravlax we know today is therefore a modern refinement of a very old idea, not a Viking dish. Our honest view after several batches: that takes nothing away from the recipe, it just means you should not sell it as an excavation report. To get closer to the historical method, follow the smoke rather than the sugar, as in our guide to [hot-smoking trout](/en/blog/hot-smoked-trout-viking-method/).
 

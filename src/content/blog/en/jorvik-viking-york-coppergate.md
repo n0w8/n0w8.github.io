@@ -14,7 +14,7 @@ author: "The Nordweg Editorial Team"
 draft: false
 ---
 
-There is a second city underneath the shopping streets of York. Its name was **Jorvik**, it was probably the second largest town in England after London during the tenth century, and it survived in waterlogged, oxygen-starved ground more completely than almost any other Viking Age settlement. Anyone who wants to know how the Vikings actually lived in York ends up at one street: Coppergate. Between 1976 and 1981 archaeologists dug roughly 1,000 square metres of it, in places down to nine metres, and pulled out a world made of timber, leather, cloth and bone. Which is to say, made of exactly the materials that rot away to nothing on an ordinary excavation.
+There is a second city underneath the shopping streets of York. Its name was **Jorvik**, it was probably the second largest town in England after London during the tenth century, and it survived in waterlogged, oxygen-starved ground more completely than almost any other Viking Age settlement. Anyone who wants to know how the Vikings actually lived in York ends up at one street: Coppergate. Between 1976 and 1981 archaeologists dug roughly 1,000 square metres of it and pulled out a world made of timber, leather, cloth and bone. Which is to say, made of exactly the materials that rot away to nothing on an ordinary excavation.
 
 ## From Eboracum to Eoforwic to Jorvik
 
@@ -24,7 +24,7 @@ Geography explains why a major town rose here three times over. York sits at the
 
 A short timeline puts the key dates in order:
 
-- **1 November 866:** The Great Heathen Army takes York, on All Saints' Day according to the Anglo-Saxon Chronicle.
+- **November 866:** The Great Heathen Army takes York.
 - **21 March 867:** The Northumbrian kings Osberht and Ælla are killed attempting to retake the city.
 - **876:** Halfdan shares out the land of Northumbria among his men. An army camp turns into permanent settlement.
 - **c. 900 to 950:** The Coppergate craft tenements flourish, and York strikes its own coinage.

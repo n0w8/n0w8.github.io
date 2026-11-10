@@ -97,3 +97,52 @@ mindestens `name`, `image` (volle Adresse), `recipeIngredient` und
 nur eintragen, wenn sie auch im Artikeltext stehen - nie schaetzen.
 
 Pruefen mit: `node scripts/check-recipes.mjs`
+
+
+## Nachtrag 10.11.2026: Was Google bei uns wirklich belohnt (Search Console, 28 Tage)
+
+Stand 10.11.: 390 Seiten mit Impressionen, 81 % davon auf Platz 4-10, aber
+CTR unter 1,5 %. Wir werden gefunden, aber kaum angeklickt. Diese Regeln
+gelten ab sofort fuer jeden neuen Artikel und gehen den alten Regeln vor,
+wo sie strenger sind.
+
+1. **Der erste Satz ist die Google-Vorschau.** Google zeigt bei uns fast nie
+   die description, sondern den ersten Satz des Fliesstextes. Er muss die
+   Suchfrage sofort mit einer konkreten, belegbaren Aussage beantworten
+   (Zahl, Jahr, Name, Ergebnis). Verboten als Einstieg: Hinfuehrungen
+   ("Wer sich mit ... beschaeftigt", "Frueher oder spaeter ..."), Szenen,
+   leere Definitionen. Ein szenischer Einstieg darf ab dem zweiten Absatz
+   kommen. Hauptbegriff im ersten Satz fett.
+2. **title hoechstens 55 Zeichen**, weil die Seite " | Nordweg" anhaengt.
+   Hauptsuchbegriff ganz vorne und so formuliert, wie Leute suchen
+   ("How to Get Into Valhalla", "Hering braten", "Lachs beizen"), danach
+   ein ehrlicher Haken (Zahl, Jahr, Gegensatz). Kein Clickbait.
+3. **description 140-160 Zeichen**, beantwortet die Suchabsicht direkt.
+4. **Fragen statt Kopfbegriffe.** Einwort-Begriffe wie "Wikingerzeit",
+   "nordische Mythologie", "Wikinger Waffen" stehen bei uns auf Platz 65-85
+   und sind gegen Wikipedia nicht zu gewinnen. Jeder Artikel zielt auf eine
+   konkrete Frage oder Handlung ("Wie kommt man nach Walhall", "Hering
+   braten", "Viking vs Norse") und deckt deren Varianten in den H2 ab.
+5. **Pflicht-Abschnitt FAQ** vor dem Schluss: DE "## Häufige Fragen", EN
+   "## FAQ", 3-6 Fragen als H3 in Suchformulierung, je 2-4 Saetze,
+   konsistent mit dem Artikel.
+6. **Rezepte: das Rezept zuerst.** Leute suchen ein alltagstaugliches
+   Rezept, der Wikinger-Bezug ist der Bonus. Direkt nach dem ersten Absatz
+   eine kurze Box "Auf einen Blick" / "At a glance" (Zeit, Portionen),
+   Zutaten mit Mengen und nummerierte Schritte vollstaendig.
+7. **Interne Links 2-4 statt 1-2**, immer mit Schraegstrich am Ende.
+   Ueberblick und Detail-Artikel zum selben Thema verlinken sich
+   gegenseitig.
+8. **Keine Kannibalisierung.** Vor dem Schreiben mit
+   `grep -h "^title:" src/content/blog/de/*.md` (und en) pruefen, ob ein
+   bestehender Titel denselben Hauptbegriff vorne traegt. Dann einen eigenen,
+   klar abgegrenzten Hauptbegriff waehlen (Beispiel 10.11.: "Das Thing" als
+   Ueberblick, "Wikinger-Recht" fuer Bussen, Acht und Waldgang).
+9. **Laenge:** 1500-2000 Woerter bleibt Standard; bei grossen Themen
+   (Runen, Grosse Heidnische Armee, Walhall) sind 2000-2600 erlaubt.
+10. **Englisch ist der groessere Markt:** EN-Seiten bringen rund 60 % der
+    Impressionen. EN-Titel und erster Satz nach englischer Suchweise,
+    nicht aus dem Deutschen uebertragen.
+11. Bei Ueberarbeitung bestehender Artikel `updatedDate: JJJJ-MM-TT`
+    direkt nach pubDate setzen; pubDate, Dateiname und translationKey nie
+    aendern.

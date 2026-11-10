@@ -14,7 +14,7 @@ author: "Die Nordweg-Redaktion"
 draft: false
 ---
 
-"Die Wikinger hatten schon Demokratie, elfhundert Jahre vor allen anderen" - dieser Satz fällt in Dokumentationen und Reisebroschüren fast automatisch, sobald von Island und seinem berühmten **Althing** die Rede ist. Die Wahrheit über das **Thing**, die Volksversammlung der nordischen Gesellschaften, ist komplizierter, interessanter und in mancher Hinsicht deutlich weniger idyllisch als das populäre Bild einer frühen Basisdemokratie. Zeit für einen Faktencheck, gestützt auf die Grágás (das älteste erhaltene isländische Gesetzeswerk), die Isländersagas und archäologische Befunde an Versammlungsplätzen wie Þingvellir.
+"Die Wikinger hatten schon Demokratie, elfhundert Jahre vor allen anderen" - dieser Satz fällt in Dokumentationen und Reisebroschüren fast automatisch, sobald von Island und seinem berühmten **Althing** die Rede ist. Die Wahrheit über das **Thing**, die Volksversammlung der nordischen Gesellschaften, ist komplizierter, interessanter und in mancher Hinsicht deutlich weniger idyllisch als das populäre Bild einer frühen Basisdemokratie. Zeit für einen Faktencheck, gestützt auf die Grágás (das älteste erhaltene isländische Gesetzeswerk), die Isländersagas und archäologische Befunde an Versammlungsplätzen wie Þingvellir. Wie ein einzelner Rechtsfall vor dem Thing ablief, mit Fristen, Bußen, Acht und Waldgang, zeigt unser Artikel über [Wikinger-Recht](/blog/thing-versammlung-wikinger-recht/).
 
 ## War das Thing wirklich eine frühe Demokratie?
 

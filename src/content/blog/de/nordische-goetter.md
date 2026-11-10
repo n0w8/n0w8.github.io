@@ -32,7 +32,7 @@ Snorri war Christ, und man merkt es. Er ordnete, glättete und deutete die alten
 
 ## Asen gegen Wanen - zwei Göttergeschlechter
 
-Ein Punkt überrascht viele: Die nordischen Götter waren kein einheitliches Team. Es gab zwei Sippen.
+Ein Punkt überrascht viele: Die nordischen Götter waren kein einheitliches Team. Es gab zwei Sippen. Wer genau mit wem verwandt ist, von Ymir bis zu Lokis Kindern, zeigt unser [Stammbaum der nordischen Götter](/blog/nordische-goetter-stammbaum/).
 
 Die **Asen** (altnordisch *Æsir*) sind die Götter, die wir meist meinen - Odin, Thor, Frigg, Tyr. Sie stehen für Krieg, Herrschaft, Himmel und Ordnung. Ihr Sitz ist **Asgard**.
 

@@ -1,7 +1,8 @@
 ---
-title: "Thing-Versammlung: Wie die Wikinger Recht sprachen"
-description: "Thing-Versammlung und Wikinger-Recht: Wie ein Fall vor Gericht kam, was Bußen, Acht und Waldgang bedeuteten und warum ein Formfehler jede Klage kippen konnte."
+title: "Wikinger-Recht: Bußen, Acht und Waldgang vor dem Thing"
+description: "Wikinger-Recht erklärt: Wie ein Fall vor das Thing kam, was Bußen, Acht und Waldgang bedeuteten und warum ein Formfehler jede Klage kippen konnte."
 pubDate: 2026-09-22
+updatedDate: 2026-11-10
 category: "Alltag & Kultur"
 tags: ["Thing", "Wikinger Recht", "Grágás", "Althing", "Acht", "Gesetzessprecher"]
 heroImage: "/images/viking-thing-assembly.jpg"
@@ -13,6 +14,8 @@ trackTitle: "Domsgard - Víkingr (Full Album)"
 author: "Die Nordweg-Redaktion"
 draft: false
 ---
+
+**Wikinger-Recht** kannte weder Polizei noch Staatsanwalt: Wer geschädigt wurde, musste seinen Fall selbst vor das Thing bringen, und wer verlor, zahlte Buße oder wurde geächtet. Der volle Waldgang (skóggangr) bedeutete in Island, dass jeder den Verurteilten straflos töten durfte.
 
 Ein Streit um Weideland, ein Totschlag im Winter, ein geplatzter Handel: Wer in der Wikingerzeit ein Unrecht erlitt, konnte nirgendwo Anzeige erstatten. Es gab keine Polizei, keinen Staatsanwalt, keinen bezahlten Richter und in Island über dreihundert Jahre lang nicht einmal einen König. Es gab die Thing-Versammlung, und es gab ein Recht, das mit erstaunlicher Genauigkeit vorschrieb, wie ein Wikinger seinen Fall vorzubringen hatte. Wie die Wikinger Recht sprachen, ist deshalb weniger eine Frage nach Gesinnung als nach Verfahren: nach Fristen, Zeugen, Formeln und vor allem nach der Frage, wer ein Urteil hinterher eigentlich durchsetzte.
 

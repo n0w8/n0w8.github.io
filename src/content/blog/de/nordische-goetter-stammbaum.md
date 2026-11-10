@@ -16,7 +16,7 @@ draft: false
 
 Ein **Stammbaum der nordischen Götter** sieht auf den ersten Blick aus wie jede andere Familientafel: oben die Urahnen, unten die Enkel, dazwischen saubere Linien. Nur stimmt das nicht. Die **nordischen Götter** stammen nicht aus einer geschlossenen Sippe, sondern aus mindestens drei Blutlinien, die einander spinnefeind sind, und die wichtigsten Mütter dieses Stammbaums sind Riesinnen. Odin selbst ist zur Hälfte Riese. Sein berühmtester Sohn ebenfalls. Und der Gott, der am Ende alles zum Einsturz bringt, ist streng genommen gar kein Gott.
 
-Wer die Genealogie der Asen und Wanen verstehen will, muss sich also von der Vorstellung einer Dynastie verabschieden. Was die Quellen überliefern, ist eher ein Geflecht aus Allianzen, Geiselnahmen und Mischehen. Genau das macht es interessant.
+Wer die Genealogie der Asen und Wanen verstehen will, muss sich also von der Vorstellung einer Dynastie verabschieden. Was die Quellen überliefern, ist eher ein Geflecht aus Allianzen, Geiselnahmen und Mischehen. Genau das macht es interessant. Wer die einzelnen Götter und ihre Rollen erst kennenlernen will, findet sie in unserem [Überblick über die nordischen Götter](/blog/nordische-goetter/).
 
 ## Woher wir den Stammbaum der nordischen Götter überhaupt kennen
 

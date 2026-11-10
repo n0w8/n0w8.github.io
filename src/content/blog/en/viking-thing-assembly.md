@@ -14,7 +14,7 @@ author: "The Nordweg Editorial Team"
 draft: false
 ---
 
-"The Vikings had democracy eleven hundred years before anyone else" - that line pops up almost automatically in documentaries and travel brochures the moment Iceland and its famous **Althing** come up. The truth about the **Thing**, the assembly at the heart of Norse society, is more complicated, more interesting, and in some ways considerably less idyllic than the popular image of an early grassroots democracy. Time for a fact check, grounded in the Grágás (Iceland's oldest surviving law code), the Icelandic sagas, and archaeological evidence from assembly sites like Þingvellir.
+"The Vikings had democracy eleven hundred years before anyone else" - that line pops up almost automatically in documentaries and travel brochures the moment Iceland and its famous **Althing** come up. The truth about the **Thing**, the assembly at the heart of Norse society, is more complicated, more interesting, and in some ways considerably less idyllic than the popular image of an early grassroots democracy. Time for a fact check, grounded in the Grágás (Iceland's oldest surviving law code), the Icelandic sagas, and archaeological evidence from assembly sites like Þingvellir. How an individual lawsuit actually ran, with deadlines, fines and outlawry, is covered in our piece on [Viking law](/en/blog/viking-thing-assembly-law/).
 
 ## Was the Thing Really an Early Democracy?
 

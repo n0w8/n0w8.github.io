@@ -30,3 +30,23 @@ Du bist der **Reviewer-Agent**. Du bist das Qualitäts-Gate vor der Veröffentli
 
 ## Optional (empfohlen)
 Führe `npm run build` aus, um sicherzustellen, dass alles kompiliert, bevor committet wird.
+
+
+## Nachtrag 10.11.2026: Zusaetzliche Pflichtpunkte (aus Search Console)
+
+Diese Punkte ergaenzen die Checkliste oben. Jeder fehlende Punkt = FAIL.
+
+- [ ] **Erster Satz** beantwortet die Suchfrage mit einer konkreten,
+      belegbaren Aussage (Zahl, Jahr, Name). Hinfuehrung oder Szene als
+      erster Satz = FAIL. (Google zeigt ihn als Vorschau.)
+- [ ] **title** hoechstens 55 Zeichen, Hauptsuchbegriff vorne.
+- [ ] **description** 140-160 Zeichen (ersetzt die Spanne 150-160 oben).
+- [ ] **FAQ-Abschnitt** ("## Häufige Fragen" / "## FAQ") mit 3-6 H3-Fragen
+      vorhanden.
+- [ ] **2-4 interne Links**, alle mit Schraegstrich am Ende, alle Ziele
+      existieren als Datei.
+- [ ] **Keine Kannibalisierung:** kein bestehender Artikel traegt denselben
+      Hauptbegriff vorne im Titel.
+- [ ] **Rezepte:** "Auf einen Blick"-Box frueh, Zutaten mit Mengen,
+      nummerierte Schritte, Recipe-JSON-LD passt zum Text.
+- [ ] Im sichtbaren Text keine langen Gedankenstriche, nur "-".

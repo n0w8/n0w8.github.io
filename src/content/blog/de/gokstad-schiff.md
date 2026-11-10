@@ -24,7 +24,7 @@ Dendrochronologische Untersuchungen datieren das Bauholz des Schiffs auf etwa 89
 
 ## Maße und Bauweise eines Meisterwerks
 
-Mit 23,24 Metern Länge und 5,20 Metern Breite gehört das Gokstad-Schiff zu den größeren erhaltenen Wikingerschiffen. Es wurde vollständig aus Eichenholz in der typischen **Klinkerbauweise** gefertigt, bei der sich die Planken überlappen und dadurch dem gesamten Rumpf eine bemerkenswerte Flexibilität verleihen - ein Prinzip, das auch das klassische [Langschiff](/blog/das-langschiff/) auszeichnet. Anders als das eher zeremonielle Oseberg-Schiff war der Gokstad-Fund jedoch ein echtes Hochsee-Segelschiff: robust gebaut, mit einem tiefen Kiel, der deutlich bessere Segeleigenschaften auf offener See ermöglichte.
+Mit gut 23 Metern Länge (manche Angaben nennen 23,8 Meter) und rund 5 Metern Breite gehört das Gokstad-Schiff zu den größeren erhaltenen Wikingerschiffen. Es wurde vollständig aus Eichenholz in der typischen **Klinkerbauweise** gefertigt, bei der sich die Planken überlappen und dadurch dem gesamten Rumpf eine bemerkenswerte Flexibilität verleihen - ein Prinzip, das auch das klassische [Langschiff](/blog/das-langschiff/) auszeichnet. Anders als das eher zeremonielle Oseberg-Schiff war der Gokstad-Fund jedoch ein echtes Hochsee-Segelschiff: robust gebaut, mit einem tiefen Kiel, der deutlich bessere Segeleigenschaften auf offener See ermöglichte.
 
 An Bord fanden sich 64 runde Schilde, die abwechselnd schwarz und gelb bemalt waren und paarweise entlang der Reling befestigt wurden - ein imposanter, einschüchternder Anblick für jeden, der dem Schiff auf See begegnete. Zusätzlich entdeckten die Archäologen im Grab drei kleinere Boote, einen Schlitten, Zeltgestänge, Kochgeschirr und ein Brettspiel, offenbar für die Fahrt ins Jenseits gedacht.
 
@@ -33,7 +33,7 @@ An Bord fanden sich 64 runde Schilde, die abwechselnd schwarz und gelb bemalt wa
 
 ## Der Häuptling mit der rätselhaften Wunde
 
-Im Zentrum der Grabkammer lag das Skelett eines Mannes, der zum Zeitpunkt seines Todes vermutlich zwischen 40 und 60 Jahre alt war - für die Wikingerzeit ein durchaus fortgeschrittenes Alter, das auf einen gewissen Wohlstand und Status hindeutet. Osteologische Untersuchungen an seinen Knochen zeigen deutliche Spuren schwerer, tiefer Schnittverletzungen, unter anderem am Schienbein, die vermutlich mit einer Waffe zugefügt wurden. Ob diese Verletzungen die Todesursache waren oder von einem früheren Kampf stammten, lässt sich aus den Knochen allein nicht zweifelsfrei rekonstruieren.
+Im Zentrum der Grabkammer lag das Skelett eines Mannes, der zum Zeitpunkt seines Todes nach einer Neuuntersuchung ab 2007 vermutlich in seinen Vierzigern war, jünger als frühere Schätzungen von 50 bis 70 Jahren. Osteologische Untersuchungen an seinen Knochen zeigen deutliche Spuren schwerer, tiefer Schnittverletzungen, unter anderem am Schienbein, die vermutlich mit einer Waffe zugefügt wurden. Ob diese Verletzungen die Todesursache waren oder von einem früheren Kampf stammten, lässt sich aus den Knochen allein nicht zweifelsfrei rekonstruieren.
 
 > Wer genau im Gokstad-Schiff bestattet wurde, bleibt eine der offenen Fragen der nordischen Archäologie - ein Mann von hohem Rang, gewaltsam verwundet, dessen Name die Geschichte nicht überliefert hat.
 
@@ -51,7 +51,7 @@ Die Ausgrabung des Gokstad-Schiffs gilt zudem als eine Art Gründungsmoment der 
 
 ## Tiere für die letzte Reise
 
-Neben dem Toten fanden die Archäologen die Überreste von zwölf Pferden, sechs Hunden und einem Pfau - ein für die Wikingerzeit außergewöhnlicher exotischer Vogel, der die weitreichenden Handelsverbindungen des Bestatteten unterstreicht. Solche Tieropfer waren Teil des Bestattungsrituals und sollten dem Verstorbenen vermutlich auf seiner Reise ins Jenseits dienen oder seinen Status auch im Tod demonstrieren. Ähnliche, wenn auch weniger umfangreiche Tierbeigaben sind auch aus anderen bedeutenden Schiffsgräbern der Wikingerzeit bekannt.
+Neben dem Toten fanden die Archäologen die Überreste von zwölf Pferden, mehreren Hunden und Vögeln, darunter mindestens ein Pfau (die genauen Zahlen schwanken je nach Veröffentlichung), ein für die Wikingerzeit außergewöhnlicher exotischer Vogel, der die weitreichenden Handelsverbindungen des Bestatteten unterstreicht. Solche Tieropfer waren Teil des Bestattungsrituals und sollten dem Verstorbenen vermutlich auf seiner Reise ins Jenseits dienen oder seinen Status auch im Tod demonstrieren. Ähnliche, wenn auch weniger umfangreiche Tierbeigaben sind auch aus anderen bedeutenden Schiffsgräbern der Wikingerzeit bekannt.
 
 Höre *Víkingr*, während du weiterliest, ein episches Album, das die Wucht dieser Seefahrernation musikalisch einfängt:
 
@@ -59,7 +59,7 @@ Höre *Víkingr*, während du weiterliest, ein episches Album, das die Wucht die
 
 ## 1893: Der Beweis auf dem offenen Atlantik
 
-Der vielleicht eindrucksvollste Moment in der Geschichte des Gokstad-Schiffs ereignete sich nicht in der Wikingerzeit, sondern 1893. Anlässlich der Weltausstellung in Chicago ließ der norwegische Kapitän **Magnus Andersen** einen originalgetreuen Nachbau bauen, benannt schlicht **"Viking"**. Mit einer Besatzung von zwölf Mann segelte das Schiff von Bergen aus über den Nordatlantik direkt nach Amerika - eine Fahrt von etwa vier Wochen, die bewusst ohne moderne Navigationshilfen unternommen wurde, um die Seetüchtigkeit des Wikingerschiff-Designs unter Beweis zu stellen.
+Der vielleicht eindrucksvollste Moment in der Geschichte des Gokstad-Schiffs ereignete sich nicht in der Wikingerzeit, sondern 1893. Anlässlich der Weltausstellung in Chicago ließ der norwegische Kapitän **Magnus Andersen** einen originalgetreuen Nachbau bauen, benannt schlicht **"Viking"**. Mit einer Besatzung von elf Mann segelte das Schiff von Bergen aus in weniger als einem Monat über den Nordatlantik nach Neufundland und von dort über New York, den Hudson, den Eriekanal und die Großen Seen weiter nach Chicago, wo es am 12. Juli 1893 ankam. Die Fahrt bewies die Seetüchtigkeit des Wikingerschiff-Designs.
 
 Die Fahrt war ein durchschlagender Erfolg. Die "Viking" überstand raue Stürme auf offener See und erreichte New York schneller, als es viele Zeitgenossen für möglich gehalten hätten - ein eindrucksvoller praktischer Beweis dafür, dass die Wikinger mit ihren Schiffen tatsächlich in der Lage waren, den Atlantik sicher zu überqueren, lange bevor Kolumbus geboren wurde. Der Nachbau ist bis heute erhalten und steht im Freilichtmuseum in Geneva, Illinois.
 
@@ -76,7 +76,7 @@ Ein Blick auf andere bedeutende norwegische Schiffsfunde zeigt, wie unterschiedl
 
 | Schiff | Gefunden | Länge | Datierung (Bau) | Hauptzweck |
 |---|---|---|---|---|
-| Gokstad | 1880, Sandefjord | 23,24 m | ca. 890 n. Chr. | Hochsee-Segelschiff, Grabschiff |
+| Gokstad | 1880, Sandefjord | ca. 23 m | ca. 890 n. Chr. | Hochsee-Segelschiff, Grabschiff |
 | Oseberg | 1904, Tønsberg | 21,58 m | ca. 820 n. Chr. | Zeremoniell, ruhige Gewässer |
 | Tune | 1867, Rolvsøy | ca. 20 m (fragmentarisch) | ca. 900 n. Chr. | Wahrscheinlich Kriegs-/Grabschiff |
 

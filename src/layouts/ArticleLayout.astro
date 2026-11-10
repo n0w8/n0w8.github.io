@@ -118,6 +118,9 @@ const aboutUrl = lang === 'de' ? '/ueber-uns/' : '/en/about/';
           <span>{t('article.by')} {data.author}</span>
           <span aria-hidden="true">·</span>
           <time datetime={data.pubDate.toISOString()}>{dateStr}</time>
+          {data.updatedDate && data.updatedDate > data.pubDate && (
+            <><span aria-hidden="true">·</span><span>{lang === 'de' ? 'Aktualisiert' : 'Updated'} <time datetime={data.updatedDate.toISOString()}>{formatDate(data.updatedDate, lang)}</time></span></>
+          )}
           {data.readingTime && <><span aria-hidden="true">·</span><span>{data.readingTime} {t('article.readingTime')}</span></>}
         </div>
       </div>

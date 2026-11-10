@@ -34,7 +34,7 @@ Snorri was a Christian, and it shows. He arranged, smoothed and interpreted the 
 
 Here is a point that surprises many: the Norse gods were not a single team. There were two families.
 
-The **Aesir** (Old Norse *Æsir*) are the gods we usually mean-Odin, Thor, Frigg, Tyr. They stand for war, kingship, sky and order. Their home is **Asgard**.
+The **Aesir** (Old Norse *Æsir*) are the gods we usually mean-Odin, Thor, Frigg, Tyr. They stand for war, kingship, sky and order. Their home is **Asgard**. For who is related to whom, from Ymir down to Loki's children, see our [Norse gods family tree](/en/blog/norse-gods-family-tree/).
 
 The **Vanir**, by contrast, were older gods of fertility and prosperity, tied to harvest, sea and wealth. Among them are **Njord**, **Freyr** and the famous **Freyja**.
 
