@@ -266,3 +266,8 @@ Vom lokalen PC aus ist Wikimedia erreichbar (die Sperre betrifft nur die Cloud-S
 wurde mit echten Fotos fertiggestellt, faktisch korrigiert und nach `content/queue/074-ladby-ship/`
 verschoben. Hinweis: Die Entwuerfe hier enthielten trotz "selbst-geprueft" sachliche Fehler (z. B. "in
 der Antike gepluendert"), also vor dem Einreihen immer gegen Quellen pruefen.
+
+
+## Nachtrag 11.11.2026: alle vier Entwuerfe erledigt
+
+hoen-hoard, kaupang, lindholm-hoje und sigtuna wurden lokal gegen Quellen geprueft (viele erfundene Details korrigiert) und mit Wikimedia-Fotos als content/queue/075-078 eingereiht. Der Ordner ist damit leer bis auf diese README.

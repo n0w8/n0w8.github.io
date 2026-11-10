@@ -1568,7 +1568,7 @@
     },
     {
       "translationKey": "lindholm-hoje",
-      "status": "todo",
+      "status": "done",
       "category": "Geschichte",
       "artistKey": "eldruna",
       "keyword_de": "lindholm hoeje",
@@ -1576,7 +1576,8 @@
       "title_de": "Lindholm Hoeje: Das Graeberfeld der Schiffssetzungen",
       "title_en": "Lindholm Hoje: The Burial Ground of Stone Ships",
       "imagePolicy": "real-photo",
-      "note": "Cloud-Backup 2026-10-16: DE/EN bereits fertig geschrieben und recherchiert, liegt in content/pending-images/lindholm-hoje/. Blockiert NUR am Hero-Bild (Sandbox-Netzwerk-Policy verweigerte Wikimedia-Zugriff). Vor Neuschreiben bitte dort pruefen und nur das Bild ergaenzen."
+      "note": "2026-11-11 lokal fertig: Faktencheck + Commons-Fotos, als content/queue/077-lindholm-hoje eingereiht.",
+      "queuedDate": "2026-11-11"
     },
     {
       "translationKey": "ladby-ship",
@@ -1594,7 +1595,7 @@
     },
     {
       "translationKey": "kaupang",
-      "status": "todo",
+      "status": "done",
       "category": "Geschichte",
       "artistKey": "eldruna",
       "keyword_de": "kaupang wikinger",
@@ -1602,11 +1603,12 @@
       "title_de": "Kaupang: Norwegens erste Stadt der Wikingerzeit",
       "title_en": "Kaupang: Norway's First Viking Age Town",
       "imagePolicy": "real-photo",
-      "note": "Cloud-Backup 2026-10-16: DE/EN bereits fertig geschrieben und recherchiert, liegt in content/pending-images/kaupang/. Blockiert NUR am Hero-Bild (Sandbox-Netzwerk-Policy verweigerte Wikimedia-Zugriff). Vor Neuschreiben bitte dort pruefen und nur das Bild ergaenzen."
+      "note": "2026-11-11 lokal fertig: Faktencheck + Commons-Fotos, als content/queue/076-kaupang eingereiht.",
+      "queuedDate": "2026-11-11"
     },
     {
       "translationKey": "hoen-hoard",
-      "status": "todo",
+      "status": "done",
       "category": "Geschichte",
       "artistKey": "eldruna",
       "keyword_de": "hoen schatz",
@@ -1614,11 +1616,12 @@
       "title_de": "Der Hoen-Schatz: Norwegens groesster Goldfund",
       "title_en": "The Hoen Hoard: Norway's Largest Viking Gold Find",
       "imagePolicy": "real-photo",
-      "note": "Cloud-Backup 2026-10-16: DE/EN bereits fertig geschrieben und recherchiert, liegt in content/pending-images/hoen-hoard/. Blockiert NUR am Hero-Bild (Sandbox-Netzwerk-Policy verweigerte Wikimedia-Zugriff). Vor Neuschreiben bitte dort pruefen und nur das Bild ergaenzen."
+      "note": "2026-11-11 lokal fertig: Faktencheck + Commons-Fotos, als content/queue/075-hoen-hoard eingereiht.",
+      "queuedDate": "2026-11-11"
     },
     {
       "translationKey": "sigtuna",
-      "status": "todo",
+      "status": "done",
       "category": "Geschichte",
       "artistKey": "domsgard",
       "keyword_de": "sigtuna wikinger",
@@ -1626,7 +1629,8 @@
       "title_de": "Sigtuna: Koenigsstadt am Maelaren",
       "title_en": "Sigtuna: The Royal Town on Lake Malaren",
       "imagePolicy": "real-photo",
-      "note": "Cloud-Backup 2026-10-16: DE/EN bereits fertig geschrieben und recherchiert, liegt in content/pending-images/sigtuna/. Blockiert NUR am Hero-Bild (Sandbox-Netzwerk-Policy verweigerte Wikimedia-Zugriff). Vor Neuschreiben bitte dort pruefen und nur das Bild ergaenzen."
+      "note": "2026-11-11 lokal fertig: Faktencheck + Commons-Fotos, als content/queue/078-sigtuna eingereiht.",
+      "queuedDate": "2026-11-11"
     },
     {
       "translationKey": "piraeus-lion",
