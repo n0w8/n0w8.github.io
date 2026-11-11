@@ -1746,13 +1746,16 @@
     },
     {
       "translationKey": "siege-of-paris-885",
-      "status": "todo",
+      "status": "done",
       "category": "Schlachten",
       "artistKey": "domsgard",
       "keyword_de": "belagerung von paris 885",
       "keyword_en": "siege of paris 885",
       "title_de": "Die Belagerung von Paris 885: Wie Wikinger die Seine sperrten",
-      "title_en": "The Siege of Paris 885: How Vikings Blocked the Seine"
+      "title_en": "The Siege of Paris 885: How Vikings Blocked the Seine",
+      "queuedDate": "2026-11-11",
+      "slug_de": "belagerung-von-paris-885",
+      "slug_en": "siege-of-paris-885"
     },
     {
       "translationKey": "skadi-goettin-jagd",
