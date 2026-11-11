@@ -25,6 +25,8 @@ const paths = [
     desc: { de: 'Berserker, Waffen und die Kunst des Kampfes', en: 'Berserkers, weapons and the art of war' } },
   { name: 'Rezepte', key: 'Rezepte', cat: 'Rezepte', icon: 'M4 9 H20 M6 9 V15 A4 4 0 0 0 10 19 H14 A4 4 0 0 0 18 15 V9 M4 9 L2.6 7.2 M20 9 L21.4 7.2 M9.5 6 C9.5 4.7 10.6 4.5 10.6 3.2 M13.5 6 C13.5 4.7 14.6 4.5 14.6 3.2',
     desc: { de: 'Met, Fladenbrot und Festmähler wie in Walhall', en: 'Mead, flatbread and feasts worthy of Valhalla' } },
+  { name: 'Musik', key: 'Musik', cat: 'Musik', icon: 'M9 18 V5 L20 3 V16 M6 21 A3 3 0 1 0 6 15 A3 3 0 1 0 6 21 M17 19 A3 3 0 1 0 17 13 A3 3 0 1 0 17 19',
+    desc: { de: 'Leier, Horn und Gesang - wie der Norden klang', en: 'Lyre, horn and song - how the North sounded' } },
 ];
 const pathTitle: Record<string, { de: string; en: string }> = {
   Geschichte: { de: 'Geschichte', en: 'History' },
@@ -32,14 +34,15 @@ const pathTitle: Record<string, { de: string; en: string }> = {
   Runen: { de: 'Runen & Symbole', en: 'Runes & Symbols' },
   Krieger: { de: 'Krieger & Schlachten', en: 'Warriors & Battles' },
   Rezepte: { de: 'Rezepte', en: 'Recipes' },
+  Musik: { de: 'Musik', en: 'Music' },
 };
 const artistList = [artists.domsgard, artists.eldruna];
 // Hero-Titel in maskierte Zeilen zerlegen (Zeilen-Reveal beim Laden)
 const titleLines = t('hero.title').split(/<br[^>]*>/i).map((z) => z.trim());
 const giant = lang === 'de' ? { pfade: 'Saga', neu: 'Chronik', musik: 'Klang' } : { pfade: 'Saga', neu: 'Chronicle', musik: 'Sound' };
 const marqueeItems = lang === 'de'
-  ? ['Geschichte', 'Mythologie', 'Runen', 'Krieger', 'Rezepte', 'Fundstücke', 'Sagas']
-  : ['History', 'Mythology', 'Runes', 'Warriors', 'Recipes', 'Artefacts', 'Sagas'];
+  ? ['Geschichte', 'Mythologie', 'Runen', 'Krieger', 'Rezepte', 'Musik', 'Fundstücke', 'Sagas']
+  : ['History', 'Mythology', 'Runes', 'Warriors', 'Recipes', 'Music', 'Artefacts', 'Sagas'];
 ---
 
 <BaseLayout title="Nordweg" description={t('hero.lede')} lang={lang} altUrl={localizedPath('/', lang === 'de' ? 'en' : 'de')}>

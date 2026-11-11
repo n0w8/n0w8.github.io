@@ -136,6 +136,22 @@ export const catText: Record<string, Record<Lang, { title: string; description: 
         'Barley, oats, fish, game, honey, berries, ale. These recipes come out of the Viking Age pantry and are written for a normal kitchen: clear quantities, steps that work, plus where each ingredient comes from. We cooked, photographed and tasted every one of them.',
     },
   },
+  Musik: {
+    de: {
+      title: 'Wikinger-Musik: Instrumente, Gesänge und Nordic Folk',
+      description:
+        'Wie klang die Musik der Wikinger? Leier, Knochenflöte und Horn aus den Funden, Gesänge aus Sagas und Reiseberichten und die moderne Nordic-Folk-Szene.',
+      lede:
+        'Leier, Knochenflöte, Horn und Panflöte aus Gräbern und Siedlungen, Gesänge und Skaldenstrophen aus Sagas und Reiseberichten, dazu die moderne Szene, die daraus neue Musik macht: von Wardruna und Heilung bis zu den Artists von Nordwald Records. Was belegt ist, steht hier getrennt von dem, was nur gut klingt.',
+    },
+    en: {
+      title: 'Viking Music: Instruments, Chants and Nordic Folk',
+      description:
+        'What did Viking music sound like? Lyres, bone flutes and horns from the finds, chants from sagas and travel accounts, and the modern Nordic folk scene.',
+      lede:
+        'Lyres, bone flutes, horns and panpipes from graves and settlements, songs and skaldic verse from sagas and travel accounts, and the modern scene that turns all of it into new music: from Wardruna and Heilung to the artists of Nordwald Records. What the evidence shows is kept apart from what merely sounds good.',
+    },
+  },
 };
 
 /** Text fuer eine Themen-Seite (Tag). Wird aus dem Tag-Namen gebildet. */

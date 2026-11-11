@@ -16,7 +16,7 @@ const posts = await getPostsByLang(lang);
 // eigene Ueberschrift, kein eigener Text). Jetzt ist jeder Pfad eine eigene,
 // indexierbare Seite mit eigenem Einleitungstext (4.10.2026).
 const kategorien = [...new Set(posts.map((p) => p.data.category))];
-const reihenfolge = ['Geschichte', 'Mythologie', 'Runen & Symbole', 'Alltag & Kultur', 'Krieger & Schlachten', 'Rezepte'];
+const reihenfolge = ['Geschichte', 'Mythologie', 'Runen & Symbole', 'Alltag & Kultur', 'Krieger & Schlachten', 'Rezepte', 'Musik'];
 const pfade = reihenfolge
   .filter((c) => kategorien.includes(c))
   .map((c) => ({

@@ -9,6 +9,7 @@ export interface Artist {
   spotifyEmbed: string; // Player mit Top-Tracks
   spotifyUrl: string;   // Profil-Backlink
   youtubeUrl: string;   // Kanal-Backlink
+  website: string;      // offizielle Artist-Website (eigenes Oekosystem)
 }
 
 export const artists = {
@@ -22,6 +23,7 @@ export const artists = {
     spotifyEmbed: 'https://open.spotify.com/embed/artist/4bw38ajepdedya70ivRX35?utm_source=nordweg',
     spotifyUrl: 'https://open.spotify.com/artist/4bw38ajepdedya70ivRX35',
     youtubeUrl: 'https://www.youtube.com/@Domsgard',
+    website: 'https://domsgard.com/',
   },
   eldruna: {
     name: 'Eldruna',
@@ -33,6 +35,7 @@ export const artists = {
     spotifyEmbed: 'https://open.spotify.com/embed/artist/0PrMrTqRGT4rQanBp2mlco?utm_source=nordweg',
     spotifyUrl: 'https://open.spotify.com/artist/0PrMrTqRGT4rQanBp2mlco',
     youtubeUrl: 'https://www.youtube.com/@Eldruna1337',
+    website: 'https://eldruna.com/',
   },
 } satisfies Record<string, Artist>;
 

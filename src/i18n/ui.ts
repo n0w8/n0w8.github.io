@@ -17,6 +17,7 @@ export const categoryLabels: Record<string, Record<Lang, string>> = {
   'Alltag & Kultur': { de: 'Alltag & Kultur', en: 'Daily Life & Culture' },
   'Krieger & Schlachten': { de: 'Krieger & Schlachten', en: 'Warriors & Battles' },
   'Rezepte': { de: 'Rezepte', en: 'Recipes' },
+  'Musik': { de: 'Musik', en: 'Music' },
 };
 
 export const ui = {
@@ -78,6 +79,7 @@ export const ui = {
     'artists.lede': 'Nordisch inspirierte Musik als Soundtrack zur Geschichte. Folge den Künstlern auf Spotify und YouTube - jeder Klick unterstützt sie direkt.',
     'artists.spotify': 'Auf Spotify hören',
     'artists.youtube': 'YouTube-Kanal',
+    'artists.website': 'Offizielle Website',
     'footer.tagline': 'Geschichten, Mythen und Klänge aus dem hohen Norden. Wo die Chronik der Wikinger auf Musik trifft.',
     'footer.discover': 'Entdecken',
     'footer.follow': 'Folge dem Pfad',
@@ -144,6 +146,7 @@ export const ui = {
     'artists.lede': 'Nordic-inspired music as a soundtrack to history. Follow the artists on Spotify and YouTube - every click supports them directly.',
     'artists.spotify': 'Listen on Spotify',
     'artists.youtube': 'YouTube Channel',
+    'artists.website': 'Official Website',
     'footer.tagline': 'Stories, myths and sounds from the far North. Where the chronicle of the Vikings meets music.',
     'footer.discover': 'Discover',
     'footer.follow': 'Follow the Path',
