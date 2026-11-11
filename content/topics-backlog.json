@@ -1558,13 +1558,16 @@
     },
     {
       "translationKey": "ivar-the-boneless",
-      "status": "todo",
+      "status": "done",
       "category": "Geschichte",
       "artistKey": "domsgard",
       "keyword_de": "ivar der knochenlose",
       "keyword_en": "ivar the boneless",
       "title_de": "Ivar der Knochenlose: Legende und Geschichte",
-      "title_en": "Ivar the Boneless: Legend and History"
+      "title_en": "Ivar the Boneless: Legend and History",
+      "queuedDate": "2026-11-11",
+      "slug_de": "ivar-der-knochenlose-wikinger",
+      "slug_en": "ivar-the-boneless-viking-history"
     },
     {
       "translationKey": "lindholm-hoje",
