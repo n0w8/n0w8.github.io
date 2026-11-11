@@ -1733,13 +1733,16 @@
     },
     {
       "translationKey": "battle-of-maldon",
-      "status": "todo",
+      "status": "done",
       "category": "Schlachten",
       "artistKey": "domsgard",
       "keyword_de": "schlacht von maldon 991",
       "keyword_en": "battle of maldon 991",
       "title_de": "Die Schlacht von Maldon 991: Warum Aethelred zahlte",
-      "title_en": "The Battle of Maldon 991: Why Aethelred Paid"
+      "title_en": "The Battle of Maldon 991: Why Aethelred Paid",
+      "queuedDate": "2026-11-11",
+      "slug_de": "schlacht-von-maldon-991",
+      "slug_en": "battle-of-maldon-991"
     },
     {
       "translationKey": "siege-of-paris-885",
