@@ -1690,6 +1690,163 @@
       "queuedDate": "2026-10-13",
       "slug_de": "wikinger-hochzeit-brautpreis-scheidung",
       "slug_en": "viking-marriage-bride-price-divorce"
+    },
+    {
+      "translationKey": "viking-law-outlawry",
+      "status": "todo",
+      "category": "Geschichte",
+      "artistKey": "domsgard",
+      "keyword_de": "wikinger recht acht waldgang",
+      "keyword_en": "viking law outlawry",
+      "title_de": "Wikinger-Recht: Bussen, Acht und Waldgang erklaert",
+      "title_en": "Viking Law: Fines, Outlawry and Full Outlawry Explained"
+    },
+    {
+      "translationKey": "read-rune-inscription",
+      "status": "todo",
+      "category": "Runen",
+      "artistKey": "domsgard",
+      "keyword_de": "runeninschrift lesen",
+      "keyword_en": "how to read runes",
+      "title_de": "Runen lesen: Wie entziffert man eine Runeninschrift?",
+      "title_en": "How to Read a Rune Inscription Step by Step"
+    },
+    {
+      "translationKey": "viking-farm-year",
+      "status": "todo",
+      "category": "Alltag & Kultur",
+      "artistKey": "eldruna",
+      "keyword_de": "wikinger bauernhof jahresablauf",
+      "keyword_en": "viking farm life year",
+      "title_de": "Ein Jahr auf dem Wikingerhof: Aussaat, Ernte, Schlachtzeit",
+      "title_en": "A Year on a Viking Farm: Sowing, Harvest, Slaughter"
+    },
+    {
+      "translationKey": "viking-ship-crew-life",
+      "status": "todo",
+      "category": "Alltag & Kultur",
+      "artistKey": "eldruna",
+      "keyword_de": "leben an bord wikingerschiff",
+      "keyword_en": "life aboard viking ship",
+      "title_de": "Leben an Bord: Wie lebte eine Wikingerschiff-Mannschaft?",
+      "title_en": "Life Aboard: How Did a Viking Ship Crew Live?"
+    },
+    {
+      "translationKey": "battle-of-maldon",
+      "status": "todo",
+      "category": "Schlachten",
+      "artistKey": "domsgard",
+      "keyword_de": "schlacht von maldon 991",
+      "keyword_en": "battle of maldon 991",
+      "title_de": "Die Schlacht von Maldon 991: Warum Aethelred zahlte",
+      "title_en": "The Battle of Maldon 991: Why Aethelred Paid"
+    },
+    {
+      "translationKey": "siege-of-paris-885",
+      "status": "todo",
+      "category": "Schlachten",
+      "artistKey": "domsgard",
+      "keyword_de": "belagerung von paris 885",
+      "keyword_en": "siege of paris 885",
+      "title_de": "Die Belagerung von Paris 885: Wie Wikinger die Seine sperrten",
+      "title_en": "The Siege of Paris 885: How Vikings Blocked the Seine"
+    },
+    {
+      "translationKey": "skadi-goettin-jagd",
+      "status": "todo",
+      "category": "Mythologie",
+      "artistKey": "eldruna",
+      "keyword_de": "skadi goettin",
+      "keyword_en": "skadi norse goddess",
+      "title_de": "Skadi: Die Goettin der Jagd und des Winters",
+      "title_en": "Skadi: Norse Goddess of Hunting and Winter"
+    },
+    {
+      "translationKey": "mimir-brunnen-weisheit",
+      "status": "todo",
+      "category": "Mythologie",
+      "artistKey": "domsgard",
+      "keyword_de": "mimir brunnen weisheit",
+      "keyword_en": "mimir well of wisdom",
+      "title_de": "Mimir und der Brunnen der Weisheit: Was Odin opferte",
+      "title_en": "Mimir and the Well of Wisdom: What Odin Sacrificed"
+    },
+    {
+      "translationKey": "bryggen-runes-bergen",
+      "status": "todo",
+      "category": "Runen",
+      "artistKey": "eldruna",
+      "keyword_de": "bryggen runen bergen",
+      "keyword_en": "bryggen runes bergen",
+      "title_de": "Die Runenstaebchen von Bryggen: Alltagsbotschaften aus Bergen",
+      "title_en": "The Bryggen Rune Sticks: Everyday Messages from Bergen",
+      "imagePolicy": "real-photo"
+    },
+    {
+      "translationKey": "stiklestad-olaf-der-heilige",
+      "status": "todo",
+      "category": "Geschichte",
+      "artistKey": "domsgard",
+      "keyword_de": "stiklestad olaf der heilige",
+      "keyword_en": "stiklestad olaf the holy",
+      "title_de": "Stiklestad 1030: Wie Olaf der Heilige zum Maertyrer wurde",
+      "title_en": "Stiklestad 1030: How Olaf the Holy Became a Martyr",
+      "imagePolicy": "real-photo"
+    },
+    {
+      "translationKey": "thingvellir-althing-island",
+      "status": "todo",
+      "category": "Geschichte",
+      "artistKey": "eldruna",
+      "keyword_de": "thingvellir althing island",
+      "keyword_en": "thingvellir althing iceland",
+      "title_de": "Thingvellir: Wo das Althing 930 zusammentrat",
+      "title_en": "Thingvellir: Where the Althing Met from 930",
+      "imagePolicy": "real-photo"
+    },
+    {
+      "translationKey": "valsgarde-vendel-bootgraeber",
+      "status": "todo",
+      "category": "Geschichte",
+      "artistKey": "domsgard",
+      "keyword_de": "vendel valsgarde bootgraeber",
+      "keyword_en": "vendel valsgarde boat graves",
+      "title_de": "Valsgarde und Vendel: Die Bootsgraeber vor der Wikingerzeit",
+      "title_en": "Valsgarde and Vendel: The Boat Graves Before the Viking Age",
+      "imagePolicy": "real-photo"
+    },
+    {
+      "translationKey": "roekstein-schweden",
+      "status": "todo",
+      "category": "Runen",
+      "artistKey": "domsgard",
+      "keyword_de": "roekstein schweden",
+      "keyword_en": "rok runestone sweden",
+      "title_de": "Der Roekstein: Laengste Runeninschrift der Wikingerzeit",
+      "title_en": "The Rok Runestone: The Longest Viking Age Rune Inscription",
+      "imagePolicy": "real-photo"
+    },
+    {
+      "translationKey": "dublin-wood-quay-wikinger",
+      "status": "todo",
+      "category": "Geschichte",
+      "artistKey": "eldruna",
+      "keyword_de": "dublin wikinger wood quay",
+      "keyword_en": "viking dublin wood quay",
+      "title_de": "Wikinger-Dublin: Was die Grabungen am Wood Quay zeigten",
+      "title_en": "Viking Dublin: What the Wood Quay Excavations Revealed",
+      "imagePolicy": "real-photo"
+    },
+    {
+      "translationKey": "roskilde-wikingerschiffsmuseum",
+      "status": "todo",
+      "category": "Geschichte",
+      "artistKey": "eldruna",
+      "keyword_de": "wikingerschiffsmuseum roskilde",
+      "keyword_en": "viking ship museum roskilde",
+      "title_de": "Das Wikingerschiffsmuseum Roskilde: Rekonstruktion und Seetests",
+      "title_en": "The Viking Ship Museum Roskilde: Reconstructions and Sea Trials",
+      "imagePolicy": "real-photo"
     }
   ]
 }
