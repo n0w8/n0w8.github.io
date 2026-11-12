@@ -1922,13 +1922,16 @@
     },
     {
       "translationKey": "battle-of-brunanburh-937",
-      "status": "todo",
+      "status": "done",
       "category": "Schlachten",
       "artistKey": "domsgard",
       "keyword_de": "schlacht brunanburh 937",
       "keyword_en": "battle of brunanburh 937",
       "title_de": "Brunanburh 937: Die Schlacht, die England formte",
-      "title_en": "Brunanburh 937: The Battle That Shaped England"
+      "title_en": "Brunanburh 937: The Battle That Shaped England",
+      "queuedDate": "2026-11-12",
+      "slug_de": "schlacht-brunanburh-937",
+      "slug_en": "battle-of-brunanburh-937"
     },
     {
       "translationKey": "viking-silver-coins-hacksilver",
