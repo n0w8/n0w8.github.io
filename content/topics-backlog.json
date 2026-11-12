@@ -1759,13 +1759,16 @@
     },
     {
       "translationKey": "skadi-goettin-jagd",
-      "status": "todo",
+      "status": "done",
       "category": "Mythologie",
       "artistKey": "eldruna",
       "keyword_de": "skadi goettin",
       "keyword_en": "skadi norse goddess",
       "title_de": "Skadi: Die Goettin der Jagd und des Winters",
-      "title_en": "Skadi: Norse Goddess of Hunting and Winter"
+      "title_en": "Skadi: Norse Goddess of Hunting and Winter",
+      "queuedDate": "2026-11-12",
+      "slug_de": "skadi-goettin-jagd-winter",
+      "slug_en": "skadi-norse-goddess-hunting-winter"
     },
     {
       "translationKey": "mimir-brunnen-weisheit",
