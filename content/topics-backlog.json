@@ -1693,7 +1693,7 @@
     },
     {
       "translationKey": "viking-law-outlawry",
-      "status": "todo",
+      "status": "skipped",
       "category": "Geschichte",
       "artistKey": "domsgard",
       "keyword_de": "wikinger recht acht waldgang",
@@ -1858,6 +1858,161 @@
       "keyword_en": "viking ship museum roskilde",
       "title_de": "Das Wikingerschiffsmuseum Roskilde: Rekonstruktion und Seetests",
       "title_en": "The Viking Ship Museum Roskilde: Reconstructions and Sea Trials",
+      "imagePolicy": "real-photo"
+    },
+    {
+      "translationKey": "huginn-muninn-odins-raben",
+      "status": "todo",
+      "category": "Mythologie",
+      "artistKey": "domsgard",
+      "keyword_de": "odins raben huginn muninn",
+      "keyword_en": "odin ravens huginn muninn",
+      "title_de": "Huginn und Muninn: Was Odins Raben wirklich bedeuten",
+      "title_en": "Huginn and Muninn: What Odin's Ravens Really Mean"
+    },
+    {
+      "translationKey": "idun-aepfel-der-jugend",
+      "status": "todo",
+      "category": "Mythologie",
+      "artistKey": "eldruna",
+      "keyword_de": "idun aepfel jugend",
+      "keyword_en": "idun apples of youth",
+      "title_de": "Idun und die goldenen Aepfel: Wie die Goetter jung blieben",
+      "title_en": "Idun and the Golden Apples: How the Gods Stayed Young"
+    },
+    {
+      "translationKey": "frigg-goettin-ehe-schicksal",
+      "status": "todo",
+      "category": "Mythologie",
+      "artistKey": "eldruna",
+      "keyword_de": "frigg goettin",
+      "keyword_en": "frigg norse goddess",
+      "title_de": "Frigg: Odins Frau und Goettin des Schicksalswissens",
+      "title_en": "Frigg: Odin's Wife and Goddess of Hidden Fate"
+    },
+    {
+      "translationKey": "bragi-skaldenmet-poesie",
+      "status": "todo",
+      "category": "Mythologie",
+      "artistKey": "domsgard",
+      "keyword_de": "skaldenmet bragi",
+      "keyword_en": "mead of poetry bragi",
+      "title_de": "Der Skaldenmet: Wie Odin die Dichtkunst stahl",
+      "title_en": "The Mead of Poetry: How Odin Stole the Gift of Verse"
+    },
+    {
+      "translationKey": "younger-futhark-jaengeres-futhark",
+      "status": "todo",
+      "category": "Runen",
+      "artistKey": "domsgard",
+      "keyword_de": "juengeres futhark",
+      "keyword_en": "younger futhark runes",
+      "title_de": "Juengeres Futhark: Warum die Wikinger nur 16 Runen brauchten",
+      "title_en": "Younger Futhark: Why the Vikings Used Only 16 Runes"
+    },
+    {
+      "translationKey": "battle-of-hafrsfjord-harald",
+      "status": "todo",
+      "category": "Schlachten",
+      "artistKey": "domsgard",
+      "keyword_de": "schlacht hafrsfjord",
+      "keyword_en": "battle of hafrsfjord",
+      "title_de": "Hafrsfjord um 872: Gab es die Schlacht wirklich?",
+      "title_en": "Hafrsfjord c. 872: Did the Battle Really Happen?"
+    },
+    {
+      "translationKey": "battle-of-brunanburh-937",
+      "status": "todo",
+      "category": "Schlachten",
+      "artistKey": "domsgard",
+      "keyword_de": "schlacht brunanburh 937",
+      "keyword_en": "battle of brunanburh 937",
+      "title_de": "Brunanburh 937: Die Schlacht, die England formte",
+      "title_en": "Brunanburh 937: The Battle That Shaped England"
+    },
+    {
+      "translationKey": "viking-silver-coins-hacksilver",
+      "status": "todo",
+      "category": "Alltag & Kultur",
+      "artistKey": "eldruna",
+      "keyword_de": "hacksilber wikinger muenzen",
+      "keyword_en": "hacksilver viking coins",
+      "title_de": "Hacksilber: Wie Wikinger ohne Muenzen bezahlten",
+      "title_en": "Hacksilver: How Vikings Paid Without Coins"
+    },
+    {
+      "translationKey": "viking-blacksmith-forge",
+      "status": "todo",
+      "category": "Alltag & Kultur",
+      "artistKey": "domsgard",
+      "keyword_de": "wikinger schmied schmiede",
+      "keyword_en": "viking blacksmith forge",
+      "title_de": "Der Wikinger-Schmied: Wie Eisen zu Axt und Schwert wurde",
+      "title_en": "The Viking Blacksmith: How Iron Became Axe and Sword"
+    },
+    {
+      "translationKey": "viking-calendar-months",
+      "status": "todo",
+      "category": "Alltag & Kultur",
+      "artistKey": "eldruna",
+      "keyword_de": "wikinger kalender monate",
+      "keyword_en": "viking calendar months",
+      "title_de": "Der Wikinger-Kalender: Winter, Sommer und die alten Monate",
+      "title_en": "The Viking Calendar: Winter, Summer and the Old Months"
+    },
+    {
+      "translationKey": "mastermyr-tool-chest",
+      "status": "todo",
+      "category": "Geschichte",
+      "artistKey": "domsgard",
+      "keyword_de": "mastermyr fund werkzeugkiste",
+      "keyword_en": "mastermyr tool chest",
+      "title_de": "Der Mastermyr-Fund: Eine Werkzeugkiste aus der Wikingerzeit",
+      "title_en": "The Mastermyr Find: A Viking Age Toolbox",
+      "imagePolicy": "real-photo"
+    },
+    {
+      "translationKey": "brattahlid-greenland-erik",
+      "status": "todo",
+      "category": "Geschichte",
+      "artistKey": "eldruna",
+      "keyword_de": "brattahlid gruenland erik der rote",
+      "keyword_en": "brattahlid greenland erik the red",
+      "title_de": "Brattahlid: Eriks Hof in Gruenland",
+      "title_en": "Brattahlid: Erik the Red's Farm in Greenland",
+      "imagePolicy": "real-photo"
+    },
+    {
+      "translationKey": "hedeby-runestones-schleswig",
+      "status": "todo",
+      "category": "Runen",
+      "artistKey": "domsgard",
+      "keyword_de": "haithabu runensteine",
+      "keyword_en": "hedeby runestones",
+      "title_de": "Die Runensteine von Haithabu: Was sie erzaehlen",
+      "title_en": "The Hedeby Runestones: What They Tell Us",
+      "imagePolicy": "real-photo"
+    },
+    {
+      "translationKey": "coppergate-york-viking-helmet",
+      "status": "todo",
+      "category": "Geschichte",
+      "artistKey": "domsgard",
+      "keyword_de": "york helm coppergate",
+      "keyword_en": "york helmet coppergate",
+      "title_de": "Der Helm von York: Ein angelsaechsischer Fund im Wikingerland",
+      "title_en": "The York Helmet: An Anglo-Saxon Find in Viking Country",
+      "imagePolicy": "real-photo"
+    },
+    {
+      "translationKey": "viking-comb-bone-carving",
+      "status": "todo",
+      "category": "Alltag & Kultur",
+      "artistKey": "eldruna",
+      "keyword_de": "wikinger kamm knochen",
+      "keyword_en": "viking comb bone carving",
+      "title_de": "Wikinger-Kaemme aus Knochen: Funde und Handwerk",
+      "title_en": "Viking Bone Combs: Finds and Craft",
       "imagePolicy": "real-photo"
     }
   ]
