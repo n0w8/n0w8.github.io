@@ -1772,13 +1772,16 @@
     },
     {
       "translationKey": "mimir-brunnen-weisheit",
-      "status": "todo",
+      "status": "done",
       "category": "Mythologie",
       "artistKey": "domsgard",
       "keyword_de": "mimir brunnen weisheit",
       "keyword_en": "mimir well of wisdom",
       "title_de": "Mimir und der Brunnen der Weisheit: Was Odin opferte",
-      "title_en": "Mimir and the Well of Wisdom: What Odin Sacrificed"
+      "title_en": "Mimir and the Well of Wisdom: What Odin Sacrificed",
+      "queuedDate": "2026-11-12",
+      "slug_de": "mimirs-brunnen-odin-weisheit",
+      "slug_en": "mimirs-well-odin-wisdom"
     },
     {
       "translationKey": "bryggen-runes-bergen",
