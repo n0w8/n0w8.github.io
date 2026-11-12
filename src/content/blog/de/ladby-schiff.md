@@ -1,7 +1,7 @@
 ---
 title: "Das Ladby-Schiff: Dänemarks einziges Schiffsgrab"
 description: "Das Ladby-Schiff: 1935 bei Kerteminde entdeckt, Dänemarks einziges Schiffsgrab, erhalten nur als Nietenspur im Sand, mit Pferden, Hunden und Ankerkette."
-pubDate: 2026-01-01
+pubDate: 2026-11-12
 category: "Geschichte"
 tags: ["Ladby-Schiff", "Schiffsgrab", "Archäologie", "Wikingerzeit", "Kerteminde", "Dänemark"]
 heroImage: "/images/ladby-ship.jpg"

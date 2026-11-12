@@ -1,7 +1,7 @@
 ---
 title: "The Ladby Ship: Denmark's Only Viking Ship Burial"
 description: "The Ladby ship: discovered in 1935 near Kerteminde, Denmark's only Viking ship burial, preserved as iron rivets in sand, with horses, dogs, and anchor."
-pubDate: 2026-01-01
+pubDate: 2026-11-12
 category: "Geschichte"
 tags: ["Ladby Ship", "Ship Burial", "Archaeology", "Viking Age", "Kerteminde", "Denmark"]
 heroImage: "/images/ladby-ship.jpg"
