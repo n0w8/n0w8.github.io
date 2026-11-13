@@ -1875,13 +1875,16 @@
     },
     {
       "translationKey": "idun-aepfel-der-jugend",
-      "status": "todo",
+      "status": "done",
       "category": "Mythologie",
       "artistKey": "eldruna",
       "keyword_de": "idun aepfel jugend",
       "keyword_en": "idun apples of youth",
       "title_de": "Idun und die goldenen Aepfel: Wie die Goetter jung blieben",
-      "title_en": "Idun and the Golden Apples: How the Gods Stayed Young"
+      "title_en": "Idun and the Golden Apples: How the Gods Stayed Young",
+      "queuedDate": "2026-11-13",
+      "slug_de": "idun-aepfel-der-jugend-goetter",
+      "slug_en": "idun-apples-of-youth-norse-goddess"
     },
     {
       "translationKey": "frigg-goettin-ehe-schicksal",
