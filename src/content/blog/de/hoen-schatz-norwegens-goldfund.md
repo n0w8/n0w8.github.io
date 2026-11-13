@@ -1,7 +1,7 @@
 ---
 title: "Hoen-Schatz: Norwegens größter Goldschatz der Wikinger"
 description: "Der Hoen-Schatz: gut 2,5 kg Wikingergold, 1834 bei Hokksund gefunden. Wer ihn fand, was er enthält, woher seine 20 Münzen kommen und wo er heute liegt."
-pubDate: 2026-01-01
+pubDate: 2026-11-13
 category: "Geschichte"
 tags: ["Hoen-Schatz", "Wikingerzeit", "Archäologie", "Norwegen", "Wikinger Schmuck", "Kulturhistorisk Museum"]
 heroImage: "/images/hoen-hoard.jpg"

@@ -1,7 +1,7 @@
 ---
 title: "Hoen Hoard: Norway's Largest Viking Gold Treasure"
 description: "The Hoen hoard: 2.5 kg of Viking gold dug from a Norwegian bog in 1834. Who found it, what it contains, where its 20 coins came from, and where to see it."
-pubDate: 2026-01-01
+pubDate: 2026-11-13
 category: "Geschichte"
 tags: ["Hoen Hoard", "Viking Age", "Archaeology", "Norway", "Viking Jewelry", "Byzantium"]
 heroImage: "/images/hoen-hoard.jpg"
