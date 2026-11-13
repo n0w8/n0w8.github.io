@@ -1862,13 +1862,16 @@
     },
     {
       "translationKey": "huginn-muninn-odins-raben",
-      "status": "todo",
+      "status": "done",
       "category": "Mythologie",
       "artistKey": "domsgard",
       "keyword_de": "odins raben huginn muninn",
       "keyword_en": "odin ravens huginn muninn",
       "title_de": "Huginn und Muninn: Was Odins Raben wirklich bedeuten",
-      "title_en": "Huginn and Muninn: What Odin's Ravens Really Mean"
+      "title_en": "Huginn and Muninn: What Odin's Ravens Really Mean",
+      "queuedDate": "2026-11-13",
+      "slug_de": "huginn-muninn-odins-raben",
+      "slug_en": "huginn-muninn-odins-ravens"
     },
     {
       "translationKey": "idun-aepfel-der-jugend",
