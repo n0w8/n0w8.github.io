@@ -1,7 +1,7 @@
 ---
 title: "Kaupang: Norway's First Viking Town, Founded c. 800"
 description: "Kaupang near Larvik was Norway's first town, founded around 800 AD and lived in year-round until c. 930. Where it was, what was found, and what Ohthere said."
-pubDate: 2026-01-01
+pubDate: 2026-11-14
 category: "Geschichte"
 tags: ["Kaupang", "Trading Town", "Archaeology", "Viking Age", "Norway"]
 heroImage: "/images/kaupang.jpg"

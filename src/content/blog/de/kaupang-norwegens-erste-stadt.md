@@ -1,7 +1,7 @@
 ---
 title: "Kaupang: Norwegens erste Stadt, gegründet um 800"
 description: "Kaupang bei Larvik war Norwegens erste Stadt: um 800 gegründet, bis etwa 930 ganzjährig bewohnt. Lage, Funde, Gräber und was Ohthere König Alfred erzählte."
-pubDate: 2026-01-01
+pubDate: 2026-11-14
 category: "Geschichte"
 tags: ["Kaupang", "Handelsstadt", "Archäologie", "Wikingerzeit", "Norwegen"]
 heroImage: "/images/kaupang.jpg"
