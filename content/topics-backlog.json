@@ -1908,13 +1908,16 @@
     },
     {
       "translationKey": "younger-futhark-jaengeres-futhark",
-      "status": "todo",
+      "status": "done",
       "category": "Runen",
       "artistKey": "domsgard",
       "keyword_de": "juengeres futhark",
       "keyword_en": "younger futhark runes",
       "title_de": "Juengeres Futhark: Warum die Wikinger nur 16 Runen brauchten",
-      "title_en": "Younger Futhark: Why the Vikings Used Only 16 Runes"
+      "title_en": "Younger Futhark: Why the Vikings Used Only 16 Runes",
+      "queuedDate": "2026-11-14",
+      "slug_de": "juengeres-futhark-16-runen",
+      "slug_en": "younger-futhark-16-runes"
     },
     {
       "translationKey": "battle-of-hafrsfjord-harald",
