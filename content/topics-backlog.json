@@ -1439,13 +1439,16 @@
     },
     {
       "translationKey": "viking-beards-hair",
-      "status": "todo",
+      "status": "done",
       "category": "Alltag & Kultur",
       "artistKey": "eldruna",
       "keyword_de": "wikinger frisuren bart",
       "keyword_en": "viking hairstyles beards",
       "title_de": "Wikinger-Frisuren und Baerte: Was die Quellen wirklich sagen",
-      "title_en": "Viking Hairstyles and Beards: What the Sources Really Say"
+      "title_en": "Viking Hairstyles and Beards: What the Sources Really Say",
+      "queuedDate": "2026-11-14",
+      "slug_de": "wikinger-frisuren-baerte",
+      "slug_en": "viking-hairstyles-beards"
     },
     {
       "translationKey": "viking-pork-roast",
