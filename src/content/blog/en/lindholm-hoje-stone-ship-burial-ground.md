@@ -1,7 +1,7 @@
 ---
 title: "Lindholm Høje: Viking Burial Ground of Stone Ships"
 description: "Lindholm Høje near Aalborg: nearly 700 graves from c. AD 400 to 1000, stone ship settings, up to 4 m of drifting sand and a Viking field with its wheel ruts."
-pubDate: 2026-01-01
+pubDate: 2026-11-15
 category: "Geschichte"
 tags: ["Lindholm Høje", "Stone Ship Setting", "Ship Burial", "Archaeology", "Viking Age", "Denmark"]
 heroImage: "/images/lindholm-hoje.jpg"

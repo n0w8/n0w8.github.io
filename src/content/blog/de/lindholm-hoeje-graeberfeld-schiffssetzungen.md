@@ -1,7 +1,7 @@
 ---
 title: "Lindholm Høje: Schiffssetzungen und fast 700 Gräber"
 description: "Lindholm Høje bei Aalborg: fast 700 Gräber von etwa 400 bis 1000 n. Chr., Schiffssetzungen aus Stein, bis zu 4 m Flugsand und ein Acker aus der Wikingerzeit."
-pubDate: 2026-01-01
+pubDate: 2026-11-15
 category: "Geschichte"
 tags: ["Lindholm Høje", "Schiffssetzung", "Schiffsgrab", "Archäologie", "Wikingerzeit", "Dänemark"]
 heroImage: "/images/lindholm-hoje.jpg"
