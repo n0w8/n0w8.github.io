@@ -1970,13 +1970,16 @@
     },
     {
       "translationKey": "viking-calendar-months",
-      "status": "todo",
+      "status": "done",
       "category": "Alltag & Kultur",
       "artistKey": "eldruna",
       "keyword_de": "wikinger kalender monate",
       "keyword_en": "viking calendar months",
       "title_de": "Der Wikinger-Kalender: Winter, Sommer und die alten Monate",
-      "title_en": "The Viking Calendar: Winter, Summer and the Old Months"
+      "title_en": "The Viking Calendar: Winter, Summer and the Old Months",
+      "queuedDate": "2026-11-15",
+      "slug_de": "wikinger-kalender-monate",
+      "slug_en": "viking-calendar-months"
     },
     {
       "translationKey": "mastermyr-tool-chest",
