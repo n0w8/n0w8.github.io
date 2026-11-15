@@ -1957,13 +1957,16 @@
     },
     {
       "translationKey": "viking-blacksmith-forge",
-      "status": "todo",
+      "status": "done",
       "category": "Alltag & Kultur",
       "artistKey": "domsgard",
       "keyword_de": "wikinger schmied schmiede",
       "keyword_en": "viking blacksmith forge",
       "title_de": "Der Wikinger-Schmied: Wie Eisen zu Axt und Schwert wurde",
-      "title_en": "The Viking Blacksmith: How Iron Became Axe and Sword"
+      "title_en": "The Viking Blacksmith: How Iron Became Axe and Sword",
+      "queuedDate": "2026-11-15",
+      "slug_de": "wikinger-schmied-schmiede",
+      "slug_en": "viking-blacksmith-forge"
     },
     {
       "translationKey": "viking-calendar-months",
