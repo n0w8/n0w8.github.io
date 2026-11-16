@@ -1924,13 +1924,16 @@
     },
     {
       "translationKey": "battle-of-hafrsfjord-harald",
-      "status": "todo",
+      "status": "done",
       "category": "Schlachten",
       "artistKey": "domsgard",
       "keyword_de": "schlacht hafrsfjord",
       "keyword_en": "battle of hafrsfjord",
       "title_de": "Hafrsfjord um 872: Gab es die Schlacht wirklich?",
-      "title_en": "Hafrsfjord c. 872: Did the Battle Really Happen?"
+      "title_en": "Hafrsfjord c. 872: Did the Battle Really Happen?",
+      "queuedDate": "2026-11-16",
+      "slug_de": "schlacht-bei-hafrsfjord",
+      "slug_en": "battle-of-hafrsfjord"
     },
     {
       "translationKey": "battle-of-brunanburh-937",
