@@ -1,7 +1,7 @@
 ---
 title: "Sigtuna: Sweden's Viking Royal Town, Founded c. 980"
 description: "Sigtuna was laid out on Lake Mälaren around 980 and struck Sweden's first coins from 995. Its founding, runestones, church ruins and how it differs from Birka."
-pubDate: 2026-01-01
+pubDate: 2026-11-16
 category: "Geschichte"
 tags: ["Sigtuna", "Sweden", "Viking Age", "Archaeology", "Runestones", "Birka"]
 heroImage: "/images/sigtuna.jpg"

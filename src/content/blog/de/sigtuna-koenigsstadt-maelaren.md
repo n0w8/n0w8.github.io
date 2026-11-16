@@ -1,7 +1,7 @@
 ---
 title: "Sigtuna: Königsstadt am Mälaren, gegründet um 980"
 description: "Sigtuna wurde um 980 am Mälaren angelegt, ab 995 entstanden hier Schwedens erste Münzen. Gründung, Runensteine, Kirchenruinen und der Unterschied zu Birka."
-pubDate: 2026-01-01
+pubDate: 2026-11-16
 category: "Geschichte"
 tags: ["Sigtuna", "Schweden", "Wikingerzeit", "Archäologie", "Runensteine", "Birka"]
 heroImage: "/images/sigtuna.jpg"
