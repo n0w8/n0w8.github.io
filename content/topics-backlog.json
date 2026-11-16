@@ -1891,13 +1891,16 @@
     },
     {
       "translationKey": "frigg-goettin-ehe-schicksal",
-      "status": "todo",
+      "status": "done",
       "category": "Mythologie",
       "artistKey": "eldruna",
       "keyword_de": "frigg goettin",
       "keyword_en": "frigg norse goddess",
       "title_de": "Frigg: Odins Frau und Goettin des Schicksalswissens",
-      "title_en": "Frigg: Odin's Wife and Goddess of Hidden Fate"
+      "title_en": "Frigg: Odin's Wife and Goddess of Hidden Fate",
+      "queuedDate": "2026-11-16",
+      "slug_de": "frigg-goettin-odins-frau",
+      "slug_en": "frigg-norse-goddess-odins-wife"
     },
     {
       "translationKey": "bragi-skaldenmet-poesie",
