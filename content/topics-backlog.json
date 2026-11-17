@@ -1904,13 +1904,16 @@
     },
     {
       "translationKey": "bragi-skaldenmet-poesie",
-      "status": "todo",
+      "status": "done",
       "category": "Mythologie",
       "artistKey": "domsgard",
       "keyword_de": "skaldenmet bragi",
       "keyword_en": "mead of poetry bragi",
       "title_de": "Der Skaldenmet: Wie Odin die Dichtkunst stahl",
-      "title_en": "The Mead of Poetry: How Odin Stole the Gift of Verse"
+      "title_en": "The Mead of Poetry: How Odin Stole the Gift of Verse",
+      "queuedDate": "2026-11-17",
+      "slug_de": "skaldenmet-odin-dichtkunst",
+      "slug_en": "mead-of-poetry-odin-kvasir"
     },
     {
       "translationKey": "younger-futhark-jaengeres-futhark",
