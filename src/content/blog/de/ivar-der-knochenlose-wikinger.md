@@ -1,7 +1,7 @@
 ---
 title: "Ivar der Knochenlose: Legende und Geschichte"
 description: "Ivar der Knochenlose führte ab 865 das Große Heidnische Heer an. Was Sagas, Chroniken und Annalen über ihn sagen und ob er mit Ímar von Dublin identisch ist."
-pubDate: 2026-01-01
+pubDate: 2026-11-17
 category: "Geschichte"
 tags: ["Ivar der Knochenlose", "Wikingerkönige", "Great Heathen Army", "Sagas", "Angelsächsische Chronik", "Wikingerzeit"]
 heroImage: "/images/library/geschichte/longship-fleet.jpg"

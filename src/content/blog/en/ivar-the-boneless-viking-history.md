@@ -1,7 +1,7 @@
 ---
 title: "Ivar the Boneless: Viking Legend vs History"
 description: "Ivar the Boneless led the Great Heathen Army from 865. What sagas, chronicles and Irish annals say about him, and whether he was the same man as Ímar of Dublin."
-pubDate: 2026-01-01
+pubDate: 2026-11-17
 category: "Geschichte"
 tags: ["Ivar the Boneless", "Viking Kings", "Great Heathen Army", "Sagas", "Anglo-Saxon Chronicle", "Viking Age"]
 heroImage: "/images/library/geschichte/longship-fleet.jpg"
