@@ -1726,13 +1726,16 @@
     },
     {
       "translationKey": "viking-ship-crew-life",
-      "status": "todo",
+      "status": "done",
       "category": "Alltag & Kultur",
       "artistKey": "eldruna",
       "keyword_de": "leben an bord wikingerschiff",
       "keyword_en": "life aboard viking ship",
       "title_de": "Leben an Bord: Wie lebte eine Wikingerschiff-Mannschaft?",
-      "title_en": "Life Aboard: How Did a Viking Ship Crew Live?"
+      "title_en": "Life Aboard: How Did a Viking Ship Crew Live?",
+      "queuedDate": "2026-11-17",
+      "slug_de": "leben-an-bord-wikingerschiff",
+      "slug_en": "life-aboard-viking-ship"
     },
     {
       "translationKey": "battle-of-maldon",
