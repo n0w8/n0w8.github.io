@@ -2053,6 +2053,162 @@
       "title_de": "Wikinger-Kaemme aus Knochen: Funde und Handwerk",
       "title_en": "Viking Bone Combs: Finds and Craft",
       "imagePolicy": "real-photo"
+    },
+    {
+      "translationKey": "viking-fishing-hunting",
+      "status": "todo",
+      "category": "Alltag & Kultur",
+      "artistKey": "eldruna",
+      "keyword_de": "wikinger fischfang jagd",
+      "keyword_en": "viking fishing and hunting",
+      "title_de": "Fischfang und Jagd bei den Wikingern: Was auf den Tisch kam",
+      "title_en": "Fishing and Hunting in the Viking Age: What Reached the Table"
+    },
+    {
+      "translationKey": "viking-salt-preserving",
+      "status": "todo",
+      "category": "Alltag & Kultur",
+      "artistKey": "eldruna",
+      "keyword_de": "wikinger fleisch haltbar machen pökeln",
+      "keyword_en": "viking food preservation salt",
+      "title_de": "Salz, Rauch und Trockenfisch: Wie Wikinger Nahrung haltbar machten",
+      "title_en": "Salt, Smoke and Stockfish: How Vikings Preserved Food"
+    },
+    {
+      "translationKey": "viking-weaving-loom",
+      "status": "todo",
+      "category": "Alltag & Kultur",
+      "artistKey": "eldruna",
+      "keyword_de": "wikinger weben gewichtswebstuhl",
+      "keyword_en": "viking weaving warp-weighted loom",
+      "title_de": "Der Gewichtswebstuhl: Wie Wikinger Stoffe und Segeltuch webten",
+      "title_en": "The Warp-Weighted Loom: How Vikings Wove Cloth and Sailcloth"
+    },
+    {
+      "translationKey": "kennings-skaldic-poetry",
+      "status": "todo",
+      "category": "Mythologie",
+      "artistKey": "domsgard",
+      "keyword_de": "skaldendichtung kenningar",
+      "keyword_en": "skaldic poetry kennings",
+      "title_de": "Kenningar: Die Bildersprache der Skalden erklärt",
+      "title_en": "Kennings: The Picture Language of the Skalds Explained"
+    },
+    {
+      "translationKey": "elder-futhark-runes",
+      "status": "todo",
+      "category": "Runen & Symbole",
+      "artistKey": "domsgard",
+      "keyword_de": "älteres futhark runen",
+      "keyword_en": "elder futhark runes",
+      "title_de": "Das Ältere Futhark: 24 Runen vor der Wikingerzeit",
+      "title_en": "The Elder Futhark: 24 Runes Before the Viking Age"
+    },
+    {
+      "translationKey": "battle-of-fulford-1066",
+      "status": "todo",
+      "category": "Krieger & Schlachten",
+      "artistKey": "eldruna",
+      "keyword_de": "schlacht bei fulford 1066",
+      "keyword_en": "battle of fulford 1066",
+      "title_de": "Die Schlacht bei Fulford 1066: Der vergessene Auftakt",
+      "title_en": "The Battle of Fulford 1066: The Forgotten Prelude"
+    },
+    {
+      "translationKey": "viking-clinker-shipbuilding",
+      "status": "todo",
+      "category": "Geschichte",
+      "artistKey": "eldruna",
+      "keyword_de": "klinkerbau wikingerschiff bauweise",
+      "keyword_en": "viking clinker shipbuilding",
+      "title_de": "Klinkerbau: Wie Wikinger ihre Schiffe Planke für Planke bauten",
+      "title_en": "Clinker Construction: How Vikings Built Ships Plank by Plank"
+    },
+    {
+      "translationKey": "surtr-muspelheim-fire",
+      "status": "todo",
+      "category": "Mythologie",
+      "artistKey": "domsgard",
+      "keyword_de": "surtr muspelheim feuerriese",
+      "keyword_en": "surtr muspelheim fire giant",
+      "title_de": "Surtr und Muspelheim: Das Feuer am Ende der Welt",
+      "title_en": "Surtr and Muspelheim: The Fire at the End of the World"
+    },
+    {
+      "translationKey": "landnamabok-iceland-settlement",
+      "status": "todo",
+      "category": "Geschichte",
+      "artistKey": "eldruna",
+      "keyword_de": "landnámabók besiedlung islands",
+      "keyword_en": "landnamabok settlement of iceland",
+      "title_de": "Die Landnámabók: Wie Island besiedelt wurde",
+      "title_en": "The Landnamabok: How Iceland Was Settled"
+    },
+    {
+      "translationKey": "fyrkat-ring-fortress",
+      "status": "todo",
+      "category": "Geschichte",
+      "artistKey": "eldruna",
+      "keyword_de": "fyrkat ringburg dänemark",
+      "keyword_en": "fyrkat viking ring fortress",
+      "title_de": "Fyrkat: Die Ringburg Harald Blauzahns in Dänemark",
+      "title_en": "Fyrkat: Harald Bluetooth's Ring Fortress in Denmark",
+      "imagePolicy": "real-photo"
+    },
+    {
+      "translationKey": "stong-iceland-farm",
+      "status": "todo",
+      "category": "Geschichte",
+      "artistKey": "eldruna",
+      "keyword_de": "stöng island wikingerhof",
+      "keyword_en": "stong iceland viking farm",
+      "title_de": "Stöng: Der Wikingerhof, den ein Vulkan konservierte",
+      "title_en": "Stong: The Viking Farm Preserved by a Volcano",
+      "imagePolicy": "real-photo"
+    },
+    {
+      "translationKey": "hagia-sophia-runic-graffiti",
+      "status": "todo",
+      "category": "Runen & Symbole",
+      "artistKey": "domsgard",
+      "keyword_de": "hagia sophia runen graffiti",
+      "keyword_en": "hagia sophia runic graffiti",
+      "title_de": "Runen in der Hagia Sophia: Das Graffito eines Wikingers in Konstantinopel",
+      "title_en": "Runes in the Hagia Sophia: A Viking's Graffiti in Constantinople",
+      "imagePolicy": "real-photo"
+    },
+    {
+      "translationKey": "gjellestad-ship-burial",
+      "status": "todo",
+      "category": "Geschichte",
+      "artistKey": "eldruna",
+      "keyword_de": "gjellestad schiffsgrab norwegen",
+      "keyword_en": "gjellestad ship burial norway",
+      "title_de": "Das Gjellestad-Schiff: Ein Wikingergrab, das der Radar fand",
+      "title_en": "The Gjellestad Ship: A Viking Burial Found by Radar",
+      "imagePolicy": "real-photo"
+    },
+    {
+      "translationKey": "vorbasse-viking-village",
+      "status": "todo",
+      "category": "Alltag & Kultur",
+      "artistKey": "eldruna",
+      "keyword_de": "vorbasse wikingerdorf dänemark",
+      "keyword_en": "vorbasse viking village denmark",
+      "title_de": "Vorbasse: Ein ganzes Wikingerdorf unter dänischen Feldern",
+      "title_en": "Vorbasse: A Whole Viking Village Under Danish Fields",
+      "imagePolicy": "real-photo"
+    },
+    {
+      "translationKey": "repton-great-army-camp",
+      "status": "todo",
+      "category": "Krieger & Schlachten",
+      "artistKey": "eldruna",
+      "keyword_de": "repton winterlager großes heidnisches heer",
+      "keyword_en": "repton viking winter camp",
+      "title_de": "Repton: Das Winterlager des Großen Heidnischen Heeres",
+      "title_en": "Repton: The Winter Camp of the Great Heathen Army",
+      "imagePolicy": "real-photo"
     }
   ]
 }
