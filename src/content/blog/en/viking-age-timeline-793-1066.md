@@ -1,7 +1,7 @@
 ---
 title: "Viking Age Timeline: 793 to 1066 at a Glance"
 description: "The Viking Age ran about 270 years, from Lindisfarne in 793 to Stamford Bridge in 1066. A dated timeline of raids, conquests, Iceland, Vinland and the end."
-pubDate: 2026-01-01
+pubDate: 2026-11-18
 category: "Geschichte"
 tags: ["Viking Age", "Timeline", "Lindisfarne", "Stamford Bridge", "Viking Kings", "Great Heathen Army"]
 heroImage: "/images/library/geschichte/monastery-cliff.jpg"

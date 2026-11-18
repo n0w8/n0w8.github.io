@@ -1,7 +1,7 @@
 ---
 title: "Wikingerzeit Zeitleiste: 793 bis 1066 im Überblick"
 description: "Die Wikingerzeit dauerte etwa 270 Jahre, von Lindisfarne 793 bis Stamford Bridge 1066. Zeitleiste mit allen Wendepunkten: Raubzüge, Reiche, Island, Vinland."
-pubDate: 2026-01-01
+pubDate: 2026-11-18
 category: "Geschichte"
 tags: ["Wikingerzeit", "Zeitleiste", "Lindisfarne", "Stamford Bridge", "Wikingerkönige", "Great Heathen Army"]
 heroImage: "/images/library/geschichte/monastery-cliff.jpg"
