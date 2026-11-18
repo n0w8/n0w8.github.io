@@ -1719,13 +1719,16 @@
     },
     {
       "translationKey": "viking-farm-year",
-      "status": "todo",
+      "status": "done",
       "category": "Alltag & Kultur",
       "artistKey": "eldruna",
       "keyword_de": "wikinger bauernhof jahresablauf",
       "keyword_en": "viking farm life year",
       "title_de": "Ein Jahr auf dem Wikingerhof: Aussaat, Ernte, Schlachtzeit",
-      "title_en": "A Year on a Viking Farm: Sowing, Harvest, Slaughter"
+      "title_en": "A Year on a Viking Farm: Sowing, Harvest, Slaughter",
+      "queuedDate": "2026-11-18",
+      "slug_de": "wikinger-bauernhof-jahresablauf",
+      "slug_en": "viking-farm-life-year"
     },
     {
       "translationKey": "viking-ship-crew-life",
