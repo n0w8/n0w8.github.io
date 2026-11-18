@@ -1706,13 +1706,16 @@
     },
     {
       "translationKey": "read-rune-inscription",
-      "status": "todo",
+      "status": "done",
       "category": "Runen",
       "artistKey": "domsgard",
       "keyword_de": "runeninschrift lesen",
       "keyword_en": "how to read runes",
       "title_de": "Runen lesen: Wie entziffert man eine Runeninschrift?",
-      "title_en": "How to Read a Rune Inscription Step by Step"
+      "title_en": "How to Read a Rune Inscription Step by Step",
+      "queuedDate": "2026-11-18",
+      "slug_de": "runen-lesen-runeninschrift-entziffern",
+      "slug_en": "how-to-read-runes-inscription"
     },
     {
       "translationKey": "viking-farm-year",
