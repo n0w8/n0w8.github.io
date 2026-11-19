@@ -1965,13 +1965,16 @@
     },
     {
       "translationKey": "viking-silver-coins-hacksilver",
-      "status": "todo",
+      "status": "done",
       "category": "Alltag & Kultur",
       "artistKey": "eldruna",
       "keyword_de": "hacksilber wikinger muenzen",
       "keyword_en": "hacksilver viking coins",
       "title_de": "Hacksilber: Wie Wikinger ohne Muenzen bezahlten",
-      "title_en": "Hacksilver: How Vikings Paid Without Coins"
+      "title_en": "Hacksilver: How Vikings Paid Without Coins",
+      "queuedDate": "2026-11-19",
+      "slug_de": "hacksilber-wikinger-bezahlung",
+      "slug_en": "hacksilver-viking-payment"
     },
     {
       "translationKey": "viking-blacksmith-forge",
