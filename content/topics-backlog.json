@@ -2126,13 +2126,16 @@
     },
     {
       "translationKey": "surtr-muspelheim-fire",
-      "status": "todo",
+      "status": "done",
       "category": "Mythologie",
       "artistKey": "domsgard",
       "keyword_de": "surtr muspelheim feuerriese",
       "keyword_en": "surtr muspelheim fire giant",
       "title_de": "Surtr und Muspelheim: Das Feuer am Ende der Welt",
-      "title_en": "Surtr and Muspelheim: The Fire at the End of the World"
+      "title_en": "Surtr and Muspelheim: The Fire at the End of the World",
+      "queuedDate": "2026-11-19",
+      "slug_de": "surtr-muspelheim-feuerriese",
+      "slug_en": "surtr-muspelheim-fire-giant"
     },
     {
       "translationKey": "landnamabok-iceland-settlement",
