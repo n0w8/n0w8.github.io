@@ -1,7 +1,7 @@
 ---
 title: "Schlacht von Maldon 991: Der Preis des Friedens"
 description: "Schlacht von Maldon 991: Ealdorman Byrhtnoth fiel am Blackwater, danach zahlte König Aethelred 10.000 Pfund Silber. Ablauf, Quellen und gesicherte Fakten."
-pubDate: 2026-01-01
+pubDate: 2026-11-19
 category: "Krieger & Schlachten"
 tags: ["Schlacht von Maldon", "Danegeld", "Angelsachsen", "Wikingerzeit", "Aethelred"]
 heroImage: "/images/library/schlachten/raid.jpg"

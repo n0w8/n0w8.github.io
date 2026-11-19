@@ -1,7 +1,7 @@
 ---
 title: "Battle of Maldon 991: Why Aethelred Paid Off Vikings"
 description: "Battle of Maldon 991: Ealdorman Byrhtnoth fell by the Blackwater, then King Aethelred paid 10,000 pounds of silver. What happened and what the sources say."
-pubDate: 2026-01-01
+pubDate: 2026-11-19
 category: "Krieger & Schlachten"
 tags: ["Battle of Maldon", "Danegeld", "Anglo-Saxons", "Viking Age", "Aethelred"]
 heroImage: "/images/library/schlachten/raid.jpg"
