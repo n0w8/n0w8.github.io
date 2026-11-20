@@ -1,7 +1,7 @@
 ---
 title: "Belagerung von Paris 885: Ein Jahr gegen die Wikinger"
 description: "Die Belagerung von Paris 885/886 dauerte rund ein Jahr: Wikinger sperrten die Seine, Graf Odo hielt die Stadt und wurde später König. Ablauf und Quellen."
-pubDate: 2026-01-01
+pubDate: 2026-11-20
 category: "Krieger & Schlachten"
 tags: ["Belagerung von Paris", "Wikingerzeit", "Danegeld", "Franken", "Schlacht"]
 heroImage: "/images/library/schlachten/warrior-ridge.jpg"

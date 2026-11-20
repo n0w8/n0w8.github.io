@@ -1,7 +1,7 @@
 ---
 title: "Siege of Paris 885: How Vikings Blocked the Seine"
 description: "Siege of Paris 885-886: Vikings blocked the Seine for almost a year, Count Odo held the city and later became king. Timeline, sources and what is doubtful."
-pubDate: 2026-01-01
+pubDate: 2026-11-20
 category: "Krieger & Schlachten"
 tags: ["Siege of Paris", "Viking Age", "Danegeld", "Franks", "Battle"]
 heroImage: "/images/library/schlachten/warrior-ridge.jpg"
