@@ -2112,13 +2112,16 @@
     },
     {
       "translationKey": "battle-of-fulford-1066",
-      "status": "todo",
+      "status": "done",
       "category": "Krieger & Schlachten",
       "artistKey": "eldruna",
       "keyword_de": "schlacht bei fulford 1066",
       "keyword_en": "battle of fulford 1066",
       "title_de": "Die Schlacht bei Fulford 1066: Der vergessene Auftakt",
-      "title_en": "The Battle of Fulford 1066: The Forgotten Prelude"
+      "title_en": "The Battle of Fulford 1066: The Forgotten Prelude",
+      "queuedDate": "2026-11-20",
+      "slug_de": "schlacht-bei-fulford-1066",
+      "slug_en": "battle-of-fulford-1066"
     },
     {
       "translationKey": "viking-clinker-shipbuilding",
