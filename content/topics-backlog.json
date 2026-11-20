@@ -2079,13 +2079,16 @@
     },
     {
       "translationKey": "viking-weaving-loom",
-      "status": "todo",
+      "status": "done",
       "category": "Alltag & Kultur",
       "artistKey": "eldruna",
       "keyword_de": "wikinger weben gewichtswebstuhl",
       "keyword_en": "viking weaving warp-weighted loom",
       "title_de": "Der Gewichtswebstuhl: Wie Wikinger Stoffe und Segeltuch webten",
-      "title_en": "The Warp-Weighted Loom: How Vikings Wove Cloth and Sailcloth"
+      "title_en": "The Warp-Weighted Loom: How Vikings Wove Cloth and Sailcloth",
+      "queuedDate": "2026-11-20",
+      "slug_de": "gewichtswebstuhl-wikinger-weben",
+      "slug_en": "viking-warp-weighted-loom"
     },
     {
       "translationKey": "kennings-skaldic-poetry",
