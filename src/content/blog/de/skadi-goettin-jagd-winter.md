@@ -1,7 +1,7 @@
 ---
 title: "Skadi: Göttin der Jagd, Winter und Rache"
 description: "Skadi, nordische Göttin der Jagd: Warum sie in Rüstung nach Asgard kam, wie sie Njörd durch seine Füße wählte und was die Quellen über sie wirklich sagen."
-pubDate: 2026-01-01
+pubDate: 2026-11-21
 category: "Mythologie"
 tags: ["Skadi", "Nordische Mythologie", "Nordische Götter", "Njord", "Edda", "Jötnar"]
 heroImage: "/images/library/mythologie/aurora-temple.jpg"

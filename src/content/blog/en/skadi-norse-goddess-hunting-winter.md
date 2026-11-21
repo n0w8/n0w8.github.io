@@ -1,7 +1,7 @@
 ---
 title: "Skadi: Norse Goddess of Hunting, Winter and Revenge"
 description: "Skadi, the Norse goddess of hunting and winter: why she marched to Asgard in armor, chose Njord by his feet, and what the sources really say about her."
-pubDate: 2026-01-01
+pubDate: 2026-11-21
 category: "Mythologie"
 tags: ["Skadi", "Norse Mythology", "Norse Gods", "Njord", "Edda", "Jotnar"]
 heroImage: "/images/library/mythologie/aurora-temple.jpg"
