@@ -2128,7 +2128,7 @@
     },
     {
       "translationKey": "viking-clinker-shipbuilding",
-      "status": "todo",
+      "status": "done", "queuedDate": "2026-11-21", "slug_de": "klinkerbau-wikingerschiff-bauweise", "slug_en": "viking-clinker-shipbuilding",
       "category": "Geschichte",
       "artistKey": "eldruna",
       "keyword_de": "klinkerbau wikingerschiff bauweise",
