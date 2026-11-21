@@ -2069,13 +2069,16 @@
     },
     {
       "translationKey": "viking-salt-preserving",
-      "status": "todo",
+      "status": "done",
       "category": "Alltag & Kultur",
       "artistKey": "eldruna",
       "keyword_de": "wikinger fleisch haltbar machen pökeln",
       "keyword_en": "viking food preservation salt",
       "title_de": "Salz, Rauch und Trockenfisch: Wie Wikinger Nahrung haltbar machten",
-      "title_en": "Salt, Smoke and Stockfish: How Vikings Preserved Food"
+      "title_en": "Salt, Smoke and Stockfish: How Vikings Preserved Food",
+      "queuedDate": "2026-11-21",
+      "slug_de": "wikinger-nahrung-haltbar-machen",
+      "slug_en": "how-vikings-preserved-food"
     },
     {
       "translationKey": "viking-weaving-loom",
