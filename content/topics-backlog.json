@@ -2059,13 +2059,16 @@
     },
     {
       "translationKey": "viking-fishing-hunting",
-      "status": "todo",
+      "status": "done",
       "category": "Alltag & Kultur",
       "artistKey": "eldruna",
       "keyword_de": "wikinger fischfang jagd",
       "keyword_en": "viking fishing and hunting",
       "title_de": "Fischfang und Jagd bei den Wikingern: Was auf den Tisch kam",
-      "title_en": "Fishing and Hunting in the Viking Age: What Reached the Table"
+      "title_en": "Fishing and Hunting in the Viking Age: What Reached the Table",
+      "queuedDate": "2026-11-22",
+      "slug_de": "wikinger-fischfang-jagd",
+      "slug_en": "viking-fishing-hunting"
     },
     {
       "translationKey": "viking-salt-preserving",
