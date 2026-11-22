@@ -1,7 +1,7 @@
 ---
 title: "Mimir's Well: What Odin Sacrificed for Wisdom"
 description: "Mimir's Well beneath Yggdrasil: Odin pledged an eye for one drink, and Mimir's severed head kept talking. What the Voluspa, Snorri and Ynglinga saga actually say."
-pubDate: 2026-01-01
+pubDate: 2026-11-22
 category: "Mythologie"
 tags: ["Mimir", "Odin", "Yggdrasil", "Norse Mythology", "Edda", "Voluspa"]
 heroImage: "/images/library/mythologie/yggdrasil.jpg"

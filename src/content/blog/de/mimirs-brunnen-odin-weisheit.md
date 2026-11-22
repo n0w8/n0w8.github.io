@@ -1,7 +1,7 @@
 ---
 title: "Mimirs Brunnen: Was Odin für Weisheit opferte"
 description: "Mimirs Brunnen unter Yggdrasil: Odin gab ein Auge als Pfand, Mimirs Kopf sprach weiter. Was Völuspá, Snorri und die Ynglinga saga wirklich dazu überliefern."
-pubDate: 2026-01-01
+pubDate: 2026-11-22
 category: "Mythologie"
 tags: ["Mimir", "Odin", "Yggdrasil", "Nordische Mythologie", "Edda", "Völuspá"]
 heroImage: "/images/library/mythologie/yggdrasil.jpg"
