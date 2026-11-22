@@ -2128,7 +2128,10 @@
     },
     {
       "translationKey": "viking-clinker-shipbuilding",
-      "status": "done", "queuedDate": "2026-11-21", "slug_de": "klinkerbau-wikingerschiff-bauweise", "slug_en": "viking-clinker-shipbuilding",
+      "status": "done",
+      "queuedDate": "2026-11-21",
+      "slug_de": "klinkerbau-wikingerschiff-bauweise",
+      "slug_en": "viking-clinker-shipbuilding",
       "category": "Geschichte",
       "artistKey": "eldruna",
       "keyword_de": "klinkerbau wikingerschiff bauweise",
@@ -2151,13 +2154,16 @@
     },
     {
       "translationKey": "landnamabok-iceland-settlement",
-      "status": "todo",
+      "status": "done",
       "category": "Geschichte",
       "artistKey": "eldruna",
       "keyword_de": "landnámabók besiedlung islands",
       "keyword_en": "landnamabok settlement of iceland",
       "title_de": "Die Landnámabók: Wie Island besiedelt wurde",
-      "title_en": "The Landnamabok: How Iceland Was Settled"
+      "title_en": "The Landnamabok: How Iceland Was Settled",
+      "queuedDate": "2026-11-22",
+      "slug_de": "landnamabok-besiedlung-islands",
+      "slug_en": "landnamabok-settlement-of-iceland"
     },
     {
       "translationKey": "fyrkat-ring-fortress",
