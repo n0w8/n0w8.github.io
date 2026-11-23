@@ -1,7 +1,7 @@
 ---
 title: "Brunanburh 937: Die Schlacht, die England formte"
 description: "Brunanburh 937: Wie König Æthelstan ein Bündnis aus Dublin, Schotten und Strathclyde schlug, warum niemand den Ort kennt und was die Schlacht für England bedeutete."
-pubDate: 2026-01-01
+pubDate: 2026-11-23
 category: "Krieger & Schlachten"
 tags: ["Brunanburh", "Angelsächsische Chronik", "Wikingerzeit", "England", "Schildwall", "Danelag"]
 heroImage: "/images/library/schlachten/shieldwall.jpg"

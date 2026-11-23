@@ -1,7 +1,7 @@
 ---
 title: "Brunanburh 937: The Battle That Shaped England"
 description: "Brunanburh 937: how King Athelstan beat a coalition of Dublin Norse, Scots and Strathclyde Britons, why nobody knows the site, and what the battle meant for England."
-pubDate: 2026-01-01
+pubDate: 2026-11-23
 category: "Krieger & Schlachten"
 tags: ["Brunanburh", "Anglo-Saxon Chronicle", "Viking Age", "England", "Shield Wall", "Danelaw"]
 heroImage: "/images/library/schlachten/shieldwall.jpg"
