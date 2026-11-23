@@ -2098,13 +2098,16 @@
     },
     {
       "translationKey": "kennings-skaldic-poetry",
-      "status": "todo",
+      "status": "done",
       "category": "Mythologie",
       "artistKey": "domsgard",
       "keyword_de": "skaldendichtung kenningar",
       "keyword_en": "skaldic poetry kennings",
       "title_de": "Kenningar: Die Bildersprache der Skalden erklärt",
-      "title_en": "Kennings: The Picture Language of the Skalds Explained"
+      "title_en": "Kennings: The Picture Language of the Skalds Explained",
+      "queuedDate": "2026-11-23",
+      "slug_de": "kenningar-skaldische-bildersprache",
+      "slug_en": "kennings-skaldic-poetry-explained"
     },
     {
       "translationKey": "elder-futhark-runes",
