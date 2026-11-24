@@ -1,7 +1,7 @@
 ---
 title: "Huginn and Muninn: What Odin's Ravens Really Mean"
 description: "Huginn and Muninn explained: what the Edda says about Odin's ravens, why he worries more about Muninn, and how much of the shaman reading the sources support."
-pubDate: 2026-01-01
+pubDate: 2026-11-24
 category: "Mythologie"
 tags: ["Odin", "Huginn and Muninn", "Ravens", "Norse Mythology", "Prose Edda", "Grímnismál"]
 heroImage: "/images/library/mythologie/ravens.jpg"

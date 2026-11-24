@@ -1,7 +1,7 @@
 ---
 title: "Huginn und Muninn: Was Odins Raben wirklich bedeuten"
 description: "Huginn und Muninn: Was die Edda über Odins Raben sagt, warum Muninn mehr Sorge macht als Huginn und was von der Schamanen-Deutung wirklich belegt ist."
-pubDate: 2026-01-01
+pubDate: 2026-11-24
 category: "Mythologie"
 tags: ["Odin", "Huginn und Muninn", "Raben", "Nordische Mythologie", "Prosa-Edda", "Grímnismál"]
 heroImage: "/images/library/mythologie/ravens.jpg"
