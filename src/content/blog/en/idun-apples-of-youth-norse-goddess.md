@@ -1,7 +1,7 @@
 ---
 title: "Idun and the Apples of Youth: How Gods Stayed Young"
 description: "Idun and her apples of youth: what Snorri and the skald Þjóðólfr actually say, how Þjazi abducted her, and why the gods age within days when she is gone."
-pubDate: 2026-01-01
+pubDate: 2026-11-25
 category: "Mythologie"
 tags: ["Idun", "Norse Mythology", "Edda", "Loki", "Asgard", "Skáldskaparmál"]
 heroImage: "/images/library/mythologie/asgard.jpg"

@@ -1,7 +1,7 @@
 ---
 title: "Idun und die Äpfel der Jugend: Wie Götter jung blieben"
 description: "Idun und ihre Äpfel der Jugend: Was Snorri und Þjóðólfr über die Göttin berichten, wie Þjazi sie raubte und warum die Götter ohne sie in wenigen Tagen altern."
-pubDate: 2026-01-01
+pubDate: 2026-11-25
 category: "Mythologie"
 tags: ["Idun", "Nordische Mythologie", "Edda", "Loki", "Asgard", "Skáldskaparmál"]
 heroImage: "/images/library/mythologie/asgard.jpg"
