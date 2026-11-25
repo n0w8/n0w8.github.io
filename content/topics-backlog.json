@@ -2111,7 +2111,7 @@
     },
     {
       "translationKey": "elder-futhark-runes",
-      "status": "todo",
+      "status": "skipped",
       "category": "Runen & Symbole",
       "artistKey": "domsgard",
       "keyword_de": "älteres futhark runen",
@@ -2236,6 +2236,19 @@
       "title_de": "Repton: Das Winterlager des Großen Heidnischen Heeres",
       "title_en": "Repton: The Winter Camp of the Great Heathen Army",
       "imagePolicy": "real-photo"
+    },
+    {
+      "translationKey": "havamal-gastfreundschaft-regeln",
+      "status": "done",
+      "queuedDate": "2026-11-25",
+      "slug_de": "havamal-sprueche-gastfreundschaft",
+      "slug_en": "havamal-sayings-odin-guests-hosts",
+      "category": "Mythologie",
+      "artistKey": "eldruna",
+      "keyword_de": "hávamál sprüche",
+      "keyword_en": "havamal sayings",
+      "title_de": "Hávamál Sprüche: Odins Regeln für Gäste",
+      "title_en": "Havamal Sayings: Odin's Rules for Guests and Hosts"
     }
   ]
 }
