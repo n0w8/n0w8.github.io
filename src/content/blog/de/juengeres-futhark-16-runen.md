@@ -1,7 +1,7 @@
 ---
 title: "Jüngeres Futhark: Warum die Wikinger nur 16 Runen brauchten"
 description: "Das Jüngere Futhark kam mit 16 statt 24 Runen aus. Tabelle aller 16 Zeichen, die drei Schreibvarianten, Beispiele von Jelling bis Rök und die offenen Fragen."
-pubDate: 2026-01-01
+pubDate: 2026-11-26
 category: "Runen & Symbole"
 tags: ["Runen", "Futhark", "Jüngeres Futhark", "Runensteine", "Schrift", "Symbole"]
 heroImage: "/images/library/runen/runestone-forest.jpg"

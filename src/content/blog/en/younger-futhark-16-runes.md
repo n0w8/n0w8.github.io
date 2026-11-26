@@ -1,7 +1,7 @@
 ---
 title: "Younger Futhark: Why the Vikings Used Only 16 Runes"
 description: "The Younger Futhark got by with 16 runes instead of 24. Table of all 16 signs, the three script variants, examples from Jelling to Rök and the open questions."
-pubDate: 2026-01-01
+pubDate: 2026-11-26
 category: "Runen & Symbole"
 tags: ["Runes", "Futhark", "Younger Futhark", "Runestones", "Writing", "Symbols"]
 heroImage: "/images/library/runen/runestone-forest.jpg"
