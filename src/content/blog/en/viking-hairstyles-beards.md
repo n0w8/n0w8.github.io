@@ -1,7 +1,7 @@
 ---
 title: "Viking Hairstyles and Beards: What We Actually Know"
 description: "Viking hairstyles and beards: what combs, bynames like Fairhair and Forkbeard, Alcuin and Ibn Fadlan really show, and which film looks are pure invention."
-pubDate: 2026-01-01
+pubDate: 2026-11-27
 category: "Alltag & Kultur"
 tags: ["Viking Hygiene", "Grooming", "Combs", "Daily Life", "Ibn Fadlan", "Viking Age"]
 heroImage: "/images/library/alltag/village-fjord.jpg"

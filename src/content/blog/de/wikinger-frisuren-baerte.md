@@ -1,7 +1,7 @@
 ---
 title: "Wikinger Frisuren und Bärte: Was wirklich belegt ist"
 description: "Wikinger Frisuren und Bärte: Was Kämme, Beinamen wie Haarfagri und Gabelbart, Alkuin und Ibn Fadlan wirklich belegen und welche Bilder aus Filmen reine Fantasie sind."
-pubDate: 2026-01-01
+pubDate: 2026-11-27
 category: "Alltag & Kultur"
 tags: ["Wikinger Hygiene", "Körperpflege", "Kamm", "Alltag", "Wikingerzeit", "Ibn Fadlan"]
 heroImage: "/images/library/alltag/village-fjord.jpg"
