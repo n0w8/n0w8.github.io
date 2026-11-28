@@ -1,7 +1,7 @@
 ---
 title: "Wikinger-Schmied: Wie Eisen zu Axt und Schwert wurde"
 description: "Der Wikinger-Schmied machte aus Raseneisen Axt, Nagel und Schwert. Wie Rennofen, Schmiedefeuer und Damaststahl funktionierten und was der Fund von Mästermyr zeigt."
-pubDate: 2026-01-01
+pubDate: 2026-11-28
 category: "Alltag & Kultur"
 tags: ["Waffenschmiede", "Wikingerzeit", "Alltag", "Wikingerschwert", "Archäologie", "Handwerk"]
 heroImage: "/images/library/alltag/forge.jpg"

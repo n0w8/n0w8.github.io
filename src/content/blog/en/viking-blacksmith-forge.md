@@ -1,7 +1,7 @@
 ---
 title: "Viking Blacksmith: How Iron Became Axe and Sword"
 description: "The Viking blacksmith turned bog iron into axes, nails and swords. How bloomery smelting, the forge and pattern welding worked, and what the Mästermyr find reveals."
-pubDate: 2026-01-01
+pubDate: 2026-11-28
 category: "Alltag & Kultur"
 tags: ["Weapon Smithing", "Viking Age", "Daily Life", "Viking Sword", "Archaeology", "Craft"]
 heroImage: "/images/library/alltag/forge.jpg"
